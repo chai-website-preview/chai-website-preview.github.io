@@ -1,0 +1,118 @@
+{
+  "nav-bar": [
+    {
+      "label": "Home",
+      "url": "/",
+      "children": [
+        {
+          "label": "Mailing List",
+          "url": "/#mailinglist"
+        }
+      ]
+    },
+    {
+      "label": "About",
+      "url": "/about/",
+      "children": [
+        {
+          "label": "Mission",
+          "url": "/about#mission"
+        },
+        {
+          "label": "Partners",
+          "url": "/about#partners"
+        },
+        {
+          "label": "Privacy Policy",
+          "url": "/privacypolicy/"
+        }
+      ]
+    },
+    {
+      "label": "People",
+      "url": "/people/",
+      "children": [
+        {
+          "label": "Faculty",
+          "url": "/people#faculty"
+        },
+        {
+          "label": "Staff",
+          "url": "/people#staff"
+        },
+        {
+          "label": "Researchers",
+          "url": "/people#researchers"
+        },
+        {
+          "label": "Research Fellows",
+          "url": "/people/#research-fellows"
+        },
+        {
+          "label": "Visiting Scholars",
+          "url": "/people#visiting-scholars"
+        },
+        {
+          "label": "Alumni",
+          "url": "/people#alumni"
+        },
+        {
+          "label": "Affiliates",
+          "url": "/people#affiliates"
+        },
+        {
+          "label": "Students",
+          "url": "/people#graduate-students"
+        },
+        {
+          "label": "Affiliated Students",
+          "url": "/people#affiliated-graduate-students"
+        },
+        {
+          "label": "Interns",
+          "url": "/people#interns"
+        },
+        {
+          "label": "Former Interns",
+          "url": "/people#former-interns"
+        }
+      ]
+    },
+    {
+      "label": "Research",
+      "url": "/research"
+    },
+    {
+      "label": "Bibliography",
+      "url": "/bibliography"
+    },
+    {
+      "label": "News",
+      "url": "/news/"
+    },
+    {
+      "label": "Progress Report",
+      "url": "/progress-report/"
+    },
+    {
+      "label": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "label": "Work With Us",
+      "url": "/jobs"
+    },
+    {
+      "label": "Newsletter",
+      "url": "/newsletter/"
+    },
+    {
+      "label": "Donate",
+      "url": "/donate/"
+    },
+    {
+      "label": "Contact",
+      "url": "/contact/"
+    }
+  ]
+}

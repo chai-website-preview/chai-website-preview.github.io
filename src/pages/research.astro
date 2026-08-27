@@ -1,0 +1,69 @@
+---
+/**
+ * /research as the Blade template rendered it: intro copy (lived in the template, see src/snippets),
+ * a TOC of the category tree, then one <ul class="publications"> per child category.
+ * Ordering: parents and children alphabetical by name; entries by `order` (captured from the live site
+ * with tools/apply_live_order.py), then year desc, then wp_id.
+ */
+import { getCollection } from "astro:content";
+import Site from "../layouts/Site.astro";
+import taxonomies from "../data/taxonomies.json";
+import intro from "../snippets/research-intro.html?raw";
+
+const items = await getCollection("research");
+const terms = taxonomies["research-category"];
+const byName = (a: { name: string }, b: { name: string }) => a.name.localeCompare(b.name);
+const parents = terms.filter((t) => !t.parent).sort(byName);
+const childrenOf = (slug: string) => terms.filter((t) => t.parent === slug).sort(byName);
+const entriesFor = (slug: string) =>
+  items.filter((r) => r.data.categories.includes(slug)).sort((a, b) =>
+    (a.data.order?.[slug] ?? 1e9) - (b.data.order?.[slug] ?? 1e9) || (b.data.year ?? 0) - (a.data.year ?? 0) || a.data.wp_id - b.data.wp_id);
+// only categories with entries are rendered (empty terms don't appear on the live page)
+const tree = parents.map((p) => ({ ...p, children: childrenOf(p.slug).map((c) => ({ ...c, entries: entriesFor(c.slug) })).filter((c) => c.entries.length) })).filter((p) => p.children.length);
+---
+<Site title="Research" bodyClass="archive post-type-archive post-type-archive-research">
+  <section class="wrapper style1">
+    <div class="container">
+      <div id="content">
+        <article>
+          <header>
+            <h2 id="research">Research</h2>
+          </header>
+          <Fragment set:html={intro} />
+          <nav class="toc">
+            <h2 id="table-of-contents">Table of Contents</h2>
+            <ol>
+              {tree.map((p) => (
+                <li>
+                  <a href={`/research#${p.slug}`}>{p.name}</a>
+                  <ol>
+                    {p.children.map((c) => <li><a href={`/research#${c.slug}`}>{c.name}</a></li>)}
+                  </ol>
+                </li>
+              ))}
+            </ol>
+          </nav>
+          {tree.map((p) => (
+            <>
+              <h3 id={p.slug}>{p.name}</h3>
+              {p.children.map((c) => (
+                <>
+                  <h4 id={c.slug}>{c.name}</h4>
+                  <ul class="publications">
+                    {c.entries.map((r) => (
+                      <li>
+                        {r.data.author ?? ""}. {r.data.year ?? ""}.
+                        <a href={r.data.link ?? ""}>{r.data.title}.</a>
+                        <i>{r.data.venue ?? ""}</i>
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              ))}
+            </>
+          ))}
+        </article>
+      </div>
+    </div>
+  </section>
+</Site>

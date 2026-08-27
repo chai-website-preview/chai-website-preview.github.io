@@ -1,0 +1,30 @@
+---
+/** Single post as the theme rendered it: header.major with date, featured image as <p class="image center">, body. */
+import { render } from "astro:content";
+import ThemeImage from "./ThemeImage.astro";
+import type { CollectionEntry } from "astro:content";
+import { fmt } from "../lib/dates";
+interface Props { post: CollectionEntry<"news"> | CollectionEntry<"blog"> }
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+<section class="wrapper style1 ">
+  <div class="container">
+    <section>
+      <header class="major">
+        <h2>{post.data.title}</h2>
+        <p>{fmt(post.data.date)}</p>
+      </header>
+      <div class="row">
+        <div class="blog-container">
+          <section class="blog-body">
+            {post.data.featured_image && (
+              <p class="image center"><ThemeImage src={post.data.featured_image} width={1200} loading="eager" alt={post.data.featured_image_alt ?? ""} /></p>
+            )}
+            <Content />
+          </section>
+        </div>
+      </div>
+    </section>
+  </div>
+</section>

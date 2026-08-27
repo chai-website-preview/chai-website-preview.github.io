@@ -1,0 +1,40 @@
+---
+/** /jobs ("Work With Us"): the intro copy and page <style> lived in the Blade template (src/snippets). */
+import { getCollection, render } from "astro:content";
+import Site from "../layouts/Site.astro";
+import style from "../snippets/jobs-style.html?raw";
+import intro from "../snippets/jobs-intro.html?raw";
+const jobs = (await getCollection("jobs")).sort((a, b) => b.data.date.localeCompare(a.data.date)); // newest first, as live
+const rendered = await Promise.all(jobs.map(async (j) => ({ j, Content: (await render(j)).Content })));
+---
+<Site title="Jobs" bodyClass="archive post-type-archive post-type-archive-jobs">
+  <Fragment set:html={style} />
+  <section class="wrapper style1">
+    <div class="container">
+      <div id="content">
+        <article>
+          <header>
+            <h2 id="work-with-us">Work With Us</h2>
+          </header>
+          <Fragment set:html={intro} />
+          {rendered.map(({ j, Content }) => (
+            <>
+              <div class={j.data.always_show_expanded ? "job  expanded " : "job "} id={j.data.slug}>
+                <h3>{j.data.title}</h3>
+                <Content />
+                {!j.data.always_show_expanded && <button class="job-collapse" data-target={j.data.slug}>[Collapse]</button>}
+              </div>
+              {!j.data.always_show_expanded && <button class="job-read-more" data-target={j.data.slug}>[Click to Expand]</button>}
+            </>
+          ))}
+        </article>
+      </div>
+    </div>
+  </section>
+  <script is:inline>
+    document.addEventListener("DOMContentLoaded", function () {
+      jQuery(".job-read-more").click(function () { jQuery("#" + jQuery(this).attr("data-target")).addClass("expanded"); });
+      jQuery(".job-collapse").click(function () { jQuery("#" + jQuery(this).attr("data-target")).removeClass("expanded"); });
+    }, false);
+  </script>
+</Site>

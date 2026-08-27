@@ -1,0 +1,35 @@
+/* Preview stylesheet — deliberately plain. Replace when the real design lands. */
+:root {
+  --ink: #1c1f26;
+  --muted: #5d6470;
+  --rule: #d9dce2;
+  --accent: #1f4e8c;
+  --bg: #ffffff;
+  --measure: 68ch;
+}
+* { box-sizing: border-box; }
+html { font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: var(--ink); background: var(--bg); }
+body { margin: 0; }
+a { color: var(--accent); }
+img { max-width: 100%; height: auto; }
+.site-header { border-bottom: 1px solid var(--rule); padding: 0.75rem 1.5rem; display: flex; gap: 1.5rem; align-items: baseline; flex-wrap: wrap; }
+.site-header .brand { font-weight: 600; text-decoration: none; color: var(--ink); }
+.site-header nav a { margin-right: 1rem; font-size: 0.95rem; }
+main { max-width: var(--measure); margin: 2rem auto; padding: 0 1.5rem; }
+main.wide { max-width: 100ch; }
+.meta { color: var(--muted); font-size: 0.9rem; }
+.preview-note { background: #fff8db; border: 1px solid #e8d98a; padding: 0.5rem 0.75rem; font-size: 0.85rem; margin-bottom: 1.5rem; }
+h1 { line-height: 1.2; }
+.people-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 1.25rem 1rem; list-style: none; padding: 0; }
+.people-grid li { font-size: 0.9rem; }
+.people-grid img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; display: block; margin-bottom: 0.35rem; }
+.people-grid .role { color: var(--muted); font-size: 0.8rem; white-space: pre-line; }
+.headshot { float: right; width: 200px; margin: 0 0 1rem 1.5rem; border-radius: 4px; }
+.post-list { list-style: none; padding: 0; }
+.post-list li { padding: 0.75rem 0; border-bottom: 1px solid var(--rule); }
+.post-list .thumb { float: right; width: 96px; margin-left: 1rem; border-radius: 3px; }
+.pubs h2 { margin-top: 2.5rem; font-size: 1.15rem; }
+.pubs li { margin-bottom: 0.6rem; }
+.pubs .who { color: var(--muted); }
+.raw-block { outline: 2px dashed #e0a050; padding: 0.5rem; }
+footer { border-top: 1px solid var(--rule); margin-top: 3rem; padding: 1.5rem; font-size: 0.85rem; color: var(--muted); }

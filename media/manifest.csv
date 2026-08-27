@@ -1,0 +1,1054 @@
+kind,wp_id,source_url,local_path,used_by,status
+attachment,16,https://humancompatible.ai/news/2020/11/22/2018-10-11-edward_felten/attachment/16/,,attachment parent 15,broken-record (file missing on server)
+attachment,18,https://humancompatible.ai/news/2020/11/22/2018-02-01-ai_new_wmds/attachment/18/,,attachment parent 17,broken-record (file missing on server)
+attachment,20,https://humancompatible.ai/app/uploads/2020/11/chai_logo.png,public/app/uploads/2020/11/chai_logo.png,attachment parent 19,ok
+attachment,22,https://humancompatible.ai/app/uploads/2020/11/Alignment-Problem-Recording-Titlecard.png,public/app/uploads/2020/11/Alignment-Problem-Recording-Titlecard.png,attachment parent 21,ok
+attachment,24,https://humancompatible.ai/news/2020/10/20/chai-progress-report/chai_logo-png-2/,,,broken-record (file missing on server)
+attachment,26,https://humancompatible.ai/app/uploads/2020/10/alignment-problem.jpg,public/app/uploads/2020/10/alignment-problem.jpg,attachment parent 25,ok
+attachment,28,https://humancompatible.ai/app/uploads/2020/10/neurips_2020.png,public/app/uploads/2020/10/neurips_2020.png,attachment parent 27,ok
+attachment,30,https://humancompatible.ai/app/uploads/2020/09/uai_2020.png,public/app/uploads/2020/09/uai_2020.png,attachment parent 29,ok
+attachment,32,https://humancompatible.ai/app/uploads/2020/09/cognitive-science-journal.png,public/app/uploads/2020/09/cognitive-science-journal.png,attachment parent 31,ok
+attachment,34,https://humancompatible.ai/app/uploads/2020/09/sss-cover-social.jpg,public/app/uploads/2020/09/sss-cover-social.jpg,attachment parent 33,ok
+attachment,36,https://humancompatible.ai/app/uploads/2020/09/ijcai_logo.png,public/app/uploads/2020/09/ijcai_logo.png,attachment parent 35,ok
+attachment,38,https://humancompatible.ai/news/2020/09/10/michael-wellman-paper-ijcai-copy/ijcai_logo-png-2/,,attachment parent 37,broken-record (file missing on server)
+attachment,40,https://humancompatible.ai/app/uploads/2020/09/stuart.jpg,public/app/uploads/2020/09/stuart.jpg,attachment parent 39,ok
+attachment,42,https://humancompatible.ai/news/2020/09/03/summer-2020-interns/chai_logo-png-3/,,attachment parent 41,broken-record (file missing on server)
+attachment,44,https://humancompatible.ai/app/uploads/2020/09/uc-berkeley-logo-seal.jpg,public/app/uploads/2020/09/uc-berkeley-logo-seal.jpg,attachment parent 43,ok
+attachment,46,https://humancompatible.ai/news/2020/08/20/new-affiliates/chai_logo-png-4/,,attachment parent 45,broken-record (file missing on server)
+attachment,48,https://humancompatible.ai/app/uploads/2020/08/simons-institute.png,public/app/uploads/2020/08/simons-institute.png,attachment parent 47,ok
+attachment,50,https://humancompatible.ai/app/uploads/2020/08/toronto.jpg,public/app/uploads/2020/08/toronto.jpg,attachment parent 49,ok
+attachment,52,https://humancompatible.ai/app/uploads/2020/07/princeton_mit_dm.png,public/app/uploads/2020/07/princeton_mit_dm.png,attachment parent 51,ok
+attachment,54,https://humancompatible.ai/news/2020/06/15/hertz-foundation-fellowship/hertzfoundationjune-svg/,,attachment parent 53,broken-record (file missing on server)
+attachment,56,https://humancompatible.ai/app/uploads/2020/06/June.png,public/app/uploads/2020/06/June.png,attachment parent 55,ok
+attachment,58,https://humancompatible.ai/news/2020/05/30/arches/chai_logo-png-5/,,attachment parent 57,broken-record (file missing on server)
+attachment,60,https://humancompatible.ai/app/uploads/2020/05/May20.png,public/app/uploads/2020/05/May20.png,attachment parent 59,ok
+attachment,62,https://humancompatible.ai/app/uploads/2020/04/Apr20.png,public/app/uploads/2020/04/Apr20.png,attachment parent 61,ok
+attachment,64,https://humancompatible.ai/app/uploads/2020/03/Mar20.jpg,public/app/uploads/2020/03/Mar20.jpg,attachment parent 63,ok
+attachment,66,https://humancompatible.ai/app/uploads/2020/02/Feb20.png,public/app/uploads/2020/02/Feb20.png,attachment parent 65,ok
+attachment,68,https://humancompatible.ai/app/uploads/2020/01/2020-01-28-image.jpg,public/app/uploads/2020/01/2020-01-28-image.jpg,attachment parent 67,ok
+attachment,70,https://humancompatible.ai/app/uploads/2020/01/Jan20.jpg,public/app/uploads/2020/01/Jan20.jpg,attachment parent 69,ok
+attachment,72,https://humancompatible.ai/app/uploads/2019/12/Dec19.png,public/app/uploads/2019/12/Dec19.png,attachment parent 71,ok
+attachment,75,https://humancompatible.ai/app/uploads/2019/11/Nov19.png,public/app/uploads/2019/11/Nov19.png,attachment parent 74,ok
+attachment,77,https://humancompatible.ai/app/uploads/2019/10/hc-cover.jpg,public/app/uploads/2019/10/hc-cover.jpg,attachment parent 76,ok
+attachment,79,https://humancompatible.ai/app/uploads/2019/09/AI_Alignment.png,public/app/uploads/2019/09/AI_Alignment.png,attachment parent 78,ok
+attachment,81,https://humancompatible.ai/app/uploads/2019/09/neurips_2019.jpg,public/app/uploads/2019/09/neurips_2019.jpg,attachment parent 80,ok
+attachment,83,https://humancompatible.ai/app/uploads/2019/09/nsf.png,public/app/uploads/2019/09/nsf.png,attachment parent 82,ok
+attachment,85,https://humancompatible.ai/app/uploads/2019/08/fat2020.png,public/app/uploads/2019/08/fat2020.png,attachment parent 84,ok
+attachment,87,https://humancompatible.ai/news/2019/08/27/rohin_clarifying_hypothesis/ai_alignment-png-2/,,attachment parent 86,broken-record (file missing on server)
+attachment,89,https://humancompatible.ai/app/uploads/2019/08/hal.jpg,public/app/uploads/2019/08/hal.jpg,attachment parent 88,ok
+attachment,91,https://humancompatible.ai/app/uploads/2019/08/stocks2.jpg,public/app/uploads/2019/08/stocks2.jpg,attachment parent 90,ok
+attachment,94,https://humancompatible.ai/app/uploads/2019/08/wired.jpg,public/app/uploads/2019/08/wired.jpg,attachment parent 93,ok
+attachment,96,https://humancompatible.ai/news/2019/07/05/learning-bias_reward/ai_alignment-png-3/,,attachment parent 95,broken-record (file missing on server)
+attachment,98,https://humancompatible.ai/app/uploads/2019/07/github.png,public/app/uploads/2019/07/github.png,attachment parent 97,ok
+attachment,100,https://humancompatible.ai/app/uploads/2019/07/new_scientist.jpg,public/app/uploads/2019/07/new_scientist.jpg,attachment parent 99,ok
+attachment,102,https://humancompatible.ai/app/uploads/2019/06/icml_2019.png,public/app/uploads/2019/06/icml_2019.png,attachment parent 101,ok
+attachment,104,https://humancompatible.ai/app/uploads/2019/06/adversarial_ML.png,public/app/uploads/2019/06/adversarial_ML.png,attachment parent 103,ok
+attachment,106,https://humancompatible.ai/app/uploads/2019/06/hcri.png,public/app/uploads/2019/06/hcri.png,attachment parent 105,ok
+attachment,108,https://humancompatible.ai/app/uploads/2019/06/founders_pledge.png,public/app/uploads/2019/06/founders_pledge.png,attachment parent 107,ok
+attachment,110,https://humancompatible.ai/app/uploads/2019/06/prospect_theory.png,public/app/uploads/2019/06/prospect_theory.png,attachment parent 109,ok
+attachment,112,https://humancompatible.ai/app/uploads/2019/05/vincent.jpg,public/app/uploads/2019/05/vincent.jpg,attachment parent 111,ok
+attachment,114,https://humancompatible.ai/news/2019/05/24/neurips_2019/neurips_2019-jpg-2/,,attachment parent 113,broken-record (file missing on server)
+attachment,116,https://humancompatible.ai/news/2019/05/24/icml_2019/icml_2019-png-2/,,attachment parent 115,broken-record (file missing on server)
+attachment,118,https://humancompatible.ai/app/uploads/2019/05/human_compatible.jpg,public/app/uploads/2019/05/human_compatible.jpg,attachment parent 117,ok
+attachment,120,https://humancompatible.ai/app/uploads/2019/05/carnegie_fellows.jpg,public/app/uploads/2019/05/carnegie_fellows.jpg,attachment parent 119,ok
+attachment,122,https://humancompatible.ai/news/2019/05/15/rohin_qa/ai_alignment-png-4/,,attachment parent 121,broken-record (file missing on server)
+attachment,124,https://humancompatible.ai/app/uploads/2019/04/iclr.png,public/app/uploads/2019/04/iclr.png,attachment parent 123,ok
+attachment,126,https://humancompatible.ai/app/uploads/2019/04/aamas_2019.png,public/app/uploads/2019/04/aamas_2019.png,attachment parent 125,ok
+attachment,128,https://humancompatible.ai/news/2019/04/19/rohin_oneyear/ai_alignment-png-5/,,attachment parent 127,broken-record (file missing on server)
+attachment,130,https://humancompatible.ai/app/uploads/2019/04/making-sense.png,public/app/uploads/2019/04/making-sense.png,attachment parent 129,ok
+attachment,132,https://humancompatible.ai/app/uploads/2019/03/uai2019.png,public/app/uploads/2019/03/uai2019.png,attachment parent 131,ok
+attachment,134,https://humancompatible.ai/app/uploads/2019/03/halpern.jpg,public/app/uploads/2019/03/halpern.jpg,attachment parent 133,ok
+attachment,136,https://humancompatible.ai/app/uploads/2019/03/umichchat.jpg,public/app/uploads/2019/03/umichchat.jpg,attachment parent 135,ok
+attachment,138,https://humancompatible.ai/news/2019/02/14/rohin_blogposts/ai_alignment-png-6/,,attachment parent 137,broken-record (file missing on server)
+attachment,140,https://humancompatible.ai/app/uploads/2019/02/halpern.jpg,public/app/uploads/2019/02/halpern.jpg,attachment parent 139,ok
+attachment,142,https://humancompatible.ai/app/uploads/2019/02/yardstick.jpg,public/app/uploads/2019/02/yardstick.jpg,attachment parent 141,ok
+attachment,144,https://humancompatible.ai/app/uploads/2019/01/FAT.jpg,public/app/uploads/2019/01/FAT.jpg,attachment parent 143,ok
+attachment,146,https://humancompatible.ai/app/uploads/2019/01/Drone.jpg,public/app/uploads/2019/01/Drone.jpg,attachment parent 145,ok
+attachment,148,https://humancompatible.ai/news/2019/01/20/turner_prize/ai_alignment-png-7/,,attachment parent 147,broken-record (file missing on server)
+attachment,150,https://humancompatible.ai/app/uploads/2019/01/AAAI2019.png,public/app/uploads/2019/01/AAAI2019.png,attachment parent 149,ok
+attachment,152,https://humancompatible.ai/app/uploads/2019/01/AAAS.png,public/app/uploads/2019/01/AAAS.png,attachment parent 151,ok
+attachment,154,https://humancompatible.ai/app/uploads/2019/01/anca_ai4all.jpeg,public/app/uploads/2019/01/anca_ai4all.jpeg,attachment parent 153,ok
+attachment,156,https://humancompatible.ai/app/uploads/2019/01/Rosie_AISafe.jpeg,public/app/uploads/2019/01/Rosie_AISafe.jpeg,attachment parent 155,ok
+attachment,158,https://humancompatible.ai/app/uploads/2019/01/interncollage.png,public/app/uploads/2019/01/interncollage.png,attachment parent 157,ok
+attachment,160,https://humancompatible.ai/news/2019/01/01/chai_interns-2/interncollage-png-2/,,attachment parent 159,broken-record (file missing on server)
+attachment,162,https://humancompatible.ai/news/2018/12/21/chai_vox/vox_article-jpg/,,attachment parent 161,broken-record (file missing on server)
+attachment,164,https://humancompatible.ai/app/uploads/2018/12/Rohin.jpg,public/app/uploads/2018/12/Rohin.jpg,attachment parent 163,ok
+attachment,166,https://humancompatible.ai/app/uploads/2018/12/Causality.jpg,public/app/uploads/2018/12/Causality.jpg,attachment parent 165,ok
+attachment,168,https://humancompatible.ai/app/uploads/2018/12/StuartInterview.png,public/app/uploads/2018/12/StuartInterview.png,attachment parent 167,ok
+attachment,170,https://humancompatible.ai/app/uploads/2018/12/neurips.jpg,public/app/uploads/2018/12/neurips.jpg,attachment parent 169,ok
+attachment,172,https://humancompatible.ai/app/uploads/2018/12/stocks.jpg,public/app/uploads/2018/12/stocks.jpg,attachment parent 171,ok
+attachment,174,https://humancompatible.ai/app/uploads/2018/10/twitter.jpg,public/app/uploads/2018/10/twitter.jpg,attachment parent 173,ok
+attachment,176,https://humancompatible.ai/app/uploads/2018/10/rosie-campbell.jpg,public/app/uploads/2018/10/rosie-campbell.jpg,attachment parent 175,ok
+attachment,178,https://humancompatible.ai/app/uploads/2018/10/conference-scaled.jpg,public/app/uploads/2018/10/conference-scaled.jpg,attachment parent 177,ok
+attachment,180,https://humancompatible.ai/app/uploads/2018/10/gdpr.jpg,public/app/uploads/2018/10/gdpr.jpg,attachment parent 179,ok
+attachment,182,https://humancompatible.ai/app/uploads/2018/09/euflags-scaled.jpg,public/app/uploads/2018/09/euflags-scaled.jpg,attachment parent 181,ok
+attachment,184,https://humancompatible.ai/app/uploads/2018/09/TED-Talk-scaled.jpg,public/app/uploads/2018/09/TED-Talk-scaled.jpg,attachment parent 183,ok
+attachment,186,https://humancompatible.ai/news/2018/09/04/halpern_past_talks/halpern-jpg-3/,,attachment parent 185,broken-record (file missing on server)
+attachment,188,https://humancompatible.ai/app/uploads/2018/09/meeting.jpg,public/app/uploads/2018/09/meeting.jpg,attachment parent 187,ok
+attachment,190,https://humancompatible.ai/app/uploads/2018/09/fisac.jpg,public/app/uploads/2018/09/fisac.jpg,attachment parent 189,ok
+attachment,192,https://humancompatible.ai/app/uploads/2018/09/filan2.jpg,public/app/uploads/2018/09/filan2.jpg,attachment parent 191,ok
+attachment,194,https://humancompatible.ai/app/uploads/2018/09/anca.jpg,public/app/uploads/2018/09/anca.jpg,attachment parent 193,ok
+attachment,196,https://humancompatible.ai/news/2018/09/03/anca_around_world/anca_ai4all-jpeg-2/,,attachment parent 195,broken-record (file missing on server)
+attachment,198,https://humancompatible.ai/app/uploads/2018/08/miri.png,public/app/uploads/2018/08/miri.png,attachment parent 197,ok
+attachment,200,https://humancompatible.ai/app/uploads/2018/07/cogmech.png,public/app/uploads/2018/07/cogmech.png,attachment parent 199,ok
+attachment,202,https://humancompatible.ai/app/uploads/2018/07/robot.jpg,public/app/uploads/2018/07/robot.jpg,attachment parent 201,ok
+attachment,204,https://humancompatible.ai/app/uploads/2018/07/rl.png,public/app/uploads/2018/07/rl.png,attachment parent 203,ok
+attachment,206,https://humancompatible.ai/app/uploads/2018/07/ml.png,public/app/uploads/2018/07/ml.png,attachment parent 205,ok
+attachment,210,https://humancompatible.ai/app/uploads/2018/07/aiconference.jpg,public/app/uploads/2018/07/aiconference.jpg,attachment parent 209,ok
+attachment,212,https://humancompatible.ai/news/2018/07/14/adam_rohin_inverse_reward/rl-png-2/,,attachment parent 211,broken-record (file missing on server)
+attachment,214,https://humancompatible.ai/app/uploads/2018/07/neuralnetwork.png,public/app/uploads/2018/07/neuralnetwork.png,attachment parent 213,ok
+attachment,216,https://humancompatible.ai/app/uploads/2018/07/mathmodel.jpg,public/app/uploads/2018/07/mathmodel.jpg,attachment parent 215,ok
+attachment,218,https://humancompatible.ai/app/uploads/2018/07/cogbias-scaled.jpg,public/app/uploads/2018/07/cogbias-scaled.jpg,attachment parent 217,ok
+attachment,220,https://humancompatible.ai/app/uploads/2018/06/transparency.jpg,public/app/uploads/2018/06/transparency.jpg,attachment parent 219,ok
+attachment,222,https://humancompatible.ai/news/2018/06/01/henry_kissenger/lead_720_405-jpgmod1525354271/,,attachment parent 221,broken-record (file missing on server)
+attachment,224,https://humancompatible.ai/news/2018/05/31/anca_safe_robot/https%3a%2f%2fblogs-images-forbes-com%2fandreamorris%2ffiles%2f2018%2f02%2fdragan-1200x792-jpg/,,attachment parent 223,broken-record (file missing on server)
+attachment,226,https://humancompatible.ai/news/2018/04/23/rohin_shah/rohin-jpg-2/,,attachment parent 225,broken-record (file missing on server)
+attachment,228,https://humancompatible.ai/app/uploads/2018/04/blame.jpg,public/app/uploads/2018/04/blame.jpg,attachment parent 227,ok
+attachment,232,https://humancompatible.ai/app/uploads/2018/03/failrobot.jpeg,public/app/uploads/2018/03/failrobot.jpeg,attachment parent 230,ok
+attachment,233,https://humancompatible.ai/app/uploads/2018/03/behave.jpg,public/app/uploads/2018/03/behave.jpg,attachment parent 231,ok
+attachment,235,https://humancompatible.ai/news/2018/02/26/anca_expressing_incapability/https%3a%2f%2fblogs-images-forbes-com%2fandreamorris%2ffiles%2f2018%2f02%2fdragan-1200x792-jpg-2/,,attachment parent 234,broken-record (file missing on server)
+attachment,237,https://humancompatible.ai/app/uploads/2018/02/sophia.jpg,public/app/uploads/2018/02/sophia.jpg,attachment parent 236,ok
+attachment,239,https://humancompatible.ai/news/2018/02/05/anca_human_guidance/anca_ai4all-jpeg-3/,,attachment parent 238,broken-record (file missing on server)
+attachment,241,https://humancompatible.ai/news/2018/02/01/halpern_noisy_environment/halpern-jpg-4/,,attachment parent 240,broken-record (file missing on server)
+attachment,244,https://humancompatible.ai/app/uploads/2018/01/trustmachine.jpg,public/app/uploads/2018/01/trustmachine.jpg,attachment parent 242,ok
+attachment,245,https://humancompatible.ai/app/uploads/2017/12/maria-cantwell.jpg,public/app/uploads/2017/12/maria-cantwell.jpg,attachment parent 243,ok
+attachment,247,https://humancompatible.ai/app/uploads/2017/12/openai.png,public/app/uploads/2017/12/openai.png,attachment parent 246,ok
+attachment,249,https://humancompatible.ai/news/2017/11/16/anca_robot_objectives/behave-jpg-2/,,attachment parent 248,broken-record (file missing on server)
+attachment,251,https://humancompatible.ai/app/uploads/2017/11/slaughterbot.jpeg,public/app/uploads/2017/11/slaughterbot.jpeg,attachment parent 250,ok
+attachment,253,https://humancompatible.ai/app/uploads/2017/10/autocar-scaled.jpg,public/app/uploads/2017/10/autocar-scaled.jpg,attachment parent 252,ok
+attachment,255,https://humancompatible.ai/app/uploads/2017/10/baxter.jpg,public/app/uploads/2017/10/baxter.jpg,attachment parent 254,ok
+attachment,257,https://humancompatible.ai/news/2017/08/08/anca_courteous_car/https%3a%2f%2fblogs-images-forbes-com%2fandreamorris%2ffiles%2f2018%2f02%2fdragan-1200x792-jpg-3/,,attachment parent 256,broken-record (file missing on server)
+attachment,259,https://humancompatible.ai/app/uploads/2017/05/stuart_russell_ted_288_191.jpg,public/app/uploads/2017/05/stuart_russell_ted_288_191.jpg,attachment parent 258,ok
+attachment,261,https://humancompatible.ai/news/2017/03/11/montreal_declaration/csm_20171103_forum-ia-reponsable_81291f2028-jpg/,,attachment parent 260,broken-record (file missing on server)
+attachment,263,https://humancompatible.ai/news/2017/03/06/ai_with_people/anca_ai4all-jpeg-4/,,attachment parent 262,broken-record (file missing on server)
+attachment,265,https://humancompatible.ai/news/2017/02/11/anca_communicating_objectives/https%3a%2f%2fblogs-images-forbes-com%2fandreamorris%2ffiles%2f2018%2f02%2fdragan-1200x792-jpg-4/,,attachment parent 264,broken-record (file missing on server)
+attachment,267,https://humancompatible.ai/news/2016/11/02/existenial_risk/3176-97043-allan_dafoe-300x200-jpg/,,attachment parent 266,broken-record (file missing on server)
+attachment,269,https://humancompatible.ai/news/2016/11/01/ethics_ai/02ethics3-master768-jpg/,,attachment parent 268,broken-record (file missing on server)
+attachment,271,https://humancompatible.ai/app/uploads/2016/09/bbc_pic.jpg,public/app/uploads/2016/09/bbc_pic.jpg,attachment parent 270,ok
+attachment,273,https://humancompatible.ai/news/2016/08/30/ai_risk/6605-jpgw620q20autoformatusm12fitmaxdpr2s038a01bad7456d71ea7e297292379b0d/,,attachment parent 272,broken-record (file missing on server)
+attachment,275,https://humancompatible.ai/news/2016/08/29/chai2/photo%20uc%20berkeley%20night%20cropped-jpegitokaavkap7g/,,attachment parent 274,broken-record (file missing on server)
+attachment,277,https://humancompatible.ai/news/2016/08/29/chai/robotknot750-jpg/,,attachment parent 276,broken-record (file missing on server)
+attachment,279,https://humancompatible.ai/app/uploads/2016/06/techrepub_pic.png,public/app/uploads/2016/06/techrepub_pic.png,attachment parent 278,ok
+attachment,281,https://humancompatible.ai/app/uploads/2020/11/dylan-hadfield-menell.jpg,public/app/uploads/2020/11/dylan-hadfield-menell.jpg,attachment parent 280,ok
+attachment,283,https://humancompatible.ai/app/uploads/2020/11/gillian-hadfield.jpg,public/app/uploads/2020/11/gillian-hadfield.jpg,attachment parent 282,ok
+attachment,285,https://humancompatible.ai/app/uploads/2020/11/mark.jpg,public/app/uploads/2020/11/mark.jpg,attachment parent 284,ok
+attachment,287,https://humancompatible.ai/people/stuart-russell/stuart-jpg-2/,,attachment parent 286,broken-record (file missing on server)
+attachment,289,https://humancompatible.ai/app/uploads/2020/11/jaime-fernandez-fisac.jpg,public/app/uploads/2020/11/jaime-fernandez-fisac.jpg,attachment parent 288,ok
+attachment,291,https://humancompatible.ai/app/uploads/2020/11/martin.jpg,public/app/uploads/2020/11/martin.jpg,,ok
+attachment,293,https://humancompatible.ai/app/uploads/2020/11/pieter.jpg,public/app/uploads/2020/11/pieter.jpg,attachment parent 292,ok
+attachment,295,https://humancompatible.ai/people/rosie-campbell/rosie-campbell-jpg-2/,,attachment parent 294,broken-record (file missing on server)
+attachment,297,https://humancompatible.ai/app/uploads/2020/11/anca.jpg,public/app/uploads/2020/11/anca.jpg,attachment parent 296,ok
+attachment,299,https://humancompatible.ai/app/uploads/2020/11/andrew.jpg,public/app/uploads/2020/11/andrew.jpg,attachment parent 298,ok
+attachment,301,https://humancompatible.ai/app/uploads/2020/11/siddharth-srivastava.jpg,public/app/uploads/2020/11/siddharth-srivastava.jpg,attachment parent 300,ok
+attachment,303,https://humancompatible.ai/app/uploads/2020/11/selman.jpg,public/app/uploads/2020/11/selman.jpg,attachment parent 302,ok
+attachment,305,https://humancompatible.ai/app/uploads/2020/11/caroline.png,public/app/uploads/2020/11/caroline.png,attachment parent 304,ok
+attachment,307,https://humancompatible.ai/app/uploads/2020/11/tom.jpg,public/app/uploads/2020/11/tom.jpg,attachment parent 306,ok
+attachment,309,https://humancompatible.ai/people/joseph-halpern/halpern-jpg-5/,,attachment parent 308,broken-record (file missing on server)
+attachment,311,https://humancompatible.ai/app/uploads/2020/11/wellman.jpg,public/app/uploads/2020/11/wellman.jpg,attachment parent 310,ok
+attachment,313,https://humancompatible.ai/app/uploads/2020/11/Baveja.png,public/app/uploads/2020/11/Baveja.png,attachment parent 312,ok
+attachment,315,https://humancompatible.ai/app/uploads/2020/11/tania-lombrozo.jpg,public/app/uploads/2020/11/tania-lombrozo.jpg,attachment parent 314,ok
+attachment,317,https://humancompatible.ai/people/adam-gleave/adam-gleave-jpg/,,attachment parent 316,broken-record (file missing on server)
+attachment,319,https://humancompatible.ai/app/uploads/2020/11/alex-turner.jpg,public/app/uploads/2020/11/alex-turner.jpg,attachment parent 318,ok
+attachment,321,https://humancompatible.ai/app/uploads/2020/11/alison-gopnik.jpg,public/app/uploads/2020/11/alison-gopnik.jpg,attachment parent 320,ok
+attachment,323,https://humancompatible.ai/people/beth-barnes/beth-barnes-profile-jpg/,,attachment parent 322,broken-record (file missing on server)
+attachment,325,https://humancompatible.ai/app/uploads/2020/11/brianchristian.jpg,public/app/uploads/2020/11/brianchristian.jpg,attachment parent 324,ok
+attachment,327,https://humancompatible.ai/app/uploads/2020/11/charis-thompson.jpg,public/app/uploads/2020/11/charis-thompson.jpg,attachment parent 326,ok
+attachment,329,https://humancompatible.ai/app/uploads/2020/11/charlotte-roman.png,public/app/uploads/2020/11/charlotte-roman.png,attachment parent 328,ok
+attachment,331,https://humancompatible.ai/people/chris-cundy/chris-cundy-profile-jpg/,,attachment parent 330,broken-record (file missing on server)
+attachment,333,https://humancompatible.ai/app/uploads/2020/11/cody-wild.png,public/app/uploads/2020/11/cody-wild.png,attachment parent 332,ok
+attachment,335,https://humancompatible.ai/app/uploads/2020/11/cynthia-chen.jpg,public/app/uploads/2020/11/cynthia-chen.jpg,attachment parent 334,ok
+attachment,337,https://humancompatible.ai/app/uploads/2020/11/dan-hendryks.jpg,public/app/uploads/2020/11/dan-hendryks.jpg,attachment parent 336,ok
+attachment,339,https://humancompatible.ai/app/uploads/2020/11/Daniel_Filan.jpg,public/app/uploads/2020/11/Daniel_Filan.jpg,attachment parent 338,ok
+attachment,341,https://humancompatible.ai/app/uploads/2020/11/david-lindner.jpg,public/app/uploads/2020/11/david-lindner.jpg,attachment parent 340,ok
+attachment,343,https://humancompatible.ai/app/uploads/2020/11/dawn-song.jpg,public/app/uploads/2020/11/dawn-song.jpg,attachment parent 342,ok
+attachment,345,https://humancompatible.ai/app/uploads/2020/11/demian-pouzo.jpg,public/app/uploads/2020/11/demian-pouzo.jpg,attachment parent 344,ok
+attachment,347,https://humancompatible.ai/app/uploads/2020/11/dmitrii-krasheninnikov.jpg,public/app/uploads/2020/11/dmitrii-krasheninnikov.jpg,attachment parent 346,ok
+attachment,349,https://humancompatible.ai/app/uploads/2020/11/eric-michaud.jpg,public/app/uploads/2020/11/eric-michaud.jpg,attachment parent 348,ok
+attachment,351,https://humancompatible.ai/app/uploads/2020/11/harry-giles.png,public/app/uploads/2020/11/harry-giles.png,attachment parent 350,ok
+attachment,353,https://humancompatible.ai/app/uploads/2020/11/jacobsteinhardt.png,public/app/uploads/2020/11/jacobsteinhardt.png,attachment parent 352,ok
+attachment,355,https://humancompatible.ai/app/uploads/2020/11/jess-riedel.jpg,public/app/uploads/2020/11/jess-riedel.jpg,attachment parent 354,ok
+attachment,357,https://humancompatible.ai/app/uploads/2020/11/johannes-treutlein.jpg,public/app/uploads/2020/11/johannes-treutlein.jpg,attachment parent 356,ok
+attachment,359,https://humancompatible.ai/app/uploads/2020/11/john-zysman.jpg,public/app/uploads/2020/11/john-zysman.jpg,attachment parent 358,ok
+attachment,361,https://humancompatible.ai/app/uploads/2020/11/juliana-schroeder.jpg,public/app/uploads/2020/11/juliana-schroeder.jpg,attachment parent 360,ok
+attachment,363,https://humancompatible.ai/app/uploads/2020/11/karthika.jpg,public/app/uploads/2020/11/karthika.jpg,attachment parent 362,ok
+attachment,365,https://humancompatible.ai/app/uploads/2020/11/ken-goldberg.jpg,public/app/uploads/2020/11/ken-goldberg.jpg,attachment parent 364,ok
+attachment,367,https://humancompatible.ai/app/uploads/2020/11/lara-buchak.jpg,public/app/uploads/2020/11/lara-buchak.jpg,attachment parent 366,ok
+attachment,369,https://humancompatible.ai/app/uploads/2020/11/lawrence-chan.jpg,public/app/uploads/2020/11/lawrence-chan.jpg,attachment parent 368,ok
+attachment,371,https://humancompatible.ai/app/uploads/2020/11/mariano-florentio-cuellar.jpg,public/app/uploads/2020/11/mariano-florentio-cuellar.jpg,attachment parent 370,ok
+attachment,373,https://humancompatible.ai/app/uploads/2020/11/marion-fourcade.jpg,public/app/uploads/2020/11/marion-fourcade.jpg,attachment parent 372,ok
+attachment,375,https://humancompatible.ai/people/matthew-rahtz/matthew-rahtz-jpg/,,attachment parent 374,broken-record (file missing on server)
+attachment,377,https://humancompatible.ai/app/uploads/2020/11/meir-friedenberg.jpg,public/app/uploads/2020/11/meir-friedenberg.jpg,,ok
+attachment,379,https://humancompatible.ai/app/uploads/2020/11/micah-carroll.png,public/app/uploads/2020/11/micah-carroll.png,attachment parent 378,ok
+attachment,381,https://humancompatible.ai/app/uploads/2020/11/michael-dennis.jpg,public/app/uploads/2020/11/michael-dennis.jpg,attachment parent 380,ok
+attachment,383,https://humancompatible.ai/app/uploads/2020/11/michael-littman.jpg,public/app/uploads/2020/11/michael-littman.jpg,attachment parent 382,ok
+attachment,385,https://humancompatible.ai/app/uploads/2020/11/michael-mcdonald.jpg,public/app/uploads/2020/11/michael-mcdonald.jpg,attachment parent 384,ok
+attachment,387,https://humancompatible.ai/people/moritz-hardt/moritz-hardt-jpg/,,attachment parent 386,broken-record (file missing on server)
+attachment,389,https://humancompatible.ai/app/uploads/2020/11/neel-alex.jpg,public/app/uploads/2020/11/neel-alex.jpg,attachment parent 388,ok
+attachment,391,https://humancompatible.ai/app/uploads/2020/11/nika-haghtalab.jpg,public/app/uploads/2020/11/nika-haghtalab.jpg,attachment parent 390,ok
+attachment,393,https://humancompatible.ai/app/uploads/2020/11/niko-kolodny.jpg,public/app/uploads/2020/11/niko-kolodny.jpg,attachment parent 392,ok
+attachment,395,https://humancompatible.ai/app/uploads/2020/11/noor-brody.png,public/app/uploads/2020/11/noor-brody.png,,ok
+attachment,397,https://humancompatible.ai/app/uploads/2020/11/pedro-freire.jpg,public/app/uploads/2020/11/pedro-freire.jpg,attachment parent 396,ok
+attachment,399,https://humancompatible.ai/people/pulkit-verma/pulkit-verma-jpg/,,attachment parent 398,broken-record (file missing on server)
+attachment,401,https://humancompatible.ai/app/uploads/2020/11/rachel-freedman.jpg,public/app/uploads/2020/11/rachel-freedman.jpg,attachment parent 400,ok
+attachment,403,https://humancompatible.ai/app/uploads/2020/11/rediet-abebe.jpg,public/app/uploads/2020/11/rediet-abebe.jpg,attachment parent 402,ok
+attachment,405,https://humancompatible.ai/people/rohin-shah/rohin-jpg-3/,,attachment parent 404,broken-record (file missing on server)
+attachment,407,https://humancompatible.ai/app/uploads/2020/11/sam-toyer.jpg,public/app/uploads/2020/11/sam-toyer.jpg,attachment parent 406,ok
+attachment,409,https://humancompatible.ai/app/uploads/2020/11/sergei-volodin.jpg,public/app/uploads/2020/11/sergei-volodin.jpg,attachment parent 408,ok
+attachment,411,https://humancompatible.ai/app/uploads/2020/11/shlomi.png,public/app/uploads/2020/11/shlomi.png,attachment parent 410,ok
+attachment,415,https://humancompatible.ai/people/soren-mindermann/soren-mindermann-jpg/,,attachment parent 414,broken-record (file missing on server)
+attachment,417,https://humancompatible.ai/app/uploads/2020/11/stephen-casper.png,public/app/uploads/2020/11/stephen-casper.png,attachment parent 416,ok
+attachment,419,https://humancompatible.ai/app/uploads/2020/11/steven-wang.jpg,public/app/uploads/2020/11/steven-wang.jpg,attachment parent 418,ok
+attachment,421,https://humancompatible.ai/app/uploads/2020/11/thomas-gilbert.jpg,public/app/uploads/2020/11/thomas-gilbert.jpg,attachment parent 420,ok
+attachment,423,https://humancompatible.ai/app/uploads/2020/11/monica-gates.png,public/app/uploads/2020/11/monica-gates.png,attachment parent 422,ok
+attachment,425,https://humancompatible.ai/app/uploads/2020/11/vincent.jpg,public/app/uploads/2020/11/vincent.jpg,attachment parent 424,ok
+attachment,635,https://humancompatible.ai/app/uploads/2020/11/laws.jpg,public/app/uploads/2020/11/laws.jpg,attachment parent 17,ok
+attachment,721,https://humancompatible.ai/app/uploads/2020/11/soren-mindermann.jpg,public/app/uploads/2020/11/soren-mindermann.jpg,attachment parent 414,ok
+attachment,723,https://humancompatible.ai/app/uploads/2020/11/matthew-rahtz.jpg,public/app/uploads/2020/11/matthew-rahtz.jpg,attachment parent 374,ok
+attachment,725,https://humancompatible.ai/app/uploads/2020/11/stuart.jpg,public/app/uploads/2020/11/stuart.jpg,attachment parent 286,ok
+attachment,727,https://humancompatible.ai/app/uploads/2020/11/Rohin.jpg,public/app/uploads/2020/11/Rohin.jpg,attachment parent 404,ok
+attachment,729,https://humancompatible.ai/app/uploads/2020/11/moritz-hardt.jpg,public/app/uploads/2020/11/moritz-hardt.jpg,attachment parent 386,ok
+attachment,731,https://humancompatible.ai/app/uploads/2020/11/rosie-campbell.jpg,public/app/uploads/2020/11/rosie-campbell.jpg,attachment parent 294,ok
+attachment,733,https://humancompatible.ai/app/uploads/2020/11/halpern.jpg,public/app/uploads/2020/11/halpern.jpg,attachment parent 308,ok
+attachment,755,https://humancompatible.ai/app/uploads/2020/11/chris-cundy.jpg,public/app/uploads/2020/11/chris-cundy.jpg,attachment parent 754,ok
+attachment,756,https://humancompatible.ai/app/uploads/2020/11/beth-barnes.jpg,public/app/uploads/2020/11/beth-barnes.jpg,attachment parent 754,ok
+attachment,757,https://humancompatible.ai/app/uploads/2020/11/dmitrii-krasheninnikov-intern.jpg,public/app/uploads/2020/11/dmitrii-krasheninnikov-intern.jpg,attachment parent 754,ok
+attachment,761,https://humancompatible.ai/app/uploads/2020/03/stephen-casper-smaller1.png,public/app/uploads/2020/03/stephen-casper-smaller1.png,attachment parent 754,ok
+attachment,762,https://humancompatible.ai/app/uploads/2020/03/cynthia-chen-smaller.jpg,public/app/uploads/2020/03/cynthia-chen-smaller.jpg,attachment parent 754,ok
+attachment,763,https://humancompatible.ai/app/uploads/2020/03/harry-giles-smaller.png,public/app/uploads/2020/03/harry-giles-smaller.png,attachment parent 754,ok
+attachment,764,https://humancompatible.ai/app/uploads/2020/03/michael-mcdonald-smaller.png,public/app/uploads/2020/03/michael-mcdonald-smaller.png,attachment parent 754,ok
+attachment,773,https://humancompatible.ai/app/uploads/2020/11/CHAI-2020-Progress-Report-public-9-30.pdf,public/app/uploads/2020/11/CHAI-2020-Progress-Report-public-9-30.pdf,attachment parent 772,ok
+attachment,780,https://humancompatible.ai/app/uploads/2020/11/pulkit-verma.jpg,public/app/uploads/2020/11/pulkit-verma.jpg,attachment parent 398,ok
+attachment,1187,https://humancompatible.ai/app/uploads/2020/11/beth-barnes-profile.jpg,public/app/uploads/2020/11/beth-barnes-profile.jpg,attachment parent 322,ok
+attachment,1189,https://humancompatible.ai/app/uploads/2020/11/adam-gleave.jpg,public/app/uploads/2020/11/adam-gleave.jpg,attachment parent 316,ok
+attachment,1193,https://humancompatible.ai/?attachment_id=1193,,,broken-record (file missing on server)
+attachment,1195,https://humancompatible.ai/?attachment_id=1195,,,broken-record (file missing on server)
+attachment,1197,https://humancompatible.ai/app/uploads/2020/10/chai_logo.png,public/app/uploads/2020/10/chai_logo.png,attachment parent 1196,ok
+attachment,1199,https://humancompatible.ai/app/uploads/2020/12/stuart.jpg,public/app/uploads/2020/12/stuart.jpg,,ok
+attachment,1201,https://humancompatible.ai/app/uploads/2020/12/rosie-campbell.jpg,public/app/uploads/2020/12/rosie-campbell.jpg,,ok
+attachment,1203,https://humancompatible.ai/app/uploads/2020/12/halpern.jpg,public/app/uploads/2020/12/halpern.jpg,,ok
+attachment,1205,https://humancompatible.ai/people/adam-gleave-2/adam-gleave-jpg-2/,,,broken-record (file missing on server)
+attachment,1207,https://humancompatible.ai/people/beth-barnes-2/beth-barnes-profile-jpg-2/,,,broken-record (file missing on server)
+attachment,1209,https://humancompatible.ai/people/chris-cundy-2/chris-cundy-profile-jpg-2/,,,broken-record (file missing on server)
+attachment,1211,https://humancompatible.ai/app/uploads/2020/12/lara-buchak.jpg,public/app/uploads/2020/12/lara-buchak.jpg,,ok
+attachment,1213,https://humancompatible.ai/people/matthew-rahtz-2/matthew-rahtz-jpg-2/,,,broken-record (file missing on server)
+attachment,1215,https://humancompatible.ai/app/uploads/2020/12/micah-carroll.png,public/app/uploads/2020/12/micah-carroll.png,,ok
+attachment,1217,https://humancompatible.ai/people/moritz-hardt-2/moritz-hardt-jpg-2/,,,broken-record (file missing on server)
+attachment,1219,https://humancompatible.ai/app/uploads/2020/12/nika-haghtalab.jpg,public/app/uploads/2020/12/nika-haghtalab.jpg,,ok
+attachment,1221,https://humancompatible.ai/people/pulkit-verma-2/pulkit-verma-jpg-2/,,,broken-record (file missing on server)
+attachment,1223,https://humancompatible.ai/app/uploads/2020/12/Rohin.jpg,public/app/uploads/2020/12/Rohin.jpg,,ok
+attachment,1225,https://humancompatible.ai/people/soren-mindermann-2/soren-mindermann-jpg-2/,,,broken-record (file missing on server)
+attachment,1864,https://humancompatible.ai/app/uploads/2020/12/chris-cundy-1.jpg,public/app/uploads/2020/12/chris-cundy-1.jpg,,ok
+attachment,1865,https://humancompatible.ai/app/uploads/2020/11/chris-cundy-1.jpg,public/app/uploads/2020/11/chris-cundy-1.jpg,attachment parent 330,ok
+attachment,1879,https://humancompatible.ai/app/uploads/2020/12/alyssa-li-dayan.png,public/app/uploads/2020/12/alyssa-li-dayan.png,,ok
+attachment,1888,https://humancompatible.ai/app/uploads/2020/12/yuxi-liu.jpg,public/app/uploads/2020/12/yuxi-liu.jpg,,ok
+attachment,1889,https://humancompatible.ai/app/uploads/2020/12/alex-gunning.jpg,public/app/uploads/2020/12/alex-gunning.jpg,,ok
+attachment,1890,https://humancompatible.ai/app/uploads/2020/12/jessy-lin.jpg,public/app/uploads/2020/12/jessy-lin.jpg,,ok
+attachment,1891,https://humancompatible.ai/app/uploads/2020/12/cassidy-laidlaw.jpg,public/app/uploads/2020/12/cassidy-laidlaw.jpg,,ok
+attachment,1902,https://humancompatible.ai/app/uploads/2020/12/Screen-Shot-2020-12-28-at-10.25.41-AM-e1609179991514.png,public/app/uploads/2020/12/Screen-Shot-2020-12-28-at-10.25.41-AM-e1609179991514.png,,ok
+attachment,1904,https://humancompatible.ai/app/uploads/2020/12/100-e1609180963402.jpg,public/app/uploads/2020/12/100-e1609180963402.jpg,,ok
+attachment,1915,https://humancompatible.ai/app/uploads/2020/06/logo.jpg,public/app/uploads/2020/06/logo.jpg,attachment parent 53,ok
+attachment,1917,https://humancompatible.ai/app/uploads/2020/05/Screen-Shot-2020-12-28-at-10.57.54-AM.png,public/app/uploads/2020/05/Screen-Shot-2020-12-28-at-10.57.54-AM.png,attachment parent 57,ok
+attachment,1925,https://humancompatible.ai/app/uploads/2021/01/jakob-foerster.png,public/app/uploads/2021/01/jakob-foerster.png,,ok
+attachment,1930,https://humancompatible.ai/app/uploads/2021/01/dorsasadigh_200x200.jpg,public/app/uploads/2021/01/dorsasadigh_200x200.jpg,,ok
+attachment,1963,https://humancompatible.ai/app/uploads/2021/02/0AesxsZC_400x400.jpg,public/app/uploads/2021/02/0AesxsZC_400x400.jpg,attachment parent 1961,ok
+attachment,1972,https://humancompatible.ai/app/uploads/2021/02/68572739-1.png,public/app/uploads/2021/02/68572739-1.png,attachment parent 1968,ok
+attachment,1979,https://humancompatible.ai/app/uploads/2021/01/Screen-Shot-2021-02-05-at-10.59.21-AM.jpg,public/app/uploads/2021/01/Screen-Shot-2021-02-05-at-10.59.21-AM.jpg,attachment parent 1974,ok
+attachment,1982,https://humancompatible.ai/app/uploads/2021/02/tom-lenaerts.png,public/app/uploads/2021/02/tom-lenaerts.png,attachment parent 1981,ok
+attachment,1986,https://humancompatible.ai/app/uploads/2021/02/jmCoOBzX_400x400.jpg,public/app/uploads/2021/02/jmCoOBzX_400x400.jpg,attachment parent 1985,ok
+attachment,1992,https://humancompatible.ai/app/uploads/2021/02/Screen-Shot-2021-02-09-at-8.58.18-AM.png,public/app/uploads/2021/02/Screen-Shot-2021-02-09-at-8.58.18-AM.png,attachment parent 1991,ok
+attachment,1998,https://humancompatible.ai/app/uploads/2021/02/Webp.net-resizeimage-1.png,public/app/uploads/2021/02/Webp.net-resizeimage-1.png,attachment parent 1995,ok
+attachment,2016,https://humancompatible.ai/app/uploads/2021/01/Screen-Shot-2021-02-11-at-9.51.04-AM.png,public/app/uploads/2021/01/Screen-Shot-2021-02-11-at-9.51.04-AM.png,attachment parent 2012,ok
+attachment,2058,https://humancompatible.ai/app/uploads/2021/03/Rafael-Albert.jpg,public/app/uploads/2021/03/Rafael-Albert.jpg,attachment parent 2057,ok
+attachment,2064,https://humancompatible.ai/app/uploads/2021/03/Screen-Shot-2021-03-04-at-10.02.55-AM.png,public/app/uploads/2021/03/Screen-Shot-2021-03-04-at-10.02.55-AM.png,attachment parent 2063,ok
+attachment,2069,https://humancompatible.ai/app/uploads/2021/03/Screen-Shot-2021-03-04-at-10.02.55-AM.jpg,public/app/uploads/2021/03/Screen-Shot-2021-03-04-at-10.02.55-AM.jpg,attachment parent 2063,ok
+attachment,2077,https://humancompatible.ai/app/uploads/2021/03/yawen-duan.png,public/app/uploads/2021/03/yawen-duan.png,attachment parent 2076,ok
+attachment,2088,https://humancompatible.ai/app/uploads/2021/03/scott-emmons.jpg,public/app/uploads/2021/03/scott-emmons.jpg,attachment parent 2087,ok
+attachment,2094,https://humancompatible.ai/app/uploads/2021/03/aaai-logo.png,public/app/uploads/2021/03/aaai-logo.png,,ok
+attachment,2095,https://humancompatible.ai/app/uploads/2021/03/medium_1567044152-artwork.jpeg,public/app/uploads/2021/03/medium_1567044152-artwork.jpeg,,ok
+attachment,2096,https://humancompatible.ai/app/uploads/2021/03/Screen-Shot-2021-03-30-at-11.02.01-AM.png,public/app/uploads/2021/03/Screen-Shot-2021-03-30-at-11.02.01-AM.png,,ok
+attachment,2109,https://humancompatible.ai/app/uploads/2021/03/1519893608292.png,public/app/uploads/2021/03/1519893608292.png,attachment parent 2106,ok
+attachment,2115,https://humancompatible.ai/app/uploads/2021/03/Screen-Shot-2021-03-30-at-11.02.01-AM_50.png,public/app/uploads/2021/03/Screen-Shot-2021-03-30-at-11.02.01-AM_50.png,attachment parent 2113,ok
+attachment,2120,https://humancompatible.ai/app/uploads/2021/04/paria-rashidinejad.jpg,public/app/uploads/2021/04/paria-rashidinejad.jpg,attachment parent 2119,ok
+attachment,2127,https://humancompatible.ai/app/uploads/2021/04/Julia-Kerley.png,public/app/uploads/2021/04/Julia-Kerley.png,,ok
+attachment,2132,https://humancompatible.ai/app/uploads/2021/04/Webp.net-resizeimage.png,public/app/uploads/2021/04/Webp.net-resizeimage.png,attachment parent 2131,ok
+attachment,2136,https://humancompatible.ai/app/uploads/2021/04/Screen-Shot-2021-04-13-at-8.09.35-AM.png,public/app/uploads/2021/04/Screen-Shot-2021-04-13-at-8.09.35-AM.png,attachment parent 2135,ok
+attachment,2144,https://humancompatible.ai/app/uploads/2021/04/arnaud-fickinger.jpg,public/app/uploads/2021/04/arnaud-fickinger.jpg,attachment parent 2143,ok
+attachment,2152,https://humancompatible.ai/app/uploads/2021/04/Lauro-Langosco-di-Langosco.jpg,public/app/uploads/2021/04/Lauro-Langosco-di-Langosco.jpg,attachment parent 2151,ok
+attachment,2156,https://humancompatible.ai/app/uploads/2021/04/Antoni-Lorente-Martinez.jpg,public/app/uploads/2021/04/Antoni-Lorente-Martinez.jpg,,ok
+attachment,2163,https://humancompatible.ai/app/uploads/2021/04/wesley-holliday.jpg,public/app/uploads/2021/04/wesley-holliday.jpg,attachment parent 2162,ok
+attachment,2166,https://humancompatible.ai/app/uploads/2021/04/Pavel-Czempin.jpg,public/app/uploads/2021/04/Pavel-Czempin.jpg,attachment parent 2165,ok
+attachment,2174,https://humancompatible.ai/app/uploads/2021/05/nathan-miller.png,public/app/uploads/2021/05/nathan-miller.png,attachment parent 2169,ok
+attachment,2189,https://humancompatible.ai/app/uploads/2021/05/GAIW-2021.png,public/app/uploads/2021/05/GAIW-2021.png,attachment parent 2188,ok
+attachment,2195,https://humancompatible.ai/app/uploads/2021/03/Webp.net-resizeimage.jpg,public/app/uploads/2021/03/Webp.net-resizeimage.jpg,attachment parent 2193,ok
+attachment,2196,https://humancompatible.ai/app/uploads/2021/03/51NTItonR1L._SL210_.jpg,public/app/uploads/2021/03/51NTItonR1L._SL210_.jpg,attachment parent 2193,ok
+attachment,2198,https://humancompatible.ai/app/uploads/2021/05/file-20210311-18-1pat070.jpg,public/app/uploads/2021/05/file-20210311-18-1pat070.jpg,attachment parent 2197,ok
+attachment,2205,https://humancompatible.ai/app/uploads/2021/04/Webp.net-resizeimage-1.png,public/app/uploads/2021/04/Webp.net-resizeimage-1.png,attachment parent 2202,ok
+attachment,2208,https://humancompatible.ai/app/uploads/2021/05/jonathan-stray.png,public/app/uploads/2021/05/jonathan-stray.png,attachment parent 2207,ok
+attachment,2216,https://humancompatible.ai/app/uploads/2021/05/joar-skalse.jpg,public/app/uploads/2021/05/joar-skalse.jpg,attachment parent 2215,ok
+attachment,2220,https://humancompatible.ai/app/uploads/2021/05/photo-matthew.jpeg,public/app/uploads/2021/05/photo-matthew.jpeg,attachment parent 2219,ok
+attachment,2232,https://humancompatible.ai/app/uploads/2021/06/oliver-r.jpg,public/app/uploads/2021/06/oliver-r.jpg,attachment parent 2231,ok
+attachment,2238,https://humancompatible.ai/app/uploads/2021/06/woodside.jpg,public/app/uploads/2021/06/woodside.jpg,attachment parent 2237,ok
+attachment,2250,https://humancompatible.ai/app/uploads/2021/06/Carlo-A.png,public/app/uploads/2021/06/Carlo-A.png,attachment parent 2249,ok
+attachment,2254,https://humancompatible.ai/app/uploads/2021/06/Jonathan-Stray.jpg,public/app/uploads/2021/06/Jonathan-Stray.jpg,attachment parent 2253,ok
+attachment,2257,https://humancompatible.ai/app/uploads/2021/06/image_1_31.png,public/app/uploads/2021/06/image_1_31.png,attachment parent 2256,ok
+attachment,2260,https://humancompatible.ai/app/uploads/2021/06/Webp.net-resizeimage.jpg,public/app/uploads/2021/06/Webp.net-resizeimage.jpg,attachment parent 2259,ok
+attachment,2270,https://humancompatible.ai/app/uploads/2021/06/Webp.net-resizeimage-1.jpg,public/app/uploads/2021/06/Webp.net-resizeimage-1.jpg,attachment parent 2269,ok
+attachment,2277,https://humancompatible.ai/app/uploads/2021/06/Webp.net-resizeimage-1.png,public/app/uploads/2021/06/Webp.net-resizeimage-1.png,attachment parent 2276,ok
+attachment,2282,https://humancompatible.ai/app/uploads/2020/11/vaelgates.png,public/app/uploads/2020/11/vaelgates.png,attachment parent 422,ok
+attachment,2288,https://humancompatible.ai/app/uploads/2021/06/neelnanda.jpg,public/app/uploads/2021/06/neelnanda.jpg,attachment parent 2287,ok
+attachment,2297,https://humancompatible.ai/app/uploads/2021/06/Webp.net-resizeimage-2.jpg,public/app/uploads/2021/06/Webp.net-resizeimage-2.jpg,attachment parent 2296,ok
+attachment,2300,https://humancompatible.ai/app/uploads/2021/06/yulong.jpg,public/app/uploads/2021/06/yulong.jpg,attachment parent 2299,ok
+attachment,2304,https://humancompatible.ai/app/uploads/2021/07/Webp.net-resizeimage.jpg,public/app/uploads/2021/07/Webp.net-resizeimage.jpg,attachment parent 2303,ok
+attachment,2311,https://humancompatible.ai/app/uploads/2020/11/jaime.jpg,public/app/uploads/2020/11/jaime.jpg,attachment parent 288,ok
+attachment,2315,https://humancompatible.ai/app/uploads/2021/07/debates.png,public/app/uploads/2021/07/debates.png,attachment parent 2314,ok
+attachment,2318,https://humancompatible.ai/app/uploads/2021/07/icml.png,public/app/uploads/2021/07/icml.png,attachment parent 2317,ok
+attachment,2335,https://humancompatible.ai/app/uploads/2021/07/unnamed.jpg,public/app/uploads/2021/07/unnamed.jpg,,ok
+attachment,2342,https://humancompatible.ai/app/uploads/2021/08/1-s2.0-S0004370221001065-gr001.jpg,public/app/uploads/2021/08/1-s2.0-S0004370221001065-gr001.jpg,attachment parent 2341,ok
+attachment,2348,https://humancompatible.ai/app/uploads/2021/08/obe_image-e1628721929389.jpg,public/app/uploads/2021/08/obe_image-e1628721929389.jpg,attachment parent 2347,ok
+attachment,2351,https://humancompatible.ai/app/uploads/2021/08/600-Pixel-Tech-Policy-Press-Transparent-Logo-e1628722046621.png,public/app/uploads/2021/08/600-Pixel-Tech-Policy-Press-Transparent-Logo-e1628722046621.png,attachment parent 2350,ok
+attachment,2355,https://humancompatible.ai/app/uploads/2021/08/T9UTZPRRV-U02B7E764BW-82619e385ce3-512-e1629227282150.jpg,public/app/uploads/2021/08/T9UTZPRRV-U02B7E764BW-82619e385ce3-512-e1629227282150.jpg,attachment parent 2353,ok
+attachment,2388,https://humancompatible.ai/app/uploads/2021/08/IMG_7563-e1630287262321.jpg,public/app/uploads/2021/08/IMG_7563-e1630287262321.jpg,,ok
+attachment,2393,https://humancompatible.ai/app/uploads/2021/08/Screen-Shot-2021-08-30-at-3.01.41-PM-e1630360940787.png,public/app/uploads/2021/08/Screen-Shot-2021-08-30-at-3.01.41-PM-e1630360940787.png,,ok
+attachment,2400,https://humancompatible.ai/app/uploads/2021/08/1623780667706-e1630446196674.jpg,public/app/uploads/2021/08/1623780667706-e1630446196674.jpg,attachment parent 2398,ok
+attachment,2510,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-08-at-1.43.23-PM-e1631133931499.png,public/app/uploads/2021/09/Screen-Shot-2021-09-08-at-1.43.23-PM-e1631133931499.png,attachment parent 2508,ok
+attachment,2515,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-08-at-1.48.38-PM-e1631134487110.png,public/app/uploads/2021/09/Screen-Shot-2021-09-08-at-1.48.38-PM-e1631134487110.png,attachment parent 2514,ok
+attachment,2520,https://humancompatible.ai/app/uploads/2021/09/08984_1-e1631134712453.jpg,public/app/uploads/2021/09/08984_1-e1631134712453.jpg,attachment parent 2519,ok
+attachment,2539,https://humancompatible.ai/app/uploads/2021/09/Photo.jpeg,public/app/uploads/2021/09/Photo.jpeg,attachment parent 2538,ok
+attachment,2773,https://humancompatible.ai/app/uploads/2021/09/EDkiJisW4AAEEMk.jpg,public/app/uploads/2021/09/EDkiJisW4AAEEMk.jpg,attachment parent 2770,ok
+attachment,2779,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-13-at-12.16.53-PM-e1631560642925.png,public/app/uploads/2021/09/Screen-Shot-2021-09-13-at-12.16.53-PM-e1631560642925.png,attachment parent 2776,ok
+attachment,2791,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-23-at-9.51.57-AM.png,public/app/uploads/2021/09/Screen-Shot-2021-09-23-at-9.51.57-AM.png,,ok
+attachment,2792,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-23-at-9.51.57-AM-1.png,public/app/uploads/2021/09/Screen-Shot-2021-09-23-at-9.51.57-AM-1.png,attachment parent 2785,ok
+attachment,2803,https://humancompatible.ai/app/uploads/2021/10/100121noyuriCHAI.jpg,public/app/uploads/2021/10/100121noyuriCHAI.jpg,,ok
+attachment,2809,https://humancompatible.ai/app/uploads/2021/10/Screen-Shot-2021-10-15-at-4.24.47-PM.png,public/app/uploads/2021/10/Screen-Shot-2021-10-15-at-4.24.47-PM.png,attachment parent 2808,ok
+attachment,2823,https://humancompatible.ai/app/uploads/2021/10/Professional-Photo-resized.jpg,public/app/uploads/2021/10/Professional-Photo-resized.jpg,,ok
+attachment,3289,https://humancompatible.ai/app/uploads/2021/03/Scott-Emmons-cropped-.jpg,public/app/uploads/2021/03/Scott-Emmons-cropped-.jpg,attachment parent 2087,ok
+attachment,3294,https://humancompatible.ai/app/uploads/2021/11/lf_logo.png,public/app/uploads/2021/11/lf_logo.png,attachment parent 3293,ok
+attachment,3298,https://humancompatible.ai/app/uploads/2021/11/neurIPS.jpeg,public/app/uploads/2021/11/neurIPS.jpeg,attachment parent 3297,ok
+attachment,3318,https://humancompatible.ai/app/uploads/2021/12/Kavli.jpeg,public/app/uploads/2021/12/Kavli.jpeg,attachment parent 3315,ok
+attachment,3319,https://humancompatible.ai/app/uploads/2021/12/Kavli2.png,public/app/uploads/2021/12/Kavli2.png,attachment parent 3315,ok
+attachment,3320,https://humancompatible.ai/app/uploads/2021/12/Kavli3.jpeg,public/app/uploads/2021/12/Kavli3.jpeg,attachment parent 3315,ok
+attachment,3337,https://humancompatible.ai/app/uploads/2022/01/CHAI-360x230-1.png,public/app/uploads/2022/01/CHAI-360x230-1.png,attachment parent 3335,ok
+attachment,3450,https://humancompatible.ai/app/uploads/2022/02/SF.png,public/app/uploads/2022/02/SF.png,attachment parent 3449,ok
+attachment,3453,https://humancompatible.ai/app/uploads/2022/02/PMAC.jpeg,public/app/uploads/2022/02/PMAC.jpeg,attachment parent 3452,ok
+attachment,3468,https://humancompatible.ai/app/uploads/2022/03/me2-e1647880247976.jpg,public/app/uploads/2022/03/me2-e1647880247976.jpg,attachment parent 3467,ok
+attachment,3471,https://humancompatible.ai/app/uploads/2022/03/IMG_0598-3.jpg,public/app/uploads/2022/03/IMG_0598-3.jpg,attachment parent 3470,ok
+attachment,3472,https://humancompatible.ai/app/uploads/2022/03/img_0598-3-1.jpg,public/app/uploads/2022/03/img_0598-3-1.jpg,attachment parent 3470,ok
+attachment,3480,https://humancompatible.ai/app/uploads/2022/04/IMG_3052-2.jpg,public/app/uploads/2022/04/IMG_3052-2.jpg,attachment parent 3479,ok
+attachment,3481,https://humancompatible.ai/app/uploads/2022/04/hanlin-resized.jpeg,public/app/uploads/2022/04/hanlin-resized.jpeg,attachment parent 3479,ok
+attachment,3488,https://humancompatible.ai/app/uploads/2022/04/EA.png,public/app/uploads/2022/04/EA.png,attachment parent 3487,ok
+attachment,3491,https://humancompatible.ai/app/uploads/2022/04/medium.png,public/app/uploads/2022/04/medium.png,attachment parent 3490,ok
+attachment,3492,https://humancompatible.ai/app/uploads/2022/04/medium-50.png,public/app/uploads/2022/04/medium-50.png,attachment parent 3490,ok
+attachment,3495,https://humancompatible.ai/app/uploads/2022/04/LAILEC.png,public/app/uploads/2022/04/LAILEC.png,attachment parent 3494,ok
+attachment,3498,https://humancompatible.ai/app/uploads/2022/04/fraiday-e1650476457818.webp,public/app/uploads/2022/04/fraiday-e1650476457818.webp,attachment parent 3497,ok
+attachment,3504,https://humancompatible.ai/app/uploads/2022/04/abbeel_2286049.jpeg,public/app/uploads/2022/04/abbeel_2286049.jpeg,attachment parent 3503,ok
+attachment,3515,https://humancompatible.ai/app/uploads/2022/05/CHAI-Newsletter-Q3-2017.pdf,public/app/uploads/2022/05/CHAI-Newsletter-Q3-2017.pdf,attachment parent 3514,ok
+attachment,3516,https://humancompatible.ai/app/uploads/2022/05/CHAI-Newsletter-Q3-2017-1.pdf,public/app/uploads/2022/05/CHAI-Newsletter-Q3-2017-1.pdf,attachment parent 3514,ok
+attachment,3527,https://humancompatible.ai/app/uploads/2022/05/CHAI-2022-Progress-Report-3.pdf,public/app/uploads/2022/05/CHAI-2022-Progress-Report-3.pdf,attachment parent 772,ok
+attachment,3536,https://humancompatible.ai/app/uploads/2022/05/Mason-Resized--e1653324344270.png,public/app/uploads/2022/05/Mason-Resized-e1653324344270.png,,ok
+attachment,3540,https://humancompatible.ai/app/uploads/2022/05/IMG_20200615_142700-scaled.jpg,public/app/uploads/2022/05/IMG_20200615_142700-scaled.jpg,attachment parent 3539,ok
+attachment,3541,https://humancompatible.ai/app/uploads/2022/05/Katie-Resized.png,public/app/uploads/2022/05/Katie-Resized.png,attachment parent 3539,ok
+attachment,3546,https://humancompatible.ai/app/uploads/2022/05/Berglund-Resized-.png,public/app/uploads/2022/05/Berglund-Resized-.png,attachment parent 3544,ok
+attachment,3548,https://humancompatible.ai/app/uploads/2022/05/kaufmann-resized--e1653346082925.jpeg,public/app/uploads/2022/05/kaufmann-resized-e1653346082925.jpeg,attachment parent 3547,ok
+attachment,3551,https://humancompatible.ai/app/uploads/2022/05/head_shot.jpg,public/app/uploads/2022/05/head_shot.jpg,attachment parent 3550,ok
+attachment,3552,https://humancompatible.ai/app/uploads/2022/05/mckinney-resized-.png,public/app/uploads/2022/05/mckinney-resized-.png,attachment parent 3550,ok
+attachment,3557,https://humancompatible.ai/app/uploads/2022/05/image-e1654016002566.png,public/app/uploads/2022/05/image-e1654016002566.png,attachment parent 3556,ok
+attachment,3566,https://humancompatible.ai/app/uploads/2022/06/image0.jpeg,public/app/uploads/2022/06/image0.jpeg,attachment parent 3565,ok
+attachment,3567,https://humancompatible.ai/app/uploads/2022/06/1download.png,public/app/uploads/2022/06/1download.png,attachment parent 3565,ok
+attachment,3572,https://humancompatible.ai/app/uploads/2022/06/blog-image-.png,public/app/uploads/2022/06/blog-image-.png,attachment parent 3571,ok
+attachment,3575,https://humancompatible.ai/app/uploads/2022/06/Screen-Shot-2022-06-08-at-1.35.34-PM.png,public/app/uploads/2022/06/Screen-Shot-2022-06-08-at-1.35.34-PM.png,attachment parent 3574,ok
+attachment,3582,https://humancompatible.ai/app/uploads/2022/06/oliver-big.jpeg,public/app/uploads/2022/06/oliver-big.jpeg,attachment parent 3579,ok
+attachment,3584,https://humancompatible.ai/app/uploads/2022/06/PXL_20211213_181652233.PORTRAIT.jpg,public/app/uploads/2022/06/PXL_20211213_181652233.PORTRAIT.jpg,attachment parent 3583,ok
+attachment,3585,https://humancompatible.ai/app/uploads/2022/06/michael-resized-.png,public/app/uploads/2022/06/michael-resized-.png,attachment parent 3583,ok
+attachment,3591,https://humancompatible.ai/app/uploads/2022/06/resized-workshop-.png,public/app/uploads/2022/06/resized-workshop-.png,attachment parent 3590,ok
+attachment,3595,https://humancompatible.ai/app/uploads/2022/06/IMG_3054_2-1.jpeg,public/app/uploads/2022/06/IMG_3054_2-1.jpeg,attachment parent 3594,ok
+attachment,3598,https://humancompatible.ai/app/uploads/2022/07/Turner-043-e1657047815362.jpg,public/app/uploads/2022/07/Turner-043-e1657047815362.jpg,attachment parent 3597,ok
+attachment,3602,https://humancompatible.ai/app/uploads/2022/07/me_square.jpg,public/app/uploads/2022/07/me_square.jpg,attachment parent 3601,ok
+attachment,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,public/app/uploads/2020/10/cropped-chai_logo.png,,ok
+attachment,3610,https://humancompatible.ai/app/uploads/2022/07/me-headshot-paris.jpeg,public/app/uploads/2022/07/me-headshot-paris.jpeg,attachment parent 3609,ok
+attachment,3621,https://humancompatible.ai/app/uploads/2022/07/Nisan.jpg,public/app/uploads/2022/07/Nisan.jpg,,ok
+attachment,3633,https://humancompatible.ai/app/uploads/2020/11/square.jpg,public/app/uploads/2020/11/square.jpg,attachment parent 412,ok
+attachment,3637,https://humancompatible.ai/app/uploads/2022/07/erdem.png,public/app/uploads/2022/07/erdem.png,attachment parent 3636,ok
+attachment,3645,https://humancompatible.ai/app/uploads/2022/08/rldm.png,public/app/uploads/2022/08/rldm.png,attachment parent 3644,ok
+attachment,3649,https://humancompatible.ai/app/uploads/2022/08/the-center.jpeg,public/app/uploads/2022/08/the-center.jpeg,,ok
+attachment,3652,https://humancompatible.ai/app/uploads/2022/08/johannes-treutlein-photo.jpeg,public/app/uploads/2022/08/johannes-treutlein-photo.jpeg,attachment parent 3651,ok
+attachment,3653,https://humancompatible.ai/app/uploads/2022/08/johannes-treutlein-photo-1.jpeg,public/app/uploads/2022/08/johannes-treutlein-photo-1.jpeg,attachment parent 3651,ok
+attachment,3654,https://humancompatible.ai/app/uploads/2022/08/johannes-treutlein-photo.jpg,public/app/uploads/2022/08/johannes-treutlein-photo.jpg,attachment parent 3651,ok
+attachment,3655,https://humancompatible.ai/app/uploads/2022/08/johannes-treutlein-photo-min.jpg,public/app/uploads/2022/08/johannes-treutlein-photo-min.jpg,attachment parent 3651,ok
+attachment,3658,https://humancompatible.ai/app/uploads/2022/08/shreyas_photo-min.jpg,public/app/uploads/2022/08/shreyas_photo-min.jpg,,ok
+attachment,3659,https://humancompatible.ai/app/uploads/2022/08/shreyas_photo_min.jpg,public/app/uploads/2022/08/shreyas_photo_min.jpg,,ok
+attachment,3660,https://humancompatible.ai/app/uploads/2022/08/shreyas_photo_min-min.jpg,public/app/uploads/2022/08/shreyas_photo_min-min.jpg,,ok
+attachment,3661,https://humancompatible.ai/app/uploads/2022/08/shreyas_photo_min-min-1-e1665437290513.jpg,public/app/uploads/2022/08/shreyas_photo_min-min-1-e1665437290513.jpg,,ok
+attachment,3662,https://humancompatible.ai/app/uploads/2022/08/shreyas_photo_m-min.jpg,public/app/uploads/2022/08/shreyas_photo_m-min.jpg,,ok
+attachment,3668,https://humancompatible.ai/app/uploads/2022/08/headshot.jpeg,public/app/uploads/2022/08/headshot.jpeg,attachment parent 3667,ok
+attachment,3669,https://humancompatible.ai/app/uploads/2022/08/headshot-min.jpeg,public/app/uploads/2022/08/headshot-min.jpeg,attachment parent 3667,ok
+attachment,3670,https://humancompatible.ai/app/uploads/2022/08/headshot-min.jpg,public/app/uploads/2022/08/headshot-min.jpg,attachment parent 3667,ok
+attachment,3674,https://humancompatible.ai/app/uploads/2022/08/gallery-pages-min.jpg,public/app/uploads/2022/08/gallery-pages-min.jpg,attachment parent 3673,ok
+attachment,3675,https://humancompatible.ai/app/uploads/2022/08/gallery-pages-min-min.jpg,public/app/uploads/2022/08/gallery-pages-min-min.jpg,attachment parent 3673,ok
+attachment,3699,https://humancompatible.ai/app/uploads/2020/12/2021-08-e1691419580956.jpg,public/app/uploads/2020/12/2021-08-e1691419580956.jpg,attachment parent 1894,ok
+attachment,3756,https://humancompatible.ai/app/uploads/2022/09/David-Krueger.jpg,public/app/uploads/2022/09/David-Krueger.jpg,attachment parent 3755,ok
+attachment,3764,https://humancompatible.ai/app/uploads/2022/09/KR2022-e1664204600864.png,public/app/uploads/2022/09/KR2022-e1664204600864.png,attachment parent 3763,ok
+attachment,3765,https://humancompatible.ai/app/uploads/2022/09/KR2022-1.png,public/app/uploads/2022/09/KR2022-1.png,attachment parent 3763,ok
+attachment,3768,https://humancompatible.ai/app/uploads/2022/09/arXiv.png,public/app/uploads/2022/09/arXiv.png,attachment parent 3767,ok
+attachment,3859,https://humancompatible.ai/app/uploads/2022/10/social-media-pollution.webp,public/app/uploads/2022/10/social-media-pollution.webp,attachment parent 3856,ok
+attachment,3861,https://humancompatible.ai/app/uploads/2022/10/w_1024.png,public/app/uploads/2022/10/w_1024.png,attachment parent 3860,ok
+attachment,3870,https://humancompatible.ai/app/uploads/2022/10/Symmetric-MDP-A-v2-e1665437218234.jpg,public/app/uploads/2022/10/Symmetric-MDP-A-v2-e1665437218234.jpg,attachment parent 3707,ok
+attachment,3880,https://humancompatible.ai/app/uploads/2022/11/306997234_764001521690166_7119691910150010422_n.jpeg,public/app/uploads/2022/11/306997234_764001521690166_7119691910150010422_n.jpeg,attachment parent 3879,ok
+attachment,3883,https://humancompatible.ai/app/uploads/2022/11/content.png,public/app/uploads/2022/11/content.png,attachment parent 3882,ok
+attachment,3889,https://humancompatible.ai/app/uploads/2022/11/Kavli-Center-ESP-logo.png,public/app/uploads/2022/11/Kavli-Center-ESP-logo.png,,ok
+attachment,3891,https://humancompatible.ai/app/uploads/2022/11/Kavli-Center-ESP-logo-1.png,public/app/uploads/2022/11/Kavli-Center-ESP-logo-1.png,,ok
+attachment,3897,https://humancompatible.ai/app/uploads/2022/11/Screen-Shot-2022-11-15-at-9.58.21-AM.png,public/app/uploads/2022/11/Screen-Shot-2022-11-15-at-9.58.21-AM.png,attachment parent 3896,ok
+attachment,3900,https://humancompatible.ai/app/uploads/2022/11/nl_900x900.png,public/app/uploads/2022/11/nl_900x900.png,attachment parent 3899,ok
+attachment,3918,https://humancompatible.ai/app/uploads/2023/01/Association_for_the_Advancement_of_Artificial_Intelligence.svg_.png,public/app/uploads/2023/01/Association_for_the_Advancement_of_Artificial_Intelligence.svg_.png,attachment parent 3917,ok
+attachment,3921,https://humancompatible.ai/app/uploads/2023/01/nyt-gpt3.webp,public/app/uploads/2023/01/nyt-gpt3.webp,attachment parent 3920,ok
+attachment,3928,https://humancompatible.ai/app/uploads/2022/12/prisoners-dilemma.jpeg,public/app/uploads/2022/12/prisoners-dilemma.jpeg,attachment parent 3926,ok
+attachment,3960,https://humancompatible.ai/app/uploads/2023/02/supreme-court.jpeg,public/app/uploads/2023/02/supreme-court.jpeg,attachment parent 3959,ok
+attachment,3966,https://humancompatible.ai/app/uploads/2023/03/edmund_mills.png,public/app/uploads/2023/03/edmund_mills.png,attachment parent 3965,ok
+attachment,3969,https://humancompatible.ai/app/uploads/2023/03/bike_tour.jpg,public/app/uploads/2023/03/bike_tour.jpg,attachment parent 3968,ok
+attachment,3972,https://humancompatible.ai/app/uploads/2023/03/Dr-Angela-Butler-1-1.jpg,public/app/uploads/2023/03/Dr-Angela-Butler-1-1.jpg,,ok
+attachment,3973,https://humancompatible.ai/app/uploads/2023/03/Dr-Angela-Butler-1-1-1.jpg,public/app/uploads/2023/03/Dr-Angela-Butler-1-1-1.jpg,,ok
+attachment,3974,https://humancompatible.ai/app/uploads/2023/03/Dr-Angela-Butler-1-1-2.jpg,public/app/uploads/2023/03/Dr-Angela-Butler-1-1-2.jpg,,ok
+attachment,3978,https://humancompatible.ai/app/uploads/2023/03/mud-profpic.png,public/app/uploads/2023/03/mud-profpic.png,attachment parent 3977,ok
+attachment,3995,https://humancompatible.ai/app/uploads/2023/03/230306_r41939.webp,public/app/uploads/2023/03/230306_r41939.webp,attachment parent 3994,ok
+attachment,3998,https://humancompatible.ai/app/uploads/2023/03/openai-chatgpt.webp,public/app/uploads/2023/03/openai-chatgpt.webp,attachment parent 3997,ok
+attachment,4004,https://humancompatible.ai/app/uploads/2023/04/RE-Spring-2023-April.png,public/app/uploads/2023/04/RE-Spring-2023-April.png,attachment parent 4003,ok
+attachment,4008,https://humancompatible.ai/app/uploads/2023/04/10663.webp,public/app/uploads/2023/04/10663.webp,attachment parent 4006,ok
+attachment,4013,https://humancompatible.ai/app/uploads/2023/05/expert-bias-climbing-to-knowledge.png,public/app/uploads/2023/05/expert-bias-climbing-to-knowledge.png,attachment parent 4012,ok
+attachment,4023,https://humancompatible.ai/app/uploads/2023/05/asf_shot_2-scaled.jpg,public/app/uploads/2023/05/asf_shot_2-scaled.jpg,attachment parent 4022,ok
+attachment,4042,https://humancompatible.ai/app/uploads/2023/06/image-mason-min.jpg,public/app/uploads/2023/06/image-mason-min.jpg,attachment parent 4041,ok
+attachment,4045,https://humancompatible.ai/app/uploads/2023/06/Screenshot-2023-06-06-at-11.36.51-AM.png,public/app/uploads/2023/06/Screenshot-2023-06-06-at-11.36.51-AM.png,attachment parent 4044,ok
+attachment,4049,https://humancompatible.ai/app/uploads/2023/06/Google_Drive_logo.png,public/app/uploads/2023/06/Google_Drive_logo.png,attachment parent 3986,ok
+attachment,4050,https://humancompatible.ai/app/uploads/2023/06/Google-Drive-icon.png,public/app/uploads/2023/06/Google-Drive-icon.png,attachment parent 3986,ok
+attachment,4074,https://humancompatible.ai/app/uploads/2023/06/Asilomar-State-Beach1_05376b61-5056-a36a-0acd84a9b7365100.jpg,public/app/uploads/2023/06/Asilomar-State-Beach1_05376b61-5056-a36a-0acd84a9b7365100.jpg,attachment parent 3986,ok
+attachment,4075,https://humancompatible.ai/app/uploads/2023/06/Asilomar-State-Beach1_05376b61-5056-a36a-0acd84a9b7365100-1.jpg,public/app/uploads/2023/06/Asilomar-State-Beach1_05376b61-5056-a36a-0acd84a9b7365100-1.jpg,attachment parent 3986,ok
+attachment,4076,https://humancompatible.ai/app/uploads/2023/06/Asilomar-State-Beach1_05376b61-5056-a36a-0acd84a9b7365100_small.png,public/app/uploads/2023/06/Asilomar-State-Beach1_05376b61-5056-a36a-0acd84a9b7365100_small.png,attachment parent 3986,ok
+attachment,4077,https://humancompatible.ai/app/uploads/2023/06/asilomar.png,public/app/uploads/2023/06/asilomar.png,attachment parent 3986,ok
+attachment,4083,https://humancompatible.ai/app/uploads/2023/06/ae7f1f7f3b0af397_800x800ar-e1686114952565.png,public/app/uploads/2023/06/ae7f1f7f3b0af397_800x800ar-e1686114952565.png,attachment parent 3986,ok
+attachment,4090,https://humancompatible.ai/app/uploads/2023/06/asilomar_logo.jpg,public/app/uploads/2023/06/asilomar_logo.jpg,attachment parent 3986,ok
+attachment,4121,https://humancompatible.ai/app/uploads/2023/06/rooms_in_use_Asilomar.png,public/app/uploads/2023/06/rooms_in_use_Asilomar.png,attachment parent 3986,ok
+attachment,4402,https://humancompatible.ai/app/uploads/2023/06/map-of-key-buildings.png,public/app/uploads/2023/06/map-of-key-buildings.png,attachment parent 3986,ok
+attachment,4426,https://humancompatible.ai/app/uploads/2023/06/CHAI2023_GroupPhoto-1-1.jpg,public/app/uploads/2023/06/CHAI2023_GroupPhoto-1-1.jpg,attachment parent 4425,ok
+attachment,4433,https://humancompatible.ai/app/uploads/2023/07/Jacy-Reese-Anthis-Headshot-Outdoors.jpg,public/app/uploads/2023/07/Jacy-Reese-Anthis-Headshot-Outdoors.jpg,,ok
+attachment,4438,https://humancompatible.ai/app/uploads/2023/07/headshot_rect-1-1.png,public/app/uploads/2023/07/headshot_rect-1-1.png,attachment parent 4437,ok
+attachment,4451,https://humancompatible.ai/app/uploads/2023/07/fhi_headshot.jpg,public/app/uploads/2023/07/fhi_headshot.jpg,attachment parent 4450,ok
+attachment,4456,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-21-at-9.51.11-AM.png,public/app/uploads/2023/07/Screenshot-2023-07-21-at-9.51.11-AM.png,attachment parent 4455,ok
+attachment,4460,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-21-at-10.09.56-AM.png,public/app/uploads/2023/07/Screenshot-2023-07-21-at-10.09.56-AM.png,attachment parent 4459,ok
+attachment,4467,https://humancompatible.ai/app/uploads/2023/07/CHAI-2023-Progress-Report-May22-May23.pdf,public/app/uploads/2023/07/CHAI-2023-Progress-Report-May22-May23.pdf,attachment parent 772,ok
+attachment,4469,https://humancompatible.ai/app/uploads/2023/07/CHAI-2023-Progress-Report-May22-May23-1.pdf,public/app/uploads/2023/07/CHAI-2023-Progress-Report-May22-May23-1.pdf,attachment parent 772,ok
+attachment,4479,https://humancompatible.ai/app/uploads/2023/07/pic.jpeg,public/app/uploads/2023/07/pic.jpeg,attachment parent 4477,ok
+attachment,4482,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-11.39.15.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-11.39.15.png,attachment parent 4481,ok
+attachment,4483,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-11.39.15-1.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-11.39.15-1.png,attachment parent 4481,ok
+attachment,4484,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50.png,attachment parent 4481,ok
+attachment,4485,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50-1.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50-1.png,attachment parent 4481,ok
+attachment,4486,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50-2.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50-2.png,attachment parent 4481,ok
+attachment,4487,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50-3.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50-3.png,attachment parent 4481,ok
+attachment,4488,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50-4.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50-4.png,attachment parent 4481,ok
+attachment,4489,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.26.04.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-12.26.04.png,attachment parent 4481,ok
+attachment,4490,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.26.04-1.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-12.26.04-1.png,attachment parent 4481,ok
+attachment,4491,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.29.16.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-12.29.16.png,attachment parent 4481,ok
+attachment,4492,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.29.16-1.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-12.29.16-1.png,attachment parent 4481,ok
+attachment,4493,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.29.16-2.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-12.29.16-2.png,attachment parent 4481,ok
+attachment,4494,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.30.50.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-12.30.50.png,attachment parent 4481,ok
+attachment,4495,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.46.08.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-12.46.08.png,attachment parent 4481,ok
+attachment,4496,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.51.49.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-12.51.49.png,attachment parent 4481,ok
+attachment,4497,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.53.49.png,public/app/uploads/2023/07/Screenshot-2023-07-31-at-12.53.49.png,attachment parent 4481,ok
+attachment,4502,https://humancompatible.ai/app/uploads/2023/08/luke-e1690875098201.jpeg,public/app/uploads/2023/08/luke-e1690875098201.jpeg,attachment parent 4501,ok
+attachment,4508,https://humancompatible.ai/app/uploads/2023/08/chai_final-scaled.jpg,public/app/uploads/2023/08/chai_final-scaled.jpg,attachment parent 4507,ok
+attachment,4510,https://humancompatible.ai/app/uploads/2020/12/Screenshot-2023-08-07-at-17.47.12.png,public/app/uploads/2020/12/Screenshot-2023-08-07-at-17.47.12.png,attachment parent 1894,ok
+attachment,4513,https://humancompatible.ai/app/uploads/2023/08/PXL_20230323_2125018903.jpg,public/app/uploads/2023/08/PXL_20230323_2125018903.jpg,attachment parent 4511,ok
+attachment,4516,https://humancompatible.ai/app/uploads/2023/08/image-7.png,public/app/uploads/2023/08/image-7.png,attachment parent 4515,ok
+attachment,4524,https://humancompatible.ai/app/uploads/2023/06/Screenshot-2023-08-16-at-12.24.54.png,public/app/uploads/2023/06/Screenshot-2023-08-16-at-12.24.54.png,attachment parent 4041,ok
+attachment,4525,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-08-16-at-12.32.32.png,public/app/uploads/2023/07/Screenshot-2023-08-16-at-12.32.32.png,attachment parent 4437,ok
+attachment,4526,https://humancompatible.ai/app/uploads/2023/08/Screenshot-2023-08-16-at-12.35.10.png,public/app/uploads/2023/08/Screenshot-2023-08-16-at-12.35.10.png,attachment parent 4501,ok
+attachment,4528,https://humancompatible.ai/app/uploads/2023/08/IMG-5822-2.jpg,public/app/uploads/2023/08/IMG-5822-2.jpg,attachment parent 4527,ok
+attachment,4530,https://humancompatible.ai/app/uploads/2023/08/Screenshot-2023-08-28-at-12.16.20.png,public/app/uploads/2023/08/Screenshot-2023-08-28-at-12.16.20.png,attachment parent 4527,ok
+attachment,4546,https://humancompatible.ai/app/uploads/2023/08/Dale-Reed-200x200-new.jpg,public/app/uploads/2023/08/Dale-Reed-200x200-new.jpg,,ok
+attachment,4548,https://humancompatible.ai/app/uploads/2023/08/BenPlaut.jpeg,public/app/uploads/2023/08/BenPlaut.jpeg,attachment parent 4547,ok
+attachment,4550,https://humancompatible.ai/app/uploads/2023/09/russell-uc-unofficial2b.jpg,public/app/uploads/2023/09/russell-uc-unofficial2b.jpg,,ok
+attachment,4551,https://humancompatible.ai/app/uploads/2023/09/2023-07-26_-_testimony_-_russell.pdf,public/app/uploads/2023/09/2023-07-26_-_testimony_-_russell.pdf,,ok
+attachment,4554,https://humancompatible.ai/app/uploads/2023/09/IMG-6088-1.jpg,public/app/uploads/2023/09/IMG-6088-1.jpg,attachment parent 4553,ok
+attachment,4559,https://humancompatible.ai/app/uploads/2023/09/taxi-2023-09-08-160318.png,public/app/uploads/2023/09/taxi-2023-09-08-160318.png,attachment parent 4558,ok
+attachment,4571,https://humancompatible.ai/app/uploads/2023/09/Tu_Trinh_200x200.png,public/app/uploads/2023/09/Tu_Trinh_200x200.png,attachment parent 4570,ok
+attachment,4574,https://humancompatible.ai/app/uploads/2023/09/FullSizeRender.jpeg,public/app/uploads/2023/09/FullSizeRender.jpeg,attachment parent 4573,ok
+attachment,4578,https://humancompatible.ai/app/uploads/2023/09/senate_hearing.png,public/app/uploads/2023/09/senate_hearing.png,attachment parent 4576,ok
+attachment,4590,https://humancompatible.ai/app/uploads/2023/09/russell-uc-unofficial2b1-e1694498471417.png,public/app/uploads/2023/09/russell-uc-unofficial2b1-e1694498471417.png,attachment parent 4587,ok
+attachment,4599,https://humancompatible.ai/app/uploads/2023/09/russell-uc-unofficial2b1-1-e1694498588721.png,public/app/uploads/2023/09/russell-uc-unofficial2b1-1-e1694498588721.png,attachment parent 4587,ok
+attachment,4601,https://humancompatible.ai/app/uploads/2023/09/cam-allen-headshot.jpg,public/app/uploads/2023/09/cam-allen-headshot.jpg,attachment parent 4600,ok
+attachment,4604,https://humancompatible.ai/app/uploads/2023/09/time100-ai.png,public/app/uploads/2023/09/time100-ai.png,attachment parent 4603,ok
+attachment,4612,https://humancompatible.ai/app/uploads/2023/09/ACROCPoLis.png,public/app/uploads/2023/09/ACROCPoLis.png,attachment parent 4611,ok
+attachment,4615,https://humancompatible.ai/app/uploads/2023/09/henry-papadatos2.png,public/app/uploads/2023/09/henry-papadatos2.png,attachment parent 4614,ok
+attachment,4622,https://humancompatible.ai/app/uploads/2023/10/Forum-on-Information-Democracy.png,public/app/uploads/2023/10/Forum-on-Information-Democracy.png,attachment parent 4620,ok
+attachment,4623,https://humancompatible.ai/app/uploads/2023/10/Information-Sheet-WG-AI.pdf,public/app/uploads/2023/10/Information-Sheet-WG-AI.pdf,attachment parent 4620,ok
+attachment,4624,https://humancompatible.ai/app/uploads/2023/10/Working-Group-on-AI.png,public/app/uploads/2023/10/Working-Group-on-AI.png,attachment parent 4620,ok
+attachment,4628,https://humancompatible.ai/app/uploads/2023/10/euanong.jpeg,public/app/uploads/2023/10/euanong.jpeg,attachment parent 4627,ok
+attachment,4629,https://humancompatible.ai/app/uploads/2023/10/euanong-1.jpeg,public/app/uploads/2023/10/euanong-1.jpeg,attachment parent 4627,ok
+attachment,4634,https://humancompatible.ai/app/uploads/2023/10/Expertise-Trees-Resolve-Knowledge-Limitations-in-Collective-Decision-Making.png,public/app/uploads/2023/10/Expertise-Trees-Resolve-Knowledge-Limitations-in-Collective-Decision-Making.png,attachment parent 4633,ok
+attachment,4648,https://humancompatible.ai/app/uploads/2023/10/who-will-control-intelligence.jpg,public/app/uploads/2023/10/who-will-control-intelligence.jpg,attachment parent 4642,ok
+attachment,4656,https://humancompatible.ai/app/uploads/2020/04/81Ka09kEm5L._SL1500_.jpg,public/app/uploads/2020/04/81Ka09kEm5L._SL1500_.jpg,attachment parent 4642,ok
+attachment,4658,https://humancompatible.ai/app/uploads/2023/10/AI-safety-summit-UK.png,public/app/uploads/2023/10/AI-safety-summit-UK.png,attachment parent 4641,ok
+attachment,4660,https://humancompatible.ai/app/uploads/2023/10/ai-logo-1.png,public/app/uploads/2023/10/ai-logo-1.png,attachment parent 4641,ok
+attachment,4663,https://humancompatible.ai/app/uploads/2023/10/introduction_to_the_ai_safety_summit.pdf,public/app/uploads/2023/10/introduction_to_the_ai_safety_summit.pdf,attachment parent 4641,ok
+attachment,4677,https://humancompatible.ai/app/uploads/2023/10/managing_ai_risks.pdf,public/app/uploads/2023/10/managing_ai_risks.pdf,attachment parent 4640,ok
+attachment,4679,https://humancompatible.ai/app/uploads/2023/10/managing_ai_risks-1.pdf,public/app/uploads/2023/10/managing_ai_risks-1.pdf,attachment parent 4640,ok
+attachment,4698,https://humancompatible.ai/app/uploads/2023/10/chai-logo_a729cbef.png,public/app/uploads/2023/10/chai-logo_a729cbef.png,attachment parent 4695,ok
+attachment,4701,https://humancompatible.ai/app/uploads/2023/10/ditchley-logo.png,public/app/uploads/2023/10/ditchley-logo.png,attachment parent 4695,ok
+attachment,4711,https://humancompatible.ai/app/uploads/2023/10/DALL·E-AI-newspost-logo.png,public/app/uploads/2023/10/DALLE-AI-newspost-logo.png,attachment parent 4695,ok
+attachment,4724,https://humancompatible.ai/app/uploads/2023/11/FAR-AI-Logo-smaller.png,public/app/uploads/2023/11/FAR-AI-Logo-smaller.png,attachment parent 4695,ok
+attachment,4746,https://humancompatible.ai/app/uploads/2023/11/9780141987507-jacket-large.jpg,public/app/uploads/2023/11/9780141987507-jacket-large.jpg,attachment parent 4745,ok
+attachment,4971,https://humancompatible.ai/app/uploads/2023/11/Orienting-AI-Toward-Peace-Beyond-Moderation.pdf,public/app/uploads/2023/11/Orienting-AI-Toward-Peace-Beyond-Moderation.pdf,attachment parent 4970,ok
+attachment,4972,https://humancompatible.ai/app/uploads/2023/11/Orienting-AI-Toward-Peace.png,public/app/uploads/2023/11/Orienting-AI-Toward-Peace.png,attachment parent 4970,ok
+attachment,4986,https://humancompatible.ai/app/uploads/2023/12/20220930_brandienonnecke_bhs_004-scaled.jpg,public/app/uploads/2023/12/20220930_brandienonnecke_bhs_004-scaled.jpg,attachment parent 4985,ok
+attachment,4987,https://humancompatible.ai/app/uploads/2023/12/20220930_brandienonnecke_bhs_004-1-scaled.jpg,public/app/uploads/2023/12/20220930_brandienonnecke_bhs_004-1-scaled.jpg,attachment parent 4985,ok
+attachment,4988,https://humancompatible.ai/app/uploads/2023/12/20220930_BrandieNonnecke_bhs_010-scaled-e1678724028680.jpg,public/app/uploads/2023/12/20220930_BrandieNonnecke_bhs_010-scaled-e1678724028680.jpg,attachment parent 4985,ok
+attachment,4989,https://humancompatible.ai/app/uploads/2023/12/brandie-nonnecke-courtesy-brandie-nonnecke-600x600px.jpg,public/app/uploads/2023/12/brandie-nonnecke-courtesy-brandie-nonnecke-600x600px.jpg,attachment parent 4985,ok
+attachment,4998,https://humancompatible.ai/app/uploads/2023/12/2023-12-12-223009.png,public/app/uploads/2023/12/2023-12-12-223009.png,attachment parent 4997,ok
+attachment,5000,https://humancompatible.ai/app/uploads/2023/12/2023-12-12-223009-1.png,public/app/uploads/2023/12/2023-12-12-223009-1.png,attachment parent 4997,ok
+attachment,5011,https://humancompatible.ai/app/uploads/2023/12/CHAI-2023-Progress-Report-May22-May23.pdf,public/app/uploads/2023/12/CHAI-2023-Progress-Report-May22-May23.pdf,attachment parent 772,ok
+attachment,5022,https://humancompatible.ai/app/uploads/2023/12/Screenshot-2023-12-22-182201.png,public/app/uploads/2023/12/Screenshot-2023-12-22-182201.png,attachment parent 5020,ok
+attachment,5033,https://humancompatible.ai/app/uploads/2024/01/r001-020-1.jpg,public/app/uploads/2024/01/r001-020-1.jpg,,ok
+attachment,5044,https://humancompatible.ai/app/uploads/2024/01/Screenshot-2024-01-16-154304.png,public/app/uploads/2024/01/Screenshot-2024-01-16-154304.png,attachment parent 5037,ok
+attachment,5057,https://humancompatible.ai/app/uploads/2024/01/ALMANACS-A-Simulatability-Benchmark-for-Language-Model-Explainability.pdf,public/app/uploads/2024/01/ALMANACS-A-Simulatability-Benchmark-for-Language-Model-Explainability.pdf,attachment parent 5053,ok
+attachment,5058,https://humancompatible.ai/app/uploads/2024/01/ALMANACS.png,public/app/uploads/2024/01/ALMANACS.png,attachment parent 5053,ok
+attachment,5072,https://humancompatible.ai/app/uploads/2024/01/The-Prosocial-Ranking-Challenge-Logo-Light-Green.png,public/app/uploads/2024/01/The-Prosocial-Ranking-Challenge-Logo-Light-Green.png,attachment parent 5064,ok
+attachment,5077,https://humancompatible.ai/app/uploads/2024/01/The-Prosocial-Ranking-Challenge-Logo-Idea-Green-on-Black.png,public/app/uploads/2024/01/The-Prosocial-Ranking-Challenge-Logo-Idea-Green-on-Black.png,attachment parent 5064,ok
+attachment,5084,https://humancompatible.ai/app/uploads/2024/01/The-Prosocial-Ranking-Challenge-Logo-Light-Green-Cropped-2-e1705607009111.png,public/app/uploads/2024/01/The-Prosocial-Ranking-Challenge-Logo-Light-Green-Cropped-2-e1705607009111.png,attachment parent 5064,ok
+attachment,5101,https://humancompatible.ai/app/uploads/2024/02/200-2.png,public/app/uploads/2024/02/200-2.png,,ok
+attachment,5123,https://humancompatible.ai/app/uploads/2024/04/martin-soto.jpg,public/app/uploads/2024/04/martin-soto.jpg,attachment parent 5121,ok
+attachment,5127,https://humancompatible.ai/app/uploads/2024/04/martin-soto-1.jpg,public/app/uploads/2024/04/martin-soto-1.jpg,attachment parent 5121,ok
+attachment,5136,https://humancompatible.ai/app/uploads/2024/04/sandy-tanwisuth.jpg,public/app/uploads/2024/04/sandy-tanwisuth.jpg,,ok
+attachment,5159,https://humancompatible.ai/app/uploads/2024/04/ltpas-scaled.jpeg,public/app/uploads/2024/04/ltpas-scaled.jpeg,attachment parent 5156,ok
+attachment,5231,https://humancompatible.ai/app/uploads/2024/02/2024-03-25-16.53.41-2_0.jpg,public/app/uploads/2024/02/2024-03-25-16.53.41-2_0.jpg,,ok
+attachment,5234,https://humancompatible.ai/app/uploads/2024/03/Screenshot-2024-04-09-at-8.21.04 AM.png,public/app/uploads/2024/03/Screenshot-2024-04-09-at-8.21.04-AM.png,attachment parent 5175,ok
+attachment,5246,https://humancompatible.ai/app/uploads/2024/04/mo.jpg,public/app/uploads/2024/04/mo.jpg,attachment parent 5245,ok
+attachment,5251,https://humancompatible.ai/app/uploads/2024/04/cambridge_photo-e1713199378142.jpg,public/app/uploads/2024/04/cambridge_photo-e1713199378142.jpg,attachment parent 5250,ok
+attachment,5258,https://humancompatible.ai/app/uploads/2024/04/Screenshot-2024-04-15-at-5.39.52 PM.png,public/app/uploads/2024/04/Screenshot-2024-04-15-at-5.39.52-PM.png,attachment parent 5254,ok
+attachment,5285,https://humancompatible.ai/app/uploads/2024/05/owain_small-e1715310621253.jpg,public/app/uploads/2024/05/owain_small-e1715310621253.jpg,attachment parent 5284,ok
+attachment,5290,https://humancompatible.ai/app/uploads/2024/05/aymane.png,public/app/uploads/2024/05/aymane.png,attachment parent 5289,ok
+attachment,5299,https://humancompatible.ai/app/uploads/2024/05/pavel.jpeg,public/app/uploads/2024/05/pavel.jpeg,attachment parent 5298,ok
+attachment,5300,https://humancompatible.ai/app/uploads/2024/05/pavel-1.jpeg,public/app/uploads/2024/05/pavel-1.jpeg,attachment parent 5298,ok
+attachment,5301,https://humancompatible.ai/app/uploads/2024/05/pavel-2.jpeg,public/app/uploads/2024/05/pavel-2.jpeg,attachment parent 5298,ok
+attachment,5309,https://humancompatible.ai/app/uploads/2024/05/41598_2024_61153_Fig1_HTML.webp,public/app/uploads/2024/05/41598_2024_61153_Fig1_HTML.webp,attachment parent 5305,ok
+attachment,5312,https://humancompatible.ai/app/uploads/2024/04/Screenshot-2024-05-14-at-12.57.05 AM.png,public/app/uploads/2024/04/Screenshot-2024-05-14-at-12.57.05-AM.png,attachment parent 5303,ok
+attachment,5355,https://humancompatible.ai/app/uploads/2024/05/image.png,public/app/uploads/2024/05/image.png,attachment parent 5353,ok
+attachment,5356,https://humancompatible.ai/app/uploads/2024/05/image-1.png,public/app/uploads/2024/05/image-1.png,attachment parent 5353,ok
+attachment,5392,https://humancompatible.ai/app/uploads/2024/05/ag.jpeg,public/app/uploads/2024/05/ag.jpeg,attachment parent 5391,ok
+attachment,5393,https://humancompatible.ai/app/uploads/2024/05/ag-1.jpeg,public/app/uploads/2024/05/ag-1.jpeg,attachment parent 5391,ok
+attachment,5400,https://humancompatible.ai/app/uploads/2024/05/DillonSandhu_PhD_DukeCompSci_GradStudentHeadshots_082222_1370-copy.jpeg,public/app/uploads/2024/05/DillonSandhu_PhD_DukeCompSci_GradStudentHeadshots_082222_1370-copy.jpeg,attachment parent 5396,ok
+attachment,5401,https://humancompatible.ai/app/uploads/2024/05/ds.jpg,public/app/uploads/2024/05/ds.jpg,attachment parent 5396,ok
+attachment,5403,https://humancompatible.ai/app/uploads/2024/05/jl.jpeg,public/app/uploads/2024/05/jl.jpeg,attachment parent 5402,ok
+attachment,5409,https://humancompatible.ai/app/uploads/2024/06/Jonathan_ColacoCarr_headshot.jpeg,public/app/uploads/2024/06/Jonathan_ColacoCarr_headshot.jpeg,attachment parent 5408,ok
+attachment,5441,https://humancompatible.ai/app/uploads/2024/06/CHAI-2024-Event-Banner-for-Whova-2.png,public/app/uploads/2024/06/CHAI-2024-Event-Banner-for-Whova-2.png,attachment parent 5406,ok
+attachment,5517,https://humancompatible.ai/app/uploads/2024/06/73e854ba-68c0-40b2-be6c-8f11171dce21_medium-2575593215.png,public/app/uploads/2024/06/73e854ba-68c0-40b2-be6c-8f11171dce21_medium-2575593215.png,attachment parent 5406,ok
+attachment,5518,https://humancompatible.ai/app/uploads/2024/06/1524852136261.jpeg,public/app/uploads/2024/06/1524852136261.jpeg,attachment parent 5406,ok
+attachment,5519,https://humancompatible.ai/app/uploads/2024/06/headshot_sf.jpg,public/app/uploads/2024/06/headshot_sf.jpg,attachment parent 5406,ok
+attachment,5520,https://humancompatible.ai/app/uploads/2024/06/headshot_sf-1.jpg,public/app/uploads/2024/06/headshot_sf-1.jpg,attachment parent 5406,ok
+attachment,5521,https://humancompatible.ai/app/uploads/2024/06/profile.png,public/app/uploads/2024/06/profile.png,attachment parent 5406,ok
+attachment,5522,https://humancompatible.ai/app/uploads/2024/06/profile.jpg,public/app/uploads/2024/06/profile.jpg,attachment parent 5406,ok
+attachment,5523,https://humancompatible.ai/app/uploads/2024/06/profile-1.jpg,public/app/uploads/2024/06/profile-1.jpg,attachment parent 5406,ok
+attachment,5524,https://humancompatible.ai/app/uploads/2024/06/emmons2023.jpg,public/app/uploads/2024/06/emmons2023.jpg,attachment parent 5406,ok
+attachment,5525,https://humancompatible.ai/app/uploads/2024/06/jonathan-stray.png,public/app/uploads/2024/06/jonathan-stray.png,attachment parent 5406,ok
+attachment,5527,https://humancompatible.ai/app/uploads/2024/06/JP_headshot-e1717892224835.jpg,public/app/uploads/2024/06/JP_headshot-e1717892224835.jpg,attachment parent 5406,ok
+attachment,5542,https://humancompatible.ai/app/uploads/2024/06/4644856112_875215f90d_b-2235724260.jpg,public/app/uploads/2024/06/4644856112_875215f90d_b-2235724260.jpg,attachment parent 5406,ok
+attachment,5553,https://humancompatible.ai/app/uploads/2024/06/Asilomar-Workshop-Map-active-areas_2.png,public/app/uploads/2024/06/Asilomar-Workshop-Map-active-areas_2.png,attachment parent 5406,ok
+attachment,5597,https://humancompatible.ai/app/uploads/2024/06/Becca_HS.png,public/app/uploads/2024/06/Becca_HS.png,attachment parent 5406,ok
+attachment,5598,https://humancompatible.ai/app/uploads/2024/06/Headhsot-ACU-1L.jpg,public/app/uploads/2024/06/Headhsot-ACU-1L.jpg,attachment parent 5406,ok
+attachment,5599,https://humancompatible.ai/app/uploads/2024/06/Headhsot-ACU-1L_compressed.jpg,public/app/uploads/2024/06/Headhsot-ACU-1L_compressed.jpg,attachment parent 5406,ok
+attachment,5600,https://humancompatible.ai/app/uploads/2024/06/Headhsot-ACU-1L_compressed-1.jpg,public/app/uploads/2024/06/Headhsot-ACU-1L_compressed-1.jpg,attachment parent 5406,ok
+attachment,5601,https://humancompatible.ai/app/uploads/2024/06/image-_compressed.png,public/app/uploads/2024/06/image-_compressed.png,attachment parent 5406,ok
+attachment,5602,https://humancompatible.ai/app/uploads/2024/06/image0.jpeg,public/app/uploads/2024/06/image0.jpeg,attachment parent 5406,ok
+attachment,5603,https://humancompatible.ai/app/uploads/2024/06/SarahOtis_headshot.jpg,public/app/uploads/2024/06/SarahOtis_headshot.jpg,attachment parent 5406,ok
+attachment,5604,https://humancompatible.ai/app/uploads/2024/06/tsu.png,public/app/uploads/2024/06/tsu.png,attachment parent 5406,ok
+attachment,5605,https://humancompatible.ai/app/uploads/2024/06/tsu-min.png,public/app/uploads/2024/06/tsu-min.png,attachment parent 5406,ok
+attachment,5606,https://humancompatible.ai/app/uploads/2024/06/tsu-min-1.png,public/app/uploads/2024/06/tsu-min-1.png,attachment parent 5406,ok
+attachment,5607,https://humancompatible.ai/app/uploads/2024/06/tsu-jpeg.jpg,public/app/uploads/2024/06/tsu-jpeg.jpg,attachment parent 5406,ok
+attachment,5624,https://humancompatible.ai/app/uploads/2024/06/IMG_5715.jpg,public/app/uploads/2024/06/IMG_5715.jpg,attachment parent 5623,ok
+attachment,5625,https://humancompatible.ai/app/uploads/2024/06/IMG_5715-1.jpg,public/app/uploads/2024/06/IMG_5715-1.jpg,attachment parent 5623,ok
+attachment,5631,https://humancompatible.ai/app/uploads/2024/06/headshot_sf-2.jpg,public/app/uploads/2024/06/headshot_sf-2.jpg,attachment parent 5630,ok
+attachment,5638,https://humancompatible.ai/app/uploads/2024/07/IMG_3413.jpg,public/app/uploads/2024/07/IMG_3413.jpg,attachment parent 5637,ok
+attachment,5643,https://humancompatible.ai/app/uploads/2022/05/20220823_172618.jpg,public/app/uploads/2022/05/20220823_172618.jpg,attachment parent 3539,ok
+attachment,5644,https://humancompatible.ai/app/uploads/2022/05/Screenshot-2024-07-09-at-10.54.20 AM.png,public/app/uploads/2022/05/Screenshot-2024-07-09-at-10.54.20-AM.png,attachment parent 3539,ok
+attachment,5652,https://humancompatible.ai/app/uploads/2024/07/ICML-logo.png,public/app/uploads/2024/07/ICML-logo.png,attachment parent 5651,ok
+attachment,5656,https://humancompatible.ai/app/uploads/2021/03/emmons2024.jpg,public/app/uploads/2021/03/emmons2024.jpg,attachment parent 2087,ok
+attachment,5659,https://humancompatible.ai/app/uploads/2024/06/image.png,public/app/uploads/2024/06/image.png,attachment parent 5630,ok
+attachment,5665,https://humancompatible.ai/app/uploads/2021/03/emmons-square.jpg,public/app/uploads/2021/03/emmons-square.jpg,attachment parent 2087,ok
+attachment,5753,https://humancompatible.ai/app/uploads/2024/09/acl-logo.png,public/app/uploads/2024/09/acl-logo.png,attachment parent 5752,ok
+attachment,5758,https://humancompatible.ai/app/uploads/2024/09/Screenshot-2024-09-18-at-2.37.25 PM.png,public/app/uploads/2024/09/Screenshot-2024-09-18-at-2.37.25-PM.png,attachment parent 5757,ok
+attachment,5761,https://humancompatible.ai/app/uploads/2024/09/1694154253058.jpg,public/app/uploads/2024/09/1694154253058.jpg,attachment parent 5760,ok
+attachment,5763,https://humancompatible.ai/app/uploads/2024/09/michelleli.jpg,public/app/uploads/2024/09/michelleli.jpg,attachment parent 5757,ok
+attachment,5765,https://humancompatible.ai/app/uploads/2024/09/prof_pic-scaled.jpg,public/app/uploads/2024/09/prof_pic-scaled.jpg,attachment parent 5764,ok
+attachment,5767,https://humancompatible.ai/app/uploads/2024/09/Screenshot-2024-09-18-at-2.49.13 PM.png,public/app/uploads/2024/09/Screenshot-2024-09-18-at-2.49.13-PM.png,attachment parent 5764,ok
+attachment,5768,https://humancompatible.ai/app/uploads/2024/09/Screenshot-2024-09-18-at-2.50.15 PM.png,public/app/uploads/2024/09/Screenshot-2024-09-18-at-2.50.15-PM.png,attachment parent 5764,ok
+attachment,5792,https://humancompatible.ai/app/uploads/2024/12/neurips2022.png,public/app/uploads/2024/12/neurips2022.png,attachment parent 5791,ok
+attachment,5810,https://humancompatible.ai/app/uploads/2025/02/Screenshot-2025-02-04-at-3.02.54 PM.png,public/app/uploads/2025/02/Screenshot-2025-02-04-at-3.02.54-PM.png,attachment parent 5801,ok
+attachment,5819,https://humancompatible.ai/app/uploads/2025/02/professional_photo2-1440x1024-1.png,public/app/uploads/2025/02/professional_photo2-1440x1024-1.png,attachment parent 5818,ok
+attachment,5821,https://humancompatible.ai/app/uploads/2025/02/2024_1060_AB_197-e1730207532889.jpg,public/app/uploads/2025/02/2024_1060_AB_197-e1730207532889.jpg,attachment parent 5818,ok
+attachment,5831,https://humancompatible.ai/app/uploads/2025/03/image0.jpeg,public/app/uploads/2025/03/image0.jpeg,attachment parent 5830,ok
+attachment,5832,https://humancompatible.ai/app/uploads/2025/03/Screenshot-2025-03-07-at-2.03.02 PM.png,public/app/uploads/2025/03/Screenshot-2025-03-07-at-2.03.02-PM.png,attachment parent 5830,ok
+attachment,5835,https://humancompatible.ai/app/uploads/2025/03/Screenshot-2025-03-07-at-2.04.53 PM.png,public/app/uploads/2025/03/Screenshot-2025-03-07-at-2.04.53-PM.png,attachment parent 5834,ok
+attachment,5849,https://humancompatible.ai/app/uploads/2025/03/serinac.jpg,public/app/uploads/2025/03/serinac.jpg,attachment parent 5848,ok
+attachment,5852,https://humancompatible.ai/app/uploads/2025/03/headshot_white_background.jpg,public/app/uploads/2025/03/headshot_white_background.jpg,attachment parent 5848,ok
+attachment,5874,https://humancompatible.ai/app/uploads/2023/08/me.jpg,public/app/uploads/2023/08/me.jpg,attachment parent 4547,ok
+attachment,5875,https://humancompatible.ai/app/uploads/2025/02/Screenshot-2025-03-17-at-11.27.26 AM.png,public/app/uploads/2025/02/Screenshot-2025-03-17-at-11.27.26-AM.png,attachment parent 5818,ok
+attachment,5876,https://humancompatible.ai/app/uploads/2025/02/pierson_emma.jpg,public/app/uploads/2025/02/pierson_emma.jpg,attachment parent 5818,ok
+attachment,5880,https://humancompatible.ai/app/uploads/2021/03/emmons-square-1.jpg,public/app/uploads/2021/03/emmons-square-1.jpg,attachment parent 2087,ok
+attachment,5893,https://humancompatible.ai/app/uploads/2025/05/sotis_profile_small-1.png,public/app/uploads/2025/05/sotis_profile_small-1.png,attachment parent 5892,ok
+attachment,5911,https://humancompatible.ai/app/uploads/2025/02/Screenshot-2025-05-30-at-2.14.27 PM.png,public/app/uploads/2025/02/Screenshot-2025-05-30-at-2.14.27-PM.png,attachment parent 5801,ok
+attachment,5918,https://humancompatible.ai/app/uploads/2025/06/ian_baker-200x200-1.jpg,public/app/uploads/2025/06/ian_baker-200x200-1.jpg,attachment parent 5917,ok
+attachment,5922,https://humancompatible.ai/app/uploads/2025/06/Ram-Rachum-1.jpg,public/app/uploads/2025/06/Ram-Rachum-1.jpg,attachment parent 5921,ok
+attachment,5928,https://humancompatible.ai/app/uploads/2025/06/IMG_1753-1.png,public/app/uploads/2025/06/IMG_1753-1.png,attachment parent 5924,ok
+attachment,5932,https://humancompatible.ai/app/uploads/2025/07/alina_yang_chai.jpeg,public/app/uploads/2025/07/alina_yang_chai.jpeg,attachment parent 5931,ok
+attachment,5935,https://humancompatible.ai/app/uploads/2025/03/experts_coordination.png,public/app/uploads/2025/03/experts_coordination.png,attachment parent 5840,ok
+attachment,5968,https://humancompatible.ai/app/uploads/2025/09/lijie.jpg,public/app/uploads/2025/09/lijie.jpg,attachment parent 5967,ok
+attachment,5989,https://humancompatible.ai/app/uploads/2026/02/profile.jpg,public/app/uploads/2026/02/profile.jpg,attachment parent 5988,ok
+attachment,5990,https://humancompatible.ai/app/uploads/2026/02/zjinprofile-e1770959957936.jpg,public/app/uploads/2026/02/zjinprofile-e1770959957936.jpg,attachment parent 5988,ok
+attachment,5996,https://humancompatible.ai/app/uploads/2026/06/karimabdelsadek.jpg,public/app/uploads/2026/06/karimabdelsadek.jpg,attachment parent 5993,ok
+theme-asset,,/assets/images/people/monica-gates.png,public/app/theme/images/people/monica-gates.png,pages:spotlights,copy from theme directory
+theme-asset,,/assets/images/people/smitha-milli.jpg,public/app/theme/images/people/smitha-milli.jpg,pages:spotlights,copy from theme directory
+theme-asset,,/assets/images/people/Daniel_Filan.jpg,public/app/theme/images/people/Daniel_Filan.jpg,pages:spotlights,copy from theme directory
+theme-asset,,/assets/images/people/dylan-hadfield-menell.jpg,public/app/theme/images/people/dylan-hadfield-menell.jpg,pages:spotlights,copy from theme directory
+theme-asset,,/assets/images/logos/cornell.png,public/app/theme/images/logos/cornell.png,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/leverhulme_trust.jpeg,public/app/theme/images/logos/leverhulme_trust.jpeg,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/open-phil.jpg,public/app/theme/images/logos/open-phil.jpg,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/citris_logo.png,public/app/theme/images/logos/citris_logo.png,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/cltc-logo.png,public/app/theme/images/logos/cltc-logo.png,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/BERI-logo.png,public/app/theme/images/logos/BERI-logo.png,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/cser-logo.png,public/app/theme/images/logos/cser-logo.png,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/berkeley_logo.png,public/app/theme/images/logos/berkeley_logo.png,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/ict4peace.jpg,public/app/theme/images/logos/ict4peace.jpg,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/michigan_logo.png,public/app/theme/images/logos/michigan_logo.png,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/fli_logo.png,public/app/theme/images/logos/fli_logo.png,pages:about,copy from theme directory
+theme-asset,,/assets/images/logos/fhi-logo.png,public/app/theme/images/logos/fhi-logo.png,pages:about,copy from theme directory
+hotlink,,https://lh4.googleusercontent.com/VPpflL4ouy-CcOvSj1wqiaCcGUR0ASI3PJYzlsUds2ydFwmJKzt4aCOI2rW09BsIbDGLi0VONOia3ZvY5TcBH54DoyQ7BhOhDOYD51EahFB4QkhyC1Ivq4agZwl9P-h_w03S048-E4z4P_Co-hoqCg,public/app/uploads/external/374034ee-VPpflL4ouy-CcOvSj1wqiaCcGUR0ASI3PJYzlsUds2ydFwmJKzt4aCOI2rW0,pages:progress-report,external - download & rehost
+hotlink,,https://s7d1.scene7.com/is/image/marriotts7prod/ri-oakrr-exterior-21287:Classic-Hor?wid=1215&fit=constrain,public/app/uploads/external/669ff5d5-ri-oakrr-exterior-21287_Classic-Hor,pages:psbai-workshop-2022,external - download & rehost
+inline-upload,,https://humancompatible.ai/app/uploads/2024/06/JP_headshot.jpg,public/app/uploads/2024/06/JP_headshot.jpg,pages:chai2024,NOT in media library - verify on server
+hotlink,,https://whova.com/xems/apis/get_whova_tracking_image/?event_id=annua7_202406&track_id=use_small_widget&image_type=whova_logo,public/app/uploads/external/e50c593a-file,pages:chai2024,external - download & rehost
+featured-image,244,https://humancompatible.ai/app/uploads/2018/01/trustmachine.jpg,src/assets/featured/2018/01/trustmachine.jpg,news:schroeder_trusting_machines,ok
+featured-image,245,https://humancompatible.ai/app/uploads/2017/12/maria-cantwell.jpg,src/assets/featured/2017/12/maria-cantwell.jpg,news:bipartisan_ai_bill,ok
+featured-image,247,https://humancompatible.ai/app/uploads/2017/12/openai.png,src/assets/featured/2017/12/openai.png,news:chai_openai_collab,ok
+featured-image,251,https://humancompatible.ai/app/uploads/2017/11/slaughterbot.jpeg,src/assets/featured/2017/11/slaughterbot.jpeg,news:slaughterbots,ok
+featured-image,253,https://humancompatible.ai/app/uploads/2017/10/autocar-scaled.jpg,src/assets/featured/2017/10/autocar-scaled.jpg,news:think_like_humans,ok
+featured-image,255,https://humancompatible.ai/app/uploads/2017/10/baxter.jpg,src/assets/featured/2017/10/baxter.jpg,news:weird_working_robots,ok
+featured-image,259,https://humancompatible.ai/app/uploads/2017/05/stuart_russell_ted_288_191.jpg,src/assets/featured/2017/05/stuart_russell_ted_288_191.jpg,news:ted_2017,ok
+featured-image,271,https://humancompatible.ai/app/uploads/2016/09/bbc_pic.jpg,src/assets/featured/2016/09/bbc_pic.jpg,news:industry,ok
+featured-image,279,https://humancompatible.ai/app/uploads/2016/06/techrepub_pic.png,src/assets/featured/2016/06/techrepub_pic.png,news:cooking_cats,ok
+featured-image,5084,https://humancompatible.ai/app/uploads/2024/01/The-Prosocial-Ranking-Challenge-Logo-Light-Green-Cropped-2-e1705607009111.png,src/assets/featured/2024/01/The-Prosocial-Ranking-Challenge-Logo-Light-Green-Cropped-2-e1705607009111.png,news:sponsor-a-better-social-media-algorithm,ok
+featured-image,635,https://humancompatible.ai/app/uploads/2020/11/laws.jpg,src/assets/featured/2020/11/laws.jpg,news:ai_new_wmds,ok
+featured-image,202,https://humancompatible.ai/app/uploads/2018/07/robot.jpg,src/assets/featured/2018/07/robot.jpg,news:facebook_robots,ok
+featured-image,204,https://humancompatible.ai/app/uploads/2018/07/rl.png,src/assets/featured/2018/07/rl.png,news:bellman_curve,ok
+featured-image,206,https://humancompatible.ai/app/uploads/2018/07/ml.png,src/assets/featured/2018/07/ml.png,news:adam_causal_entropy,ok
+featured-image,210,https://humancompatible.ai/app/uploads/2018/07/aiconference.jpg,src/assets/featured/2018/07/aiconference.jpg,news:chai_goalsrl,ok
+featured-image,214,https://humancompatible.ai/app/uploads/2018/07/neuralnetwork.png,src/assets/featured/2018/07/neuralnetwork.png,news:daniel_hiearchy_rl,ok
+featured-image,216,https://humancompatible.ai/app/uploads/2018/07/mathmodel.jpg,src/assets/featured/2018/07/mathmodel.jpg,news:anca_model_explanations,ok
+featured-image,218,https://humancompatible.ai/app/uploads/2018/07/cogbias-scaled.jpg,src/assets/featured/2018/07/cogbias-scaled.jpg,news:thomas_automated-decisions,ok
+featured-image,220,https://humancompatible.ai/app/uploads/2018/06/transparency.jpg,src/assets/featured/2018/06/transparency.jpg,news:mech_transparency,ok
+featured-image,228,https://humancompatible.ai/app/uploads/2018/04/blame.jpg,src/assets/featured/2018/04/blame.jpg,news:halpern_formal_blame,ok
+featured-image,232,https://humancompatible.ai/app/uploads/2018/03/failrobot.jpeg,src/assets/featured/2018/03/failrobot.jpeg,news:robots_express_fail,ok
+featured-image,233,https://humancompatible.ai/app/uploads/2018/03/behave.jpg,src/assets/featured/2018/03/behave.jpg,news:anca_robots_behaves,ok
+featured-image,237,https://humancompatible.ai/app/uploads/2018/02/sophia.jpg,src/assets/featured/2018/02/sophia.jpg,news:anca_human_values,ok
+featured-image,164,https://humancompatible.ai/app/uploads/2018/12/Rohin.jpg,src/assets/featured/2018/12/Rohin.jpg,news:rohin_podcast,ok
+featured-image,166,https://humancompatible.ai/app/uploads/2018/12/Causality.jpg,src/assets/featured/2018/12/Causality.jpg,news:halpern_causality,ok
+featured-image,168,https://humancompatible.ai/app/uploads/2018/12/StuartInterview.png,src/assets/featured/2018/12/StuartInterview.png,news:russel_mit,ok
+featured-image,170,https://humancompatible.ai/app/uploads/2018/12/neurips.jpg,src/assets/featured/2018/12/neurips.jpg,news:neurips2018,ok
+featured-image,172,https://humancompatible.ai/app/uploads/2018/12/stocks.jpg,src/assets/featured/2018/12/stocks.jpg,news:wellman_ethicaltrading,ok
+featured-image,174,https://humancompatible.ai/app/uploads/2018/10/twitter.jpg,src/assets/featured/2018/10/twitter.jpg,news:chai_twitter,ok
+featured-image,176,https://humancompatible.ai/app/uploads/2018/10/rosie-campbell.jpg,src/assets/featured/2018/10/rosie-campbell.jpg,news:rosie_women_ai,ok
+featured-image,178,https://humancompatible.ai/app/uploads/2018/10/conference-scaled.jpg,src/assets/featured/2018/10/conference-scaled.jpg,news:chai_conference_october_2018,ok
+featured-image,180,https://humancompatible.ai/app/uploads/2018/10/gdpr.jpg,src/assets/featured/2018/10/gdpr.jpg,news:privacy_policy_update,ok
+featured-image,182,https://humancompatible.ai/app/uploads/2018/09/euflags-scaled.jpg,src/assets/featured/2018/09/euflags-scaled.jpg,news:eu_laws,ok
+featured-image,184,https://humancompatible.ai/app/uploads/2018/09/TED-Talk-scaled.jpg,src/assets/featured/2018/09/TED-Talk-scaled.jpg,news:macaskill_ted_talk,ok
+featured-image,188,https://humancompatible.ai/app/uploads/2018/09/meeting.jpg,src/assets/featured/2018/09/meeting.jpg,news:halpern_causal_judgements,ok
+featured-image,190,https://humancompatible.ai/app/uploads/2018/09/fisac.jpg,src/assets/featured/2018/09/fisac.jpg,news:fisac_talks_conference,ok
+featured-image,192,https://humancompatible.ai/app/uploads/2018/09/filan2.jpg,src/assets/featured/2018/09/filan2.jpg,news:filan_teach,ok
+featured-image,194,https://humancompatible.ai/app/uploads/2018/09/anca.jpg,src/assets/featured/2018/09/anca.jpg,news:anca_achievements,ok
+featured-image,198,https://humancompatible.ai/app/uploads/2018/08/miri.png,src/assets/featured/2018/08/miri.png,news:chai_miri_workshop,ok
+featured-image,200,https://humancompatible.ai/app/uploads/2018/07/cogmech.png,src/assets/featured/2018/07/cogmech.png,news:halpern_cog_mech_culture,ok
+featured-image,124,https://humancompatible.ai/app/uploads/2019/04/iclr.png,src/assets/featured/2019/04/iclr.png,news:iclr_2019,ok
+featured-image,126,https://humancompatible.ai/app/uploads/2019/04/aamas_2019.png,src/assets/featured/2019/04/aamas_2019.png,news:aamas,ok
+featured-image,130,https://humancompatible.ai/app/uploads/2019/04/making-sense.png,src/assets/featured/2019/04/making-sense.png,news:sam_harris,ok
+featured-image,132,https://humancompatible.ai/app/uploads/2019/03/uai2019.png,src/assets/featured/2019/03/uai2019.png,news:uai_2019,ok
+featured-image,134,https://humancompatible.ai/app/uploads/2019/03/halpern.jpg,src/assets/featured/2019/03/halpern.jpg,news:halpern_caltech,ok
+featured-image,136,https://humancompatible.ai/app/uploads/2019/03/umichchat.jpg,src/assets/featured/2019/03/umichchat.jpg,news:wellman_futureai,ok
+featured-image,140,https://humancompatible.ai/app/uploads/2019/02/halpern.jpg,src/assets/featured/2019/02/halpern.jpg,news:halpern_nae_award,ok
+featured-image,142,https://humancompatible.ai/app/uploads/2019/02/yardstick.jpg,src/assets/featured/2019/02/yardstick.jpg,news:daniel_blogpost,ok
+featured-image,144,https://humancompatible.ai/app/uploads/2019/01/FAT.jpg,src/assets/featured/2019/01/FAT.jpg,news:chai_fat2019,ok
+featured-image,146,https://humancompatible.ai/app/uploads/2019/01/Drone.jpg,src/assets/featured/2019/01/Drone.jpg,news:russell_netherlands,ok
+featured-image,150,https://humancompatible.ai/app/uploads/2019/01/AAAI2019.png,src/assets/featured/2019/01/AAAI2019.png,news:chai_aaai2019,ok
+featured-image,152,https://humancompatible.ai/app/uploads/2019/01/AAAS.png,src/assets/featured/2019/01/AAAS.png,news:russel_prize,ok
+featured-image,154,https://humancompatible.ai/app/uploads/2019/01/anca_ai4all.jpeg,src/assets/featured/2019/01/anca_ai4all.jpeg,news:anca_workshop,ok
+featured-image,156,https://humancompatible.ai/app/uploads/2019/01/Rosie_AISafe.jpeg,src/assets/featured/2019/01/Rosie_AISafe.jpeg,news:rosie_demystify,ok
+featured-image,158,https://humancompatible.ai/app/uploads/2019/01/interncollage.png,src/assets/featured/2019/01/interncollage.png,news:chai_interns,ok
+featured-image,83,https://humancompatible.ai/app/uploads/2019/09/nsf.png,src/assets/featured/2019/09/nsf.png,news:siddharth_nsf_award,ok
+featured-image,85,https://humancompatible.ai/app/uploads/2019/08/fat2020.png,src/assets/featured/2019/08/fat2020.png,news:thomas_passions,ok
+featured-image,89,https://humancompatible.ai/app/uploads/2019/08/hal.jpg,src/assets/featured/2019/08/hal.jpg,news:siddharth_hal_paper,ok
+featured-image,91,https://humancompatible.ai/app/uploads/2019/08/stocks2.jpg,src/assets/featured/2019/08/stocks2.jpg,news:wellman_market_stability,ok
+featured-image,94,https://humancompatible.ai/app/uploads/2019/08/wired.jpg,src/assets/featured/2019/08/wired.jpg,news:algorithm_fda,ok
+featured-image,98,https://humancompatible.ai/app/uploads/2019/07/github.png,src/assets/featured/2019/07/github.png,news:imitation_learning_library,ok
+featured-image,100,https://humancompatible.ai/app/uploads/2019/07/new_scientist.jpg,src/assets/featured/2019/07/new_scientist.jpg,news:new_scientist_article,ok
+featured-image,102,https://humancompatible.ai/app/uploads/2019/06/icml_2019.png,src/assets/featured/2019/06/icml_2019.png,news:talks_icml_2019,ok
+featured-image,104,https://humancompatible.ai/app/uploads/2019/06/adversarial_ML.png,src/assets/featured/2019/06/adversarial_ML.png,news:adversarial_policies_talk,ok
+featured-image,106,https://humancompatible.ai/app/uploads/2019/06/hcri.png,src/assets/featured/2019/06/hcri.png,news:reward_design_talk,ok
+featured-image,108,https://humancompatible.ai/app/uploads/2019/06/founders_pledge.png,src/assets/featured/2019/06/founders_pledge.png,news:founders_pledge,ok
+featured-image,110,https://humancompatible.ai/app/uploads/2019/06/prospect_theory.png,src/assets/featured/2019/06/prospect_theory.png,news:cognitive_models,ok
+featured-image,112,https://humancompatible.ai/app/uploads/2019/05/vincent.jpg,src/assets/featured/2019/05/vincent.jpg,news:vincent_visiting,ok
+featured-image,118,https://humancompatible.ai/app/uploads/2019/05/human_compatible.jpg,src/assets/featured/2019/05/human_compatible.jpg,news:stuart_book,ok
+featured-image,120,https://humancompatible.ai/app/uploads/2019/05/carnegie_fellows.jpg,src/assets/featured/2019/05/carnegie_fellows.jpg,news:stuart_carnegie,ok
+featured-image,44,https://humancompatible.ai/app/uploads/2020/09/uc-berkeley-logo-seal.jpg,src/assets/featured/2020/09/uc-berkeley-logo-seal.jpg,news:six-new-phd-students-join-chai,ok
+featured-image,1197,https://humancompatible.ai/app/uploads/2020/10/chai_logo.png,src/assets/featured/2020/10/chai_logo.png,news:new-affiliates,ok
+featured-image,48,https://humancompatible.ai/app/uploads/2020/08/simons-institute.png,src/assets/featured/2020/08/simons-institute.png,news:thomas-gilbert-receives-simons-institute-fellowship,ok
+featured-image,50,https://humancompatible.ai/app/uploads/2020/08/toronto.jpg,src/assets/featured/2020/08/toronto.jpg,news:bounded-rationality-in-las-vegas-published,ok
+featured-image,52,https://humancompatible.ai/app/uploads/2020/07/princeton_mit_dm.png,src/assets/featured/2020/07/princeton_mit_dm.png,news:students-accept-jobs-deepmind-mit,ok
+featured-image,1915,https://humancompatible.ai/app/uploads/2020/06/logo.jpg,src/assets/featured/2020/06/logo.jpg,news:hertz-foundation-fellowship,ok
+featured-image,56,https://humancompatible.ai/app/uploads/2020/06/June.png,src/assets/featured/2020/06/June.png,news:first-virtual-workshop,ok
+featured-image,1917,https://humancompatible.ai/app/uploads/2020/05/Screen-Shot-2020-12-28-at-10.57.54-AM.png,src/assets/featured/2020/05/Screen-Shot-2020-12-28-at-10.57.54-AM.png,news:arches,ok
+featured-image,60,https://humancompatible.ai/app/uploads/2020/05/May20.png,src/assets/featured/2020/05/May20.png,news:how-to-be-helpful-to-multiple-people-at-once,ok
+featured-image,62,https://humancompatible.ai/app/uploads/2020/04/Apr20.png,src/assets/featured/2020/04/Apr20.png,news:inaugural-virtal-workshop,ok
+featured-image,64,https://humancompatible.ai/app/uploads/2020/03/Mar20.jpg,src/assets/featured/2020/03/Mar20.jpg,news:anca-dragan-podcast,ok
+featured-image,66,https://humancompatible.ai/app/uploads/2020/02/Feb20.png,src/assets/featured/2020/02/Feb20.png,news:hard-choices-in-artificial-intelligence-paper,ok
+featured-image,68,https://humancompatible.ai/app/uploads/2020/01/2020-01-28-image.jpg,src/assets/featured/2020/01/2020-01-28-image.jpg,news:new-class-foundations-for-beneficial-ai,ok
+featured-image,70,https://humancompatible.ai/app/uploads/2020/01/Jan20.jpg,src/assets/featured/2020/01/Jan20.jpg,news:ai-alignment-review,ok
+featured-image,72,https://humancompatible.ai/app/uploads/2019/12/Dec19.png,src/assets/featured/2019/12/Dec19.png,news:adversarial-policies,ok
+featured-image,75,https://humancompatible.ai/app/uploads/2019/11/Nov19.png,src/assets/featured/2019/11/Nov19.png,news:collaborating-with-humans-requires-understanding-them,ok
+featured-image,77,https://humancompatible.ai/app/uploads/2019/10/hc-cover.jpg,src/assets/featured/2019/10/hc-cover.jpg,news:stuartbook,ok
+featured-image,79,https://humancompatible.ai/app/uploads/2019/09/AI_Alignment.png,src/assets/featured/2019/09/AI_Alignment.png,news:alignment_newsletter_professionalization,ok
+featured-image,81,https://humancompatible.ai/app/uploads/2019/09/neurips_2019.jpg,src/assets/featured/2019/09/neurips_2019.jpg,news:utility_learning,ok
+featured-image,4656,https://humancompatible.ai/app/uploads/2020/04/81Ka09kEm5L._SL1500_.jpg,src/assets/featured/2020/04/81Ka09kEm5L._SL1500_.jpg,news:human-compatible-has-been-reissued-in-the-uk,ok
+featured-image,20,https://humancompatible.ai/app/uploads/2020/11/chai_logo.png,src/assets/featured/2020/11/chai_logo.png,news:internship-applications,ok
+featured-image,22,https://humancompatible.ai/app/uploads/2020/11/Alignment-Problem-Recording-Titlecard.png,src/assets/featured/2020/11/Alignment-Problem-Recording-Titlecard.png,news:alignment-problem-recording,ok
+theme-asset,,/assets/images/post-images/Alignment-Problem-Recording-Xshot.png,public/app/theme/images/post-images/Alignment-Problem-Recording-Xshot.png,news:alignment-problem-recording,copy from theme directory
+featured-image,26,https://humancompatible.ai/app/uploads/2020/10/alignment-problem.jpg,src/assets/featured/2020/10/alignment-problem.jpg,news:alignment-problem-published,ok
+featured-image,28,https://humancompatible.ai/app/uploads/2020/10/neurips_2020.png,src/assets/featured/2020/10/neurips_2020.png,news:neurips-seven-papers,ok
+featured-image,30,https://humancompatible.ai/app/uploads/2020/09/uai_2020.png,src/assets/featured/2020/09/uai_2020.png,news:joseph-halpern-conference-on-uncertainty,ok
+featured-image,32,https://humancompatible.ai/app/uploads/2020/09/cognitive-science-journal.png,src/assets/featured/2020/09/cognitive-science-journal.png,news:chai-researchers-cognitive-science,ok
+featured-image,34,https://humancompatible.ai/app/uploads/2020/09/sss-cover-social.jpg,src/assets/featured/2020/09/sss-cover-social.jpg,news:thomas-gilbert-subjectifying-objectivity,ok
+featured-image,36,https://humancompatible.ai/app/uploads/2020/09/ijcai_logo.png,src/assets/featured/2020/09/ijcai_logo.png,news:rachel-freedman-papers-ijcai,ok
+featured-image,40,https://humancompatible.ai/app/uploads/2020/09/stuart.jpg,src/assets/featured/2020/09/stuart.jpg,news:stuart-russell-recent-media-appearances,ok
+featured-image,1197,https://humancompatible.ai/app/uploads/2020/10/chai_logo.png,src/assets/featured/2020/10/chai_logo.png,news:summer-2020-interns,ok
+featured-image,1197,https://humancompatible.ai/app/uploads/2020/10/chai_logo.png,src/assets/featured/2020/10/chai_logo.png,news:chai-progress-report-2,ok
+featured-image,1902,https://humancompatible.ai/app/uploads/2020/12/Screen-Shot-2020-12-28-at-10.25.41-AM-e1609179991514.png,src/assets/featured/2020/12/Screen-Shot-2020-12-28-at-10.25.41-AM-e1609179991514.png,news:stuart-russell-gobdt,ok
+featured-image,1904,https://humancompatible.ai/app/uploads/2020/12/100-e1609180963402.jpg,src/assets/featured/2020/12/100-e1609180963402.jpg,news:caroline-jeanmaire-100-brilliant-women-ai-ethics,ok
+featured-image,1197,https://humancompatible.ai/app/uploads/2020/10/chai_logo.png,src/assets/featured/2020/10/chai_logo.png,news:chai-beri-donations,ok
+featured-image,1972,https://humancompatible.ai/app/uploads/2021/02/68572739-1.png,src/assets/featured/2021/02/68572739-1.png,news:daniel-filan-launches-ai-x-risk-research-podcast,ok
+featured-image,1979,https://humancompatible.ai/app/uploads/2021/01/Screen-Shot-2021-02-05-at-10.59.21-AM.jpg,src/assets/featured/2021/01/Screen-Shot-2021-02-05-at-10.59.21-AM.jpg,news:rohin-shah-publishes-dissertation,ok
+featured-image,1986,https://humancompatible.ai/app/uploads/2021/02/jmCoOBzX_400x400.jpg,src/assets/featured/2021/02/jmCoOBzX_400x400.jpg,news:neurips-accepts-four-more-chai-papers,ok
+featured-image,124,https://humancompatible.ai/app/uploads/2019/04/iclr.png,src/assets/featured/2019/04/iclr.png,news:iclr-2021-accepts-papers-from-chai-researchers,ok
+featured-image,2016,https://humancompatible.ai/app/uploads/2021/01/Screen-Shot-2021-02-11-at-9.51.04-AM.png,src/assets/featured/2021/01/Screen-Shot-2021-02-11-at-9.51.04-AM.png,news:rachel-freedman-speaks-at-bhs-steminist-club,ok
+featured-image,1963,https://humancompatible.ai/app/uploads/2021/02/0AesxsZC_400x400.jpg,src/assets/featured/2021/02/0AesxsZC_400x400.jpg,news:tom-gilbert-publishes-simons-institute-white-paper,ok
+featured-image,1992,https://humancompatible.ai/app/uploads/2021/02/Screen-Shot-2021-02-09-at-8.58.18-AM.png,src/assets/featured/2021/02/Screen-Shot-2021-02-09-at-8.58.18-AM.png,news:thomas-gilbert-published-in-ieee-istas20,ok
+featured-image,1998,https://humancompatible.ai/app/uploads/2021/02/Webp.net-resizeimage-1.png,src/assets/featured/2021/02/Webp.net-resizeimage-1.png,news:stuart-russell-on-the-munk-debates,ok
+featured-image,2069,https://humancompatible.ai/app/uploads/2021/03/Screen-Shot-2021-03-04-at-10.02.55-AM.jpg,src/assets/featured/2021/03/Screen-Shot-2021-03-04-at-10.02.55-AM.jpg,news:chai-research-on-self-teaching-ai-featured-in-science,ok
+featured-image,2095,https://humancompatible.ai/app/uploads/2021/03/medium_1567044152-artwork.jpeg,src/assets/featured/2021/03/medium_1567044152-artwork.jpeg,news:michael-dennis-on-talkrl-podcast,ok
+featured-image,2109,https://humancompatible.ai/app/uploads/2021/03/1519893608292.png,src/assets/featured/2021/03/1519893608292.png,news:chai-faculty-and-affiliates-publish-at-aaai-2021,ok
+featured-image,2115,https://humancompatible.ai/app/uploads/2021/03/Screen-Shot-2021-03-30-at-11.02.01-AM_50.png,src/assets/featured/2021/03/Screen-Shot-2021-03-30-at-11.02.01-AM_50.png,news:listen-to-the-robot-brains-pieter-abbeels-new-podcast,ok
+featured-image,2132,https://humancompatible.ai/app/uploads/2021/04/Webp.net-resizeimage.png,src/assets/featured/2021/04/Webp.net-resizeimage.png,news:stuart-russell-in-wef-dialogue-on-technology-governance,ok
+featured-image,2136,https://humancompatible.ai/app/uploads/2021/04/Screen-Shot-2021-04-13-at-8.09.35-AM.png,src/assets/featured/2021/04/Screen-Shot-2021-04-13-at-8.09.35-AM.png,news:chai-researchers-publish-clusterability-in-neural-networks,ok
+featured-image,2189,https://humancompatible.ai/app/uploads/2021/05/GAIW-2021.png,src/assets/featured/2021/05/GAIW-2021.png,news:chai-researchers-publish-in-gaiw-2021,ok
+featured-image,1963,https://humancompatible.ai/app/uploads/2021/02/0AesxsZC_400x400.jpg,src/assets/featured/2021/02/0AesxsZC_400x400.jpg,news:brian-christian-publishes-watch-and-learn-offline-reinforcement-learning,ok
+featured-image,2196,https://humancompatible.ai/app/uploads/2021/03/51NTItonR1L._SL210_.jpg,src/assets/featured/2021/03/51NTItonR1L._SL210_.jpg,news:la-times-names-the-alignment-problem-best-science-technology-book-finalist,ok
+featured-image,2198,https://humancompatible.ai/app/uploads/2021/05/file-20210311-18-1pat070.jpg,src/assets/featured/2021/05/file-20210311-18-1pat070.jpg,news:prof-tom-lenaerts-joins-chai-as-visiting-scholar,ok
+featured-image,1197,https://humancompatible.ai/app/uploads/2020/10/chai_logo.png,src/assets/featured/2020/10/chai_logo.png,news:chai-welcomes-new-collaborators-and-interns,ok
+featured-image,2205,https://humancompatible.ai/app/uploads/2021/04/Webp.net-resizeimage-1.png,src/assets/featured/2021/04/Webp.net-resizeimage-1.png,news:new-papers-on-arxiv,ok
+featured-image,2254,https://humancompatible.ai/app/uploads/2021/06/Jonathan-Stray.jpg,src/assets/featured/2021/06/Jonathan-Stray.jpg,news:jonathan-stray-joins-chai-as-visiting-scholar,ok
+featured-image,2257,https://humancompatible.ai/app/uploads/2021/06/image_1_31.png,src/assets/featured/2021/06/image_1_31.png,news:chai-graduates-accept-positions-at-cornell-stanford,ok
+featured-image,2260,https://humancompatible.ai/app/uploads/2021/06/Webp.net-resizeimage.jpg,src/assets/featured/2021/06/Webp.net-resizeimage.jpg,news:brian-christian-on-the-ezra-klein-show,ok
+featured-image,2095,https://humancompatible.ai/app/uploads/2021/03/medium_1567044152-artwork.jpeg,src/assets/featured/2021/03/medium_1567044152-artwork.jpeg,news:thomas-krendl-gilbert-on-talkrl,ok
+featured-image,1197,https://humancompatible.ai/app/uploads/2020/10/chai_logo.png,src/assets/featured/2020/10/chai_logo.png,news:spring-donations,ok
+featured-image,2277,https://humancompatible.ai/app/uploads/2021/06/Webp.net-resizeimage-1.png,src/assets/featured/2021/06/Webp.net-resizeimage-1.png,news:fifth-annual-chai-workshop,ok
+featured-image,2315,https://humancompatible.ai/app/uploads/2021/07/debates.png,src/assets/featured/2021/07/debates.png,news:stuart-russell-in-robotics-debates,ok
+featured-image,2318,https://humancompatible.ai/app/uploads/2021/07/icml.png,src/assets/featured/2021/07/icml.png,news:icml-2021-accepts-chai-papers,ok
+featured-image,28,https://humancompatible.ai/app/uploads/2020/10/neurips_2020.png,src/assets/featured/2020/10/neurips_2020.png,news:neurips-minerl-basalt-competition-launches,ok
+featured-image,1972,https://humancompatible.ai/app/uploads/2021/02/68572739-1.png,src/assets/featured/2021/02/68572739-1.png,news:two-new-axrp-episodes,ok
+featured-image,2342,https://humancompatible.ai/app/uploads/2021/08/1-s2.0-S0004370221001065-gr001.jpg,src/assets/featured/2021/08/1-s2.0-S0004370221001065-gr001.jpg,news:tom-gilbert-article-to-appear-in-artificial-intelligence,ok
+featured-image,2348,https://humancompatible.ai/app/uploads/2021/08/obe_image-e1628721929389.jpg,src/assets/featured/2021/08/obe_image-e1628721929389.jpg,news:stuart-russell-named-officer-of-the-order-of-the-british-empire,ok
+featured-image,2351,https://humancompatible.ai/app/uploads/2021/08/600-Pixel-Tech-Policy-Press-Transparent-Logo-e1628722046621.png,src/assets/featured/2021/08/600-Pixel-Tech-Policy-Press-Transparent-Logo-e1628722046621.png,news:jonathan-stray-interviewed-on-the-sunday-show,ok
+featured-image,2510,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-08-at-1.43.23-PM-e1631133931499.png,src/assets/featured/2021/09/Screen-Shot-2021-09-08-at-1.43.23-PM-e1631133931499.png,news:chai-congratulates-new-alumni,ok
+featured-image,2515,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-08-at-1.48.38-PM-e1631134487110.png,src/assets/featured/2021/09/Screen-Shot-2021-09-08-at-1.48.38-PM-e1631134487110.png,news:alison-gopnik-wins-carl-sagan-prize-for-science-popularization,ok
+featured-image,2520,https://humancompatible.ai/app/uploads/2021/09/08984_1-e1631134712453.jpg,src/assets/featured/2021/09/08984_1-e1631134712453.jpg,news:new-translations-of-human-compatible,ok
+featured-image,2773,https://humancompatible.ai/app/uploads/2021/09/EDkiJisW4AAEEMk.jpg,src/assets/featured/2021/09/EDkiJisW4AAEEMk.jpg,news:chai-members-publish-new-papers,ok
+featured-image,2779,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-13-at-12.16.53-PM-e1631560642925.png,src/assets/featured/2021/09/Screen-Shot-2021-09-13-at-12.16.53-PM-e1631560642925.png,news:stuart-russell-publishes-articles-on-lethal-autonomous-weapons,ok
+featured-image,2792,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-23-at-9.51.57-AM-1.png,src/assets/featured/2021/09/Screen-Shot-2021-09-23-at-9.51.57-AM-1.png,news:future-of-life-fellowships-announcement,ok
+featured-image,2809,https://humancompatible.ai/app/uploads/2021/10/Screen-Shot-2021-10-15-at-4.24.47-PM.png,src/assets/featured/2021/10/Screen-Shot-2021-10-15-at-4.24.47-PM.png,news:stuart-russell-chosen-as-2021-bbc-reith-lecturer,ok
+featured-image,3294,https://humancompatible.ai/app/uploads/2021/11/lf_logo.png,src/assets/featured/2021/11/lf_logo.png,news:brian-christian-delivered-linux-foundation-member-summit-keynote-11-3,ok
+featured-image,3298,https://humancompatible.ai/app/uploads/2021/11/neurIPS.jpeg,src/assets/featured/2021/11/neurIPS.jpeg,news:neurips-paper-replay-guided-adversarial-environment-design-12-6,ok
+featured-image,3298,https://humancompatible.ai/app/uploads/2021/11/neurIPS.jpeg,src/assets/featured/2021/11/neurIPS.jpeg,news:neurips-paper-scalable-online-planning-via-reinforcement-learning-fine-tuning-12-6,ok
+featured-image,2809,https://humancompatible.ai/app/uploads/2021/10/Screen-Shot-2021-10-15-at-4.24.47-PM.png,src/assets/featured/2021/10/Screen-Shot-2021-10-15-at-4.24.47-PM.png,news:stuart-russell-the-biggest-event-in-human-history,ok
+featured-image,2792,https://humancompatible.ai/app/uploads/2021/09/Screen-Shot-2021-09-23-at-9.51.57-AM-1.png,src/assets/featured/2021/09/Screen-Shot-2021-09-23-at-9.51.57-AM-1.png,news:future-of-life-institute-slaughterbots-2-if-human-kill-and-panel-discussion-featuring-stuart-russell,ok
+featured-image,3320,https://humancompatible.ai/app/uploads/2021/12/Kavli3.jpeg,src/assets/featured/2021/12/Kavli3.jpeg,news:stuart-russell-has-been-selected-as-inaugural-director-of-kavli-center-for-ethics-science-and-the-public,ok
+hotlink,,https://miro.medium.com/max/1400/1*UkYAN0UJOvdEFGPIfjdx-Q.png,public/app/uploads/external/26989cd4-1_UkYAN0UJOvdEFGPIfjdx-Q.png,blog:how-platform-recommenders-work,external - download & rehost
+hotlink,,https://miro.medium.com/max/1400/1*EHsfx4DEZXib4-616Fi4Yw.png,public/app/uploads/external/457dc5d4-1_EHsfx4DEZXib4-616Fi4Yw.png,blog:how-platform-recommenders-work,external - download & rehost
+hotlink,,https://miro.medium.com/max/1400/1*ltANKtFhc-rvZY9Jzz1_xQ.png,public/app/uploads/external/4ca1003d-1_ltANKtFhc-rvZY9Jzz1_xQ.png,blog:how-platform-recommenders-work,external - download & rehost
+hotlink,,https://miro.medium.com/max/1400/1*VZw0d-eAEHZRXXsaEyzabw.png,public/app/uploads/external/30d30f6a-1_VZw0d-eAEHZRXXsaEyzabw.png,blog:how-platform-recommenders-work,external - download & rehost
+featured-image,3337,https://humancompatible.ai/app/uploads/2022/01/CHAI-360x230-1.png,src/assets/featured/2022/01/CHAI-360x230-1.png,news:new-papers-published,ok
+featured-image,3450,https://humancompatible.ai/app/uploads/2022/02/SF.png,src/assets/featured/2022/02/SF.png,news:schmidt-futures-launches-ai2050-to-protect-our-human-future-in-the-age-of-artificial-intelligence,ok
+featured-image,3453,https://humancompatible.ai/app/uploads/2022/02/PMAC.jpeg,src/assets/featured/2022/02/PMAC.jpeg,news:brian-christian-is-a-panelist-for-the-prince-mahidol-award-conference-2022,ok
+featured-image,3488,https://humancompatible.ai/app/uploads/2022/04/EA.png,src/assets/featured/2022/04/EA.png,news:uc-berkeley-ai-value-alignment-speaker-series,ok
+featured-image,3492,https://humancompatible.ai/app/uploads/2022/04/medium-50.png,src/assets/featured/2022/04/medium-50.png,news:what-does-it-mean-to-give-someone-what-they-want-the-nature-of-preferences-in-recommender-systems,ok
+featured-image,3495,https://humancompatible.ai/app/uploads/2022/04/LAILEC.png,src/assets/featured/2022/04/LAILEC.png,news:how-to-ensure-safe-development-in-a-dynamic-technology-race-the-difficulty-of-hitting-the-target,ok
+featured-image,3498,https://humancompatible.ai/app/uploads/2022/04/fraiday-e1650476457818.webp,src/assets/featured/2022/04/fraiday-e1650476457818.webp,news:facing-existential-risks-through-ai-proxies,ok
+featured-image,3504,https://humancompatible.ai/app/uploads/2022/04/abbeel_2286049.jpeg,src/assets/featured/2022/04/abbeel_2286049.jpeg,news:pieter-abbeel-receives-2021-acm-prize-in-computing,ok
+featured-image,3572,https://humancompatible.ai/app/uploads/2022/06/blog-image-.png,src/assets/featured/2022/06/blog-image-.png,news:blog-post-whats-right-and-whats-wrong-with-optimizing-for-engagement,ok
+featured-image,3575,https://humancompatible.ai/app/uploads/2022/06/Screen-Shot-2022-06-08-at-1.35.34-PM.png,src/assets/featured/2022/06/Screen-Shot-2022-06-08-at-1.35.34-PM.png,news:evolving-curricula-with-regret-based-environment-design,ok
+featured-image,3337,https://humancompatible.ai/app/uploads/2022/01/CHAI-360x230-1.png,src/assets/featured/2022/01/CHAI-360x230-1.png,news:chai-papers-published,ok
+featured-image,3591,https://humancompatible.ai/app/uploads/2022/06/resized-workshop-.png,src/assets/featured/2022/06/resized-workshop-.png,news:sixth-annual-chai-workshop,ok
+hotlink,,https://lh4.googleusercontent.com/_gh365TlKxQ2BY1j5VlUIAHCk-qf8OXJGlCSYcsPwZuT7hiVMiqa9vgFOldGufTuu5KGF3e8iinkiOTuWhiW2R7pP327InIndjqE02ZdhZZbSFOWMlMEQI4FC8D4iHrD9w9-Emvo8KfJUDMnJ9geEA,public/app/uploads/external/44240155-_gh365TlKxQ2BY1j5VlUIAHCk-qf8OXJGlCSYcsPwZuT7hiVMiqa9vgFOldG,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+hotlink,,https://lh4.googleusercontent.com/xJ6U5zm5okT5lkPoxrRuZg4bRNFedb6aFroZBh4C21YqQhmvORPKd1ngM-R0TK3Fmz8V2FmeUSMNu6NvzPmDXVn-lpO0WehUR-yuulqhXn8jg-9bMhbVAP30JppuQ_JFFFfZlGooZaDlwcHvJXR4oA,public/app/uploads/external/6e75f1bb-xJ6U5zm5okT5lkPoxrRuZg4bRNFedb6aFroZBh4C21YqQhmvORPKd1ngM-R0,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+hotlink,,https://lh6.googleusercontent.com/YNYRGA_oGIMLyggSNVJ6R130UhOz7Ms3Z2vO6AitEkqCJ79J3B90gYNUelNRKiKaNiAk-rfiIRanpQP3CBF255cSia_juGRqoTW_nkg9h0SesgiIYdL-vkv_hsJ12Uayh0HQIxmCst8kN1h3JuVmTQ,public/app/uploads/external/6f5cd02d-YNYRGA_oGIMLyggSNVJ6R130UhOz7Ms3Z2vO6AitEkqCJ79J3B90gYNUelNR,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+hotlink,,https://lh5.googleusercontent.com/uxblkqCAqlIISX7TywcenDwZnqu6ioJXGqK9nDhDLvUkFVJvmJJnPCaxzvwBrvrg4CnaavvYZVAdDa1EOowwygAoyzd12Muiegz7FBa_-O97BUjDwuTDFyounDFIbAUixc5_TCb5frAf--8AZ99RJw,public/app/uploads/external/fd2a1ea3-uxblkqCAqlIISX7TywcenDwZnqu6ioJXGqK9nDhDLvUkFVJvmJJnPCaxzvwB,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+hotlink,,https://lh6.googleusercontent.com/DcGoGWtTZxclZh5WoARbwNPpzcO9Ca75pD20lSyvHu90ZuGCY0TqxowQsUF_b7mxsVLZxFQFQPRjZoIWuZ8WG_lJyljIBv7p1Ex3uVAKVTChcZthuFYpCq1ocoAnjRmoI_RVCz_qOcEwY2UwsfjUGw,public/app/uploads/external/43316f79-DcGoGWtTZxclZh5WoARbwNPpzcO9Ca75pD20lSyvHu90ZuGCY0TqxowQsUF_,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+hotlink,,https://lh4.googleusercontent.com/FdBGCJ3noeNvMjtivnrXezogvQvUV-qegbJ2njTD7tD82RIjHnWat0DaSsFqOeiaOc7EqmNutJyA8S9HqsittAAuBd12t14Obs8R3mudEfbcAVW26NIvFDu9sPbTnB4et3qhqhG_IjjCs2qqFhXKZQ,public/app/uploads/external/39b6549a-FdBGCJ3noeNvMjtivnrXezogvQvUV-qegbJ2njTD7tD82RIjHnWat0DaSsFq,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+hotlink,,https://lh4.googleusercontent.com/RUO4n7aNfcyi2lPOPtsvk3hcmULE2JkGP5iWBCYYueFj0Wi-6BmZEGjIolSeV1YYdEmHuSqY-T8x_VftOI8Iz6c9KrbnGookrBgJp9bn6-bhFagUbHbywoO7C8n2Fw2KyI1j2M_IJwhbiC6O7yxfbQ,public/app/uploads/external/b80193d5-RUO4n7aNfcyi2lPOPtsvk3hcmULE2JkGP5iWBCYYueFj0Wi-6BmZEGjIolSe,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+hotlink,,https://lh3.googleusercontent.com/Nnp2_RK31A6dKaLvlxSJMJgF6mDdmS6xutEsKng7eqEMu4lKMId-fw23n0zlbY_xRTx2LYopeA2MA3IJ7D2OzpT1Mi18xbQUJ5uUX5iV05Oj8PpURCH3u0N0kue1pKhg4rhSf_vceEdW4ud5oOhPCg,public/app/uploads/external/3842600d-Nnp2_RK31A6dKaLvlxSJMJgF6mDdmS6xutEsKng7eqEMu4lKMId-fw23n0zl,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+hotlink,,https://lh3.googleusercontent.com/tfAVa0nYK4P3ar9Fi14T5RYqFoOtaweRGbrZaSpk_j_bALSsgFk-M36SkQAR0DdXo6BJ8wJCasqCdUQRcrm-S_tgSmlpxMJakqpg5u7Gd9UczoD5rMjlt_WnQyrlH3303wqx8bfgtOv27xq5XC8hbQ,public/app/uploads/external/e184be96-tfAVa0nYK4P3ar9Fi14T5RYqFoOtaweRGbrZaSpk_j_bALSsgFk-M36SkQAR,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+hotlink,,https://lh6.googleusercontent.com/aNfnSUpP9y7KlXvYIWSFPXtq9JtKDujT0lh_yBqxjTKZegcLmsOAJbKJXtycuMgXei0P3QIGPBYkRfCThCWg1Y3BGqIfHNvKD7e4WQ8ye52zd542kqKTr0XfFLiQr7UzwVztF6udx49n5qj_BD2ygg,public/app/uploads/external/5ed463b0-aNfnSUpP9y7KlXvYIWSFPXtq9JtKDujT0lh_yBqxjTKZegcLmsOAJbKJXtyc,blog:designing-societally-beneficial-reinforcement-learning-systems,external - download & rehost
+featured-image,3337,https://humancompatible.ai/app/uploads/2022/01/CHAI-360x230-1.png,src/assets/featured/2022/01/CHAI-360x230-1.png,news:simons-institute-ai-and-humanity-workshop-at-uc-berkeley,ok
+featured-image,3337,https://humancompatible.ai/app/uploads/2022/01/CHAI-360x230-1.png,src/assets/featured/2022/01/CHAI-360x230-1.png,news:rl-as-a-model-of-agency-workshop-at-rldm-2022,ok
+featured-image,3337,https://humancompatible.ai/app/uploads/2022/01/CHAI-360x230-1.png,src/assets/featured/2022/01/CHAI-360x230-1.png,news:discovering-user-interpretable-capabilities-of-black-box-planning-agents,ok
+featured-image,3337,https://humancompatible.ai/app/uploads/2022/01/CHAI-360x230-1.png,src/assets/featured/2022/01/CHAI-360x230-1.png,news:four-new-phd-students-at-chai,ok
+featured-image,3765,https://humancompatible.ai/app/uploads/2022/09/KR2022-1.png,src/assets/featured/2022/09/KR2022-1.png,news:discovering-user-interpretable-capabilities-of-black-box-planning-agents-2,ok
+featured-image,3870,https://humancompatible.ai/app/uploads/2022/10/Symmetric-MDP-A-v2-e1665437218234.jpg,src/assets/featured/2022/10/Symmetric-MDP-A-v2-e1665437218234.jpg,blog:for-learning-in-symmetric-teams-local-optima-are-global-nash-equilibria,ok
+featured-image,3768,https://humancompatible.ai/app/uploads/2022/09/arXiv.png,src/assets/featured/2022/09/arXiv.png,news:building-human-values-into-recommender-systems-an-interdisciplinary-synthesis,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:relational-abstractions-for-generalized-reinforcement-learning-on-symbolic-problems,ok
+featured-image,3859,https://humancompatible.ai/app/uploads/2022/10/social-media-pollution.webp,src/assets/featured/2022/10/social-media-pollution.webp,news:social-media-is-polluting-society-content-moderation-alone-wont-fix-the-problem,ok
+featured-image,3861,https://humancompatible.ai/app/uploads/2022/10/w_1024.png,src/assets/featured/2022/10/w_1024.png,news:the-shard-theory-of-human-values,ok
+featured-image,3883,https://humancompatible.ai/app/uploads/2022/11/content.png,src/assets/featured/2022/11/content.png,news:brian-christians-the-alignment-problem-wins-the-excellence-in-science-communication-award-from-eric-wendy-schmidt-and-the-national-academies,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:time-efficient-reward-learning-via-visually-assisted-cluster-ranking,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:competence-aware-systems,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:trade-regulation-rule-on-commercial-surveillance-and-data-security-rulemaking,ok
+featured-image,3918,https://humancompatible.ai/app/uploads/2023/01/Association_for_the_Advancement_of_Artificial_Intelligence.svg_.png,src/assets/featured/2023/01/Association_for_the_Advancement_of_Artificial_Intelligence.svg_.png,news:active-reward-learning-from-multiple-teachers,ok
+featured-image,3921,https://humancompatible.ai/app/uploads/2023/01/nyt-gpt3.webp,src/assets/featured/2023/01/nyt-gpt3.webp,news:how-to-use-chatgpt-and-still-be-a-good-person,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:inner-and-outer-alignment-decompose-one-hard-problem-into-two-extremely-hard-problems,ok
+featured-image,3928,https://humancompatible.ai/app/uploads/2022/12/prisoners-dilemma.jpeg,src/assets/featured/2022/12/prisoners-dilemma.jpeg,news:fast-deliberation-is-related-to-unconditional-behaviour-in-iterated-prisoners-dilemma-experiments-scientific-reports-121-1-10,ok
+featured-image,3768,https://humancompatible.ai/app/uploads/2022/09/arXiv.png,src/assets/featured/2022/09/arXiv.png,news:fairness-and-sequential-decision-making-limits-lessons-and-opportunities,ok
+featured-image,3960,https://humancompatible.ai/app/uploads/2023/02/supreme-court.jpeg,src/assets/featured/2023/02/supreme-court.jpeg,news:brief-of-center-for-democracy-and-technology-and-6-technologies-as-amici-curiae-in-support-of-respondent,ok
+featured-image,3995,https://humancompatible.ai/app/uploads/2023/03/230306_r41939.webp,src/assets/featured/2023/03/230306_r41939.webp,news:can-a-i-treat-mental-illness,ok
+featured-image,3998,https://humancompatible.ai/app/uploads/2023/03/openai-chatgpt.webp,src/assets/featured/2023/03/openai-chatgpt.webp,news:a-research-agenda-for-assessing-the-economic-impacts-of-code-generation-models,ok
+featured-image,4004,https://humancompatible.ai/app/uploads/2023/04/RE-Spring-2023-April.png,src/assets/featured/2023/04/RE-Spring-2023-April.png,news:distinguished-lecture-on-the-status-and-future-of-al,ok
+featured-image,4008,https://humancompatible.ai/app/uploads/2023/04/10663.webp,src/assets/featured/2023/04/10663.webp,news:ai-has-much-to-offer-humanity-it-could-also-wreak-terrible-harm-it-must-be-controlled,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:keynote-at-the-value-connection-workshop,ok
+featured-image,4013,https://humancompatible.ai/app/uploads/2023/05/expert-bias-climbing-to-knowledge.png,src/assets/featured/2023/05/expert-bias-climbing-to-knowledge.png,news:dealing-with-expert-bias-in-collective-decision-making,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:harms-from-increasingly-agentic-algorithmic-systems,ok
+featured-image,4426,https://humancompatible.ai/app/uploads/2023/06/CHAI2023_GroupPhoto-1-1.jpg,src/assets/featured/2023/06/CHAI2023_GroupPhoto-1-1.jpg,news:seven-annual-chai-workshop,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:dealing-with-expert-bias-in-collective-decision-making-2,ok
+featured-image,4456,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-21-at-9.51.11-AM.png,src/assets/featured/2023/07/Screenshot-2023-07-21-at-9.51.11-AM.png,news:who-needs-to-know-minimal-knowledge-for-optimal-coordination,ok
+featured-image,4460,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-21-at-10.09.56-AM.png,src/assets/featured/2023/07/Screenshot-2023-07-21-at-10.09.56-AM.png,news:smcp3-sequential-monte-carlo-with-probabilistic-program-proposals,ok
+featured-image,4496,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-07-31-at-12.51.49.png,src/assets/featured/2023/07/Screenshot-2023-07-31-at-12.51.49.png,blog:even-superhuman-go-ais-have-surprising-failures-modes,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:who-needs-to-know-minimal-knowledge-for-optimal-coordination-2,ok
+featured-image,4559,https://humancompatible.ai/app/uploads/2023/09/taxi-2023-09-08-160318.png,src/assets/featured/2023/09/taxi-2023-09-08-160318.png,news:conditional-abstraction-trees-for-sample-efficient-reinforcement-learning,ok
+featured-image,4599,https://humancompatible.ai/app/uploads/2023/09/russell-uc-unofficial2b1-1-e1694498588721.png,src/assets/featured/2023/09/russell-uc-unofficial2b1-1-e1694498588721.png,blog:stuart-russell-testifies-on-ai-regulation-at-u-s-senate-hearing,ok
+featured-image,4604,https://humancompatible.ai/app/uploads/2023/09/time100-ai.png,src/assets/featured/2023/09/time100-ai.png,news:100-most-influential-people-in-ai,ok
+featured-image,4612,https://humancompatible.ai/app/uploads/2023/09/ACROCPoLis.png,src/assets/featured/2023/09/ACROCPoLis.png,news:acrocpolis-a-descriptive-framework-for-making-sense-of-fairness,ok
+featured-image,4622,https://humancompatible.ai/app/uploads/2023/10/Forum-on-Information-Democracy.png,src/assets/featured/2023/10/Forum-on-Information-Democracy.png,news:announcement-of-working-group-on-ai,ok
+featured-image,4634,https://humancompatible.ai/app/uploads/2023/10/Expertise-Trees-Resolve-Knowledge-Limitations-in-Collective-Decision-Making.png,src/assets/featured/2023/10/Expertise-Trees-Resolve-Knowledge-Limitations-in-Collective-Decision-Making.png,news:expertise-trees-resolve-knowledge-limitations-in-collective-decision-making,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:managing-ai-risks-in-an-era-of-rapid-progress,ok
+featured-image,4660,https://humancompatible.ai/app/uploads/2023/10/ai-logo-1.png,src/assets/featured/2023/10/ai-logo-1.png,news:ai-safety-summit-by-uk-government,ok
+featured-image,4711,https://humancompatible.ai/app/uploads/2023/10/DALL·E-AI-newspost-logo.png,src/assets/featured/2023/10/DALLE-AI-newspost-logo.png,news:prominent-ai-scientists-from-china-and-the-west-propose-joint-strategy-to-mitigate-risks-from-ai,ok
+featured-image,4574,https://humancompatible.ai/app/uploads/2023/09/FullSizeRender.jpeg,src/assets/featured/2023/09/FullSizeRender.jpeg,news:cs-student-at-uc-berkeley-develops-tech-to-combat-social-media-harms,ok
+featured-image,4746,https://humancompatible.ai/app/uploads/2023/11/9780141987507-jacket-large.jpg,src/assets/featured/2023/11/9780141987507-jacket-large.jpg,news:human-compatible-has-been-reissued-in-the-uk-in-2023,ok
+featured-image,4972,https://humancompatible.ai/app/uploads/2023/11/Orienting-AI-Toward-Peace.png,src/assets/featured/2023/11/Orienting-AI-Toward-Peace.png,news:orienting-ai-toward-peace,ok
+featured-image,5000,https://humancompatible.ai/app/uploads/2023/12/2023-12-12-223009-1.png,src/assets/featured/2023/12/2023-12-12-223009-1.png,news:mitigating-generative-agent-social-dilemmas,ok
+featured-image,5022,https://humancompatible.ai/app/uploads/2023/12/Screenshot-2023-12-22-182201.png,src/assets/featured/2023/12/Screenshot-2023-12-22-182201.png,news:what-can-ai-learn-from-human-exploration-intrinsically-motivated-humans-and-agents-in-open-world-exploration,ok
+featured-image,5044,https://humancompatible.ai/app/uploads/2024/01/Screenshot-2024-01-16-154304.png,src/assets/featured/2024/01/Screenshot-2024-01-16-154304.png,news:autonomous-assessment-of-demonstration-sufficiency-via-bayesian-inverse-reinforcement-learning,ok
+featured-image,4045,https://humancompatible.ai/app/uploads/2023/06/Screenshot-2023-06-06-at-11.36.51-AM.png,src/assets/featured/2023/06/Screenshot-2023-06-06-at-11.36.51-AM.png,news:ai-heralds-a-fourth-industrial-revolution-why-isnt-america-regulating-it,ok
+featured-image,5058,https://humancompatible.ai/app/uploads/2024/01/ALMANACS.png,src/assets/featured/2024/01/ALMANACS.png,news:almanacs-a-simulatability-benchmark-for-language-model-explainability,ok
+featured-image,5077,https://humancompatible.ai/app/uploads/2024/01/The-Prosocial-Ranking-Challenge-Logo-Idea-Green-on-Black.png,src/assets/featured/2024/01/The-Prosocial-Ranking-Challenge-Logo-Idea-Green-on-Black.png,news:the-prosocial-ranking-challenge-60000-in-prizes-for-better-social-media-algorithms,ok
+featured-image,5159,https://humancompatible.ai/app/uploads/2024/04/ltpas-scaled.jpeg,src/assets/featured/2024/04/ltpas-scaled.jpeg,news:regulating-advanced-artificial-agents,ok
+featured-image,5231,https://humancompatible.ai/app/uploads/2024/02/2024-03-25-16.53.41-2_0.jpg,src/assets/featured/2024/02/2024-03-25-16.53.41-2_0.jpg,news:embracing-ai-that-reflects-human-values-insights-from-brian-christians-journey,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:chai-policy-internship,ok
+featured-image,5234,https://humancompatible.ai/app/uploads/2024/03/Screenshot-2024-04-09-at-8.21.04 AM.png,src/assets/featured/2024/03/Screenshot-2024-04-09-at-8.21.04-AM.png,news:when-your-ais-deceive-you-challenges-with-partial-observability-of-human-evaluators-in-reward-learning,ok
+featured-image,5258,https://humancompatible.ai/app/uploads/2024/04/Screenshot-2024-04-15-at-5.39.52 PM.png,src/assets/featured/2024/04/Screenshot-2024-04-15-at-5.39.52-PM.png,news:reinforcement-learning-safety-workshop-rlsw-rlc-2024,ok
+featured-image,5312,https://humancompatible.ai/app/uploads/2024/04/Screenshot-2024-05-14-at-12.57.05 AM.png,src/assets/featured/2024/04/Screenshot-2024-05-14-at-12.57.05-AM.png,news:reinforcement-learning-with-human-feedback-and-active-teacher-selection-rlhf-and-ats,ok
+featured-image,5309,https://humancompatible.ai/app/uploads/2024/05/41598_2024_61153_Fig1_HTML.webp,src/assets/featured/2024/05/41598_2024_61153_Fig1_HTML.webp,news:committing-to-the-wrong-artificial-delegate-in-a-collective-risk-dilemma-is-better-than-directly-committing-mistakes,ok
+featured-image,5625,https://humancompatible.ai/app/uploads/2024/06/IMG_5715-1.jpg,src/assets/featured/2024/06/IMG_5715-1.jpg,news:8th-annual-chai-workshop,ok
+featured-image,5659,https://humancompatible.ai/app/uploads/2024/06/image.png,src/assets/featured/2024/06/image.png,news:mitigating-partial-observability-in-decision-processes-via-the-lambda-discrepancy,ok
+featured-image,4698,https://humancompatible.ai/app/uploads/2023/10/chai-logo_a729cbef.png,src/assets/featured/2023/10/chai-logo_a729cbef.png,news:when-code-isnt-law-rethinking-regulation-for-artificial-intelligence,ok
+featured-image,5525,https://humancompatible.ai/app/uploads/2024/06/jonathan-stray.png,src/assets/featured/2024/06/jonathan-stray.png,news:forget-deepfake-videos-text-and-voice-are-this-elections-true-ai-threat,ok
+featured-image,5652,https://humancompatible.ai/app/uploads/2024/07/ICML-logo.png,src/assets/featured/2024/07/ICML-logo.png,news:ai-alignment-with-changing-and-influenceable-reward-functions,ok
+featured-image,5652,https://humancompatible.ai/app/uploads/2024/07/ICML-logo.png,src/assets/featured/2024/07/ICML-logo.png,news:social-choice-should-guide-ai-alignment-in-dealing-with-diverse-human-feedback,ok
+featured-image,26,https://humancompatible.ai/app/uploads/2020/10/alignment-problem.jpg,src/assets/featured/2020/10/alignment-problem.jpg,news:the-alignment-problem-wins-xingdu-book-award,ok
+featured-image,5753,https://humancompatible.ai/app/uploads/2024/09/acl-logo.png,src/assets/featured/2024/09/acl-logo.png,news:language-guided-world-models-a-model-based-approach-to-ai-control,ok
+featured-image,4698,https://humancompatible.ai/app/uploads/2023/10/chai-logo_a729cbef.png,src/assets/featured/2023/10/chai-logo_a729cbef.png,news:getting-by-goal-misgeneralization-with-a-little-help-from-a-mentor,ok
+featured-image,4698,https://humancompatible.ai/app/uploads/2023/10/chai-logo_a729cbef.png,src/assets/featured/2023/10/chai-logo_a729cbef.png,news:representative-social-choice-from-learning-theory-to-ai-alignment,ok
+featured-image,401,https://humancompatible.ai/app/uploads/2020/11/rachel-freedman.jpg,src/assets/featured/2020/11/rachel-freedman.jpg,news:rachel-freedman-selected-as-inaugural-cooperative-ai-fellow,ok
+featured-image,3608,https://humancompatible.ai/app/uploads/2020/10/cropped-chai_logo.png,src/assets/featured/2020/10/cropped-chai_logo.png,news:linear-probe-penalties-reduce-llm-sycophancy,ok
+featured-image,5792,https://humancompatible.ai/app/uploads/2024/12/neurips2022.png,src/assets/featured/2024/12/neurips2022.png,news:getting-by-goal-misgeneralization-with-a-little-help-from-a-mentor-2,ok
+featured-image,5810,https://humancompatible.ai/app/uploads/2025/02/Screenshot-2025-02-04-at-3.02.54 PM.png,src/assets/featured/2025/02/Screenshot-2025-02-04-at-3.02.54-PM.png,news:a-practical-definition-of-political-neutrality-for-ai,ok
+hotlink,,https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0ZIoWmztuwOYmd-2dhnAkYGMs2fg3hIvMm6Qcx9BD1HNLtesOkZqLqo6Kr_c0qH-ROHqH4dd7tRGvaK0-pOZzE4gwzRknxFhMvzz7Ekx1LD29nXmPFqiUuAXO9AsOiNi3xtGgSw?key=oz0uh9yh2EFK6Wszqo3F9ZE2,public/app/uploads/external/3bd10683-AD_4nXd0ZIoWmztuwOYmd-2dhnAkYGMs2fg3hIvMm6Qcx9BD1HNLtesOkZqL,news:a-practical-definition-of-political-neutrality-for-ai,external - download & rehost
+hotlink,,https://lh7-rt.googleusercontent.com/docsz/AD_4nXfMKYgmgxXR2R3kZfOj9FYnsgGSbyj6b7LTJLuh81W1OABNKbWmDWLbLGwWfvEy42TW90jq4rUrI35-VOzYqInNP5h0hgqCEYZ0EVl2l82wVItrYdUtWrfmoMVw9TUk90EkDEp-_w?key=oz0uh9yh2EFK6Wszqo3F9ZE2,public/app/uploads/external/162cf519-AD_4nXfMKYgmgxXR2R3kZfOj9FYnsgGSbyj6b7LTJLuh81W1OABNKbWmDWLb,news:a-practical-definition-of-political-neutrality-for-ai,external - download & rehost
+hotlink,,https://lh7-rt.googleusercontent.com/docsz/AD_4nXedyPg4NWEhpBfy2ZiAYktWUFOja0_axPHje1-UKV2wqJVlKPsjr0Ej9_qjceszo0DRQdt4GWF_ZKQYL5COC_vBjjKHgYHzY_4gHKwM-DGDwwyptIR3QJOsyYLxnsqaqlxXs7U_wA?key=oz0uh9yh2EFK6Wszqo3F9ZE2,public/app/uploads/external/ad073de4-AD_4nXedyPg4NWEhpBfy2ZiAYktWUFOja0_axPHje1-UKV2wqJVlKPsjr0Ej,news:a-practical-definition-of-political-neutrality-for-ai,external - download & rehost
+hotlink,,https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqAkjsbuxWT844CmoHIk_vJZL_ci-2vBcLrjGQdkPiembEUDmuo5PoUpIdiDrfyjFzmSyNLN9-l1zoXJTswMeyTlsUuIh52ikEHjvmNlTultaLXZhTzJlxNo9-iegiv_v8uGtHog?key=oz0uh9yh2EFK6Wszqo3F9ZE2,public/app/uploads/external/9ebd04fa-AD_4nXcqAkjsbuxWT844CmoHIk_vJZL_ci-2vBcLrjGQdkPiembEUDmuo5Po,news:a-practical-definition-of-political-neutrality-for-ai,external - download & rehost
+featured-image,5880,https://humancompatible.ai/app/uploads/2021/03/emmons-square-1.jpg,src/assets/featured/2021/03/emmons-square-1.jpg,news:rvs-what-is-essential-for-offline-rl-via-supervised-learning,ok
+featured-image,325,https://humancompatible.ai/app/uploads/2020/11/brianchristian.jpg,src/assets/featured/2020/11/brianchristian.jpg,news:computational-frameworksfor-human-care,ok
+featured-image,5935,https://humancompatible.ai/app/uploads/2025/03/experts_coordination.png,src/assets/featured/2025/03/experts_coordination.png,news:learning-to-coordinate-with-experts,ok
+featured-image,281,https://humancompatible.ai/app/uploads/2020/11/dylan-hadfield-menell.jpg,src/assets/people/dylan-hadfield-menell.jpg,people:dylan-hadfield-menell,ok
+featured-image,283,https://humancompatible.ai/app/uploads/2020/11/gillian-hadfield.jpg,src/assets/people/gillian-hadfield.jpg,people:gillian-hadfield,ok
+featured-image,285,https://humancompatible.ai/app/uploads/2020/11/mark.jpg,src/assets/people/0-mark-nitzberg.jpg,people:0-mark-nitzberg,ok
+featured-image,725,https://humancompatible.ai/app/uploads/2020/11/stuart.jpg,src/assets/people/0-stuart-russell.jpg,people:0-stuart-russell,ok
+featured-image,2311,https://humancompatible.ai/app/uploads/2020/11/jaime.jpg,src/assets/people/jaime-fernandez-fisac.jpg,people:jaime-fernandez-fisac,ok
+featured-image,293,https://humancompatible.ai/app/uploads/2020/11/pieter.jpg,src/assets/people/1-pieter-abbeel.jpg,people:1-pieter-abbeel,ok
+featured-image,731,https://humancompatible.ai/app/uploads/2020/11/rosie-campbell.jpg,src/assets/people/rosie-campbell.jpg,people:rosie-campbell,ok
+featured-image,297,https://humancompatible.ai/app/uploads/2020/11/anca.jpg,src/assets/people/anca-dragan.jpg,people:anca-dragan,ok
+featured-image,299,https://humancompatible.ai/app/uploads/2020/11/andrew.jpg,src/assets/people/andrew-critch.jpg,people:andrew-critch,ok
+featured-image,301,https://humancompatible.ai/app/uploads/2020/11/siddharth-srivastava.jpg,src/assets/people/siddharth-srivastava.jpg,people:siddharth-srivastava,ok
+featured-image,303,https://humancompatible.ai/app/uploads/2020/11/selman.jpg,src/assets/people/bart-selman.jpg,people:bart-selman,ok
+featured-image,305,https://humancompatible.ai/app/uploads/2020/11/caroline.png,src/assets/people/3-caroline-jeanmaire.png,people:3-caroline-jeanmaire,ok
+featured-image,307,https://humancompatible.ai/app/uploads/2020/11/tom.jpg,src/assets/people/tom-griffiths.jpg,people:tom-griffiths,ok
+featured-image,733,https://humancompatible.ai/app/uploads/2020/11/halpern.jpg,src/assets/people/joseph-halpern.jpg,people:joseph-halpern,ok
+featured-image,311,https://humancompatible.ai/app/uploads/2020/11/wellman.jpg,src/assets/people/michael-wellman.jpg,people:michael-wellman,ok
+featured-image,313,https://humancompatible.ai/app/uploads/2020/11/Baveja.png,src/assets/people/satinder-singh-baveja.png,people:satinder-singh-baveja,ok
+featured-image,315,https://humancompatible.ai/app/uploads/2020/11/tania-lombrozo.jpg,src/assets/people/tania-lombrozo.jpg,people:tania-lombrozo,ok
+featured-image,1189,https://humancompatible.ai/app/uploads/2020/11/adam-gleave.jpg,src/assets/people/adam-gleave.jpg,people:adam-gleave,ok
+featured-image,319,https://humancompatible.ai/app/uploads/2020/11/alex-turner.jpg,src/assets/people/alex-turner.jpg,people:alex-turner,ok
+featured-image,321,https://humancompatible.ai/app/uploads/2020/11/alison-gopnik.jpg,src/assets/people/alison-gopnik.jpg,people:alison-gopnik,ok
+featured-image,1187,https://humancompatible.ai/app/uploads/2020/11/beth-barnes-profile.jpg,src/assets/people/beth-barnes.jpg,people:beth-barnes,ok
+featured-image,325,https://humancompatible.ai/app/uploads/2020/11/brianchristian.jpg,src/assets/people/brian-christian.jpg,people:brian-christian,ok
+featured-image,327,https://humancompatible.ai/app/uploads/2020/11/charis-thompson.jpg,src/assets/people/charis-thompson.jpg,people:charis-thompson,ok
+featured-image,329,https://humancompatible.ai/app/uploads/2020/11/charlotte-roman.png,src/assets/people/charlotte-roman.png,people:charlotte-roman,ok
+featured-image,1864,https://humancompatible.ai/app/uploads/2020/12/chris-cundy-1.jpg,src/assets/people/chris-cundy.jpg,people:chris-cundy,ok
+featured-image,333,https://humancompatible.ai/app/uploads/2020/11/cody-wild.png,src/assets/people/cody-wild.png,people:cody-wild,ok
+featured-image,335,https://humancompatible.ai/app/uploads/2020/11/cynthia-chen.jpg,src/assets/people/cynthia-chen.jpg,people:cynthia-chen,ok
+featured-image,337,https://humancompatible.ai/app/uploads/2020/11/dan-hendryks.jpg,src/assets/people/dan-hendryks.jpg,people:dan-hendryks,ok
+featured-image,339,https://humancompatible.ai/app/uploads/2020/11/Daniel_Filan.jpg,src/assets/people/daniel-filan.jpg,people:daniel-filan,ok
+featured-image,341,https://humancompatible.ai/app/uploads/2020/11/david-lindner.jpg,src/assets/people/david-lindner.jpg,people:david-lindner,ok
+featured-image,343,https://humancompatible.ai/app/uploads/2020/11/dawn-song.jpg,src/assets/people/dawn-song.jpg,people:dawn-song,ok
+featured-image,345,https://humancompatible.ai/app/uploads/2020/11/demian-pouzo.jpg,src/assets/people/demian-pouzo.jpg,people:demian-pouzo,ok
+featured-image,347,https://humancompatible.ai/app/uploads/2020/11/dmitrii-krasheninnikov.jpg,src/assets/people/dmitrii-krasheninnikov.jpg,people:dmitrii-krasheninnikov,ok
+featured-image,349,https://humancompatible.ai/app/uploads/2020/11/eric-michaud.jpg,src/assets/people/eric-michaud.jpg,people:eric-michaud,ok
+featured-image,351,https://humancompatible.ai/app/uploads/2020/11/harry-giles.png,src/assets/people/harry-giles.png,people:harry-giles,ok
+featured-image,353,https://humancompatible.ai/app/uploads/2020/11/jacobsteinhardt.png,src/assets/people/jacob-steinhardt.png,people:jacob-steinhardt,ok
+featured-image,355,https://humancompatible.ai/app/uploads/2020/11/jess-riedel.jpg,src/assets/people/jess-reidel.jpg,people:jess-reidel,ok
+featured-image,357,https://humancompatible.ai/app/uploads/2020/11/johannes-treutlein.jpg,src/assets/people/johannes-treutlein.jpg,people:johannes-treutlein,ok
+featured-image,359,https://humancompatible.ai/app/uploads/2020/11/john-zysman.jpg,src/assets/people/john-zysman.jpg,people:john-zysman,ok
+featured-image,361,https://humancompatible.ai/app/uploads/2020/11/juliana-schroeder.jpg,src/assets/people/juliana-schroeder.jpg,people:juliana-schroeder,ok
+featured-image,363,https://humancompatible.ai/app/uploads/2020/11/karthika.jpg,src/assets/people/4-karthika-mohan.jpg,people:4-karthika-mohan,ok
+featured-image,365,https://humancompatible.ai/app/uploads/2020/11/ken-goldberg.jpg,src/assets/people/ken-goldberg.jpg,people:ken-goldberg,ok
+featured-image,367,https://humancompatible.ai/app/uploads/2020/11/lara-buchak.jpg,src/assets/people/lara-buchak.jpg,people:lara-buchak,ok
+featured-image,369,https://humancompatible.ai/app/uploads/2020/11/lawrence-chan.jpg,src/assets/people/lawrence-chan.jpg,people:lawrence-chan,ok
+featured-image,371,https://humancompatible.ai/app/uploads/2020/11/mariano-florentio-cuellar.jpg,src/assets/people/mariano-florentino-cuellar.jpg,people:mariano-florentino-cuellar,ok
+featured-image,373,https://humancompatible.ai/app/uploads/2020/11/marion-fourcade.jpg,src/assets/people/marion-fourcade.jpg,people:marion-fourcade,ok
+featured-image,723,https://humancompatible.ai/app/uploads/2020/11/matthew-rahtz.jpg,src/assets/people/matthew-rahtz.jpg,people:matthew-rahtz,ok
+featured-image,379,https://humancompatible.ai/app/uploads/2020/11/micah-carroll.png,src/assets/people/micah-carroll.png,people:micah-carroll,ok
+featured-image,381,https://humancompatible.ai/app/uploads/2020/11/michael-dennis.jpg,src/assets/people/michael-dennis.jpg,people:michael-dennis,ok
+featured-image,383,https://humancompatible.ai/app/uploads/2020/11/michael-littman.jpg,src/assets/people/michael-littman.jpg,people:michael-littman,ok
+featured-image,385,https://humancompatible.ai/app/uploads/2020/11/michael-mcdonald.jpg,src/assets/people/michael-mcdonald.jpg,people:michael-mcdonald,ok
+featured-image,729,https://humancompatible.ai/app/uploads/2020/11/moritz-hardt.jpg,src/assets/people/moritz-hardt.jpg,people:moritz-hardt,ok
+featured-image,389,https://humancompatible.ai/app/uploads/2020/11/neel-alex.jpg,src/assets/people/neel-alex.jpg,people:neel-alex,ok
+featured-image,391,https://humancompatible.ai/app/uploads/2020/11/nika-haghtalab.jpg,src/assets/people/nika-haghtalab.jpg,people:nika-haghtalab,ok
+featured-image,393,https://humancompatible.ai/app/uploads/2020/11/niko-kolodny.jpg,src/assets/people/niko-kolodny.jpg,people:niko-kolodny,ok
+featured-image,397,https://humancompatible.ai/app/uploads/2020/11/pedro-freire.jpg,src/assets/people/pedro-freire.jpg,people:pedro-freire,ok
+featured-image,780,https://humancompatible.ai/app/uploads/2020/11/pulkit-verma.jpg,src/assets/people/pulkit-verma.jpg,people:pulkit-verma,ok
+featured-image,401,https://humancompatible.ai/app/uploads/2020/11/rachel-freedman.jpg,src/assets/people/rachel-freedman.jpg,people:rachel-freedman,ok
+featured-image,403,https://humancompatible.ai/app/uploads/2020/11/rediet-abebe.jpg,src/assets/people/rediet-adebe.jpg,people:rediet-adebe,ok
+featured-image,727,https://humancompatible.ai/app/uploads/2020/11/Rohin.jpg,src/assets/people/rohin-shah.jpg,people:rohin-shah,ok
+featured-image,407,https://humancompatible.ai/app/uploads/2020/11/sam-toyer.jpg,src/assets/people/sam-toyer.jpg,people:sam-toyer,ok
+featured-image,409,https://humancompatible.ai/app/uploads/2020/11/sergei-volodin.jpg,src/assets/people/sergei-volodin.jpg,people:sergei-volodin,ok
+featured-image,411,https://humancompatible.ai/app/uploads/2020/11/shlomi.png,src/assets/people/shlomi-hod.png,people:shlomi-hod,ok
+featured-image,3633,https://humancompatible.ai/app/uploads/2020/11/square.jpg,src/assets/people/smitha-milli.jpg,people:smitha-milli,ok
+featured-image,721,https://humancompatible.ai/app/uploads/2020/11/soren-mindermann.jpg,src/assets/people/soren-mindermann.jpg,people:soren-mindermann,ok
+featured-image,417,https://humancompatible.ai/app/uploads/2020/11/stephen-casper.png,src/assets/people/stephen-casper.png,people:stephen-casper,ok
+featured-image,419,https://humancompatible.ai/app/uploads/2020/11/steven-wang.jpg,src/assets/people/steven-wang.jpg,people:steven-wang,ok
+featured-image,421,https://humancompatible.ai/app/uploads/2020/11/thomas-gilbert.jpg,src/assets/people/thomas-gilbert.jpg,people:thomas-gilbert,ok
+featured-image,2282,https://humancompatible.ai/app/uploads/2020/11/vaelgates.png,src/assets/people/vael-gates.png,people:vael-gates,ok
+featured-image,425,https://humancompatible.ai/app/uploads/2020/11/vincent.jpg,src/assets/people/vincent-corruble.jpg,people:vincent-corruble,ok
+featured-image,1879,https://humancompatible.ai/app/uploads/2020/12/alyssa-li-dayan.png,src/assets/people/aly-lidayan.png,people:aly-lidayan,ok
+featured-image,1888,https://humancompatible.ai/app/uploads/2020/12/yuxi-liu.jpg,src/assets/people/yuxi-liu.jpg,people:yuxi-liu,ok
+featured-image,4510,https://humancompatible.ai/app/uploads/2020/12/Screenshot-2023-08-07-at-17.47.12.png,src/assets/people/cassidy-laidlaw.png,people:cassidy-laidlaw,ok
+featured-image,1890,https://humancompatible.ai/app/uploads/2020/12/jessy-lin.jpg,src/assets/people/jessy-lin.jpg,people:jessy-lin,ok
+featured-image,1925,https://humancompatible.ai/app/uploads/2021/01/jakob-foerster.png,src/assets/people/jakob-foerster.png,people:jakob-foerster,ok
+featured-image,1930,https://humancompatible.ai/app/uploads/2021/01/dorsasadigh_200x200.jpg,src/assets/people/dorsa-sadigh.jpg,people:dorsa-sadigh,ok
+featured-image,1982,https://humancompatible.ai/app/uploads/2021/02/tom-lenaerts.png,src/assets/people/tom-lenaerts.png,people:tom-lenaerts,ok
+featured-image,2058,https://humancompatible.ai/app/uploads/2021/03/Rafael-Albert.jpg,src/assets/people/rafael-albert.jpg,people:rafael-albert,ok
+featured-image,2077,https://humancompatible.ai/app/uploads/2021/03/yawen-duan.png,src/assets/people/yawen-duan.png,people:yawen-duan,ok
+featured-image,5880,https://humancompatible.ai/app/uploads/2021/03/emmons-square-1.jpg,src/assets/people/scott-emmons.jpg,people:scott-emmons,ok
+featured-image,2120,https://humancompatible.ai/app/uploads/2021/04/paria-rashidinejad.jpg,src/assets/people/paria-rashidinejad.jpg,people:paria-rashidinejad,ok
+featured-image,2144,https://humancompatible.ai/app/uploads/2021/04/arnaud-fickinger.jpg,src/assets/people/arnaud-fickinger.jpg,people:arnaud-fickinger,ok
+featured-image,2152,https://humancompatible.ai/app/uploads/2021/04/Lauro-Langosco-di-Langosco.jpg,src/assets/people/lauro-langosco.jpg,people:lauro-langosco,ok
+featured-image,2156,https://humancompatible.ai/app/uploads/2021/04/Antoni-Lorente-Martinez.jpg,src/assets/people/antoni-lorente-martinez.jpg,people:antoni-lorente-martinez,ok
+featured-image,2163,https://humancompatible.ai/app/uploads/2021/04/wesley-holliday.jpg,src/assets/people/wesley-holliday.jpg,people:wesley-holliday,ok
+featured-image,2166,https://humancompatible.ai/app/uploads/2021/04/Pavel-Czempin.jpg,src/assets/people/pavel-czempin.jpg,people:pavel-czempin,ok
+featured-image,2174,https://humancompatible.ai/app/uploads/2021/05/nathan-miller.png,src/assets/people/nathan-miller.png,people:nathan-miller,ok
+featured-image,2208,https://humancompatible.ai/app/uploads/2021/05/jonathan-stray.png,src/assets/people/jonathan-stray.png,people:jonathan-stray,ok
+featured-image,2216,https://humancompatible.ai/app/uploads/2021/05/joar-skalse.jpg,src/assets/people/joar-skalse.jpg,people:joar-skalse,ok
+featured-image,2220,https://humancompatible.ai/app/uploads/2021/05/photo-matthew.jpeg,src/assets/people/matthew-farrugia-roberts.jpeg,people:matthew-farrugia-roberts,ok
+featured-image,2232,https://humancompatible.ai/app/uploads/2021/06/oliver-r.jpg,src/assets/people/oliver-richardson.jpg,people:oliver-richardson,ok
+featured-image,2238,https://humancompatible.ai/app/uploads/2021/06/woodside.jpg,src/assets/people/thomas-woodside.jpg,people:thomas-woodside,ok
+featured-image,2250,https://humancompatible.ai/app/uploads/2021/06/Carlo-A.png,src/assets/people/carlo-attubato.png,people:carlo-attubato,ok
+featured-image,2270,https://humancompatible.ai/app/uploads/2021/06/Webp.net-resizeimage-1.jpg,src/assets/people/erik-jenner.jpg,people:erik-jenner,ok
+featured-image,2288,https://humancompatible.ai/app/uploads/2021/06/neelnanda.jpg,src/assets/people/neel-nanda.jpg,people:neel-nanda,ok
+featured-image,2297,https://humancompatible.ai/app/uploads/2021/06/Webp.net-resizeimage-2.jpg,src/assets/people/joe-benton.jpg,people:joe-benton,ok
+featured-image,2300,https://humancompatible.ai/app/uploads/2021/06/yulong.jpg,src/assets/people/yulong-lin.jpg,people:yulong-lin,ok
+featured-image,2304,https://humancompatible.ai/app/uploads/2021/07/Webp.net-resizeimage.jpg,src/assets/people/alexis-wan.jpg,people:alexis-wan,ok
+featured-image,2355,https://humancompatible.ai/app/uploads/2021/08/T9UTZPRRV-U02B7E764BW-82619e385ce3-512-e1629227282150.jpg,src/assets/people/j-p-gonzales.jpg,people:j-p-gonzales,ok
+featured-image,2400,https://humancompatible.ai/app/uploads/2021/08/1623780667706-e1630446196674.jpg,src/assets/people/thanard-kurutach.jpg,people:thanard-kurutach,ok
+featured-image,2539,https://humancompatible.ai/app/uploads/2021/09/Photo.jpeg,src/assets/people/justin-svegliato.jpeg,people:justin-svegliato,ok
+featured-image,3468,https://humancompatible.ai/app/uploads/2022/03/me2-e1647880247976.jpg,src/assets/people/george-obaido.jpg,people:george-obaido,ok
+featured-image,3472,https://humancompatible.ai/app/uploads/2022/03/img_0598-3-1.jpg,src/assets/people/anand-siththaranjan.jpg,people:anand-siththaranjan,ok
+featured-image,3481,https://humancompatible.ai/app/uploads/2022/04/hanlin-resized.jpeg,src/assets/people/hanlin-zhu.jpeg,people:hanlin-zhu,ok
+featured-image,5644,https://humancompatible.ai/app/uploads/2022/05/Screenshot-2024-07-09-at-10.54.20 AM.png,src/assets/people/katie-lu.png,people:katie-lu,ok
+featured-image,3546,https://humancompatible.ai/app/uploads/2022/05/Berglund-Resized-.png,src/assets/people/lukas-berglund.png,people:lukas-berglund,ok
+featured-image,3548,https://humancompatible.ai/app/uploads/2022/05/kaufmann-resized--e1653346082925.jpeg,src/assets/people/max-kaufmann.jpeg,people:max-kaufmann,ok
+featured-image,3552,https://humancompatible.ai/app/uploads/2022/05/mckinney-resized-.png,src/assets/people/lev-mckinney.png,people:lev-mckinney,ok
+featured-image,3557,https://humancompatible.ai/app/uploads/2022/05/image-e1654016002566.png,src/assets/people/jiahai-feng.png,people:jiahai-feng,ok
+featured-image,3567,https://humancompatible.ai/app/uploads/2022/06/1download.png,src/assets/people/shivam-singhal.png,people:shivam-singhal,ok
+featured-image,3582,https://humancompatible.ai/app/uploads/2022/06/oliver-big.jpeg,src/assets/people/oliver-daniels-koch.jpeg,people:oliver-daniels-koch,ok
+featured-image,3585,https://humancompatible.ai/app/uploads/2022/06/michael-resized-.png,src/assets/people/michael-chen.png,people:michael-chen,ok
+featured-image,3595,https://humancompatible.ai/app/uploads/2022/06/IMG_3054_2-1.jpeg,src/assets/people/jun-shern-chan.jpeg,people:jun-shern-chan,ok
+featured-image,3598,https://humancompatible.ai/app/uploads/2022/07/Turner-043-e1657047815362.jpg,src/assets/people/alex-turner-2.jpg,people:alex-turner-2,ok
+featured-image,3602,https://humancompatible.ai/app/uploads/2022/07/me_square.jpg,src/assets/people/erik-jenner-2.jpg,people:erik-jenner-2,ok
+featured-image,3610,https://humancompatible.ai/app/uploads/2022/07/me-headshot-paris.jpeg,src/assets/people/dylan-cope.jpeg,people:dylan-cope,ok
+featured-image,3637,https://humancompatible.ai/app/uploads/2022/07/erdem.png,src/assets/people/erdem-biyik.png,people:erdem-biyik,ok
+featured-image,3655,https://humancompatible.ai/app/uploads/2022/08/johannes-treutlein-photo-min.jpg,src/assets/people/johannes-treutlein-2.jpg,people:johannes-treutlein-2,ok
+featured-image,3661,https://humancompatible.ai/app/uploads/2022/08/shreyas_photo_min-min-1-e1665437290513.jpg,src/assets/people/shreyas-kapur.jpg,people:shreyas-kapur,ok
+featured-image,3670,https://humancompatible.ai/app/uploads/2022/08/headshot-min.jpg,src/assets/people/george-matheos.jpg,people:george-matheos,ok
+featured-image,3675,https://humancompatible.ai/app/uploads/2022/08/gallery-pages-min-min.jpg,src/assets/people/jakub-grudzien-kuba.jpg,people:jakub-grudzien-kuba,ok
+featured-image,3756,https://humancompatible.ai/app/uploads/2022/09/David-Krueger.jpg,src/assets/people/david-krueger.jpg,people:david-krueger,ok
+featured-image,3880,https://humancompatible.ai/app/uploads/2022/11/306997234_764001521690166_7119691910150010422_n.jpeg,src/assets/people/charlie-griffin.jpeg,people:charlie-griffin,ok
+featured-image,3897,https://humancompatible.ai/app/uploads/2022/11/Screen-Shot-2022-11-15-at-9.58.21-AM.png,src/assets/people/olivia-watkins.png,people:olivia-watkins,ok
+featured-image,3900,https://humancompatible.ai/app/uploads/2022/11/nl_900x900.png,src/assets/people/niklas-lauffer.png,people:niklas-lauffer,ok
+featured-image,3966,https://humancompatible.ai/app/uploads/2023/03/edmund_mills.png,src/assets/people/edmund-mills.png,people:edmund-mills,ok
+featured-image,3969,https://humancompatible.ai/app/uploads/2023/03/bike_tour.jpg,src/assets/people/leon-lang.jpg,people:leon-lang,ok
+featured-image,3978,https://humancompatible.ai/app/uploads/2023/03/mud-profpic.png,src/assets/people/david-foote.png,people:david-foote,ok
+featured-image,4023,https://humancompatible.ai/app/uploads/2023/05/asf_shot_2-scaled.jpg,src/assets/people/nitish-dashora.jpg,people:nitish-dashora,ok
+featured-image,4524,https://humancompatible.ai/app/uploads/2023/06/Screenshot-2023-08-16-at-12.24.54.png,src/assets/people/mason-nakamura-2.png,people:mason-nakamura-2,ok
+featured-image,4045,https://humancompatible.ai/app/uploads/2023/06/Screenshot-2023-06-06-at-11.36.51-AM.png,src/assets/people/brian-judge.png,people:brian-judge,ok
+featured-image,4525,https://humancompatible.ai/app/uploads/2023/07/Screenshot-2023-08-16-at-12.32.32.png,src/assets/people/michal-mgeladze-arciuch.png,people:michal-mgeladze-arciuch,ok
+featured-image,4451,https://humancompatible.ai/app/uploads/2023/07/fhi_headshot.jpg,src/assets/people/michael-cohen.jpg,people:michael-cohen,ok
+featured-image,4479,https://humancompatible.ai/app/uploads/2023/07/pic.jpeg,src/assets/people/ethan-mendes.jpeg,people:ethan-mendes,ok
+featured-image,4526,https://humancompatible.ai/app/uploads/2023/08/Screenshot-2023-08-16-at-12.35.10.png,src/assets/people/luke-bailey.png,people:luke-bailey,ok
+featured-image,4508,https://humancompatible.ai/app/uploads/2023/08/chai_final-scaled.jpg,src/assets/people/alexandra-souly.jpg,people:alexandra-souly,ok
+featured-image,4513,https://humancompatible.ai/app/uploads/2023/08/PXL_20230323_2125018903.jpg,src/assets/people/bhaskar-mishra.jpg,people:bhaskar-mishra,ok
+featured-image,4516,https://humancompatible.ai/app/uploads/2023/08/image-7.png,src/assets/people/khanh-nguyen.png,people:khanh-nguyen,ok
+featured-image,4530,https://humancompatible.ai/app/uploads/2023/08/Screenshot-2023-08-28-at-12.16.20.png,src/assets/people/julian-yocum.png,people:julian-yocum,ok
+featured-image,5874,https://humancompatible.ai/app/uploads/2023/08/me.jpg,src/assets/people/ben-plaut.jpg,people:ben-plaut,ok
+featured-image,4554,https://humancompatible.ai/app/uploads/2023/09/IMG-6088-1.jpg,src/assets/people/yijin-hua.jpg,people:yijin-hua,ok
+featured-image,4571,https://humancompatible.ai/app/uploads/2023/09/Tu_Trinh_200x200.png,src/assets/people/tu-alina-trinh.png,people:tu-alina-trinh,ok
+featured-image,4574,https://humancompatible.ai/app/uploads/2023/09/FullSizeRender.jpeg,src/assets/people/sana-pandey.jpeg,people:sana-pandey,ok
+featured-image,4601,https://humancompatible.ai/app/uploads/2023/09/cam-allen-headshot.jpg,src/assets/people/cameron-allen.jpg,people:cameron-allen,ok
+featured-image,4615,https://humancompatible.ai/app/uploads/2023/09/henry-papadatos2.png,src/assets/people/henry-papadatos.png,people:henry-papadatos,ok
+featured-image,4629,https://humancompatible.ai/app/uploads/2023/10/euanong-1.jpeg,src/assets/people/euan-ong.jpeg,people:euan-ong,ok
+featured-image,4989,https://humancompatible.ai/app/uploads/2023/12/brandie-nonnecke-courtesy-brandie-nonnecke-600x600px.jpg,src/assets/people/brandie-nonnecke.jpg,people:brandie-nonnecke,ok
+featured-image,5127,https://humancompatible.ai/app/uploads/2024/04/martin-soto-1.jpg,src/assets/people/martin-soto.jpg,people:martin-soto,ok
+featured-image,5136,https://humancompatible.ai/app/uploads/2024/04/sandy-tanwisuth.jpg,src/assets/people/sandy-tanwisuth.jpg,people:sandy-tanwisuth,ok
+featured-image,5246,https://humancompatible.ai/app/uploads/2024/04/mo.jpg,src/assets/people/mohamad-danesh.jpg,people:mohamad-danesh,ok
+featured-image,5251,https://humancompatible.ai/app/uploads/2024/04/cambridge_photo-e1713199378142.jpg,src/assets/people/austin-tripp.jpg,people:austin-tripp,ok
+featured-image,5285,https://humancompatible.ai/app/uploads/2024/05/owain_small-e1715310621253.jpg,src/assets/people/owain-evans.jpg,people:owain-evans,ok
+featured-image,5290,https://humancompatible.ai/app/uploads/2024/05/aymane.png,src/assets/people/aymane-el-gadarri.png,people:aymane-el-gadarri,ok
+featured-image,5300,https://humancompatible.ai/app/uploads/2024/05/pavel-1.jpeg,src/assets/people/pavel-czempin-2.jpeg,people:pavel-czempin-2,ok
+featured-image,5393,https://humancompatible.ai/app/uploads/2024/05/ag-1.jpeg,src/assets/people/andrew-garber.jpeg,people:andrew-garber,ok
+featured-image,5401,https://humancompatible.ai/app/uploads/2024/05/ds.jpg,src/assets/people/dillon-sandhu.jpg,people:dillon-sandhu,ok
+featured-image,5403,https://humancompatible.ai/app/uploads/2024/05/jl.jpeg,src/assets/people/juan-lievano.jpeg,people:juan-lievano,ok
+featured-image,5409,https://humancompatible.ai/app/uploads/2024/06/Jonathan_ColacoCarr_headshot.jpeg,src/assets/people/jonathan-colaco-carr.jpeg,people:jonathan-colaco-carr,ok
+featured-image,5638,https://humancompatible.ai/app/uploads/2024/07/IMG_3413.jpg,src/assets/people/zeno-marquis.jpg,people:zeno-marquis,ok
+featured-image,5763,https://humancompatible.ai/app/uploads/2024/09/michelleli.jpg,src/assets/people/michelle-li.jpg,people:michelle-li,ok
+featured-image,5761,https://humancompatible.ai/app/uploads/2024/09/1694154253058.jpg,src/assets/people/julian-yocum-2.jpg,people:julian-yocum-2,ok
+featured-image,5768,https://humancompatible.ai/app/uploads/2024/09/Screenshot-2024-09-18-at-2.50.15 PM.png,src/assets/people/mark-bedaywi.png,people:mark-bedaywi,ok
+featured-image,5876,https://humancompatible.ai/app/uploads/2025/02/pierson_emma.jpg,src/assets/people/emma-pierson.jpg,people:emma-pierson,ok
+featured-image,5832,https://humancompatible.ai/app/uploads/2025/03/Screenshot-2025-03-07-at-2.03.02 PM.png,src/assets/people/livia-morris.png,people:livia-morris,ok
+featured-image,5835,https://humancompatible.ai/app/uploads/2025/03/Screenshot-2025-03-07-at-2.04.53 PM.png,src/assets/people/julia-morris.png,people:julia-morris,ok
+featured-image,4433,https://humancompatible.ai/app/uploads/2023/07/Jacy-Reese-Anthis-Headshot-Outdoors.jpg,src/assets/people/jacy-reese-anthris.jpg,people:jacy-reese-anthris,ok
+featured-image,5852,https://humancompatible.ai/app/uploads/2025/03/headshot_white_background.jpg,src/assets/people/serina-chang.jpg,people:serina-chang,ok
+featured-image,5893,https://humancompatible.ai/app/uploads/2025/05/sotis_profile_small-1.png,src/assets/people/sarah-otis.png,people:sarah-otis,ok
+featured-image,5918,https://humancompatible.ai/app/uploads/2025/06/ian_baker-200x200-1.jpg,src/assets/people/ian-baker.jpg,people:ian-baker,ok
+featured-image,5922,https://humancompatible.ai/app/uploads/2025/06/Ram-Rachum-1.jpg,src/assets/people/ram-rachum.jpg,people:ram-rachum,ok
+featured-image,5928,https://humancompatible.ai/app/uploads/2025/06/IMG_1753-1.png,src/assets/people/alaa-tamam.png,people:alaa-tamam,ok
+featured-image,5932,https://humancompatible.ai/app/uploads/2025/07/alina_yang_chai.jpeg,src/assets/people/alina-yang.jpeg,people:alina-yang,ok
+featured-image,5968,https://humancompatible.ai/app/uploads/2025/09/lijie.jpg,src/assets/people/lijie-chen.jpg,people:lijie-chen,ok
+featured-image,5990,https://humancompatible.ai/app/uploads/2026/02/zjinprofile-e1770959957936.jpg,src/assets/people/zhijing-jin.jpg,people:zhijing-jin,ok
+featured-image,5996,https://humancompatible.ai/app/uploads/2026/06/karimabdelsadek.jpg,src/assets/people/karim-abdel-sadek.jpg,people:karim-abdel-sadek,ok

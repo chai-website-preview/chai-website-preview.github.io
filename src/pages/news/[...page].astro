@@ -1,0 +1,18 @@
+---
+import { getCollection } from "astro:content";
+import Site from "../../layouts/Site.astro";
+import PostList from "../../components/PostList.astro";
+import { newest, PER_PAGE } from "../../lib/dates";
+export async function getStaticPaths() {
+  const posts = (await getCollection("news")).sort(newest);
+  const totalPages = Math.max(1, Math.ceil(posts.length / PER_PAGE));
+  return Array.from({ length: totalPages }, (_, i) => ({
+    params: { page: i === 0 ? undefined : `page/${i + 1}` },
+    props: { posts: posts.slice(i * PER_PAGE, (i + 1) * PER_PAGE), page: i + 1, totalPages },
+  }));
+}
+const { posts, page, totalPages } = Astro.props;
+---
+<Site title="News" bodyClass="page page-template">
+  <PostList section="news" heading="News" posts={posts} page={page} totalPages={totalPages} rss="/category/news/feed.xml" />
+</Site>

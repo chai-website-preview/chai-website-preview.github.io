@@ -1,0 +1,16 @@
+---
+import { getCollection } from "astro:content";
+import Site from "../../../../../layouts/Site.astro";
+import PostSingle from "../../../../../components/PostSingle.astro";
+import { ymd } from "../../../../../lib/dates";
+export async function getStaticPaths() {
+  return (await getCollection("blog")).map((post) => {
+    const [year, month, day] = ymd(post.data.date);
+    return { params: { year, month, day, slug: post.data.slug }, props: { post } };
+  });
+}
+const { post } = Astro.props;
+---
+<Site title={post.data.title} bodyClass={`post-template-default single single-post single-format-standard ${post.data.slug}`}>
+  <PostSingle post={post} />
+</Site>

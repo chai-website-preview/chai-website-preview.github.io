@@ -1,0 +1,48 @@
+---
+/** /news/ and /blog/ archive pages: 10 posts per page, "Next Page »" / "« Previous Page" links (WP style). */
+import ThemeImage from "./ThemeImage.astro";
+import type { CollectionEntry } from "astro:content";
+import { postPath, fmt } from "../lib/dates";
+interface Props {
+  section: "news" | "blog"; heading: string; posts: (CollectionEntry<"news"> | CollectionEntry<"blog">)[];
+  page: number; totalPages: number; rss?: string;
+}
+const { section, heading, posts, page, totalPages, rss } = Astro.props;
+const pageUrl = (n: number) => (n <= 1 ? `/${section}/` : `/${section}/page/${n}/`);
+---
+<section class="wrapper style1">
+  <div class="container">
+    <div id="content">
+      <article>
+        <header>
+          <h2 id={section}>
+            {heading}
+            {rss && <a href={rss}><img src="/app/themes/chai/dist/images/RSS_3d934d36.png" height="40px" width="40px" align="right" alt="RSS feed" /></a>}
+          </h2>
+        </header>
+        {posts.map((post) => (
+          <div class="row">
+            <section class="12u">
+              <div class="box post">
+                {post.data.featured_image && (
+                  <a href={postPath(section, post)} class="image left"><ThemeImage src={post.data.featured_image} width={600} alt={post.data.featured_image_alt ?? ""} /></a>
+                )}
+                <div class="inner">
+                  <h3>{post.data.title}</h3>
+                  <p>{fmt(post.data.date)}</p>
+                  {post.data.summary_html ? <p set:html={post.data.summary_html} /> : post.data.excerpt && <p>{post.data.excerpt}</p>}
+                  <footer>
+                    <a href={postPath(section, post)} class="button">Continue Reading</a>
+                  </footer>
+                </div>
+              </div>
+            </section>
+          </div>
+        ))}
+        {page > 1 && <a href={pageUrl(page - 1)}>« Previous Page</a>}
+        {page > 1 && page < totalPages && " "}
+        {page < totalPages && <a href={pageUrl(page + 1)}>Next Page »</a>}
+      </article>
+    </div>
+  </div>
+</section>

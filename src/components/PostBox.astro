@@ -1,0 +1,20 @@
+---
+// One ".box.post" card as the Verti theme renders it on the home page and listings.
+import ThemeImage from "./ThemeImage.astro";
+import type { CollectionEntry } from "astro:content";
+import { postPath } from "../lib/dates";
+interface Props { post: CollectionEntry<"news"> | CollectionEntry<"blog">; section: "news" | "blog" }
+const { post, section } = Astro.props;
+const href = postPath(section, post);
+---
+<div class="box post">
+  {post.data.featured_image && (
+    <a href={href}>
+      <ThemeImage src={post.data.featured_image} width={600} class="image left" alt={post.data.featured_image_alt ?? ""} />
+    </a>
+  )}
+  <div class="inner">
+    <h3><a href={href}>{post.data.title}</a></h3>
+    {post.data.summary_html ? <p set:html={post.data.summary_html} /> : post.data.excerpt && <p>{post.data.excerpt}</p>}
+  </div>
+</div>

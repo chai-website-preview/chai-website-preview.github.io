@@ -1,0 +1,28 @@
+---
+name: Michael McDonald
+slug: michael-mcdonald
+date: '2020-11-22 11:15:53'
+status: publish
+author: Chris Northwood
+wp_id: 384
+original_url: https://humancompatible.ai/people/michael-mcdonald/
+role: Former Intern
+associations:
+- Former Interns
+menu_order: 0
+photo: ../../assets/people/michael-mcdonald.jpg
+hide_photo_on_page: false
+---
+
+Michael completed his undergraduate studies at UC Berkeley with a double major in computer science and applied mathematics.
+Broadly, his interests cover value alignment in multi-step/multi-objective task scenarios and how robots can learn to
+efficiently aid humans in such scenarios.
+
+As an undergraduate student, Michael researched under Professor Pieter Abbeel with Dylan Hadfield-Menell on task
+and motion planning algorithms - initially for a laundry-robot exhibit for the Victoria and Albert Museum in London
+meant to examine the feasibility and challenges of integrating robotic agents into everyday life. That work then served
+as foundation for designing imitation-learning algorithms for accomplishing multi-objective plans with normally
+intractable cost functions.
+
+This coming autumn Michael will begin his master’s here at Berkeley in the EECS 5th year M.S. program,
+advised by Professor Anca Dragan.

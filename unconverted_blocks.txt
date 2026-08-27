@@ -1,0 +1,173 @@
+Blocks kept as raw HTML inside the Markdown. Review each by hand.
+
+### pages:about  [wp:html]
+<section class="wrapper style1">
+    <div id="logos" class="container">
+      <div class="row">
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="http://berkeley.edu" class="image"><img src="/assets/images/logos/berkeley_logo.png" alt="Berkeley University of California" class="image center"></a><br>
+          </div>
+        </section>
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="http://cornell.edu/" class="image"><img src="/assets/images/logos/cornell.png" alt="Cornell University" class="image center"></a><br>
+          </div>
+        </section>
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="http://http://umich.edu/" class="image"><img src="/assets/images/logos/michigan_logo.png" alt="University of Michigan" class="image center"></a><br>
+          </div>
+        </section>
+      </div>
+      <div class="row">
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="http://www.openphilanthropy.org/" class="image"><img src="/assets/images/logos/open-phil.jpg" alt="Open Philanthropy Project" class="image center"></a><br>
+          </div>
+        </section>
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="http://futureoflife.org/" class="image"><img src="/assets/images/logos/fli_logo.png" alt="Future of Life Institute" class="image center"></a><br>
+          </div>
+        </section>
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="https://www.leverhulme.ac.uk/" class="image"><img src="/assets/images/logos/leverhulme_trust.jpeg" alt="The Leverhulme Trust" class="image center"></a><br>
+          </div>
+        </section>
+      </div>
+      <div class="row">
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="http://citris-uc.org/" class="image"><img src="/assets/images/logos/citris_logo.png" alt="Center for Information Technology Research In The Interest of Society" class="image center"></a><br>
+          </div>
+        </section>
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="https://cltc.berkeley.edu/" class="image"><img src="/assets/images/logos/cltc-logo.png" alt="Center for Long-Term Cybersecurity, UC Berkeley" class="image center"></a><br>
+          </div>
+        </section>
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="http://cser.org/leverhulme-cfi/" class="image"><img src="/assets/images/logos/cser-logo.png" alt="Centre for the Study of Existential Risk" class="image center"></a><br>
+          </div>
+        </section>
+      </div>
+      <div class="row">
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="https://www.fhi.ox.ac.uk/" class="image"><img src="/assets/images/logos/fhi-logo.png" alt="Future of Humanity Institute, University of Oxford" class="image center"></a><br>
+          </div>
+        </section>
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="http://existence.org/" class="image"><img src="/assets/images/logos/BERI-logo.png" alt="Berkeley Existential Risk Institute" class="image center"></a><br>
+          </div>
+        </section>
+        <section class="4u 12u(narrower)">
+          <div class="box logos">
+            <a href="https://ict4peace.org/activities/" class="image"><img src="/assets/images/logos/ict4peace.jpg" alt="ICT for Peace Foundation" class="image center"></a><br>
+          </div>
+        </section>
+      </div>
+      <div class="row">
+        <section class="4u -4u 12u(narrower)">
+          <div class="box logos">
+            <a href="https://kavlifoundation.org/" class="image"><img src="https://humancompatible.ai/app/uploads/2022/11/Kavli-Center-ESP-logo-1.png" alt="Berkeley Kavli Center for Ethics, Science, and the Public" class="image center"></a><br>
+          </div>
+        </section>
+      </div>
+    </div>
+  </section>
+
+### pages:chai2023  [wp:html]
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRox_GSbz8KReH7CAspHwnLd7zn2JmZ-q0tC66pjY_lhBRSAQxR48Ig79yrzGt_kRRGQxS136PZsDf1/pubhtml" width="100%" height="700" frameborder="0" allowfullscreen=""></iframe>
+
+### pages:chai2023  [wp:html]
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSeNXdZ2yCmNuMCd4TgFsG0MRsKfEZByU9tos46CYfk7a6_jbVevqxdflkGc-oit7Vl67_IhMSCo4BJ/pubhtml" width="100%" height="700" frameborder="0" allowfullscreen=""></iframe>
+
+### pages:chai2023  [wp:html]
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3202.3013007264767!2d-121.94017348725858!3d36.61913347218385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808de1301ce496cb%3A0x763d96cf8eb0e519!2sAsilomar%20Hotel%20and%20Conference%20Grounds!5e0!3m2!1sen!2sus!4v1686113504945!5m2!1sen!2sus" width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### pages:chai2023  [wp:html]
+<a class="weatherwidget-io" href="https://forecast7.com/en/36d62n121d92/pacific-grove/" data-label_1="Asilomar" data-label_2="WEATHER" data-theme="original">Asilomar WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+
+### pages:chai2024  [wp:html]
+<div style="display: flex; justify-content: center;">
+  <div style="line-height:1.4em;background-color:#f9f9f9;border:1px solid #ccc;padding:10px;width:300px;font-family:Helvetica;height:212px" data-reactroot="">
+    <div style="height:150px">
+      <div style="text-align:center;font-size:16px">
+        <span>Get our official<a href="https://whova.com/whova-event-app/" style="text-decoration:none;color:#333"> event </a>app,</span>
+        <div style="margin:10px 0px">
+          <img style="height:32px" src="https://whova.com/xems/apis/get_whova_tracking_image/?event_id=annua7_202406&amp;track_id=use_small_widget&amp;image_type=whova_logo" title="whova-logo"/>
+        </div>
+      </div>
+      <div style="margin-top:20px;clear:both;text-align:center;padding:0 0 5px 0">
+        <a href="https://itunes.apple.com/app/apple-store/id716979741?pt=1944835&amp;ct=download_widget&amp;mt=8" target="_blank" rel="noreferrer noopener" style="line-height:1.4em;font-size:14px;background-color:#2dacee;padding:10px;color:#fff;min-width:80px;display:inline-block;text-decoration:none;margin-right:5px">iOS</a>
+        <a href="https://play.google.com/store/apps/details?id=com.whova.event&amp;referrer=utm_source%3Ddownload_widget%26utm_medium%3Dwidget%26utm_content%3Dannua7_202406" target="_blank" rel="noreferrer noopener" style="line-height:1.4em;font-size:14px;background-color:#2dacee;padding:10px;color:#fff;min-width:80px;display:inline-block;text-decoration:none">Android</a>
+      </div>
+    </div>
+    <div>
+      <div style="text-align:center;font-size:13px">For feature details, visit 
+        <a target="_blank" rel="noreferrer noopener" style="text-decoration:none;color:#3c8dbc" href="https://whova.com/">Whova</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+### pages:chai2024  [wp:html]
+<div style="display: flex; justify-content: center;"> 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQjPoZ-goRTQwbZkfu5gNL18xbSC3wZ0Ph5pnYNjk6RGZRvmSxxNTSIsegiWszYFReEmM8l2IDNUEWA/pubhtml" width="100%" height="700" frameborder="0" allowfullscreen="">
+
+</iframe>
+
+</div>
+
+### pages:chai2024  [wp:html]
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3202.3013007264767!2d-121.94017348725858!3d36.61913347218385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808de1301ce496cb%3A0x763d96cf8eb0e519!2sAsilomar%20Hotel%20and%20Conference%20Grounds!5e0!3m2!1sen!2sus!4v1686113504945!5m2!1sen!2sus" width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### pages:chai2024  [wp:html]
+<a class="weatherwidget-io" href="https://forecast7.com/en/36d60n121d89/monterey/?unit=us" data-label_1="MONTEREY" data-label_2="WEATHER" data-theme="original" >MONTEREY WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+
+### blog:towards-personalized-assessment-of-taskable-black-box-ai  [wp:code]
+<pre class="wp-block-code"><code></code></pre>
+
+### blog:for-learning-in-symmetric-teams-local-optima-are-global-nash-equilibria  [wp:html]
+<div id="presentation-embed-38983984"></div>
+<script src="https://slideslive.com/embed_presentation.js"></script>
+<script>
+  embed = new SlidesLiveEmbed("presentation-embed-38983984", {
+    presentationId: "38983984",
+    autoPlay: false,
+    verticalEnabled: true,
+  });
+</script>
+
+### jobs:chai-internship  [wp:chai/person]
+<div class="box person"><a href="#" data-toggle="modal" class="image" data-target="#modal_beth-barnes"><div class="image-container"><img src="https://humancompatible.ai/app/uploads/2020/11/beth-barnes.jpg" alt="Beth Barnes"/><div class="corner-fade corner-fade-on-dark"></div><div class="corner-plus"></div></div></a></div><div class="modal fade person-modal" id="modal_beth-barnes" tabindex="-1" role="dialog" aria-labelledby="trackingLabel" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-body"><button type="button" class="button close-modal" data-dismiss="modal" aria-hidden="true">×</button><h3>Beth Barnes</h3><img src="https://humancompatible.ai/app/uploads/2020/11/beth-barnes.jpg" alt="Beth Barnes" class="image right no-float-narrower"/><p>I thoroughly enjoyed my time at CHAI, and learnt a lot. I came away with a broad understanding of the inverse RL field, much improved coding ability, and a sense of how to approach research. Dylan was a really dedicated supervisor, giving me lots of help with all the components of research, from choosing a question to fixing bugs! - <a href="https://www.linkedin.com/in/elizabethmbarnes/�">Beth Barnes</a></p></div></div></div></div>
+
+### jobs:chai-internship  [wp:chai/person]
+<div class="box person"><a href="#" data-toggle="modal" class="image" data-target="#modal_stephen-casper"><div class="image-container"><img src="https://humancompatible.ai/app/uploads/2020/03/stephen-casper-smaller1.png" alt="Stephen Casper"/><div class="corner-fade corner-fade-on-dark"></div><div class="corner-plus"></div></div></a></div><div class="modal fade person-modal" id="modal_stephen-casper" tabindex="-1" role="dialog" aria-labelledby="trackingLabel" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-body"><button type="button" class="button close-modal" data-dismiss="modal" aria-hidden="true">×</button><h3>Stephen Casper</h3><img src="https://humancompatible.ai/app/uploads/2020/03/stephen-casper-smaller1.png" alt="Stephen Casper" class="image right no-float-narrower"/><p>Interning at CHAI was immensely valuable for building skills and connections involving AI safety research. My project involved developing and testing a set of interpretability techniques for neural networks, and having it under my belt is great experience and will be helpful in pursuing additional research work in the future. Meanwhile, the institutional culture in CHAI is both very friendly and conducive to a heavy flow of ideas through biweekly seminars and advising meetings. Overall, I think this would be a great opportunity for anyone who wants to start doing high-impact AI safety research. - <a href="https://www.linkedin.com/in/stephen-casper-858829b2/�">Stephen Casper</a></p></div></div></div></div>
+
+### jobs:chai-internship  [wp:chai/person]
+<div class="box person"><a href="#" data-toggle="modal" class="image" data-target="#modal_chris-cundy"><div class="image-container"><img src="https://humancompatible.ai/app/uploads/2020/11/chris-cundy.jpg" alt="Chris Cundy"/><div class="corner-fade corner-fade-on-dark"></div><div class="corner-plus"></div></div></a></div><div class="modal fade person-modal" id="modal_chris-cundy" tabindex="-1" role="dialog" aria-labelledby="trackingLabel" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-body"><button type="button" class="button close-modal" data-dismiss="modal" aria-hidden="true">×</button><h3>Chris Cundy</h3><img src="https://humancompatible.ai/app/uploads/2020/11/chris-cundy.jpg" alt="Chris Cundy" class="image right no-float-narrower"/><p>I spent the summer working with some of the leading researchers in AI safety and completed a substantial research project, resulting in co-authorship on two academic papers submitted after I left. The chance to enjoy summer in California was an awesome bonus. - <a href="https://www.linkedin.com/in/chrisjcundy/">Chris Cundy</a></p></div></div></div></div>
+
+### jobs:chai-internship  [wp:chai/person]
+<div class="box person"><a href="#" data-toggle="modal" class="image" data-target="#modal_dmitrii-krasheninnikov"><div class="image-container"><img src="https://humancompatible.ai/app/uploads/2020/11/dmitrii-krasheninnikov-intern.jpg" alt="Dmitrii Krasheninnikov"/><div class="corner-fade corner-fade-on-dark"></div><div class="corner-plus"></div></div></a></div><div class="modal fade person-modal" id="modal_dmitrii-krasheninnikov" tabindex="-1" role="dialog" aria-labelledby="trackingLabel" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-body"><button type="button" class="button close-modal" data-dismiss="modal" aria-hidden="true">×</button><h3>Dmitrii Krasheninnikov</h3><img src="https://humancompatible.ai/app/uploads/2020/11/dmitrii-krasheninnikov-intern.jpg" alt="Dmitrii Krasheninnikov" class="image right no-float-narrower"/><p>The internship was a very enjoyable and intense learning experience. I acquired an in-depth understanding of inverse RL &amp; utility aggregation, connections with the leading researchers in AI safety and a skill of noticing being even a tiny bit confused about the problem and zooming in on the confusion. I expect that all of these will be extremely helpful in my research career. - <a href="https://www.linkedin.com/in/dmitrii-krasheninnikov-a2302296/�">Dmitrii Krasheninnikov</a></p></div></div></div></div>
+
+### jobs:chai-internship  [wp:chai/person]
+<div class="box person"><a href="#" data-toggle="modal" class="image" data-target="#modal_cynthia-chen"><div class="image-container"><img src="https://humancompatible.ai/app/uploads/2020/03/cynthia-chen-smaller.jpg" alt="Cynthia Chen"/><div class="corner-fade corner-fade-on-dark"></div><div class="corner-plus"></div></div></a></div><div class="modal fade person-modal" id="modal_cynthia-chen" tabindex="-1" role="dialog" aria-labelledby="trackingLabel" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-body"><button type="button" class="button close-modal" data-dismiss="modal" aria-hidden="true">×</button><h3>Cynthia Chen</h3><img src="https://humancompatible.ai/app/uploads/2020/03/cynthia-chen-smaller.jpg" alt="Cynthia Chen" class="image right no-float-narrower"/><p>The internship at CHAI was a truly valuable and enjoyable experience. My work was on benchmarking representation learning algorithms for imitation learning, and I've gained a lot of insights into self-supervised learning throughout this project. The people at CHAI are very friendly and supportive, and I constantly find myself impressed by their capabilities and hard work. In general, for anyone passionate about conducting beneficial AI research and joining conversations with many brilliant minds, I think interning at CHAI will be an excellent opportunity to learn and grow to become a better researcher. - Cynthia Chen</p></div></div></div></div>
+
+### jobs:chai-internship  [wp:chai/person]
+<div class="box person"><a href="#" data-toggle="modal" class="image" data-target="#modal_harry-giles"><div class="image-container"><img src="https://humancompatible.ai/app/uploads/2020/03/harry-giles-smaller.png" alt="Harry Giles"/><div class="corner-fade corner-fade-on-dark"></div><div class="corner-plus"></div></div></a></div><div class="modal fade person-modal" id="modal_harry-giles" tabindex="-1" role="dialog" aria-labelledby="trackingLabel" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-body"><button type="button" class="button close-modal" data-dismiss="modal" aria-hidden="true">×</button><h3>Harry Giles</h3><img src="https://humancompatible.ai/app/uploads/2020/03/harry-giles-smaller.png" alt="Harry Giles" class="image right no-float-narrower"/><p>I spent the summer working on the Inverse Reinforcement Learning problem (IRL). This problem is interesting because in many domains - e.g. self driving cars - we have examples of expert behaviour, but specifying an accurate reward function is very hard. Moreover, the problem is difficult because of degeneracy; that is, there is often a large class of reward functions which explain a fixed optimal or noisy optimal policy.<br>My project addressed the assumption of stationarity in IRL, whereby it is assumed that the expert policy does not change during demonstrations. This may be an unreasonable assumption in practice because an expert demonstrator might themselves be improving over time. My work proposed a simple model to account for the non-stationarity of demonstrations, and showed empirically that in some cases the task of reward inference can be made easier when working with non-stationarity, even overcoming some of the degeneracy problems from stationary IRL.<br>I had a wonderful time and I am very happy with our results, which we will be presenting at a NeurIPS workshop later this year. - Harry Giles</p></div></div></div></div>
+
+### jobs:chai-internship  [wp:chai/person]
+<div class="box person"><a href="#" data-toggle="modal" class="image" data-target="#modal_michael-mcdonald"><div class="image-container"><img src="https://humancompatible.ai/app/uploads/2020/03/michael-mcdonald-smaller.png" alt="Michael McDonald"/><div class="corner-fade corner-fade-on-dark"></div><div class="corner-plus"></div></div></a></div><div class="modal fade person-modal" id="modal_michael-mcdonald" tabindex="-1" role="dialog" aria-labelledby="trackingLabel" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-body"><button type="button" class="button close-modal" data-dismiss="modal" aria-hidden="true">×</button><h3>Michael McDonald</h3><img src="https://humancompatible.ai/app/uploads/2020/03/michael-mcdonald-smaller.png" alt="Michael McDonald" class="image right no-float-narrower"/><p>Even with the challenges of the COVID-19 pandemic and having to conduct research remotely, my internship with CHAI was an incredibly beneficial experience. Thanks to the close interaction with my mentor, Dylan, and the abundance of resources provided to support me and my fellow interns, it really felt like I was part of an active and passionate community (even though none of us ever met in person). My project focused in robotics, with the core idea of using hierarchical imitation learning to train neural networks that emulate traditional task and motion planning systems. This will (hopefully) serve as an important bridge from slower but more reliable planning systems, to fickle and less predictable deep learning based approaches. For the entire course of the project, whenever I was at all uncertain over how to proceed or not quite asking the right questions, Dylan was there to help me not only course-correct but also develop the skills to better handle those situations myself in the future. All-in-all, it was an experience I would highly recommend to anyone interested in AI-safety and wanting to grow as a researcher. - Michael McDonald</p></div></div></div></div>
