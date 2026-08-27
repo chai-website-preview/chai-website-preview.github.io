@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/09/06/alison-gopnik-wins-carl
 categories:
 - news
 featured_image: ../../assets/featured/2021/09/Screen-Shot-2021-09-08-at-1.48.38-PM-e1631134487110.png
+summary_html: CHAI affiliate Alison Gopnik has won the 2021 Carl Sagan prize for Science Popularization.
 ---
 
 CHAI affiliate Alison Gopnik has won the 2021 Carl Sagan prize for Science Popularization.

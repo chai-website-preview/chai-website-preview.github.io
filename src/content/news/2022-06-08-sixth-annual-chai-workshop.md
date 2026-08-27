@@ -10,6 +10,7 @@ excerpt: On the first weekend in June, CHAI held its 6th annual workshop in pers
 categories:
 - news
 featured_image: ../../assets/featured/2022/06/resized-workshop-.png
+summary_html: On the first weekend in June, CHAI held its 6th annual workshop in person at Asilomar Conference Grounds in Pacific Grove, CA. The nearly 145 attendees participated in panel discussions, keynote talks, and informal group discussions during the 3 day event. There were also more casual activities including beach walks and bonfires to bring the AI safety community together.
 ---
 
 On the first weekend in June, CHAI held its 6th annual workshop in person at Asilomar Conference Grounds in Pacific Grove, CA. The nearly 145 attendees participated in panel discussions, keynote talks, and informal group discussions during the 3 day event. There were also more casual activities including beach walks and bonfires to bring the AI safety community together.

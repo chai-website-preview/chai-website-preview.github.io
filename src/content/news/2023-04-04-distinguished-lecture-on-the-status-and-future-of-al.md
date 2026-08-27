@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2023/04/04/distinguished-lecture-o
 categories:
 - news
 featured_image: ../../assets/featured/2023/04/RE-Spring-2023-April.png
+summary_html: Four distinguished lectures on the Status and Future of Al organised by <a href="https://citris-uc.org/news-events/citris-research-exchange/">CITRIS Research Exchange</a> and BAIR will be livestreamed and held in person at CHAI.
 ---
 
 Four distinguished lectures on the Status and Future of Al organised by [CITRIS Research Exchange](https://citris-uc.org/news-events/citris-research-exchange/) and BAIR will be livestreamed and held in person at CHAI.

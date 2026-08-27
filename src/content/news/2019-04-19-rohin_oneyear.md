@@ -8,6 +8,7 @@ wp_id: 127
 original_url: https://humancompatible.ai/news/2019/04/19/rohin_oneyear/
 categories:
 - news
+summary_html: Rohin has been publishing the Alignment Newsletter, a newsletter that summarizes recent papers related to AI safety, for a full year. He recently wrote up his experience with it and estimated how valuable it has been. You can read the review <a href="https://www.alignmentforum.org/posts/3onCb5ph3ywLQZMX2/alignment-newsletter-one-year-retrospective">here</a>.
 ---
 
 Rohin has been publishing the Alignment Newsletter, a newsletter that summarizes recent papers related to AI safety, for a full year. He recently wrote up his experience with it and estimated how valuable it has been. You can read the review [here](https://www.alignmentforum.org/posts/3onCb5ph3ywLQZMX2/alignment-newsletter-one-year-retrospective).

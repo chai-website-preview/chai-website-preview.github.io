@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/04/19/inaugural-virtal-worksh
 categories:
 - news
 featured_image: ../../assets/featured/2020/04/Apr20.png
+summary_html: Professor Stuart Russell and Caroline Jeanmaire, Director of Strategic Research and Partnerships at CHAI, organized an inaugural virtual workshop in collaboration with the Global AI Council at the World Economic Forum.
 ---
 
 Professor Stuart Russell and Caroline Jeanmaire, Director of Strategic Research and Partnerships at CHAI, organized an inaugural virtual workshop in collaboration with the Global AI Council at the World Economic Forum.

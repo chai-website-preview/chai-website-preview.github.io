@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/07/25/halpern_cog_mech_cultur
 categories:
 - news
 featured_image: ../../assets/featured/2018/07/cogmech.png
+summary_html: 'CHAI’s Joseph Halpern published this article in the Proceedings of the National Academy of Sciences of the United States of America (PNAS). The abstract reads:'
 ---
 
 CHAI’s Joseph Halpern published this article in the Proceedings of the National Academy of Sciences of the United States of America (PNAS). The abstract reads:

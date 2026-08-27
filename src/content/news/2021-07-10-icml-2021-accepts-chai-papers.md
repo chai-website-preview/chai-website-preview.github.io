@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/07/10/icml-2021-accepts-chai-
 categories:
 - news
 featured_image: ../../assets/featured/2021/07/icml.png
+summary_html: ICML 2021 accepted two papers coauthored by CHAI members.
 ---
 
 ICML 2021 accepted two papers coauthored by CHAI members.

@@ -9,7 +9,24 @@ original_url: https://humancompatible.ai/people/stephen-casper/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: stephen-casper
 menu_order: 0
+classic_bio: false
+bio_html: |-
+  <p>Stephen Casper is a rising senior at Harvard College pursuing a degree in statistics and a minor in mathematics. In
+  addition to interning at CHAI under Daniel Filan, he is affiliated with the MIT/Harvard <a href="https://cbmm.mit.edu/about">Center for Brains, Minds, and
+  Machines</a> and the Harvard <a href="http://klab.tch.harvard.edu/#sthash.3KBcax40.dpbs">Kreiman Lab</a>. Broadly, his research interests align with the goals of making AI systems safe and
+  aligned. More specifically, areas that he is interested in include understanding compressible features and
+  generalization in deep networks, robust reinforcement learning, and decision theory.</p>
+
+  <p>Stephen’s work with CHAI is focusing on mechanistic transparency via modular interpretations of neural networks.
+  However, he is also thinking about adversaries in contexts of deep reinforcement learning and decision theory.</p>
+
+  <p>In addition to being fascinated by questions in machine intelligence, Stephen’s primary motivations for working on AI
+  alignment involve using it as a strategy for shaping the future impactfully for the better. He is excited about the
+  <a href="https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/">Effective Altruism</a> community and the paradigm of maximizing the good that one can do in the world.</p>
+
+  <p>For more information and contact info, please see <a href="https://stephencasper.com/">his website</a>.</p>
 photo: ../../assets/people/stephen-casper.png
 hide_photo_on_page: false
 ---

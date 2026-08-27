@@ -1,5 +1,5 @@
 ---
-title: Tom Gilbert Publishes "Subjectifying Objectivity"
+title: Tom Gilbert Publishes “Subjectifying Objectivity”
 slug: thomas-gilbert-subjectifying-objectivity
 date: '2020-09-20 12:00:00'
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: Thomas Krendl Gilbert Publishes “A Broader View on Bias in Automated Decision-Making - Reflecting on Epistemology and Dynamics”
+title: Thomas Krendl Gilbert Publishes “A Broader View on Bias in Automated Decision-Making – Reflecting on Epistemology and Dynamics”
 slug: thomas_automated-decisions
 date: '2018-07-02 12:00:00'
 status: publish
@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/07/02/thomas_automated-decisi
 categories:
 - news
 featured_image: ../../assets/featured/2018/07/cogbias-scaled.jpg
+summary_html: 'CHAI’s Thomas Gilbert and his colleagues at UC Berkeley  recently published this paper to arXiv and presented it at the 2018 International Conference on Machine Learning. The abstract reads:'
 ---
 
 CHAI’s Thomas Gilbert and his colleagues at UC Berkeley recently published this paper to arXiv and presented it at the 2018 International Conference on Machine Learning. The abstract reads:

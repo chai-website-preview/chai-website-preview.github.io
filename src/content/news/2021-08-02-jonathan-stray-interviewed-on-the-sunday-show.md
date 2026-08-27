@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/08/02/jonathan-stray-intervie
 categories:
 - news
 featured_image: ../../assets/featured/2021/08/600-Pixel-Tech-Policy-Press-Transparent-Logo-e1628722046621.png
+summary_html: The Sunday Show podcast interviewed Jonathan Stray in the <a rel="noreferrer noopener" href="https://techpolicy.press/the-sunday-show-can-social-media-depolarize-society/" target="_blank">episode</a> “Can social media help depolarize society?” <br>
 ---
 
 The Sunday Show podcast interviewed Jonathan Stray in the [episode](https://techpolicy.press/the-sunday-show-can-social-media-depolarize-society/) “Can social media help depolarize society?” 

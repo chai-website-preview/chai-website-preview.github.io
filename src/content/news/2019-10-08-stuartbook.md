@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/10/08/stuartbook/
 categories:
 - news
 featured_image: ../../assets/featured/2019/10/hc-cover.jpg
+summary_html: 'Stuart Russell, professor of Computer Science at UC Berkeley and Director of the Center for Human-Compatible Intelligence (CHAI), has a new book out today: <i>Human Compatible: Artificial Intelligence and the Control Problem</i>.'
 ---
 
 Stuart Russell, professor of Computer Science at UC Berkeley and Director of the Center for Human-Compatible Intelligence (CHAI), has a new book out today: *Human Compatible: Artificial Intelligence and the Control Problem*.
@@ -19,7 +20,7 @@ You can now order the book, in the [UK edition](https://www.amazon.co.uk/Human-C
 
 For media inquiries, please contact Caroline Jeanmaire (caroline.j@berkeley.edu).
 
-Advance Praise for Human Compatible:
+<u>Advance Praise for Human Compatible:</u>
 
 “This is the most important book I have read in quite some time. It lucidly explains how the coming age of artificial super-intelligence threatens human control. Crucially, it also introduces a novel solution and a reason for hope.” —**Daniel Kahneman, winner of the Nobel Prize and author of Thinking, Fast and Slow**
 

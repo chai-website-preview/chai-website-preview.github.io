@@ -8,6 +8,7 @@ wp_id: 185
 original_url: https://humancompatible.ai/news/2018/09/04/halpern_past_talks/
 categories:
 - news
+summary_html: 'Joe Halpern has been busy with the past year, giving talks on a variety of subjects everywhere from Israel to China. These include:'
 ---
 
 Joe Halpern has been busy with the past year, giving talks on a variety of subjects everywhere from Israel to China. These include:

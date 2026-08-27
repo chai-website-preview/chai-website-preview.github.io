@@ -1,0 +1,18 @@
+---
+/** 404 as the live site renders it (title "Page not found", body "Not Found"). */
+import Site from "../layouts/Site.astro";
+---
+<Site title="Page not found" bodyClass="error404 app-data index-data 404-data">
+  <section class="wrapper style1">
+    <div class="container">
+      <div id="content">
+        <article>
+          <header>
+            <h2>Not Found</h2>
+          </header>
+          <p>Sorry, but the page you were trying to view does not exist.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+</Site>

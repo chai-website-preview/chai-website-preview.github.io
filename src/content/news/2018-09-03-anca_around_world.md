@@ -1,5 +1,5 @@
 ---
-title: Anca Around the World - Conferences from the Past Year
+title: Anca Around the World – Conferences from the Past Year
 slug: anca_around_world
 date: '2018-09-03 12:00:00'
 status: publish
@@ -8,6 +8,7 @@ wp_id: 195
 original_url: https://humancompatible.ai/news/2018/09/03/anca_around_world/
 categories:
 - news
+summary_html: 'Anca Dragan has been busy the past year, attending conferences and delivering talks everywhere from Berkeley to Switzerland to promote the safe development of AI and robotics. In the past year, she has attended a variety of events, including:'
 ---
 
 Anca Dragan has been busy the past year, attending conferences and delivering talks everywhere from Berkeley to Switzerland to promote the safe development of AI and robotics. In the past year, she has attended a variety of events, including:

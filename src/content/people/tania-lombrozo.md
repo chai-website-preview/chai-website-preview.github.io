@@ -9,7 +9,11 @@ original_url: https://humancompatible.ai/people/tania-lombrozo/
 role: Professor of Psychology at UC Berkeley
 associations:
 - Faculty
+sort_slug: tania-lombrozo
 menu_order: 0
+classic_bio: false
+bio_html: |-
+  <p>Tania Lombrozo received her Ph.D. from Harvard University and is a Professor of <a href="https://psychology.berkeley.edu/">Psychology at UC Berkeley</a>. She will be joining the <a href="https://psych.princeton.edu/">Department of Psychology</a> at Princeton University in July 2018. Her research aims to address basic questions about learning, reasoning, and decision-making using the empirical tools of experimental psychology and the conceptual tools of analytic philosophy. You can read more about Prof. Lombrozo’s work <a href="https://psychology.berkeley.edu/people/tania-lombrozo">here</a> or <a href="https://psych.princeton.edu/person/tania-lombrozo">here</a>.</p>
 photo: ../../assets/people/tania-lombrozo.jpg
 hide_photo_on_page: false
 ---

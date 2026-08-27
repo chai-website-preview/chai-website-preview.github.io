@@ -11,7 +11,11 @@ old_slugs:
 role: Professor at the Université Libre de Bruxelles
 associations:
 - Affiliates
+sort_slug: tom-lenaerts
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Tom Lenaerts, PhD, is Professor at the Université Libre de Bruxelles (ULB) where he is co-heading the <a href="http://mlg.ulb.ac.be" target="_blank" rel="noopener">Machine Learning Group (MLG)</a>. MLG targets machine learning, AI and behavioural intelligence research focusing on time series analysis, causal and network inference, collective decision-making, social AI and behavioural analysis with applications in finance, medicine, cybersecurity and biology. He is currently the director of the <a href="http://ibsquare.brussels" target="_blank" rel="noopener">Interuniversity Institute of Bioinformatics in Brussels</a> and also holds a partial affiliation as research professor with the <a href="http://ai.vub.ac.be" target="_blank" rel="noopener">Artificial Intelligence Lab</a> of the Vrije Universiteit Brussel, the Flemish counterpart of the ULB. He is vice-chair of the <a href="http://bnvki.org" target="_blank" rel="noopener">Benelux Association for Artificial Intelligence</a>. He has worked in a variety of interdisciplinary domains and has co-authored many papers in AI in the different areas like evolutionary optimisation, collective intelligence, evolutionary game theory, computational biology and bioinformatics.
 photo: ../../assets/people/tom-lenaerts.png
 hide_photo_on_page: false
 ---

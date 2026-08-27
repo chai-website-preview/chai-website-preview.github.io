@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/01/06/daniel-filan-launches-a
 categories:
 - news
 featured_image: ../../assets/featured/2021/02/68572739-1.png
+summary_html: In December 2020 CHAI PhD candidate Daniel Filan launched the <a href="https://axrp.net/">AI X-risk Research Podcast</a> (AXRP, pronounced axe-urp).
 ---
 
 In December 2020 CHAI PhD candidate Daniel Filan launched the [AI X-risk Research Podcast](https://axrp.net/) (AXRP, pronounced axe-urp).

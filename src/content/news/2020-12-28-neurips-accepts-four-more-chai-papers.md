@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/12/28/neurips-accepts-four-mo
 categories:
 - news
 featured_image: ../../assets/featured/2021/02/jmCoOBzX_400x400.jpg
+summary_html: '<a href="https://nips.cc/" data-type="URL" data-id="https://nips.cc/" target="_blank" rel="noreferrer noopener">NeurIPS</a> 2020 accepted four more papers co-authored by CHAI researchers:'
 ---
 
 [NeurIPS](https://nips.cc/) 2020 accepted four more papers co-authored by CHAI researchers:

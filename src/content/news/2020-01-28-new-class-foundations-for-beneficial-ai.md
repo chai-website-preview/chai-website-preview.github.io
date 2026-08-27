@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/01/28/new-class-foundations-f
 categories:
 - news
 featured_image: ../../assets/featured/2020/01/2020-01-28-image.jpg
+summary_html: Stuart Russell (Computer Science), Lara Buchak and Wesley Holliday (Philosophy), Shachar Kariv (Economics) will co-teach a class on “Foundations for Beneficial AI” during the 2020 Spring Semester.
 ---
 
 Stuart Russell (Computer Science), Lara Buchak and Wesley Holliday (Philosophy), Shachar Kariv (Economics) will co-teach a class on “Foundations for Beneficial AI” during the 2020 Spring Semester.

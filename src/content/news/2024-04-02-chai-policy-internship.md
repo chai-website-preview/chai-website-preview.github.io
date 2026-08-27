@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2024/04/02/chai-policy-internship/
 categories:
 - news
 featured_image: ../../assets/featured/2020/10/cropped-chai_logo.png
+summary_html: <strong>Deadline April 17th, 2024. Policy Internship at Center for Human-Compatible Artificial Intelligence</strong>
 ---
 
 **Deadline April 17th, 2024. Policy Internship at Center for Human-Compatible Artificial Intelligence**
@@ -51,7 +52,7 @@ Artificial intelligence research is concerned with the design of machines capabl
 - Work on a research project under the guidance of a CHAI mentor
 - Take the lead in executing your research project with advice from your mentor
 - Publish your research findings as a first-author paper
-- Attend and participate in CHAI's weekly seminars, annual workshop, and team event
+- Attend and participate in CHAI’s weekly seminars, annual workshop, and team event
 
 ## **Internship Application Process Overview**
 

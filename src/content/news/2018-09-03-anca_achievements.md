@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/09/03/anca_achievements/
 categories:
 - news
 featured_image: ../../assets/featured/2018/09/anca.jpg
+summary_html: 'This year, Anca Dragan has recieved the following achievements in her efforts to promote human-compatible artificial intelligence:'
 ---
 
 This year, Anca Dragan has recieved the following achievements in her efforts to promote human-compatible artificial intelligence:

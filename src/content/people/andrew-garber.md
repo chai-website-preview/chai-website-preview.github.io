@@ -9,7 +9,11 @@ original_url: https://humancompatible.ai/people/andrew-garber/
 role: Intern
 associations:
 - Interns
+sort_slug: andrew-garber
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Andrew completed his BA in statistics from Harvard College in 2024.  At CHAI, he’ll be working with Scott Emmons and Rohan Subramani to extend the theory of cooperative inverse reinforcement learning to situations involving asymmetric information—for example, when the AI observes more of the environment than the human.
 photo: ../../assets/people/andrew-garber.jpeg
 hide_photo_on_page: false
 ---

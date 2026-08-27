@@ -10,6 +10,7 @@ excerpt: One prevalent alignment strategy is to 1) capture “what we want” in
 categories:
 - news
 featured_image: ../../assets/featured/2020/10/cropped-chai_logo.png
+summary_html: CHAI Alex Turner wrote a <a href="https://www.alignmentforum.org/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into">blog post </a>on the AI Alignment Forum titled Inner and outer alignment decompose one hard problem into two extremely hard problems.
 ---
 
 CHAI Alex Turner wrote a [blog post](https://www.alignmentforum.org/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into) on the AI Alignment Forum titled Inner and outer alignment decompose one hard problem into two extremely hard problems.

@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/08/03/bounded-rationality-in-
 categories:
 - news
 featured_image: ../../assets/featured/2020/08/toronto.jpg
+summary_html: Joseph Halpern, CHAI PI and Professor at Cornell University, and Xinming Liu published their paper at Uncertainty in AI (UAI)’s Virtual Conference which was held August 3rd to 6th.
 ---
 
 Joseph Halpern, CHAI PI and Professor at Cornell University, and Xinming Liu published their paper at Uncertainty in AI (UAI)’s Virtual Conference which was held August 3rd to 6th.

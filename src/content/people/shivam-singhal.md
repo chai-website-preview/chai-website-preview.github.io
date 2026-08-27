@@ -9,9 +9,13 @@ original_url: https://humancompatible.ai/people/shivam-singhal/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: shivam-singhal
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  <span style="font-family: arial, sans-serif;">Shivam is an undergraduate student at UC Berkeley, majoring in EECS. He aspires to better understand the interactions between humans and AI, and </span>he is particularly interested in the application of data-driven technology to socially impactful causes. At CHAI, he works with Smitha Milli on research related to disentangling value from temptation in recommender systems. Apart from his academic ventures, he is co-president of Tech+Social Impact, a club at Berkeley that leads important conversations about ethics in the tech space.
 photo: ../../assets/people/shivam-singhal.png
 hide_photo_on_page: false
 ---
 
-Shivam is an undergraduate student at UC Berkeley, majoring in EECS. He aspires to better understand the interactions between humans and AI, and he is particularly interested in the application of data-driven technology to socially impactful causes. At CHAI, he works with Smitha Milli on research related to disentangling value from temptation in recommender systems. Apart from his academic ventures, he is co-president of Tech+Social Impact, a club at Berkeley that leads important conversations about ethics in the tech space.
+<span style="font-family: arial, sans-serif;">Shivam is an undergraduate student at UC Berkeley, majoring in EECS. He aspires to better understand the interactions between humans and AI, and </span>he is particularly interested in the application of data-driven technology to socially impactful causes. At CHAI, he works with Smitha Milli on research related to disentangling value from temptation in recommender systems. Apart from his academic ventures, he is co-president of Tech+Social Impact, a club at Berkeley that leads important conversations about ethics in the tech space.

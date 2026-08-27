@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/04/13/chai-researchers-publis
 categories:
 - news
 featured_image: ../../assets/featured/2021/04/Screen-Shot-2021-04-13-at-8.09.35-AM.png
+summary_html: CHAI researchers and former interns Daniel Filan, Stephen Casper, Shlomi Hod, Cody Wild, Andrew Critch, and Stuart Russell published <a href="https://arxiv.org/abs/2103.03386">Clusterability in Neural Networks</a> on arXiv.
 ---
 
 CHAI researchers and former interns Daniel Filan, Stephen Casper, Shlomi Hod, Cody Wild, Andrew Critch, and Stuart Russell published [Clusterability in Neural Networks](https://arxiv.org/abs/2103.03386) on arXiv.

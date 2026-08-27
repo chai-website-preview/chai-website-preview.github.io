@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/09/04/fisac_talks_conference/
 categories:
 - news
 featured_image: ../../assets/featured/2018/09/fisac.jpg
+summary_html: 'CHAI’s Jaime Fisac recently attended three conferences where he presented his research on the safe development of artificial intelligence. These include:'
 ---
 
 CHAI’s Jaime Fisac recently attended three conferences where he presented his research on the safe development of artificial intelligence. These include:

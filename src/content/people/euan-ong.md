@@ -9,7 +9,11 @@ original_url: https://humancompatible.ai/people/euan-ong/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: euan-ong
 menu_order: 0
+classic_bio: false
+bio_html: |-
+  <p class="name">Euan Ong is a final-year undergraduate at the University of Cambridge, studying Computer Science. His ambition is to develop powerful, yet safe and interpretable abstract reasoners, whose internal state and behaviour remain transparent to the end user. To this end, he is particularly interested in exploring how the mathematical tool-kits we use to understand and structure programs ‒ such as formal methods, types and category theory ‒ can inspire new ways to both reverse-engineer existing neural networks, and build scalable neurosymbolic systems. You can read more about his research on <a href="https://ong.ac/">his website</a>.</p>
 photo: ../../assets/people/euan-ong.jpeg
 hide_photo_on_page: false
 ---

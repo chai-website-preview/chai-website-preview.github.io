@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/02/05/thomas-gilbert-publishe
 categories:
 - news
 featured_image: ../../assets/featured/2021/02/Screen-Shot-2021-02-09-at-8.58.18-AM.png
+summary_html: 'CHAI researcher Thomas Krendl Gilbert co-authored “<a href="https://arxiv.org/pdf/2102.04255.pdf" target="_blank" rel="noreferrer noopener">AI Development for the Public Interest: From Abstraction Traps to Sociotechnical Risks</a>,” published in <a rel="noreferrer noopener" href="https://attend.ieee.org/istas-2020/" target="_blank">IEEE ISTAS20</a>.&nbsp;'
 ---
 
 CHAI researcher Thomas Krendl Gilbert co-authored “[AI Development for the Public Interest: From Abstraction Traps to Sociotechnical Risks](https://arxiv.org/pdf/2102.04255.pdf),” published in [IEEE ISTAS20](https://attend.ieee.org/istas-2020/).

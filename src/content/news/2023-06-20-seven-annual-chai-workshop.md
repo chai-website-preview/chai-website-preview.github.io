@@ -10,6 +10,7 @@ excerpt: From the 16th to the 18th of June, CHAI held its 7th annual workshop at
 categories:
 - news
 featured_image: ../../assets/featured/2023/06/CHAI2023_GroupPhoto-1-1.jpg
+summary_html: From the 16th to the 18th of June, CHAI held its 7th annual workshop at Asilomar Conference Grounds in Pacific Grove, CA. The nearly 200 attendees participated in panel discussions, lightning talks, and informal group discussions during the 3 day event. There were also more casual activities including beach walks and bonfires to bring the AI safety community together.&nbsp;
 ---
 
 From the 16th to the 18th of June, CHAI held its 7th annual workshop at Asilomar Conference Grounds in Pacific Grove, CA. The nearly 200 attendees participated in panel discussions, lightning talks, and informal group discussions during the 3 day event. There were also more casual activities including beach walks and bonfires to bring the AI safety community together.

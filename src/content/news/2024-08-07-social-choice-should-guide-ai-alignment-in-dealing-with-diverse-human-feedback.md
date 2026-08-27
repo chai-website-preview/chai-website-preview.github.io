@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2024/08/07/social-choice-should-gu
 categories:
 - news
 featured_image: ../../assets/featured/2024/07/ICML-logo.png
+summary_html: Rachel Feedman, CHAI Phd Student, and Wes Holliday, CHAI Affiliate, published a paper at the International Conference on Machine Learning
 ---
 
 Rachel Feedman, CHAI Phd Student, and Wes Holliday, CHAI Affiliate, published a paper at the International Conference on Machine Learning

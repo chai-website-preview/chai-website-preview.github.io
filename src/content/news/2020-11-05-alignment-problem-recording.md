@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/11/05/alignment-problem-recor
 categories:
 - news
 featured_image: ../../assets/featured/2020/11/Alignment-Problem-Recording-Titlecard.png
+summary_html: On October 21st, 2020, CHAI celebrated the <a href="https://youtu.be/v_K8VNiDx18">launch</a> of Brian Christian’s new book, <em><a href="https://www.penguinrandomhouse.ca/books/665663/the-alignment-problem-by-brian-christian/9780393635829">The Alignment Problem</a></em>. The book tells the story of the ethics and safety movement in AI, surveying its history, recent milestones, and open problems. <em>The Alignment Problem</em> reports directly from those working on the AI safety frontier, including current CHAI researchers.
 ---
 
 On October 21st, 2020, CHAI celebrated the [launch](https://youtu.be/v_K8VNiDx18) of Brian Christian’s new book, *[The Alignment Problem](https://www.penguinrandomhouse.ca/books/665663/the-alignment-problem-by-brian-christian/9780393635829)*. The book tells the story of the ethics and safety movement in AI, surveying its history, recent milestones, and open problems. *The Alignment Problem* reports directly from those working on the AI safety frontier, including current CHAI researchers.
@@ -21,4 +22,4 @@ Participants met in the virtual keynote room of CHAI Town for an interview of Br
 
 Watch a recording of the interview and Q&A [here](https://youtu.be/v_K8VNiDx18).
 
-[![The Alignment Problem - In Conversation with Brian Christian and Nora Young](/assets/images/post-images/Alignment-Problem-Recording-Xshot.png)](https://youtu.be/v_K8VNiDx18 "The Alignment Problem - In Conversation with Brian Christian and Nora Young")
+[![The Alignment Problem – In Conversation with Brian Christian and Nora Young](/assets/images/post-images/Alignment-Problem-Recording-Xshot.png)](https://youtu.be/v_K8VNiDx18 "The Alignment Problem - In Conversation with Brian Christian and Nora Young")

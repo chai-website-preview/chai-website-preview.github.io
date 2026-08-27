@@ -1,5 +1,5 @@
 ---
-title: Thomas Gilbert Submits "The Passions and the Reward Functions - Rival Views of AI Safety?" to FAT*2020
+title: Thomas Gilbert Submits “The Passions and the Reward Functions – Rival Views of AI Safety?” to FAT*2020
 slug: thomas_passions
 date: '2019-08-28 12:00:00'
 status: publish
@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/08/28/thomas_passions/
 categories:
 - news
 featured_image: ../../assets/featured/2019/08/fat2020.png
+summary_html: 'Thomas Krendl Gilbert submitted “The Passions and the Reward Functions: Rival Views of AI Safety?” to the upcoming Fairness, Accountability, and Transparency (FAT*) 2020 Conference.'
 ---
 
 Thomas Krendl Gilbert submitted “The Passions and the Reward Functions: Rival Views of AI Safety?” to the upcoming Fairness, Accountability, and Transparency (FAT*) 2020 Conference.

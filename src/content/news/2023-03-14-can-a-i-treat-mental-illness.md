@@ -10,6 +10,7 @@ excerpt: Brian Christian was interviewed by physician and staff writer Dhruv Khu
 categories:
 - news
 featured_image: ../../assets/featured/2023/03/230306_r41939.webp
+summary_html: Brian Christian was interviewed by physician and staff writer Dhruv Khullar of the New Yorker for an <a href="https://www.newyorker.com/magazine/2023/03/06/can-ai-treat-mental-illness">article</a> about medical applications of language models.
 ---
 
 Brian Christian was interviewed by physician and staff writer Dhruv Khullar of the New Yorker for an [article](https://www.newyorker.com/magazine/2023/03/06/can-ai-treat-mental-illness) about medical applications of language models.

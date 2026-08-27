@@ -9,4 +9,4 @@ original_url: https://humancompatible.ai/
 wp_template: views/template-homepage.blade.php
 ---
 
-**[CHAI's](/about) [mission](/about/)** is to develop the conceptual and technical wherewithal to reorient the general thrust of AI research towards provably beneficial systems.
+**[CHAI’s](/about) [mission](/about/)** is to develop the conceptual and technical wherewithal to reorient the general thrust of AI research towards provably beneficial systems.

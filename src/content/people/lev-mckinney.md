@@ -9,7 +9,11 @@ original_url: https://humancompatible.ai/people/lev-mckinney/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: lev-mckinney
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Lev is an undergraduate student at the University of Toronto majoring in Computer Science focusing on Artificial Intelligence. His research interests include model-based reinforcement learning and reward learning. At CHAI, Lev worked with Adam Gleave, on improving transfer in reward learning and providing new open source baselines to accelerate research in the field. Previously, Lev has presented work at the Neurips Deep RL workshop on training dynamics models with techniques from self-supervised learning.
 photo: ../../assets/people/lev-mckinney.png
 hide_photo_on_page: false
 ---

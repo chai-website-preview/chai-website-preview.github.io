@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/06/16/fifth-annual-chai-works
 categories:
 - news
 featured_image: ../../assets/featured/2021/06/Webp.net-resizeimage-1.png
+summary_html: On June 7-8, CHAI held its fifth annual workshop.
 ---
 
 On June 7-8, CHAI held its fifth annual workshop.

@@ -9,13 +9,21 @@ original_url: https://humancompatible.ai/people/jonathan-colaco-carr/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: jonathan-colaco-carr
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  <div>I am a first-year master's student at McGill University and Mila, studying the fundamentals of learning from human feedback. My goal is to explore how AI models can learn from realistic human preferences.</div>
+  <div></div>
+  <div>At CHAI, I will work with Cam Allen on representation learning from human feedback. Representations are crucial to how robots understand the world, and learning the right ones is key to ensuring these agents are trustworthy.</div>
+  <div></div>
+  <div>Following the CHAI internship, I will visit Prof. Ben Van Roy's lab at Stanford to continue my master's research on preference-based learning. Please visit <a href="https://j-c-carr.github.io/">my website</a> for more information.</div>
 photo: ../../assets/people/jonathan-colaco-carr.jpeg
 hide_photo_on_page: false
 ---
 
-I am a first-year master's student at McGill University and Mila, studying the fundamentals of learning from human feedback. My goal is to explore how AI models can learn from realistic human preferences.
+I am a first-year master’s student at McGill University and Mila, studying the fundamentals of learning from human feedback. My goal is to explore how AI models can learn from realistic human preferences.
 
 At CHAI, I will work with Cam Allen on representation learning from human feedback. Representations are crucial to how robots understand the world, and learning the right ones is key to ensuring these agents are trustworthy.
 
-Following the CHAI internship, I will visit Prof. Ben Van Roy's lab at Stanford to continue my master's research on preference-based learning. Please visit [my website](https://j-c-carr.github.io/) for more information.
+Following the CHAI internship, I will visit Prof. Ben Van Roy’s lab at Stanford to continue my master’s research on preference-based learning. Please visit [my website](https://j-c-carr.github.io/) for more information.

@@ -8,7 +8,7 @@ wp_id: 772
 original_url: https://humancompatible.ai/progress-report/
 ---
 
-![](/app/uploads/external/374034ee-VPpflL4ouy-CcOvSj1wqiaCcGUR0ASI3PJYzlsUds2ydFwmJKzt4aCOI2rW0)
+![](/app/uploads/external/374034ee-VPpflL4ouy-CcOvSj1wqiaCcGUR0ASI3PJYzlsUds2ydFwmJKzt4aCOI2rW0.png)
 
 Prof. Stuart J. Russell, CHAI Faculty Director, and staff
 
@@ -16,7 +16,9 @@ May 31, 2023
 
 [Download CHAI 2023 Progress Report](/app/uploads/2023/12/CHAI-2023-Progress-Report-May22-May23.pdf)
 
-# CHAI Progress Report  *May 2022 - May 2023*
+<p></p>
+
+# CHAI Progress Report  *May 2022 – May 2023*
 
 *This report describes the growth, outputs, and new program engagements of the* [*Center for Human-Compatible AI*](https://chai.berkeley.edu) *in the year since the April 2022 CHAI progress report.*
 
@@ -66,8 +68,7 @@ A sister workshop on the Ethical Design of AIs (EDAI) was held virtually with a 
 - Tony T. Wang, Adam Gleave, Tom Tseng, Nora Belrose, Kellin Pelrine, Joseph Miller, Michael D Dennis, Yawen Duan, Viktor Pogrebniak, Sergey Levine, Stuart Russell, [Adversarial policies beat superhuman Go AIs](https://arxiv.org/abs/2211.00241). arXiv:2211.00241, February 2023.
 - Paria Rashidinejad, Hanlin Zhu, Kunhe Yang, Stuart Russell, and Jiantao Jiao, [Optimal conservative offline RL with general function approximation via augmented Lagrangian](http://people.eecs.berkeley.edu/~russell/papers/iclr23-lagrangian.pdf). In *Proc. ICLR-23*, 2023.
 - Alexander Lew, George Matheos, Matin Ghavamizadeh, Nishad Gothoskar, Stuart Russell, and Vikash Mansinghka, [SMCP3: SMC with Probabilistic Program Proposals](http://people.eecs.berkeley.edu/~russell/papers/aistats23-smc). In *Proc. Twenty-Sixth International Conference on Artificial Intelligence and Statistics*, Valencia, Spain, 2023.
-- Stuart Russell, [AI weapons: Russia's war in Ukraine shows why the world must enact a ban](https://www.nature.com/articles/d41586-023-00511-5). *Nature*, **614**, 620-623, 2023. (21 February, 2023)
-
+- Stuart Russell, [AI weapons: Russia’s war in Ukraine shows why the world must enact a ban](https://www.nature.com/articles/d41586-023-00511-5). *Nature*, **614**, 620-623, 2023. (21 February, 2023)
 - Adam Gleave, Mohammad Taufeeque, Juan Rocamonde, Erik Jenner, Steven H. Wang, Sam Toyer, Maximilian Ernestus, Nora Belrose, Scott Emmons, and Stuart Russell, [imitation: Clean Imitation Learning Implementations](https://arxiv.org/abs/2211.11972). arxiv.org:2211.11972, November 2022.
 - Samer B. Nashed, Justin Svegliato, Abhinav Bhatia, Stuart Russell, and Shlomo Zilberstein, [Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with Deep Reinforcement Learning](http://people.eecs.berkeley.edu/~russell/papers/iros22-meta.pdf). In *Proc. IROS-22*
 - Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, and Stuart Russell, [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://ieeexplore.ieee.org/document/9803237). *IEEE Transactions on Information Theory*, DOI: 10.1109/TIT.2022.3185139, 2022.
@@ -83,11 +84,11 @@ Professor Russell has been interviewed by a wide-array of global news outlets ov
 - [The best of Radio Davos over the last year](https://www.weforum.org/agenda/2022/08/radio-davos-best-of-world-economic-forum-podcasts-2022), *World Economic Forum*, August 4, 2022. Features [this interview](https://www.weforum.org/agenda/2022/01/artificial-intelligence-stuart-russell-radio-davos).
 - [The Foundations of Artificial Intelligence](https://thegradientpub.substack.com/p/stuart-russell-the-foundations-of#details), interview by Daniel bashir, *The Gradient* podcast, October 6, 2022.
 - [Politicians must prepare for AI or face the consequences](https://www.politicshome.com/thehouse/article/politicians-must-prepare-for-ai-or-face-the-consequences). *The House* (magazine of the UK Houses of Parliament), Oct 14, 2022.
-- [AI experts are increasingly afraid of what they're creating](https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction), by Kelsey Pieper, *Vox*, November 28, 2022.
+- [AI experts are increasingly afraid of what they’re creating](https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction), by Kelsey Pieper, *Vox*, November 28, 2022.
 - [Rethinking the purpose of AI](https://ecfr.eu/podcasts/episode/rethinking-the-purpose-of-ai-with-stuart-russell/), interview by Mark Leonard, *The World in 30 Minutes*, European Council on Foreign Relations, December 2, 2022.
 - [Are we living in an AGI World?](https://share.transistor.fm/s/deca2e46), interview by Kay Firth-Butterfield, *In AI We Trust?* podcast, January 18, 2023.
 - [Hot Topic at the WEF: Artificial Intelligence](https://www.srf.ch/play/tv/10-vor-10/video/heissdiskutiertes-thema-am-wef--kuenstliche-intelligenz?urn=urn:srf:video:e715e8d8-f4f7-42dd-b502-59046fd64a72), interview by Harry Stitzel, SRF (Swiss Radio and Television), January 20, 2023.
-- [WAICF '23: Renowned AI Professor: Don't be fooled by ChatGPT](https://aibusiness.com/nlp/waicf-23-renowned-ai-professor-don-t-be-fooled-by-chatgpt), by Ben Wodecki, *AI Business*, February 10, 2023.
+- [WAICF ‘23: Renowned AI Professor: Don’t be fooled by ChatGPT](https://aibusiness.com/nlp/waicf-23-renowned-ai-professor-don-t-be-fooled-by-chatgpt), by Ben Wodecki, *AI Business*, February 10, 2023.
 - [Man beats machine at Go in human victory over AI](https://www.ft.com/content/175e5314-a7f7-4741-a786-273219f433a1), by Richard Waters, *Financial Times*, February 17, 2023.
 - [Interview Of The Week: Stuart Russell, Director Of The Center For Human-Compatible AI](https://theinnovator.news/interview-of-the-week-stuart-russell-director-of-the-center-for-human-compatible-ai/), interview by Jennifer Schenker, *The Innovator*, March 3, 2023.
 - [The Trouble With AI](https://www.samharris.org/podcasts/making-sense-episodes/312-the-trouble-with-ai), interview by Sam Harris, *Making Sense* podcast, March 7, 2023.
@@ -109,13 +110,13 @@ Professor Russell has been interviewed by a wide-array of global news outlets ov
 - ['Genuinely scary': Sophy Ridge panics when expert explains how easily he can frame her](https://www.express.co.uk/news/science/1764582/sophy-ridge-deep-fake-ai-elon-musk), by Ciaran McGrath, *Daily Express*, April 30, 2023.
 - [How to stop runaway AI](https://www.freethink.com/robots-ai/how-to-stop-runaway-ai), *Freethink* podcast, May 8, 2023.
 - [Ministers not doing enough to control AI, says UK professor](https://www.theguardian.com/technology/2023/may/13/ministers-not-doing-enough-to-control-ai-says-uk-professor), interview by Harry Taylor, *The Guardian*, May 13, 2023.
-- [AI `could be like an alien invasion' says British professor](https://www.thetimes.co.uk/article/ai-could-be-like-an-alien-invasion-says-british-professor-2w3sm5wrd), interview by Rhys Blakely, *The Times*, London, May 13, 2023.
-- [AI pioneer warns UK is failing to protect against `existential threat' of machines](https://www.independent.co.uk/tech/ai-chatgpt-danger-warning-stuart-russell-b2338210.html), by Rob Freeman, *The Independent*, May 13, 2023.
+- [AI `could be like an alien invasion’ says British professor](https://www.thetimes.co.uk/article/ai-could-be-like-an-alien-invasion-says-british-professor-2w3sm5wrd), interview by Rhys Blakely, *The Times*, London, May 13, 2023.
+- [AI pioneer warns UK is failing to protect against `existential threat’ of machines](https://www.independent.co.uk/tech/ai-chatgpt-danger-warning-stuart-russell-b2338210.html), by Rob Freeman, *The Independent*, May 13, 2023.
 - [How can humans maintain control over AI, forever?](https://www.bostonglobe.com/2023/05/15/opinion/how-can-humans-maintain-control-over-ai-forever), *Boston Globe*, May 15, 2023.
 - Stuart Russell and Toby Walsh, [Examining regulation for ChatGPT](https://podcasters.spotify.com/pod/show/aiasiapacific/episodes/45-Examining-Regulation-for-ChatGPT-Dr--Toby-Walsh--Dr--Stuart-Russell-e244o56), interview by Kelly Forbes, *AI Asia Pacific Institute Podcast*, May 15, 2023.
 - [Living with AI: 2021 Reith lecturer Stuart Russell on recent developments in artificial intelligence](https://www.bbc.co.uk/sounds/play/m001m6pg?partner=uk.co.bbc&origin=share-mobile), interview by Anita Anand, *BBC Radio 4*, May 23, 2023.
-- ['We do not understand how these systems work': Expert Stuart Russell on why AI systems need urgent regulations](https://www.businesstoday.in/magazine/interview/story/we-do-not-understand-how-these-systems-work-expert-stuart-russell-on-why-ai-systems-need-urgent-regulations-381324-2023-05-15), interview by Aayush Ailawadi, *Business Today* magazine, May 28, 2023.
-- [We've reached a turning point with AI, expert says](https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html), interview by Jessica Chia and Bethany Cianciolo, *CNN*, May 31, 2023.
+- [‘We do not understand how these systems work’: Expert Stuart Russell on why AI systems need urgent regulations](https://www.businesstoday.in/magazine/interview/story/we-do-not-understand-how-these-systems-work-expert-stuart-russell-on-why-ai-systems-need-urgent-regulations-381324-2023-05-15), interview by Aayush Ailawadi, *Business Today* magazine, May 28, 2023.
+- [We’ve reached a turning point with AI, expert says](https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html), interview by Jessica Chia and Bethany Cianciolo, *CNN*, May 31, 2023.
 
 ### Recent Graduates
 
@@ -130,9 +131,9 @@ Professor Russell has been interviewed by a wide-array of global news outlets ov
 
 - Tom Lenaerts and Azel Abels. [Dealing with Expert Bias in Collective Decision-Making.](https://doi.org/10.1016/j.artint.2023.103921) *Artificial Intelligence*.
 - Tom Lenaerts, Francisco Santos, and Elias Fernandez. [EGTtools: Evolutionary Game Dynamics in Python](https://www.cell.com/action/showPdf?pii=S2589-0042%2823%2900496-0). *iScience*.
-- Tom Lenaerts. [Inferring Strategies From Observations in Long Iterated Prisoner's Dilemma Experiments](https://www.nature.com/articles/s41598-022-11654-2). *Scientific Reports*.
+- Tom Lenaerts. [Inferring Strategies From Observations in Long Iterated Prisoner’s Dilemma Experiments](https://www.nature.com/articles/s41598-022-11654-2). *Scientific Reports*.
 - Tom Lenaerts. [Delegation to Artificial Agents Fosters Prosocial Behaviors in the Collective Risk Dilemma](https://www.nature.com/articles/s41598-022-11518-9). *Scientific Reports*.
-- Tom Lenaerts et al. [Fast Deliberation is Related to Unconditional Behavior in Iterated Prisoners' Dilemma Experiments](https://www.nature.com/articles/s41598-022-24849-4). *Scientific Reports*.
+- Tom Lenaerts et al. [Fast Deliberation is Related to Unconditional Behavior in Iterated Prisoners’ Dilemma Experiments](https://www.nature.com/articles/s41598-022-24849-4). *Scientific Reports*.
 - Tom Lenaerts et al.
 - Gillian Hadfield. [Legal Markets](https://www.aeaweb.org/articles?id=10.1257/jel.20201330). *Journal of Economic Literature*.
 - Vincent Conitzer, Gillian Hadfield, and Shannon Vallor. [The Impact of Auditing for Algorithmic Bias](https://cacm.acm.org/magazines/2023/1/267956-technical-perspective-the-impact-of-auditing-for-algorithmic-bias/abstract). *Communications of the ACM*.
@@ -145,7 +146,7 @@ Professor Russell has been interviewed by a wide-array of global news outlets ov
 *Media*
 
 - Brian Christian. [How a Google Employee Fell for the Eliza Effect](https://www.theatlantic.com/ideas/archive/2022/06/google-lamda-chatbot-sentient-ai/661322/). *The Atlantic.*
-- Thomas Krendl Gilbert and Nathaniel Lubin. Social media is polluting society. [Content moderation alone won't fix the problem](https://www.technologyreview.com/2022/08/09/1057171/social-media-polluting-society-moderation-alone-wont-fix-the-problem/). *MIT Technology Review*.
+- Thomas Krendl Gilbert and Nathaniel Lubin. Social media is polluting society. [Content moderation alone won’t fix the problem](https://www.technologyreview.com/2022/08/09/1057171/social-media-polluting-society-moderation-alone-wont-fix-the-problem/). *MIT Technology Review*.
 
 *Working Papers*
 
@@ -164,7 +165,7 @@ Professor Russell has been interviewed by a wide-array of global news outlets ov
 *Conference Papers*
 
 - Caspar Oesterhald*, Johannes Treutlein*, Emergy Cooper, and Rubi Hudson. [Incentivizing Honest Performance Predictions with Proper Scoring Rules](https://arxiv.org/abs/2305.17601). *UAI 2023*.
-- Micah Carroll and Smitha Milli. Emotional and Political Effects of Twitter's Ranking Algorithm. *Knight Institute Symposium on "Algorithmic Amplification.*"
+- Micah Carroll and Smitha Milli. Emotional and Political Effects of Twitter’s Ranking Algorithm. *Knight Institute Symposium on “Algorithmic Amplification.*”
 - Micah Carroll et al. [Harms from Increasingly Agentic Algorithmic Systems](https://arxiv.org/abs/2302.10329). *FAccT 2023*.
 - Rachel Freedman, Peter Barnett, Justin Svegliato, and Stuart Russell. [Active Reward Learning from Multiple Teachers](https://safeai.webs.upv.es/). *AAAI 2023 Workshop on AI Safety*.
 - Rachel Freedman and Oliver Daniels-Koch. [The Expertise Problem: Learning from Specialized Feedback](https://arxiv.org/abs/2211.06519). *NeurIPS 2022*.
@@ -180,41 +181,41 @@ Professor Russell has been interviewed by a wide-array of global news outlets ov
 
 ## CHAI Talks/ Honors
 
-### Stuart Russell - talks/ honors
+### Stuart Russell – talks/ honors
 
 In May 2022, Professor Russell participated in three panels on AI at the [2022 World Economic Forum meeting](https://www.weforum.org/events/world-economic-forum-annual-meeting-2022) in Davos, Switzerland.
 
-On July 29th, Profesor Russell was awarded the [IJCAI Research Excellence Award](https://www.ijcai.org/awards) for 2022. From the website: "The Research Excellence award is given to a scientist who has carried out a program of research of consistently high quality throughout an entire career yielding several substantial results. Past recipients of this honor are the most illustrious group of scientists from the field of Artificial Intelligence."
+On July 29th, Profesor Russell was awarded the [IJCAI Research Excellence Award](https://www.ijcai.org/awards) for 2022. From the website: “The Research Excellence award is given to a scientist who has carried out a program of research of consistently high quality throughout an entire career yielding several substantial results. Past recipients of this honor are the most illustrious group of scientists from the field of Artificial Intelligence.”
 
-On October 18th at the invitation of Lord McFall, Speaker of the House of Lords in the UK Parliament, Professor Russell delivered the [Lord Speaker's Lecture](https://www.politicshome.com/thehouse/article/politicians-must-prepare-for-ai-or-face-the-consequences) on the topic of "Artificial Intelligence: Promise and Peril." On October 20th, Professor Russell delivered the [keynote address](https://aisic2022.net.technion.ac.il/) at the launch of Israel's AI safety research community in Haifa followed by a "fireside chat" with Professor Emeritus Yoav Shoham.
+On October 18th at the invitation of Lord McFall, Speaker of the House of Lords in the UK Parliament, Professor Russell delivered the [Lord Speaker’s Lecture](https://www.politicshome.com/thehouse/article/politicians-must-prepare-for-ai-or-face-the-consequences) on the topic of “Artificial Intelligence: Promise and Peril.” On October 20th, Professor Russell delivered the [keynote address](https://aisic2022.net.technion.ac.il/) at the launch of Israel’s AI safety research community in Haifa followed by a “fireside chat” with Professor Emeritus Yoav Shoham.
 
 On December 9th, Professor Russell participated in a [symposium](https://www.nobelprize.org/events/nobel-week-dialogue/stockholm-2022/) preceding the Nobel Prize award ceremonies in Stockholm.
 
-In January, Professor Russell spoke at two events at the [2023 World Economic Forum meeting](https://www.weforum.org/events/world-economic-forum-annual-meeting-2023) in Davos on "Why Human Perspective is Essential to Unlock the Transformative Value of AI" and "The Long View for Technology." At the same meeting, he was appointed co-chair of the World Economic Forum Council on the Future of AI.
+In January, Professor Russell spoke at two events at the [2023 World Economic Forum meeting](https://www.weforum.org/events/world-economic-forum-annual-meeting-2023) in Davos on “Why Human Perspective is Essential to Unlock the Transformative Value of AI” and “The Long View for Technology.” At the same meeting, he was appointed co-chair of the World Economic Forum Council on the Future of AI.
 
 ### Student/recent grad jobs, talks, honors
 
-Rachel Freedman and Oliver Daniels-Koch won the AI Risk Analysis award at the NeurIPS ML Safety Workshop for their paper "[The Expertise Problem: Learning from Specialized Feedback](https://arxiv.org/abs/2211.06519)." Rachel was also named a [Rising Star](https://womeninaiethics.org/the-list/rising-stars/) in AI Ethics by the Women in AI Ethics global initiative.
+Rachel Freedman and Oliver Daniels-Koch won the AI Risk Analysis award at the NeurIPS ML Safety Workshop for their paper “[The Expertise Problem: Learning from Specialized Feedback](https://arxiv.org/abs/2211.06519).” Rachel was also named a [Rising Star](https://womeninaiethics.org/the-list/rising-stars/) in AI Ethics by the Women in AI Ethics global initiative.
 
 Erdem Bıyık gave an invited talk on his research on learning preferences for interactive autonomy at Sonoma State University.
 
-Micah Carroll was accepted to the first iteration of the [AI Policy Hub](https://cltc.berkeley.edu/aipolicyhub/) at UC Berkeley, aiming to explore how the latest recommender systems research could be translated into policy-relevant information. Micah's research on incentives for manipulation in recommender systems was also featured on the [Berkeley Engineering website](https://engineering.berkeley.edu/news/2022/08/just-for-you/).
+Micah Carroll was accepted to the first iteration of the [AI Policy Hub](https://cltc.berkeley.edu/aipolicyhub/) at UC Berkeley, aiming to explore how the latest recommender systems research could be translated into policy-relevant information. Micah’s research on incentives for manipulation in recommender systems was also featured on the [Berkeley Engineering website](https://engineering.berkeley.edu/news/2022/08/just-for-you/).
 
-Nisan Stiennon gave an invited [talk](https://www.youtube.com/watch?v=2HF9wJ88shM) on "Metagames and Imprecise Probability" at the Topos Institute's weekly seminar. Nissan also gave an invited talk at an AI safety research organized by Effective Altruism Philadelphia.
+Nisan Stiennon gave an invited [talk](https://www.youtube.com/watch?v=2HF9wJ88shM) on “Metagames and Imprecise Probability” at the Topos Institute’s weekly seminar. Nissan also gave an invited talk at an AI safety research organized by Effective Altruism Philadelphia.
 
-Jonathan Stray joined with Brandie Nonnecke from Berkeley's CITRIS Policy lab, the Center for Democracy and Technology, and other scholars to [file a brief for the Supreme Court](https://cdt.org/insights/cdt-and-technologists-file-scotus-brief-urging-court-to-hold-that-section-230-applies-to-recommendations-of-content/) in an upcoming case that asks whether "targeted recommendations" should be protected under the same law that protects the "publishing" of third party content. This law, called CDA Section 230, protects virtually all major apps and platforms that provide access to other people's information -- from search engines to music streaming to social media. CHAI is of course very concerned with the personal and societal effects of recommender systems; however, we believe that creating a legal distinction around the type of algorithm used will only disincentivize innovative new algorithms for selecting content -- exactly the type of safe and beneficial algorithms that we wish to create. Instead, we argued that platforms should be liable based on whether they contributed to harmful effects, not on what type of algorithm they use.
+Jonathan Stray joined with Brandie Nonnecke from Berkeley’s CITRIS Policy lab, the Center for Democracy and Technology, and other scholars to [file a brief for the Supreme Court](https://cdt.org/insights/cdt-and-technologists-file-scotus-brief-urging-court-to-hold-that-section-230-applies-to-recommendations-of-content/) in an upcoming case that asks whether “targeted recommendations” should be protected under the same law that protects the “publishing” of third party content. This law, called CDA Section 230, protects virtually all major apps and platforms that provide access to other people’s information — from search engines to music streaming to social media. CHAI is of course very concerned with the personal and societal effects of recommender systems; however, we believe that creating a legal distinction around the type of algorithm used will only disincentivize innovative new algorithms for selecting content — exactly the type of safe and beneficial algorithms that we wish to create. Instead, we argued that platforms should be liable based on whether they contributed to harmful effects, not on what type of algorithm they use.
 
 ### Affiliate talks/ honors
 
-Brian Christian was interviewed by a number of media outlets including [NPR](https://www.npr.org/2022/12/29/1146059150/artificial-intelligence-made-big-leaps-in-2022-should-we-be-excited-or-worried), the [New York Times](https://www.nytimes.com/2022/12/21/technology/personaltech/how-to-use-chatgpt-ethically.html), [The New Yorker](https://www.newyorker.com/magazine/2023/03/06/can-ai-treat-mental-illness), [Radio New Zealand](https://www.rnz.co.nz/national/programmes/saturday/audio/2018884227/brian-christian-ai-s-ethical-alignment-problem), and [Last Week Tonight](https://www.youtube.com/watch?v=Sqa8Zo2XWc4) with John Oliver. Brian also delivered the opening [keynote address](https://philevents.org/event/show/107053) at "The Value Connection Workshop" in Amsterdam, an interdisciplinary workshop on human values, hosted by TU Delft and sponsored by the Royal Netherlands Academy of Arts and Sciences and the Delft Design for Values Institute.
+Brian Christian was interviewed by a number of media outlets including [NPR](https://www.npr.org/2022/12/29/1146059150/artificial-intelligence-made-big-leaps-in-2022-should-we-be-excited-or-worried), the [New York Times](https://www.nytimes.com/2022/12/21/technology/personaltech/how-to-use-chatgpt-ethically.html), [The New Yorker](https://www.newyorker.com/magazine/2023/03/06/can-ai-treat-mental-illness), [Radio New Zealand](https://www.rnz.co.nz/national/programmes/saturday/audio/2018884227/brian-christian-ai-s-ethical-alignment-problem), and [Last Week Tonight](https://www.youtube.com/watch?v=Sqa8Zo2XWc4) with John Oliver. Brian also delivered the opening [keynote address](https://philevents.org/event/show/107053) at “The Value Connection Workshop” in Amsterdam, an interdisciplinary workshop on human values, hosted by TU Delft and sponsored by the Royal Netherlands Academy of Arts and Sciences and the Delft Design for Values Institute.
 
-Brian Christian was named one of the [inaugural recipients](https://www.nationalacademies.org/awards/excellence-in-communication/winners) of the National Academies Eric and Wendy Schmidt Awards for Excellence in Science Communication, given by The National Academies of Sciences, Engineering, and Medicine in partnership with Schmidt Futures for his book "The Alignment Problem." He will be honored with an event hosted at the National Academy of Sciences in Washington, DC in November.
+Brian Christian was named one of the [inaugural recipients](https://www.nationalacademies.org/awards/excellence-in-communication/winners) of the National Academies Eric and Wendy Schmidt Awards for Excellence in Science Communication, given by The National Academies of Sciences, Engineering, and Medicine in partnership with Schmidt Futures for his book “The Alignment Problem.” He will be honored with an event hosted at the National Academy of Sciences in Washington, DC in November.
 
 ## Regulation & Governance
 
 Over the past year, CHAI has been deeply involved in shaping the emerging regulatory response to AI. While CHAI has been discussing policy as a hypothetical for many years, it is now becoming a reality.
 
-Professor Russell's involvement was instrumental in elevating recommender systems to "high-risk" in the [European Union's AI Act](https://artificialintelligenceact.eu) and has met with a variety of global policymakers. CHAI's work has already set the stage for future generations of safer AI systems.
+Professor Russell’s involvement was instrumental in elevating recommender systems to “high-risk” in the [European Union’s AI Act](https://artificialintelligenceact.eu) and has met with a variety of global policymakers. CHAI’s work has already set the stage for future generations of safer AI systems.
 
 Over the last 12 months, Professor Russell has met with a wide-array of global policymakers:
 

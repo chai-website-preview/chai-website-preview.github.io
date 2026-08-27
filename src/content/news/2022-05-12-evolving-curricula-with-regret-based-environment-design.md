@@ -6,15 +6,16 @@ status: publish
 author: andrewpereira
 wp_id: 3574
 original_url: https://humancompatible.ai/news/2022/05/12/evolving-curricula-with-regret-based-environment-design/
-excerpt: In this YouTube video, authors Jack Parker-Holder, Minqi Jiang, CHAI's Michael Dennis, Mikayel Samvelyan, Jakob Foerster, Edward Grefenstette, and Tim Rocktäschel present ACCELL.
+excerpt: In this YouTube video, authors Jack Parker-Holder, Minqi Jiang, CHAI’s Michael Dennis, Mikayel Samvelyan, Jakob Foerster, Edward Grefenstette, and Tim Rocktäschel present ACCELL.
 categories:
 - news
 featured_image: ../../assets/featured/2022/06/Screen-Shot-2022-06-08-at-1.35.34-PM.png
+summary_html: In this <a href="https://www.youtube.com/watch?v=povBDxUn1VQ">YouTube video</a>, authors Jack Parker-Holder, Minqi Jiang, CHAI’s Michael Dennis, Mikayel Samvelyan, Jakob Foerster, Edward Grefenstette, and Tim Rocktäschel present ACCELL.
 ---
 
-In this [YouTube video](https://www.youtube.com/watch?v=povBDxUn1VQ), authors Jack Parker-Holder, Minqi Jiang, CHAI's Michael Dennis, Mikayel Samvelyan, Jakob Foerster, Edward Grefenstette, and Tim Rocktäschel present ACCELL.
+In this [YouTube video](https://www.youtube.com/watch?v=povBDxUn1VQ), authors Jack Parker-Holder, Minqi Jiang, CHAI’s Michael Dennis, Mikayel Samvelyan, Jakob Foerster, Edward Grefenstette, and Tim Rocktäschel present ACCELL.
 
-Unsupervised Environment Design(UED) is a field which aims to automatically generate environments which are appropriate to train agents in. UED's ability to promote transfer to unknown environments is an invaluable asset to safety, as well its ability to empower the AI designer to have more control over the resulting policy through controlling the training distribution.
+Unsupervised Environment Design(UED) is a field which aims to automatically generate environments which are appropriate to train agents in. UED’s ability to promote transfer to unknown environments is an invaluable asset to safety, as well its ability to empower the AI designer to have more control over the resulting policy through controlling the training distribution.
 
 Two important insights in Unsupervised Environment Design (UED) are:   
 * High Regret Levels promote efficient learning and transfer (See PAIRED, Robust PLR)   

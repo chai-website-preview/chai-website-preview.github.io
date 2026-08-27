@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/07/09/neurips-minerl-basalt-c
 categories:
 - news
 featured_image: ../../assets/featured/2020/10/neurips_2020.png
+summary_html: Seven CHAI members are helping launch The MineRL BASALT Competition on Learning from Human Feedback at NeurIPS 2021.&nbsp;
 ---
 
 Seven CHAI members are helping launch The MineRL BASALT Competition on Learning from Human Feedback at NeurIPS 2021.

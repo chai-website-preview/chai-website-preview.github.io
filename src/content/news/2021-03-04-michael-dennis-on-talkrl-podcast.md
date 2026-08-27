@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/03/04/michael-dennis-on-talkr
 categories:
 - news
 featured_image: ../../assets/featured/2021/03/medium_1567044152-artwork.jpeg
+summary_html: The podcast TalkRL features CHAI graduate student Michael Dennis in a recent episode.&nbsp;
 ---
 
 The podcast TalkRL features CHAI graduate student Michael Dennis in a recent episode.

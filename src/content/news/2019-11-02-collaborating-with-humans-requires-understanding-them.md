@@ -9,6 +9,9 @@ original_url: https://humancompatible.ai/news/2019/11/02/collaborating-with-huma
 categories:
 - news
 featured_image: ../../assets/featured/2019/11/Nov19.png
+summary_html: 'CHAI PhD student Rohin Shah and intern Micah Carroll wrote <a href="https://bair.berkeley.edu/blog/2019/10/21/coordination/">a post on human-AI collaboration</a> on the
+
+  Berkeley AI Research Blog.'
 ---
 
 CHAI PhD student Rohin Shah and intern Micah Carroll wrote [a post on human-AI collaboration](https://bair.berkeley.edu/blog/2019/10/21/coordination/) on the

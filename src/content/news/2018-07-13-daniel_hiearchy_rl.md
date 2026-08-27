@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/07/13/daniel_hiearchy_rl/
 categories:
 - news
 featured_image: ../../assets/featured/2018/07/neuralnetwork.png
+summary_html: 'CHAI’s Daniel Filan traveled to Stockholm, Sweden to present this paper at the 1st Workshop on Goal Specifications for Reinforcement Learning, FAIM 2018. The abstract reads:'
 ---
 
 CHAI’s Daniel Filan traveled to Stockholm, Sweden to present this paper at the 1st Workshop on Goal Specifications for Reinforcement Learning, FAIM 2018. The abstract reads:

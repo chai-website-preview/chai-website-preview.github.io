@@ -1,5 +1,5 @@
 ---
-title: The Prosocial Ranking Challenge - $60,000 in prizes for better social media algorithms
+title: The Prosocial Ranking Challenge – $60,000 in prizes for better social media algorithms
 slug: the-prosocial-ranking-challenge-60000-in-prizes-for-better-social-media-algorithms
 date: '2024-01-18 11:23:43'
 status: publish
@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2024/01/18/the-prosocial-ranking-c
 categories:
 - news
 featured_image: ../../assets/featured/2024/01/The-Prosocial-Ranking-Challenge-Logo-Idea-Green-on-Black.png
+summary_html: <strong>Deadline extended! First round submissions now due April 15th. See below. </strong>
 ---
 
 ![](/app/uploads/2024/01/The-Prosocial-Ranking-Challenge-Logo-Light-Green-Cropped-2-e1705607009111.png)
@@ -23,7 +24,7 @@ Each winning algorithm will be tested for four months using a browser extension 
 
 ## Keep Informed
 
-For updates on the Prosocial Ranking Challenge -- including contest details, science development, and technical resources -- [subscribe to our blog](https://rankingchallenge.substack.com/). Or join our [discord](https://discord.gg/JRmuHSj8XK).
+For updates on the Prosocial Ranking Challenge — including contest details, science development, and technical resources — [subscribe to our blog](https://rankingchallenge.substack.com/). Or join our [discord](https://discord.gg/JRmuHSj8XK).
 
 ## Why?
 
@@ -33,7 +34,7 @@ There is no shortage of ideas about how to do better, but these are hard to test
 
 ## Timelines
 
-Because of the work required to create a usable ranker, the challenge will be split into two phases. The first round submissions will require only a simple prototype. From these, we will select up to ten finalists, each of whom will receive $1,000 and have one month to make their classifiers production ready. We’ll split the remaining $50,000 among those finalists who deliver a ranker that conforms to our API, performance and security specifications. Then we'll pick up to five of the best and test them (meaning you will share in the prize money if you successfully submit a production ranker, even if that ranker is not selected for testing.)
+Because of the work required to create a usable ranker, the challenge will be split into two phases. The first round submissions will require only a simple prototype. From these, we will select up to ten finalists, each of whom will receive $1,000 and have one month to make their classifiers production ready. We’ll split the remaining $50,000 among those finalists who deliver a ranker that conforms to our API, performance and security specifications. Then we’ll pick up to five of the best and test them (meaning you will share in the prize money if you successfully submit a production ranker, even if that ranker is not selected for testing.)
 
 **April 15, 2024: Submissions due**
 
@@ -49,9 +50,9 @@ This time your ranker will need to be delivered in a Docker container and meet c
 
 **June 15th: Winners announced, experiment** **begins**
 
-While we will award prize money to up to ten finalists, it is expensive to run a ranker, so unfortunately we can't test all of them. We will select up to five rankers to test based on scientific merit and technical readiness (including performance and stability).
+While we will award prize money to up to ten finalists, it is expensive to run a ranker, so unfortunately we can’t test all of them. We will select up to five rankers to test based on scientific merit and technical readiness (including performance and stability).
 
-**June - October: Experiment runs**
+**June – October: Experiment runs**
 
 We will test the winning rankers with real users across three different platforms for five months.
 
@@ -135,13 +136,13 @@ The project team, the judges, and winning teams.
 
 The experiment is being run out of the UC Berkeley Center for Human-compatible AI, but it’s an interdisciplinary team effort.
 
-- Jonathan Stray - UC Berkeley (computer science)
-- Julia Kamin - Civic Health Project (political science)
-- Kylan Rutherford - Columbia University (political science)
-- Ceren Budak - University of Michigan (computational social science)
-- George Beknazar-Yuzbashev - Columbia University (economics)
-- Mateusz Stalinski - University of Warwick (economics)
-- Ian Baker - UC Berkeley (engineering)
+- Jonathan Stray – UC Berkeley (computer science)
+- Julia Kamin – Civic Health Project (political science)
+- Kylan Rutherford – Columbia University (political science)
+- Ceren Budak – University of Michigan (computational social science)
+- George Beknazar-Yuzbashev – Columbia University (economics)
+- Mateusz Stalinski – University of Warwick (economics)
+- Ian Baker – UC Berkeley (engineering)
 
 **Who will judge the entries?**
 

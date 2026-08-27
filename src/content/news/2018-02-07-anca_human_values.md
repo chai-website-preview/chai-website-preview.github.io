@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/02/07/anca_human_values/
 categories:
 - news
 featured_image: ../../assets/featured/2018/02/sophia.jpg
+summary_html: Anca Dragan was featured in a an article on Forbes where she talked about her research in AI and robotics, including value alignment, inferring human values, and second-guessing humans. You can read more <a href="https://www.forbes.com/sites/andreamorris/2018/02/07/keeping-robots-friendly-meet-the-woman-teaching-ai-about-human-values/#1f21cca660f9">here</a>.
 ---
 
 Anca Dragan was featured in a an article on Forbes where she talked about her research in AI and robotics, including value alignment, inferring human values, and second-guessing humans. You can read more [here](https://www.forbes.com/sites/andreamorris/2018/02/07/keeping-robots-friendly-meet-the-woman-teaching-ai-about-human-values/#1f21cca660f9).

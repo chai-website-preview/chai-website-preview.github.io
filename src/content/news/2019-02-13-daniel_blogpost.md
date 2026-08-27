@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/02/13/daniel_blogpost/
 categories:
 - news
 featured_image: ../../assets/featured/2019/02/yardstick.jpg
+summary_html: CHAI grad student Daniel Filan published a blog post entitled <a href="https://www.alignmentforum.org/posts/wzPzPmAsG3BwrBrwy/test-cases-for-impact-regularisation-methods">Test Cases for Impact Measures</a> on the AI Alignment Forum.
 ---
 
 CHAI grad student Daniel Filan published a blog post entitled [Test Cases for Impact Measures](https://www.alignmentforum.org/posts/wzPzPmAsG3BwrBrwy/test-cases-for-impact-regularisation-methods) on the AI Alignment Forum.

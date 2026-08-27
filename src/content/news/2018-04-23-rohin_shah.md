@@ -8,6 +8,7 @@ wp_id: 225
 original_url: https://humancompatible.ai/news/2018/04/23/rohin_shah/
 categories:
 - news
+summary_html: CHAI PhD student Rohin Shah created this new newsletter for everyone involved in AI Safety to keep up to date on research in the field.
 ---
 
 CHAI PhD student Rohin Shah created this new newsletter for everyone involved in AI Safety to keep up to date on research in the field.

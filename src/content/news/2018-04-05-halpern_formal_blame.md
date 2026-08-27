@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/04/05/halpern_formal_blame/
 categories:
 - news
 featured_image: ../../assets/featured/2018/04/blame.jpg
+summary_html: 'CHAI’s Joseph Halpern and his colleague Max Kleiman-Weiner at Cornell University published this paper in the Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18). The abstract reads:'
 ---
 
 CHAI’s Joseph Halpern and his colleague Max Kleiman-Weiner at Cornell University published this paper in the Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18). The abstract reads:

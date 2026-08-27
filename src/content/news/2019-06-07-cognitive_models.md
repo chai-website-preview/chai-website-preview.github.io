@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/06/07/cognitive_models/
 categories:
 - news
 featured_image: ../../assets/featured/2019/06/prospect_theory.png
+summary_html: 'David Bourgin, Joshua Peterson, Daniel Reichman, Thomas Griffiths, and Stuart Russell submitted the paper <a href="http://proceedings.mlr.press/v97/peterson19a/peterson19a.pdf">Cognitive Model Priors for Predicting Human Decisions</a> to the International Conference on Machine Learning 2019. The abstract can be found below:'
 ---
 
 David Bourgin, Joshua Peterson, Daniel Reichman, Thomas Griffiths, and Stuart Russell submitted the paper [Cognitive Model Priors for Predicting Human Decisions](http://proceedings.mlr.press/v97/peterson19a/peterson19a.pdf) to the International Conference on Machine Learning 2019. The abstract can be found below:

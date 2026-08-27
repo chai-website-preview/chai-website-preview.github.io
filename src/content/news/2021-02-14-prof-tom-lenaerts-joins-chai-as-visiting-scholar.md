@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/02/14/prof-tom-lenaerts-joins
 categories:
 - news
 featured_image: ../../assets/featured/2021/05/file-20210311-18-1pat070.jpg
+summary_html: Professor Tom Lenaerts joins CHAI as a Visiting Scholar from the Computer Science Department of the Université Libre de Bruxelles.
 ---
 
 Professor Tom Lenaerts joins CHAI as a Visiting Scholar from the Computer Science Department of the Université Libre de Bruxelles.

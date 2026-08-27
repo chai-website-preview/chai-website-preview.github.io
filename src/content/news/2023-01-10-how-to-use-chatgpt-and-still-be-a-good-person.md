@@ -10,6 +10,7 @@ excerpt: Brian Christian was interviewed by New York Times reporter Brian X. Che
 categories:
 - news
 featured_image: ../../assets/featured/2023/01/nyt-gpt3.webp
+summary_html: Brian Christian was interviewed by New York Times reporter Brian X. Chen about ChatGPT and its broader technical and ethical implications for business, education, and society. <a href="https://www.nytimes.com/2022/12/21/technology/personaltech/how-to-use-chatgpt-ethically.html">Here</a> is the link to the article.
 ---
 
 Brian Christian was interviewed by New York Times reporter Brian X. Chen about ChatGPT and its broader technical and ethical implications for business, education, and society. [Here](https://www.nytimes.com/2022/12/21/technology/personaltech/how-to-use-chatgpt-ethically.html) is the link to the article.

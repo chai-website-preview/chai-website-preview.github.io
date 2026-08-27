@@ -3,7 +3,11 @@
 import { getCollection, render } from "astro:content";
 import Site from "../layouts/Site.astro";
 export async function getStaticPaths() {
-  const pages = await getCollection("pages", (p) => p.data.wp_id !== 9);
+  // Excluded: the home page (9) and the WordPress "posts page" stubs for News (92) and Blog (1873).
+  // Those three have empty bodies and their paths are served by index.astro and the
+  // news/blog [...page].astro listings; without this they collide and blank those pages out.
+  const STUBS = new Set([9, 92, 1873]);
+  const pages = await getCollection("pages", (p) => !STUBS.has(p.data.wp_id));
   return pages.map((p) => ({ params: { slug: p.data.slug }, props: { page: p } }));
 }
 const { page } = Astro.props;

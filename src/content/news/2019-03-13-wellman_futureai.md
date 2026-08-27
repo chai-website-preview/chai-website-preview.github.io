@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/03/13/wellman_futureai/
 categories:
 - news
 featured_image: ../../assets/featured/2019/03/umichchat.jpg
+summary_html: Michael Wellman was featured on University of Michigan’s Panel on the Future of AI. You can find a video of the panel <a href="https://www.facebook.com/UniversityOfMichigan/videos/403293753816271/">here</a>.
 ---
 
 Michael Wellman was featured on University of Michigan’s Panel on the Future of AI. You can find a video of the panel [here](https://www.facebook.com/UniversityOfMichigan/videos/403293753816271/).

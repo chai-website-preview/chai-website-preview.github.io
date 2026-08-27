@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/09/04/halpern_causal_judgemen
 categories:
 - news
 featured_image: ../../assets/featured/2018/09/meeting.jpg
+summary_html: 'CHAI’s Joseph Halpern and his student Meir Friedenberg from Cornell University published this paper in the 2019 Conference on Knowledge Representation and Reasoning. The abstract reads:'
 ---
 
 CHAI’s Joseph Halpern and his student Meir Friedenberg from Cornell University published this paper in the 2019 Conference on Knowledge Representation and Reasoning. The abstract reads:

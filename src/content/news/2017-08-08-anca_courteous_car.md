@@ -8,6 +8,7 @@ wp_id: 256
 original_url: https://humancompatible.ai/news/2017/08/08/anca_courteous_car/
 categories:
 - news
+summary_html: 'Anca Dragan along with researchers from UC Berkeley’s EECS and OpenAI published “Enabling Robots to Communicate Their Objectives” on arXiv. The abstract reads:'
 ---
 
 Anca Dragan along with researchers from UC Berkeley’s EECS and OpenAI published “Enabling Robots to Communicate Their Objectives” on arXiv. The abstract reads:

@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/10/31/chai_conference_october
 categories:
 - news
 featured_image: ../../assets/featured/2018/10/conference-scaled.jpg
+summary_html: CHAI faculty and students regularly attend conferences to present their work and keep up to date on the latest in their field. During October 2018, we had many of our members attend conferences all over the world to promote their work.
 ---
 
 CHAI faculty and students regularly attend conferences to present their work and keep up to date on the latest in their field. During October 2018, we had many of our members attend conferences all over the world to promote their work.

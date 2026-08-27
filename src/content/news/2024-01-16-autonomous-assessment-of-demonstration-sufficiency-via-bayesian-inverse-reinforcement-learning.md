@@ -10,13 +10,14 @@ excerpt: How can a robot self-assess whether it has received enough demonstratio
 categories:
 - news
 featured_image: ../../assets/featured/2024/01/Screenshot-2024-01-16-154304.png
+summary_html: Paper titled <a rel="noreferrer noopener" href="https://arxiv.org/abs/2211.15542" data-type="URL" data-id="https://arxiv.org/abs/2211.15542" target="_blank">Autonomous Assessment of Demonstration Sufficiency via Bayesian Inverse Reinforcement Learning</a> was selected for the upcoming 19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI 2024) that will be held from March 11-15, 2024 in Boulder, Colorado, USA.<br><br>In their paper, revised on 1/2/2024, the authors Tu Trinh, Haoyu Chen, and Daniel S. Brown evaluate their approach in simulation for both discrete and continuous state-space domains and illustrate the feasibility of developing a robotic system that can accurately evaluate demonstration sufficiency.
 ---
 
 Paper titled [Autonomous Assessment of Demonstration Sufficiency via Bayesian Inverse Reinforcement Learning](https://arxiv.org/abs/2211.15542) was selected for the upcoming 19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI 2024) that will be held from March 11-15, 2024 in Boulder, Colorado, USA.  
-  
+
 In their paper, revised on 1/2/2024, the authors Tu Trinh, Haoyu Chen, and Daniel S. Brown evaluate their approach in simulation for both discrete and continuous state-space domains and illustrate the feasibility of developing a robotic system that can accurately evaluate demonstration sufficiency.
 
----
+—
 
 > ## Abstract:
 >

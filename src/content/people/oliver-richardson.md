@@ -9,11 +9,19 @@ original_url: https://humancompatible.ai/people/oliver-richardson/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: oliver-richardson
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  <div>Oliver is a CS PhD student at Cornell, advised by Joseph Halpern. His work focuses on representations of knowledge and values for agents, especially those that are psychologically plausible, and play well with both category theory and information theory.</div>
+  <div></div>
+  &nbsp;
+  <div></div>
+  <div>Oli's interest in better characterizing human values has led him to CHAI, where he and Adam Gleave are looking to interpret reward functions from an information-theoretic lens. He holds an MPhil in CS from Cambridge University, as well as bachelor's degrees in math, CS, and biology from the University of Utah.  Oli cares an unreasonable amount about universal constructions, elegant code, and beautiful interfaces.</div>
 photo: ../../assets/people/oliver-richardson.jpg
 hide_photo_on_page: false
 ---
 
 Oliver is a CS PhD student at Cornell, advised by Joseph Halpern. His work focuses on representations of knowledge and values for agents, especially those that are psychologically plausible, and play well with both category theory and information theory.
 
-Oli's interest in better characterizing human values has led him to CHAI, where he and Adam Gleave are looking to interpret reward functions from an information-theoretic lens. He holds an MPhil in CS from Cambridge University, as well as bachelor's degrees in math, CS, and biology from the University of Utah.  Oli cares an unreasonable amount about universal constructions, elegant code, and beautiful interfaces.
+Oli’s interest in better characterizing human values has led him to CHAI, where he and Adam Gleave are looking to interpret reward functions from an information-theoretic lens. He holds an MPhil in CS from Cambridge University, as well as bachelor’s degrees in math, CS, and biology from the University of Utah.  Oli cares an unreasonable amount about universal constructions, elegant code, and beautiful interfaces.

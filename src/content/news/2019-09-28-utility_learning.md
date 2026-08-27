@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/09/28/utility_learning/
 categories:
 - news
 featured_image: ../../assets/featured/2019/09/neurips_2019.jpg
+summary_html: The paper authored by Micah Carroll, Rohin Shah, Tom Griffiths, Pieter Abbeel, and  Anca Dragan, along with two other researchers not affiliated with CHAI, was accepted to NeurIPS 2019. An ArXiv link for the paper will be available shortly.
 ---
 
 The paper authored by Micah Carroll, Rohin Shah, Tom Griffiths, Pieter Abbeel, and Anca Dragan, along with two other researchers not affiliated with CHAI, was accepted to NeurIPS 2019. An ArXiv link for the paper will be available shortly.

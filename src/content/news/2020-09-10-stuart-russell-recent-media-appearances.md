@@ -1,5 +1,5 @@
 ---
-title: Stuart Russell's Recent Media Appearances
+title: Stuart Russell’s Recent Media Appearances
 slug: stuart-russell-recent-media-appearances
 date: '2020-09-10 12:00:00'
 status: publish
@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/09/10/stuart-russell-recent-m
 categories:
 - news
 featured_image: ../../assets/featured/2020/09/stuart.jpg
+summary_html: Professor Stuart Russell gave several noteworthy presentations over the last few months.
 ---
 
 Professor Stuart Russell gave several noteworthy presentations over the last few months.

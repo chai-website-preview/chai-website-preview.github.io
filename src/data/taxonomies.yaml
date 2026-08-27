@@ -198,7 +198,6 @@ bibliography-category:
   name: Background
   parent: null
   description: null
-  order: 0
 - id: 84
   slug: broad-perspectives-on-hcai
   name: Broad perspectives on HCAI
@@ -206,7 +205,6 @@ bibliography-category:
   description: "There are many problems that need solving to ensure that future, highly advanced AI systems will be safe to use, \nincluding mathematical, engineering, and social challenges.   We must sometimes take a bird's-eye view on these problems,\nfor example, to notice that technical safety research will not be useful on its own unless the institutions that build AI have the\nresources and incentives to use that research.  This category recommends reading that we think can help develop such a perspective."
   toc_description: Overviews of challenges and approaches to HCAI.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 5
 - id: 83
   slug: cybersecurity-and-ai
   name: Cybersecurity and AI
@@ -214,7 +212,6 @@ bibliography-category:
   description: "Understanding the nature of adversarial behavior in a digital environment is important to modeling how powerful AI systems might attack or\ndefend existing systems, as well as how status quo cyber infrastructure might leave future AI systems vulnerable to attack and manipulation.  \nA cybersecurity perspective is helpful to understanding these dynamics."
   toc_description: Valuable perspectives on adversarial digital behavior.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 4
 - id: 62
   slug: introduction-to-ai-ml
   name: Introduction to AI/ML
@@ -222,13 +219,11 @@ bibliography-category:
   description: "This category surveys pedagogically basic material for understanding today's prevailing methods in AI and machine learning.  Some of the methods here \nare no longer the state of the art, and are included to aid in understanding more advanced current methods."
   toc_description: Pedagogically helpful AI background.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 2
 - id: 65
   slug: open-technical-problems
   name: Open Technical Problems
   parent: null
   description: null
-  order: 6
 - id: 69
   slug: preference-inference
   name: Preference Inference
@@ -236,7 +231,6 @@ bibliography-category:
   description: "If we ask a robot to \"keep the living room clean\", we probably don't want the robot locking everyone out of the house to \nprevent them from making a mess there (even though that would be a highly effective strategy for the objective, as stated). \nThere seem to be an extremely large number of such implicit common sense rules, which we humans instinctively know or learn from each other, \nbut which are currently difficult for us to codify explicitly in mathematical terms to be implemented by a machine.  \nIt may therefore be necessary to specify our preferences to AI systems implicitly, via a procedure whereby a machine \nwill <i>infer</i> our preferences from reasoning and training data.  This category highlights research that we think may be helpful in developing methods \nfor that sort of preference inference."
   toc_description: Building AI systems that learn what humans want.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 10
 - id: 63
   slug: prevailing-methods-in-ai-ml
   name: Prevailing Methods in AI/ML
@@ -244,7 +238,6 @@ bibliography-category:
   description: "Many currently known methods from machine learning and other disciplines already illustrate surprising results that should \ninform what we think is possible for future AI systems.  Thus, while we do not yet know for certain what\narchitecture future AI systems will use, it is still important for researchers working on HCAI to have a solid understanding\nof the current state of the art in AI methods.  This category lists background reading that we hope will be beneficial for that purpose."
   toc_description: Some important state-of-the-art methods to know about.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 3
 - id: 70
   slug: reward-engineering
   name: Reward Engineering
@@ -253,7 +246,6 @@ bibliography-category:
     \ monitor.  Can we replace expensive human feedback with cheaper proxies, \npotentially using machine learning to generate rewards?"
   toc_description: Designing objectives for AIs that are sure to result in desirable behavior.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 11
 - id: 71
   slug: robustness
   name: Robustness
@@ -261,13 +253,11 @@ bibliography-category:
   description: AI systems are already being given significant autonomous decision-making power in high-stakes situations, sometimes with little or no immediate human supervision. It is important that such systems be robust to noisy or shifting environments, misspecified goals, and faulty implementations, so that such perturbations don't cause the system to take actions with catastrophic consequences, such as crashing a car or the stock market. This category lists research that might help with designing AI systems to be more robust in these ways, that might also help with more advanced systems in the longer term.
   toc_description: Building systems that perform well in novel environments.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 12
 - id: 73
   slug: social-science-perspectives
   name: Social Science Perspectives
   parent: null
   description: null
-  order: 14
 - id: 61
   slug: theoretical-background
   name: Theoretical Background
@@ -275,7 +265,6 @@ bibliography-category:
   description: "Certain basic mathematical and statistical principles have contributed greatly to the development of today's prevailing methods in AI.  This category surveys areas of\nknowledge such as probability theory, logic, theoretical CS, game theory, and economics that are likely to be helpful in understanding existing \nAI research, and advancing HCAI research more specifically."
   toc_description: Prerequisites from fields like probability theory, logic, theoretical CS, and game theory.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 1
 - id: 72
   slug: transparency
   name: Transparency
@@ -284,7 +273,6 @@ bibliography-category:
     \ be a \npractical way to ensure safety.  This category lists research that we think may be useful in designing more transparent AI systems."
   toc_description: Enabling human understanding of AI systems.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 13
 - id: 74
   slug: cognitive-science
   name: Cognitive science
@@ -292,7 +280,6 @@ bibliography-category:
   description: Some approaches to human-compatible AI involve systems that explicitly model humans' beliefs and preferences. This category lists psychology and cognitive science research that is aimed at developing models of human beliefs and preferences, models of how humans infer beliefs and preferences, and relevant computational modeling background.
   toc_description: Models of human psychology relevant to HCAI.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 15
 - id: 66
   slug: corrigibility
   name: Corrigibility
@@ -301,7 +288,6 @@ bibliography-category:
     \ desirable forms of corrigibility.  Corrigibility may be a special case of preference\ninference."
   toc_description: Designing AI systems that do not resist being redesigned or switched off.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 7
 - id: 67
   slug: foundational-work
   name: Foundational Work
@@ -309,7 +295,6 @@ bibliography-category:
   description: "Reasoning about highly capable systems before they exist requires certain theoretical assumptions or models from which to deduce their behavior and/or how \nto align them with our interests.  Theoretical results can also reduce our dependency on trial-and-error methodologies for determining safety, which could be \nimportant when testing systems is difficult or expensive to do safely.  Whereas existing theoretical foundations such as probability theory and game theory have \nbeen helpful in developing current approaches to AI, it is possible that additional foundations could be helpful in advancing HCAI research specifically. \nThis category is for theoretical research aimed at expanding those foundations, as judged by their expected usefulness for HCAI."
   toc_description: Developing the theoretical underpinnings of AI in ways that enable HCAI research.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 8
 - id: 68
   slug: interactive-ai
   name: Interactive AI
@@ -317,7 +302,6 @@ bibliography-category:
   description: "Incorporating more human oversight and involvement \"in the loop\" with an AI system creates unique opportunities for ensuring the alignment of an AI \nsystem with human interests.  This category surveys approaches to achieving interactivity between humans and machines, and how it might apply to developing \nhuman compatible AI.  Such approaches often require some degree of both transparency and reward engineering for the system, and as such \ncould also be viewed under those headings."
   toc_description: Productively incorporating human oversight with AI operations.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 9
 - id: 75
   slug: moral-theory
   name: Moral Theory
@@ -325,7 +309,6 @@ bibliography-category:
   description: "Codifying a precise notion of \"good behavior\" for an AI system to follow will require (implicitly or explicitly) selecting a particular\nnotion of \"good behavior\" to codify, and there may be widespread disagreement as to what that notion should be.  Many moral questions \nmay arise, including some which were previously considered to be merely theoretical.  This category is meant to draw attention \nto such issues, so that AI researchers and engineers can have them in mind as important test cases when developing their systems."
   toc_description: Moral issues that HCAI systems and their developers might encounter.
   media: Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books
-  order: 16
 nav_menu:
 - id: 2
   slug: nav-bar

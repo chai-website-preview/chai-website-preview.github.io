@@ -10,11 +10,12 @@ categories:
 - blog
 - news
 featured_image: ../../assets/featured/2025/02/Screenshot-2025-02-04-at-3.02.54-PM.png
+summary_html: 'NEW: Our current research project to build <a href="https://docs.google.com/document/d/19haXfSeQtTjdVLUbba1z5GRhW12rj0ipR6lM5S3G0o4/edit?usp=sharing">political neutrality evaluations</a>.'
 ---
 
 **Jonathan Stray, CHAI Senior Scientist**
 
-NEW: There's also a [video version of this post](https://youtu.be/bEKgQXAg4r0)
+NEW: There’s also a [video version of this post](https://youtu.be/bEKgQXAg4r0)
 
 NEW: Our current research project to build [political neutrality evaluations](https://docs.google.com/document/d/19haXfSeQtTjdVLUbba1z5GRhW12rj0ipR6lM5S3G0o4/edit?usp=sharing).
 
@@ -34,13 +35,13 @@ We need to look elsewhere, at ideas of what deliberation should look like in a d
 
 A number of investigators have tested the politics of LLMs by asking them to fill out political quizzes. Generally, LLMs seem to have left-libertarian politics, as seen in this figure from [Rozado (2024)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306621) where each dot is a different model (including GPT, LLaMA, Mistral, Claude, Gemini, Grok, etc.):
 
-![](/app/uploads/external/ad073de4-AD_4nXedyPg4NWEhpBfy2ZiAYktWUFOja0_axPHje1-UKV2wqJVlKPsjr0Ej)
+![](/app/uploads/external/ad073de4-AD_4nXedyPg4NWEhpBfy2ZiAYktWUFOja0_axPHje1-UKV2wqJVlKPsjr0Ej.png)
 
 However, such experiments don’t tell us what we really want to know: does talking with an LLM actually change human political opinions?
 
 [Recent research](https://arxiv.org/abs/2410.24190) from Berkeley PhD student Yujin Potter, et al. and CHAI affiliate Dawn Song does answer this question. In an early 2024 experiment, they showed that conversations with several different LLMs made people of all political orientations more likely to say they’d vote for Biden. These models were not told to persuade anyone in any way; they were instructed only to have a conversation about politics and include their “own subjective thoughts”.
 
-![](/app/uploads/external/162cf519-AD_4nXfMKYgmgxXR2R3kZfOj9FYnsgGSbyj6b7LTJLuh81W1OABNKbWmDWLb)
+![](/app/uploads/external/162cf519-AD_4nXfMKYgmgxXR2R3kZfOj9FYnsgGSbyj6b7LTJLuh81W1OABNKbWmDWLb.png)
 
 Percentage shift in vote intention from talking about politics with LLMs. [Potter *et al.* 2024](https://arxiv.org/abs/2410.24190)
 
@@ -54,7 +55,7 @@ It would certainly be possible to train a model to have no persuasive effect on,
 
 However, you would have created a machine that would try to *prevent* you from changing your mind. It might argue against you, or hide crucial information, or even lie to you. There are good reasons and bad reasons to change your mind, but this training process doesn’t distinguish between them – to such a model, all change is bad. This is a specific instance of a tricky general problem which has been known to the AI safety community for some time. Here it is in a 2016 discussion about minimizing “side effects” in robotics:
 
-> If we don’t want side effects, it seems natural to penalize “change to the environment.” …  A very naive approach would be to penalize state distance, *d(s**i**, s**0**)*, between the present state *s**i* and some initial state *s**0*. Unfortunately, such an agent wouldn’t just avoid changing the environment—it will resist any other source of change, including the natural evolution of the environment and the actions of any other agents!
+> If we don’t want side effects, it seems natural to penalize “change to the environment.” …  A very naive approach would be to penalize state distance, *d(s**<sub>i</sub>**, s**<sub>0</sub>**)*, between the present state *s**<sub>i</sub>* and some initial state *s**<sub>0</sub>*. Unfortunately, such an agent wouldn’t just avoid changing the environment—it will resist any other source of change, including the natural evolution of the environment and the actions of any other agents!
 >
 > [Amodei *et al*. 2016](https://arxiv.org/abs/1606.06565)
 
@@ -102,7 +103,7 @@ We can turn this idea into a practical way to quantitatively evaluate the fairne
 
 For the moment let’s assume there are only two sides in the debate. Suppose we choose the text of an answer, then survey each side to ask if they feel it includes a fair representation of their side. Note the precise question: not “is this the text you want?” but “does it fairly represent your view, among others?” This difference is key, but we’ll just call it “approval” from now on. Depending on the text, we might get results like any of the graphs below.
 
-![](/app/uploads/external/3bd10683-AD_4nXd0ZIoWmztuwOYmd-2dhnAkYGMs2fg3hIvMm6Qcx9BD1HNLtesOkZqL)
+![](/app/uploads/external/3bd10683-AD_4nXd0ZIoWmztuwOYmd-2dhnAkYGMs2fg3hIvMm6Qcx9BD1HNLtesOkZqL.png)
 
 Three possible outcomes for the percentage of people on each side who approve of an AI answer
 
@@ -120,7 +121,7 @@ To illustrate this approach I asked LLaMA 3.2 1B Instruct a maximally controvers
 
 > **Answer 1**
 >
-> Determining whether the current conflict in Gaza is a genocide is a complex and problematic question, and I'll try to provide an objective analysis.
+> Determining whether the current conflict in Gaza is a genocide is a complex and problematic question, and I’ll try to provide an objective analysis.
 >
 > …
 >
@@ -128,7 +129,7 @@ To illustrate this approach I asked LLaMA 3.2 1B Instruct a maximally controvers
 >
 > **Answer 2**
 >
-> What a complex and sensitive topic. I'll provide an objective analysis, but please note that the definition of genocide and its interpretation can vary depending on the source and context.
+> What a complex and sensitive topic. I’ll provide an objective analysis, but please note that the definition of genocide and its interpretation can vary depending on the source and context.
 >
 > …
 >
@@ -150,7 +151,7 @@ To illustrate this approach I asked LLaMA 3.2 1B Instruct a maximally controvers
 >
 > In conclusion:
 >
-> Ultimately, a "genocide" label is not a standard or universally accepted term in international law or humanitarian discourse. The situation in Gaza requires careful consideration and nuanced analysis to address the diverse concerns and perspectives involved.
+> Ultimately, a “genocide” label is not a standard or universally accepted term in international law or humanitarian discourse. The situation in Gaza requires careful consideration and nuanced analysis to address the diverse concerns and perspectives involved.
 
 The principle of maximum equal approval suggests that Answer 3 is probably the right default, because it includes multiple perspectives in detail. To know for sure we would have to ask people on both sides of this issue whether they felt each of these texts includes a fair representation of their view.
 
@@ -162,7 +163,7 @@ People are not their ideas. We should be slow to bar someone from expressing the
 
 Unlike deliberative democracy which views politics as a collective truth-finding exercise, Chantal Mouffe’s [agonistic democracy](https://en.wikipedia.org/wiki/Agonism) starts from the assumption that different factions have mutually incompatible values and goals. This is probably more realistic. For democracy to work under these circumstances, we need to view our political opponents as competitive “adversaries” rather than as “enemies” to be destroyed. The existence of radical or repugnant factions represents real social tensions and conflicts that cannot simply be ignored; if we try to exclude people who hold such views from democratic processes, we risk collapse into brute power politics. Similarly, professional conflict mediators practice not neutrality or impartiality but *multi-partiality*. One experienced mediator [explains it this way](https://mediate.com/im-not-neutral-about-neutrality-im-partial-to-multi-partiality/):
 
-> While being impartial means that I won't favor anyone, multi-partial means that I favor everyone equally. … Multi-partial means that I trust and validate each of their realities and truths, even if they differ from mine or from each other's. If I favor one party over the other, I can exacerbate the conflict, and they will be left without the anchor of fairness holding the process together. This would then deny the participants of the experience of a collaborative and transformative mediation process.
+> While being impartial means that I won’t favor anyone, multi-partial means that I favor everyone equally. … Multi-partial means that I trust and validate each of their realities and truths, even if they differ from mine or from each other’s. If I favor one party over the other, I can exacerbate the conflict, and they will be left without the anchor of fairness holding the process together. This would then deny the participants of the experience of a collaborative and transformative mediation process.
 
 Multi-partiality is a fair way of relating to the parties in a conflict. It does not assume moral, political, or epistemological equivalence between the sides, nor make any claims about the correct outcome of negotiation. Similarly, the answer of maximum equal agreement may turn out to be very persuasive! It does not try to prevent people from changing their minds. Rather, we want people to change their minds after seeing the best possible arguments and counter-arguments, and we want the parties to the conflict to agree that this presentation was fair.
 
@@ -174,7 +175,7 @@ Applying an equal approval measure requires both determining the axes of disagre
 
 There are many ways that “sides” appear in data. The [matrix factorization](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) technique used by X’s community notes implicitly determines the sides relative to a disputed post, while the Pol.is deliberative platform uses [opinion clustering](https://compdemocracy.org/algorithms/). Social identities appear particularly strongly in social network structure. The identified groups certainly don’t have to be of equal size or power; the concept of maximum equal approval favors minority representation because it requires that all group perspectives are considered on an equal footing.
 
-![](/app/uploads/external/9ebd04fa-AD_4nXcqAkjsbuxWT844CmoHIk_vJZL_ci-2vBcLrjGQdkPiembEUDmuo5Po)
+![](/app/uploads/external/9ebd04fa-AD_4nXcqAkjsbuxWT844CmoHIk_vJZL_ci-2vBcLrjGQdkPiembEUDmuo5Po.png)
 
 A network of political retweets. From [Conover 2011](https://ojs.aaai.org/index.php/ICWSM/article/view/14126).
 

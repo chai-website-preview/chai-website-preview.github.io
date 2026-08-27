@@ -11,6 +11,7 @@ old_slugs:
 categories:
 - news
 featured_image: ../../assets/featured/2020/10/chai_logo.png
+summary_html: CHAI and BERI are pleased to announce new support from donors.
 ---
 
 CHAI and BERI are pleased to announce new support from donors.

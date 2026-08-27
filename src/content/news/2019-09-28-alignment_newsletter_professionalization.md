@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/09/28/alignment_newsletter_pr
 categories:
 - news
 featured_image: ../../assets/featured/2019/09/AI_Alignment.png
+summary_html: CHAI PhD student Rohin Shah’s <a href="https://rohinshah.com/alignment-newsletter/">Alignment Newsletter</a> has grown from a handful of volunteers to a team of people paid to summarize content.
 ---
 
 CHAI PhD student Rohin Shah’s [Alignment Newsletter](https://rohinshah.com/alignment-newsletter/) has grown from a handful of volunteers to a team of people paid to summarize content.

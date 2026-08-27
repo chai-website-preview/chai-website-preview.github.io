@@ -9,9 +9,13 @@ original_url: https://humancompatible.ai/people/leon-lang/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: leon-lang
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Leon completed master's degrees in mathematics and artificial intelligence and currently does a PhD in machine learning and information theory. He has research experience in equivariant deep learning and multivariate information theory and recently got interested in using his career to reduce existential risk from AI. At CHAI, he will work with Erik Jenner and Scott Emmons on a project incorporating partial observability and bounded computation into cooperative inverse reinforcement learning. His website is https://langleon.github.io/ .
 photo: ../../assets/people/leon-lang.jpg
 hide_photo_on_page: false
 ---
 
-Leon completed master's degrees in mathematics and artificial intelligence and currently does a PhD in machine learning and information theory. He has research experience in equivariant deep learning and multivariate information theory and recently got interested in using his career to reduce existential risk from AI. At CHAI, he will work with Erik Jenner and Scott Emmons on a project incorporating partial observability and bounded computation into cooperative inverse reinforcement learning. His website is https://langleon.github.io/ .
+Leon completed master’s degrees in mathematics and artificial intelligence and currently does a PhD in machine learning and information theory. He has research experience in equivariant deep learning and multivariate information theory and recently got interested in using his career to reduce existential risk from AI. At CHAI, he will work with Erik Jenner and Scott Emmons on a project incorporating partial observability and bounded computation into cooperative inverse reinforcement learning. His website is https://langleon.github.io/ .

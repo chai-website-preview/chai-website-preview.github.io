@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/07/15/adam_causal_entropy/
 categories:
 - news
 featured_image: ../../assets/featured/2018/07/ml.png
+summary_html: 'CHAI’s Adam Gleave and another researcher from Berkeley published this paper in arXiv and presented at GoalsRL Workshop at FAIM. The abstract reads:'
 ---
 
 CHAI’s Adam Gleave and another researcher from Berkeley published this paper in arXiv and presented at GoalsRL Workshop at FAIM. The abstract reads:

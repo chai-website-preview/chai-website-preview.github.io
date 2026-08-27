@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/05/05/chai-welcomes-new-colla
 categories:
 - news
 featured_image: ../../assets/featured/2020/10/chai_logo.png
+summary_html: CHAI welcomes sixteen collaborators and interns in 2021, virtually mentored by CHAI graduate students. This is CHAI’s largest internship cohort.
 ---
 
 CHAI welcomes sixteen collaborators and interns in 2021, virtually mentored by CHAI graduate students. This is CHAI’s largest internship cohort.

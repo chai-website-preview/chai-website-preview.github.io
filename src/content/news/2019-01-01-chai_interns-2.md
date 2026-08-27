@@ -8,9 +8,10 @@ wp_id: 159
 original_url: https://humancompatible.ai/news/2019/01/01/chai_interns-2/
 categories:
 - news
+summary_html: “<i>Interning at CHAI has been one of those rare experiences that makes you question beliefs you didn’t realize were there to be questioned… I’m coming away with a very different view on what kind of research is valuable and where the field of safety research currently stands” – Matthew Rahtz</i>
 ---
 
-“*Interning at CHAI has been one of those rare experiences that makes you question beliefs you didn’t realize were there to be questioned… I’m coming away with a very different view on what kind of research is valuable and where the field of safety research currently stands” - Matthew Rahtz*
+“*Interning at CHAI has been one of those rare experiences that makes you question beliefs you didn’t realize were there to be questioned… I’m coming away with a very different view on what kind of research is valuable and where the field of safety research currently stands” – Matthew Rahtz*
 
 Congratulations to our two previous cohorts of CHAI interns who spent a semester not only learning more about AI safety, but also set themselves up for amazing future opportunities.
 

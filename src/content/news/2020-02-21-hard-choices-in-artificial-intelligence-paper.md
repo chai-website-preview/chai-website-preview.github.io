@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/02/21/hard-choices-in-artific
 categories:
 - news
 featured_image: ../../assets/featured/2020/02/Feb20.png
+summary_html: 'The AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2020 accepted a paper, <a href="https://arxiv.org/abs/1911.09005">“Hard Choices in Artificial Intelligence: Addressing Normative Uncertainty through Sociotechnical Commitments,”</a> coauthored by CHAI machine ethics researcher Thomas Gilbert.'
 ---
 
 The AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2020 accepted a paper, [“Hard Choices in Artificial Intelligence: Addressing Normative Uncertainty through Sociotechnical Commitments,”](https://arxiv.org/abs/1911.09005) coauthored by CHAI machine ethics researcher Thomas Gilbert.

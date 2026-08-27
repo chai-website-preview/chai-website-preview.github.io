@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/07/05/imitation_learning_libr
 categories:
 - news
 featured_image: ../../assets/featured/2019/07/github.png
+summary_html: Steven Wang, Adam Gleave, and Sam Toyer put together an extensible and benchmarked implementation of imitation learning algorithms commonly used at CHAI (Notably GAIL and AIRL) for public use. You can visit the <a href="https://github.com/HumanCompatibleAI/imitation">Github</a> here.
 ---
 
 Steven Wang, Adam Gleave, and Sam Toyer put together an extensible and benchmarked implementation of imitation learning algorithms commonly used at CHAI (Notably GAIL and AIRL) for public use. You can visit the [Github](https://github.com/HumanCompatibleAI/imitation) here.

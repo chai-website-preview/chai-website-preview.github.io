@@ -8,6 +8,7 @@ wp_id: 211
 original_url: https://humancompatible.ai/news/2018/07/14/adam_rohin_inverse_reward/
 categories:
 - news
+summary_html: 'Two of CHAI’s researchers presented this paper at the 1st Workshop on Goal Specifications for Reinforcement Learning, FAIM 2018. The abstract reads:'
 ---
 
 Two of CHAI’s researchers presented this paper at the 1st Workshop on Goal Specifications for Reinforcement Learning, FAIM 2018. The abstract reads:

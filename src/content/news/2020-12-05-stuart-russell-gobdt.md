@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/12/05/stuart-russell-gobdt/
 categories:
 - news
 featured_image: ../../assets/featured/2020/12/Screen-Shot-2020-12-28-at-10.25.41-AM-e1609179991514.png
+summary_html: Stuart Russell spoke at the <a href="https://gobdt.ch/">Governance Of and By Digital Technology conference</a> on November 18, hosted by the EPFL International Risk Governance Center (IRGC) and the Trigger Project.
 ---
 
 Stuart Russell spoke at the [Governance Of and By Digital Technology conference](https://gobdt.ch/) on November 18, hosted by the EPFL International Risk Governance Center (IRGC) and the Trigger Project.

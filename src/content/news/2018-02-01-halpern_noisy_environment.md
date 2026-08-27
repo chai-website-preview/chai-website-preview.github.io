@@ -8,6 +8,7 @@ wp_id: 240
 original_url: https://humancompatible.ai/news/2018/02/01/halpern_noisy_environment/
 categories:
 - news
+summary_html: 'CHAI’s Joseph Halpern and his colleague Matvey Soloviev at Cornell University published this paper in Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), 2018. The abstract reads:'
 ---
 
 CHAI’s Joseph Halpern and his colleague Matvey Soloviev at Cornell University published this paper in Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), 2018. The abstract reads:

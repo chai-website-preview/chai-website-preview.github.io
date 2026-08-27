@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/09/04/filan_teach/
 categories:
 - news
 featured_image: ../../assets/featured/2018/09/filan2.jpg
+summary_html: 'CHAI’s Daniel Filan has spent a considerable amount of time reaching out to early career researchers and educating them on the current state of machine learning. Some of his past contributions include:'
 ---
 
 CHAI’s Daniel Filan has spent a considerable amount of time reaching out to early career researchers and educating them on the current state of machine learning. Some of his past contributions include:

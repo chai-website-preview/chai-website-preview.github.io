@@ -9,9 +9,12 @@ original_url: https://humancompatible.ai/news/2021/10/15/stuart-russell-chosen-a
 categories:
 - news
 featured_image: ../../assets/featured/2021/10/Screen-Shot-2021-10-15-at-4.24.47-PM.png
+summary_html: Stuart Russell is the first computer scientist to be selected as a BBC Reith Lecturer. Russell will deliver four lectures across UK to discuss his views on AI.
 ---
 
 Stuart Russell is the first computer scientist to be selected as a BBC Reith Lecturer. Russell will deliver four lectures across UK to discuss his views on AI.
+
+<p></p>
 
 The lectures will examine what Russell will argue is the most profound change in human history as the world becomes increasingly reliant on super-powerful AI. Examining the impact of AI on jobs, military conflict and human behavior, Russell will argue that our current approach to AI is wrong and that if we continue down this path, we will have less and less control over AI at the same time as it has an increasing impact on our lives. How can we ensure machines do the right thing? The lectures will suggest a way forward based on a new model for AI, one based on machines that learn about and defer to human preferences.
 

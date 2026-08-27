@@ -8,6 +8,7 @@ wp_id: 248
 original_url: https://humancompatible.ai/news/2017/11/16/anca_robot_objectives/
 categories:
 - news
+summary_html: 'CHAI co-PI Professor Anca Dragan published “Learning Robot Objectives from Physical Human Interaction” with researchers from UC Berkeley’s EECS and Rice University in 1st Conference on Robot Learning in November 201. The paper’s abstract reads:'
 ---
 
 CHAI co-PI Professor Anca Dragan published “Learning Robot Objectives from Physical Human Interaction” with researchers from UC Berkeley’s EECS and Rice University in 1st Conference on Robot Learning in November 201. The paper’s abstract reads:

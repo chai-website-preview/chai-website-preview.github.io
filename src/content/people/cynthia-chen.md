@@ -9,7 +9,20 @@ original_url: https://humancompatible.ai/people/cynthia-chen/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: cynthia-chen
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Cynthia is a rising senior at the University of Hong Kong. She is deeply passionate about developing AI systems that
+  are beneficial to society and align with human values. Broadly, she is interested in improving robustness and
+  reliability in decision-making algorithms.
+
+  Cynthia’s research at CHAI primarily focuses on improving imitation learning agents with representation learning
+  methods. Prior to CHAI, Cynthia has conducted research in Automatic Machine Learning (AutoML) and had her paper
+  published at a major top conference. She has also spent her undergrad years at Stanford University and Columbia
+  University as a Visiting Student. Currently, Cynthia is among the Organizing Committee of <a href="https://safeai.webs.upv.es/">SafeAI</a> workshop at AAAI and
+  <a href="https://www.aisafetyw.org/">AISafety</a> workshop at IJCAI, where she hopes to help with growing the AI alignment research field. You can find out
+  more about Cynthia at <a href="https://www.cynthiaxinchen.com/">her website</a>.
 photo: ../../assets/people/cynthia-chen.jpg
 hide_photo_on_page: false
 ---

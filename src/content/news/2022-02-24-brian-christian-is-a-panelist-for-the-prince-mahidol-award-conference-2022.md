@@ -12,6 +12,7 @@ excerpt: Brian Christian spoke alongside Former Prime Minister of Norway Gro Bru
 categories:
 - news
 featured_image: ../../assets/featured/2022/02/PMAC.jpeg
+summary_html: 'Brian Christian spoke alongside Former Prime Minister of Norway Gro Bruntland and mRNA vaccine pioneer Katalin Karikó about AI as one of the essential trends affecting the world, and specifically public health, in the 21st century. The <a href="https://pmac2022.com/activity/12/session/detail">panel</a>, “Understanding the Megatrends of the 21st Century — A Critical Step Towards Getting the World We Want”, was the first session of PMAC 2022. The theme for PMAC 2022 is “The World We Want: Actions Towards a Sustainable, Fairer and Healthier Society”.'
 ---
 
 Brian Christian spoke alongside Former Prime Minister of Norway Gro Bruntland and mRNA vaccine pioneer Katalin Karikó about AI as one of the essential trends affecting the world, and specifically public health, in the 21st century. The [panel](https://pmac2022.com/activity/12/session/detail), “Understanding the Megatrends of the 21st Century — A Critical Step Towards Getting the World We Want”, was the first session of PMAC 2022. The theme for PMAC 2022 is “The World We Want: Actions Towards a Sustainable, Fairer and Healthier Society”.

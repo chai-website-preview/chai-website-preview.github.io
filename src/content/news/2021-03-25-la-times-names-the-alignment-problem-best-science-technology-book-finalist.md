@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/03/25/la-times-names-the-alig
 categories:
 - news
 featured_image: ../../assets/featured/2021/03/51NTItonR1L._SL210_.jpg
+summary_html: <a href="https://www.latimes.com/entertainment-arts/books/story/2021-03-02/lat-book-prizes-finalists-2020-wilkerson-emezi-et-al">The LA Times Book Prizes</a> named <em>The Alignment Problem</em> by Brian Christian a finalist for best Science &amp; Technology book of 2020.
 ---
 
 [The LA Times Book Prizes](https://www.latimes.com/entertainment-arts/books/story/2021-03-02/lat-book-prizes-finalists-2020-wilkerson-emezi-et-al) named *The Alignment Problem* by Brian Christian a finalist for best Science & Technology book of 2020.

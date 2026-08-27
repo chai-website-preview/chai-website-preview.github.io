@@ -1,5 +1,5 @@
 ---
-title: Anca Dragan Publishes “Learning from Richer Human Guidance - Augmenting Comparison-Based Learning with Feature Queries”
+title: Anca Dragan Publishes “Learning from Richer Human Guidance – Augmenting Comparison-Based Learning with Feature Queries”
 slug: anca_human_guidance
 date: '2018-02-05 12:00:00'
 status: publish
@@ -8,6 +8,7 @@ wp_id: 238
 original_url: https://humancompatible.ai/news/2018/02/05/anca_human_guidance/
 categories:
 - news
+summary_html: 'Anca Dragan, along with two researchers from UC Merced, published this article in arXiv. The abstract reads:'
 ---
 
 Anca Dragan, along with two researchers from UC Merced, published this article in arXiv. The abstract reads:

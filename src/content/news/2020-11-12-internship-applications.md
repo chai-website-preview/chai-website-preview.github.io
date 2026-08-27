@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/11/12/internship-applications
 categories:
 - news
 featured_image: ../../assets/featured/2020/11/chai_logo.png
+summary_html: CHAI’s internship application is now open. View the application, as well as testimonials and publications from previous interns, at the <a href="/jobs#internship">internship posting</a>.
 ---
 
 CHAI’s internship application is now open. View the application, as well as testimonials and publications from previous interns, at the [internship posting](/jobs#internship).

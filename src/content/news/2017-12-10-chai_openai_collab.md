@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2017/12/10/chai_openai_collab/
 categories:
 - news
 featured_image: ../../assets/featured/2017/12/openai.png
+summary_html: 'CHAI PI Stuart Russell and co-PI Anca Dragan, with a number of other authors from Berkeley’s School of Electrical Engineering and Computer Science and one from OpenAI, published “Inverse Reward Design” in the 31st Conference on Neural Information Processing Systems held in Long Beach, California back in last December. The abstract reads:'
 ---
 
 CHAI PI Stuart Russell and co-PI Anca Dragan, with a number of other authors from Berkeley’s School of Electrical Engineering and Computer Science and one from OpenAI, published “Inverse Reward Design” in the 31st Conference on Neural Information Processing Systems held in Long Beach, California back in last December. The abstract reads:

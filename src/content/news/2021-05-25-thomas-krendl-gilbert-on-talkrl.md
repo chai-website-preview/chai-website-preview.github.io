@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/05/25/thomas-krendl-gilbert-o
 categories:
 - news
 featured_image: ../../assets/featured/2021/03/medium_1567044152-artwork.jpeg
+summary_html: The podcast TalkRL features CHAI researcher Thomas Krendl Gilbert in a recent episode.
 ---
 
 The podcast TalkRL features CHAI researcher Thomas Krendl Gilbert in a recent episode.

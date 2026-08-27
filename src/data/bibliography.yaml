@@ -11,8 +11,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:08'
   wp_id: 2743
-  order:
-    theoretical-background: 24
 - id: a-comprehensive-survey-on-safe-reinforcement-learning
   title: A comprehensive survey on safe reinforcement learning
   author: Javier Garcia, Fernando Fernandez
@@ -27,8 +25,6 @@
   notes_html: '<p>Two approaches to ensuring safe exploration of reinforcement learners:  adding a safety factor to the optimality criterion, and guiding the exploration process with external knowledge a risk metric.</p>'
   date: '2023-06-14 14:29:03'
   wp_id: 2564
-  order:
-    robustness: 1
 - id: a-few-useful-things-to-know-about-machine-learning
   title: A Few Useful Things to Know about Machine Learning
   author: Pedro Domingos
@@ -43,8 +39,6 @@
   notes_html: <p>“[D]eveloping successful machine learning applications requires a substantial amount of “black art” that is hard to find in textbooks. This article summarizes twelve key lessons.”</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2597
-  order:
-    introduction-to-ai-ml: 17
 - id: a-formal-solution-to-the-grain-of-truth-problem
   title: A Formal Solution to the Grain of Truth Problem
   author: Jan Leike, Jessica Taylor, and Benya Fallenstein
@@ -59,8 +53,6 @@
   notes_html: <p>Provides a model of game-theoretic agents that can reason using explicit models of each other, without problems of infinite regress.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2650
-  order:
-    foundational-work: 12
 - id: a-mathematical-introduction-to-logic-chapters-0-3-alternatively-to-boolos-and-burgess
   title: A Mathematical Introduction to Logic, Chapters 0-3 (alternatively to Boolos and Burgess)
   author: Enderton
@@ -74,8 +66,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:08'
   wp_id: 2742
-  order:
-    theoretical-background: 14
 - id: a-model-of-pathways-to-artificial-superintelligence-catastrophe-for-risk-and-decision-analysis
   title: A Model of Pathways to Artificial Superintelligence Catastrophe for Risk and Decision Analysis
   author: Anthony M. Barrett and Seth D. Baum
@@ -90,8 +80,6 @@
   notes_html: <p>Describes models of superintelligence catastrophe risk as trees representing boolean formulae, and gives recommendations for reducing such risk.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2610
-  order:
-    broad-perspectives-on-hcai: 6
 - id: a-roadmap-towards-machine-intelligence
   title: A Roadmap towards Machine Intelligence
   author: Tomas Mikolov, Armand Joulin, Marco Baroni
@@ -106,8 +94,6 @@
   notes_html: <p>How some research scientists at Facebook expect the incremental development of intelligent machines to occur.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2669
-  order:
-    broad-perspectives-on-hcai: 9
 - id: a-survey-of-research-questions-for-robust-and-beneficial-ai
   title: A survey of research questions for robust and beneficial AI
   author: Future of Life Institute
@@ -122,8 +108,6 @@
   notes_html: <p>Broad discussion of potential research directions related to AI Safety, including short- and long-term technical work, forecasting, and policy.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2615
-  order:
-    broad-perspectives-on-hcai: 16
 - id: a-survey-on-transfer-learning
   title: A survey on transfer learning
   author: Sinno Jialin Pan and Qiang Yang
@@ -137,8 +121,6 @@
   - Robustness
   date: '2023-06-14 14:29:07'
   wp_id: 2724
-  order:
-    robustness: 15
 - id: action-understanding-as-inverse-planning
   title: Action Understanding as Inverse Planning
   author: Chris L. Baker, Joshua B. Tenenbaum & Rebecca R. Saxe
@@ -153,8 +135,6 @@
   notes_html: <p>The main psychology paper on modeling humans’ preference inferences as inverse planning.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2605
-  order:
-    cognitive-science: 1
 - id: action-outcome-and-value-a-dual-system-framework-for-morality
   title: 'Action, Outcome, and Value: A Dual System Framework for Morality'
   author: Fiery Cushman
@@ -168,8 +148,6 @@
   - Moral Theory
   date: '2023-06-14 14:29:07'
   wp_id: 2697
-  order:
-    moral-theory: 5
 - id: active-reward-learning
   title: Active reward learning
   author: Christian Daniel et al
@@ -184,8 +162,6 @@
   notes_html: <p>Good approach to semi-supervised RL and learning reward functions — one of the few such papers.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2622
-  order:
-    preference-inference: 4
 - id: adversarial-examples-in-the-physical-world
   title: Adversarial Examples in the Physical World
   author: Alex Kurakin, Ian Goodfellow, and Samy Bengio
@@ -200,8 +176,6 @@
   notes_html: <p>Surprising finding that adversarial examples work when observed by cell phone camera, even if one isn’t directly optimizing it to account for this process.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2591
-  order:
-    robustness: 21
 - id: agent-foundations-for-aligning-machine-intelligence-with-human-interests-a-technical-research-agenda
   title: 'Agent Foundations for Aligning Machine Intelligence with Human Interests: A Technical Research Agenda'
   author: Nate Soares and Benja Fallenstein
@@ -216,8 +190,6 @@
   notes_html: <p>Overview of an agenda to formalize various aspects of human-compatible “naturalized” (embedded in its environment) superintelligence .</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2582
-  order:
-    foundational-work: 10
 - id: alba-on-github
   title: ALBA on GitHub
   author: Paul Christiano
@@ -232,8 +204,6 @@
   notes_html: <p>A GitHub repo specifying the details of the ALBA proposal.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2580
-  order:
-    reward-engineering: 12
 - id: alba-an-explicit-proposal-for-aligned-ai
   title: 'ALBA: An explicit proposal for aligned AI'
   author: Paul Christiano
@@ -248,8 +218,6 @@
   notes_html: <p>A proposal for training a highly capable, aligned AI system, using approval-directed RL agents and bootstrapping.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2555
-  order:
-    reward-engineering: 11
 - id: algorithmic-game-theory-fall-2013
   title: Algorithmic Game Theory (Fall 2013)
   author: Tim Roughgarden
@@ -264,8 +232,6 @@
   notes_html: '<p>Covers the interface of theoretical CS and econ: mechanism design for auctions,<br/>algorithms and complexity theory for learning and computing Nash and market equilibria, with case studies.</p>'
   date: '2023-06-14 14:29:08'
   wp_id: 2762
-  order:
-    theoretical-background: 2
 - id: algorithmic-learning-in-a-random-world
   title: Algorithmic learning in a random world
   author: Vladimir Vovk, Alex Gammerman, Glenn Shafer
@@ -280,8 +246,6 @@
   notes_html: <p>Presents a framework for prediction tasks that expresses underconfidence by giving a set of predicted labels that probably contains the true label.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2731
-  order:
-    robustness: 0
 - id: algorithmic-statistics
   title: Algorithmic Statistics
   author: Peter Gacs, John T. Tromp, Paul M.B. Vitanyi
@@ -296,8 +260,6 @@
   notes_html: <p>Nice overview of some connections between Kolmogorov complexity and information theory.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2628
-  order:
-    theoretical-background: 23
 - id: algorithmic-transparency-through-quantitative-input-influence-theory-and-experiments-with-learning-systems
   title: 'Algorithmic Transparency through Quantitative Input Influence: Theory and Experiments with Learning Systems'
   author: Anupam Datta, Shayak Sen, Yair Zick
@@ -312,8 +274,6 @@
   notes_html: <p>Introduces a very general notion of ”how much” an input affects the output of a black-box ML classifier, analogous to Shapley value in the attribution of credit in cooperative games.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2652
-  order:
-    transparency: 7
 - id: algorithms-for-inverse-reinforcement-learning
   title: Algorithms for Inverse Reinforcement Learning
   author: Andrew Ng, Stuart Russell
@@ -328,8 +288,6 @@
   notes_html: <p>Introduces Inverse Reinforcement Learning, gives useful theorems to characterize solutions, and an initial max-margin approach.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2573
-  order:
-    preference-inference: 2
 - id: alignment-for-advanced-machine-learning-systems
   title: Alignment for Advanced Machine Learning Systems
   author: Jessica Taylor, Eliezer Yudkowsky, Patrick LaVictoire, AC
@@ -344,8 +302,6 @@
   notes_html: '<p>Describes eight open problems: ambiguity identification, human imitation, informed oversight, environmental goals, conservative concepts, impact measures, mild optimization, and averting incentives.</p>'
   date: '2023-06-14 14:29:03'
   wp_id: 2566
-  order:
-    robustness: 20
 - id: all-of-statistics-chapters-1-12-or-more-an-easy-to-read-overview-of-the-field
   title: All of Statistics, Chapters 1-12 or more (an easy-to-read overview of the field)
   author: Wasserman
@@ -359,8 +315,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:06'
   wp_id: 2688
-  order:
-    theoretical-background: 10
 - id: ambitious-vs-narrow-value-learning
   title: Ambitious vs. narrow value learning
   author: Paul Christiano
@@ -375,8 +329,6 @@
   notes_html: <p>Argues that “narrow” value learning is a more scalable and tractable approach to AI control that has sometimes been too quickly dismissed.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2558
-  order:
-    preference-inference: 16
 - id: an-explainable-artificial-intelligence-system-for-small-unit-tactical-behavior
   title: An Explainable Artificial Intelligence System for Small-unit Tactical Behavior
   author: Michael van Lent, William Fisher, Michael Mancuso
@@ -391,8 +343,6 @@
   notes_html: <p>Describes the AI architecture and associated explanation capability used by a training system developed for the U.S. Army by commercial game developers and academic researchers.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2726
-  order:
-    transparency: 17
 - id: an-introduction-to-game-theory-chapters-1-7-14-15
   title: An Introduction to Game Theory, Chapters 1-7,14,15
   author: Osborne
@@ -406,8 +356,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:06'
   wp_id: 2687
-  order:
-    theoretical-background: 9
 - id: apprenticeship-learning-via-inverse-reinforcement-learning
   title: Apprenticeship Learning via Inverse Reinforcement Learning
   author: Pieter Abbeel, Andrew Ng
@@ -422,8 +370,6 @@
   notes_html: <p>IRL with linear feature combinations. Introduces matching expected feature counts as an optimality criterion.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2637
-  order:
-    preference-inference: 6
 - id: approval-directed-agents
   title: Approval-directed agents
   author: Paul Christiano
@@ -438,8 +384,6 @@
   notes_html: '<p>Proposes the following objective for HCAI:  Estimate the expected rating a human would give each action if she considered it at length. Take the action with the highest expected rating.</p>'
   date: '2023-06-14 14:29:03'
   wp_id: 2546
-  order:
-    interactive-ai: 3
 - id: artificial-intelligence-as-a-positive-and-negative-factor-in-global-risk
   title: Artificial Intelligence as a Positive and Negative Factor in Global Risk
   author: Eliezer Yudkowsky
@@ -454,8 +398,6 @@
   notes_html: <p>Examines ways in which AI could be used to reduce large-scale risks to society, or could be a source of risk in itself.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2562
-  order:
-    broad-perspectives-on-hcai: 0
 - id: artificial-intelligence-safety-and-cybersecurity-a-timeline-of-ai-failures
   title: 'Artificial Intelligence Safety and Cybersecurity: a Timeline of AI Failures'
   author: Roman V. Yampolskiy
@@ -470,8 +412,6 @@
   notes_html: <p>Provides a long history of reported AI failues.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2766
-  order:
-    cybersecurity-and-ai: 6
 - id: artificial-intelligence-a-modern-approach-chapters-1-17
   title: 'Artificial Intelligence: A Modern Approach, Chapters 1-17'
   author: Stuart Russell and Peter Norvig
@@ -486,8 +426,6 @@
   notes_html: <p>Used in over 1300 universities in over 110 countries.  A comprehensive overview, covering problem-solving, uncertain knowledge and reasoning, learning, communicating, perceiving, and acting.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2603
-  order:
-    introduction-to-ai-ml: 9
 - id: avoiding-wireheading-with-value-reinforcement-learning
   title: Avoiding Wireheading with Value Reinforcement Learning
   author: Everitt and Hutter
@@ -502,8 +440,6 @@
   notes_html: <p>RL agents might want to hack their own reward signal to get high reward. Agents which try to optimise some abstract utility function, and use the reward signal as evidence about that, shouldn’t.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2585
-  order:
-    reward-engineering: 0
 - id: bad-universal-priors-and-notions-of-optimality
   title: Bad Universal Priors and Notions of Optimality
   author: Jan Leike and Marcus Hutter
@@ -518,8 +454,6 @@
   notes_html: <p>Shows that Legg-Hutter intelligence strongly depends on the universal prior, and some universal priors heavily discourage exploration.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2613
-  order:
-    foundational-work: 4
 - id: bayesian-data-analysis
   title: Bayesian Data Analysis
   author: Gelman and Rubin
@@ -533,8 +467,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:07'
   wp_id: 2707
-  order:
-    theoretical-background: 11
 - id: bayesian-optimization-with-safety-constraints-safe-and-automatic-parameter-tuning-in-robotics
   title: 'Bayesian optimization with safety constraints: safe and automatic parameter tuning in robotics'
   author: Felix Berkenkamp, Andreas Krause, Angela P. Schoellig
@@ -549,8 +481,6 @@
   notes_html: <p>Approach to known safety constraints in ML systems.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2709
-  order:
-    robustness: 12
 - id: bayesian-theory-of-mind-modeling-joint-belief-desire-attribution
   title: 'Bayesian theory of mind: Modeling joint belief-desire attribution'
   author: Chris L. Baker, Rebecca R. Saxe, Joshua B. Tenenbaum
@@ -565,8 +495,6 @@
   notes_html: <p>Extends the Baker 2009 psychology paper on preference inference by modeling how humans infer both beliefs and desires from observing an agent’s actions.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2579
-  order:
-    cognitive-science: 0
 - id: benefits-and-risks-of-artificial-intelligence
   title: Benefits and Risks of Artificial Intelligence
   author: Tom Dietterich and Eric Horvitz
@@ -580,8 +508,6 @@
   - Broad perspectives on HCAI
   date: '2023-06-14 14:29:07'
   wp_id: 2705
-  order:
-    broad-perspectives-on-hcai: 26
 - id: beyond-point-and-shoot-morality-why-cognitive-neuro-science-matters-for-ethics
   title: 'Beyond Point-and-Shoot Morality: Why Cognitive (Neuro)Science Matters for Ethics'
   author: Joshua D Greene
@@ -595,8 +521,6 @@
   - Cognitive science
   date: '2023-06-14 14:29:06'
   wp_id: 2658
-  order:
-    cognitive-science: 4
 - id: building-explainable-artificial-intelligence-systems
   title: Building Explainable Artificial Intelligence Systems
   author: 'Mark G. Core, H. Chad Lane, Michael van Lent, Dave Gomboc, Steve Solomon and
@@ -613,8 +537,6 @@
   notes_html: <p>Presents a framework for hand-designing an AI that uses a relational database to make decisions, and can then explain its behavior with reference to that database.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2758
-  order:
-    transparency: 22
 - id: building-machines-that-learn-and-think-like-people
   title: Building Machines That Learn and Think Like People
   author: Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman
@@ -629,8 +551,6 @@
   notes_html: <p>Outlines what current systems based on deep neural networks are still missing in terms of what they can learn and how they learn it (compared to humans), and describes some routes towards these goals.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2636
-  order:
-    broad-perspectives-on-hcai: 7
 - id: building-phenomenological-bridges
   title: Building Phenomenological Bridges
   author: RobbBB
@@ -644,8 +564,6 @@
   - Foundational Work
   date: '2023-06-14 14:29:07'
   wp_id: 2721
-  order:
-    foundational-work: 19
 - id: can-digital-machines-think
   title: Can digital machines think?
   author: Alan Turing
@@ -660,8 +578,6 @@
   notes_html: <p>“It is customary […] to offer a grain of comfort […] that some particularly human characteristic could never be imitated by a machine. … I believe that no such bounds can be set.”</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2543
-  order:
-    broad-perspectives-on-hcai: 20
 - id: can-machine-learning-be-secure
   title: Can Machine Learning Be Secure?
   author: Marco Barreno, Blaine Nelson, Russell Sears, Anthony D. Joseph, J. D. Tygar
@@ -676,8 +592,6 @@
   notes_html: <p>A taxonomy of attacks on machine learning systems, defenses against those attacks, an analytical<br/>lower bound on an attacker’s work function, and a list of open problems ain security for AI systems.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2768
-  order:
-    cybersecurity-and-ai: 1
 - id: capability-amplification
   title: Capability amplification
   author: Paul Christiano
@@ -692,8 +606,6 @@
   notes_html: <p>The open problem of taking an aligned policy and producing a more effective policy that is still aligned.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2590
-  order:
-    reward-engineering: 13
 - id: causality-models-reasoning-and-inference
   title: 'Causality: models, reasoning, and inference'
   author: Judea Pearl
@@ -708,8 +620,6 @@
   notes_html: <p>A precise methodology for AI systems to learn causal models of the world and ask counterfactual questions such as “What will happen if move my arm here?”</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2641
-  order:
-    theoretical-background: 5
 - id: clustering-with-a-reject-option-interactive-clustering-as-bayesian-prior-elicitation
   title: 'Clustering with a Reject Option: Interactive Clustering as Bayesian Prior Elicitation'
   author: Akash Srivastava, James Zou, Ryan P. Adams, Charles Sutton
@@ -724,8 +634,6 @@
   notes_html: <p>Producing diverse clusterings of data by elicit experts to reject clusters.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2725
-  order:
-    interactive-ai: 2
 - id: computability-and-logic-chapters-1-4-8-20-23-25-and-27
   title: Computability and Logic, Chapters 1-4, 8-20, 23, 25, and 27
   author: Boolos and Burgess
@@ -739,8 +647,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:05'
   wp_id: 2651
-  order:
-    theoretical-background: 6
 - id: concept-learning-for-safe-autonomous-ai
   title: Concept Learning for Safe Autonomous AI
   author: Kaj Sotala
@@ -755,8 +661,6 @@
   notes_html: <p>Argues that relatively few concepts may be needed for an AI to learn human values, from the observation that perhaps humans do this.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2660
-  order:
-    broad-perspectives-on-hcai: 8
 - id: concrete-problems-in-ai-safety
   title: Concrete problems in AI safety
   author: Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mane
@@ -771,8 +675,6 @@
   notes_html: '<p>Describes five open problems: avoiding negative side effects, avoiding reward hacking, scalable oversight, safe exploration, and robustness to distributional shift.</p>'
   date: '2023-06-14 14:29:03'
   wp_id: 2547
-  order:
-    robustness: 19
 - id: cooperative-inverse-reinforcement-learning
   title: Cooperative Inverse Reinforcement Learning
   author: Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, and Stuart Russell
@@ -787,8 +689,6 @@
   notes_html: <p>Proposes having AI systems perform value alignment by playing a cooperative game with the human, where the reward function for the AI is known only to the human.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2551
-  order:
-    preference-inference: 1
 - id: corrigibility
   title: Corrigibility
   author: Nate Soares, Benya Fallenstein, Eliezer Yudkowsky, Stuart Armstrong
@@ -803,8 +703,6 @@
   notes_html: <p>Describes the open problem of corrigibility—designing an agent that doesn’t have instrumental incentives to avoid being corrected (e.g. if the human shuts it down or alters its utility function).</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2642
-  order:
-    corrigibility: 0
 - id: deep-inside-convolutional-networks-visualising-image-classification-models-and-saliency-maps
   title: 'Deep inside convolutional networks: Visualising image classification models and saliency maps'
   author: Karen Simonyan, Andrea Vedaldi, Andrew Zisserman
@@ -819,8 +717,6 @@
   notes_html: <p>Visualizing what features a trained neural network responds to, by generating images the network strongly assigns some label, and mapping which parts of the input the network is sensitive to.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2556
-  order:
-    transparency: 2
 - id: deep-learning
   title: Deep Learning
   author: Nando de Freitas
@@ -834,8 +730,6 @@
   - Introduction to AI/ML
   date: '2023-06-14 14:29:04'
   wp_id: 2601
-  order:
-    introduction-to-ai-ml: 14
 - id: deep-learning-2671
   title: Deep Learning
   author: LeCun, Bengio, Hinton
@@ -849,8 +743,6 @@
   - Prevailing Methods in AI/ML
   date: '2023-06-14 14:29:06'
   wp_id: 2671
-  order:
-    prevailing-methods-in-ai-ml: 5
 - id: deep-learning-in-neural-networks-an-overview
   title: 'Deep learning in neural networks: An overview'
   author: Schmidhuber
@@ -864,8 +756,6 @@
   - Introduction to AI/ML
   date: '2023-06-14 14:29:07'
   wp_id: 2734
-  order:
-    introduction-to-ai-ml: 19
 - id: deep-learning-chapters-1-5
   title: Deep Learning, Chapters 1-5
   author: Goodfellow, Bengio, and Courville
@@ -880,8 +770,6 @@
   notes_html: <p>Reviews linear algebra, probability and information theory,  and numerical computation as part of a course on deep learning.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2554
-  order:
-    introduction-to-ai-ml: 4
 - id: deep-learning-chapters-6-12
   title: Deep Learning, Chapters 6-12
   author: Goodfellow, Bengio, and Courville
@@ -896,8 +784,6 @@
   notes_html: <p>Covers deep networks, deep feedforward networks, regularization for deep learning, optimization for training deep models, convolutional networks, and recurrent and recursive nets.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2553
-  order:
-    introduction-to-ai-ml: 3
 - id: deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images-2711
   title: 'Deep neural networks are easily fooled: High
 
@@ -914,8 +800,6 @@
   notes_html: <p>Another key paper on adversarial examples.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2711
-  order:
-    robustness: 14
 - id: deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images
   title: 'Deep neural networks are easily fooled: High confidence predictions for unrecognizable images'
   author: Anh Nguyen, Jason Yosinski, Jeff Clune
@@ -930,8 +814,6 @@
   notes_html: <p>Shows that deep neural networks are liable to give very overconfident, wrong classifications to adversarially generated images.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2662
-  order:
-    robustness: 10
 - id: deep-reinforcement-learning
   title: Deep Reinforcement Learning
   author: Schulman
@@ -945,8 +827,6 @@
   - Introduction to AI/ML
   date: '2023-06-14 14:29:05'
   wp_id: 2625
-  order:
-    introduction-to-ai-ml: 15
 - id: deep-reinforcement-learning-2638
   title: Deep Reinforcement Learning
   author: OpenAI
@@ -960,8 +840,6 @@
   - Introduction to AI/ML
   date: '2023-06-14 14:29:05'
   wp_id: 2638
-  order:
-    introduction-to-ai-ml: 1
 - id: defining-human-values-for-value-learners
   title: Defining Human Values for Value Learners
   author: Kaj Sotala
@@ -975,8 +853,6 @@
   - Preference Inference
   date: '2023-06-14 14:29:07'
   wp_id: 2719
-  order:
-    preference-inference: 13
 - id: delusion-survival-and-intelligent-agents
   title: Delusion, Survival, and Intelligent Agents
   author: Ring and Orseau
@@ -991,8 +867,6 @@
   notes_html: <p>RL agents should try to delude themselves by directly modifying their percepts and/or reward signal to get high rewards. So should agents that try to predict well. Knowledge-seeking agents don’t.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2586
-  order:
-    reward-engineering: 1
 - id: designing-the-whyline-a-debugging-interface-for-asking-questions-about-program-behavior
   title: 'Designing the Whyline: A Debugging Interface for Asking Questions about Program Behavior'
   author: Andrew Ko, Brad A. Myers
@@ -1007,8 +881,6 @@
   notes_html: '<p>Shows how transparency accelerates development: “Whyline reduced debugging time by nearly a factor of 8, and helped programmers complete 40% more tasks.”</p>'
   date: '2023-06-14 14:29:06'
   wp_id: 2654
-  order:
-    transparency: 9
 - id: dropout-as-a-bayesian-approximation-representing-model-uncertainty-in-deep-learning
   title: 'Dropout as a Bayesian approximation: Representing model uncertainty in deep learning'
   author: Yarin Gal, Zoubin Ghahramani
@@ -1023,8 +895,6 @@
   notes_html: <p>Connects deep learning regularization techniques (dropout) to bayesian approaches to model uncertainty.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2632
-  order:
-    robustness: 7
 - id: empowerment-an-introduction
   title: Empowerment–an introduction
   author: Christoph Salge, Cornelius Glackin, and Daniel Polani
@@ -1039,8 +909,6 @@
   notes_html: <p>Review paper on empowerment, one of the most common approaches to intrinsic motivation.  Relevant to anyone who wants to study reward design or reward hacking.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2708
-  order:
-    reward-engineering: 8
 - id: explainable-artificial-intelligence-for-training-and-tutoring
   title: Explainable Artificial Intelligence for Training and Tutoring
   author: H. Chad Lane, Mark G. Core, Michael van Lent, Steve Solomon, Dave Gomboc
@@ -1055,8 +923,6 @@
   notes_html: <p>Describes an Explainable Artificial Intelligence (XAI) tool that helps students giving orders to an AI to understand the AIs subsequent behavior and learn to give better orders.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2756
-  order:
-    transparency: 20
 - id: explaining-and-harnessing-adversarial-examples
   title: Explaining and harnessing adversarial examples
   author: Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy
@@ -1071,8 +937,6 @@
   notes_html: <p>Argues that although models that are somewhat linear are easy to train, they are vulnerable to adversarial examples; for example, neural networks can be very overconfident in their judgments.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2602
-  order:
-    robustness: 5
 - id: explaining-classifications-for-individual-instances
   title: Explaining classifications for individual instances
   author: M. Robnik-Sikonja and I. Kononenko
@@ -1087,8 +951,6 @@
   notes_html: <p>Kononenko has a long series of papers on explanation for regression models and machine learning models.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2701
-  order:
-    transparency: 16
 - id: explaining-data-driven-document-classifications
   title: Explaining data-driven document classifications
   author: David Martens and Foster Provost
@@ -1103,8 +965,6 @@
   notes_html: <p>Examines methods for explaining classifications of text documents.  Defines “explanation” as a set of words such that removing those words from the document will change its classicitation.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2727
-  order:
-    transparency: 24
 - id: exploratory-engineering-in-ai
   title: Exploratory Engineering in AI
   author: Luke Muehlhauser, Bill Hibbard
@@ -1119,8 +979,6 @@
   notes_html: <p>Argues for the importance of thinking about the safety implications of formal models of ASI, to identify both potential problems and lines of research.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2744
-  order:
-    broad-perspectives-on-hcai: 22
 - id: fansmitter-acoustic-data-exfiltration-from-speakerless-air-gapped-computers
   title: 'Fansmitter: Acoustic Data Exfiltration from
 
@@ -1137,8 +995,6 @@
   notes_html: <p>Exhibits a malware that can acoustically extract encryption keys from an airgapped computer, even when audio hardware and speakers are not present, and 900 bits/hr accross 8 meters.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2764
-  order:
-    cybersecurity-and-ai: 4
 - id: finding-causes-of-program-output-with-the-java-whyline
   title: Finding Causes of Program Output with the Java Whyline
   author: Andrew Ko, Brad A. Myers
@@ -1153,8 +1009,6 @@
   notes_html: '<p>Shows how transparency helps developers: “Whyline users were successful about three times as often and about twice as fast compared to the control group.”</p>'
   date: '2023-06-14 14:29:07'
   wp_id: 2696
-  order:
-    transparency: 14
 - id: formal-verification-of-distributed-aircraft-controllers
   title: Formal verification of distributed aircraft controllers
   author: Sarah M. Loos, David Renshaw, and Andre Platzer
@@ -1169,8 +1023,6 @@
   notes_html: <p>Not deep learning or advanced AI, but a good practical example of what it takes to formally verify a real-wold system.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2710
-  order:
-    robustness: 13
 - id: formalizing-convergent-instrumental-goals
   title: Formalizing Convergent Instrumental Goals
   author: Tsvi Benson-Tilsen and Nate Soares
@@ -1185,8 +1037,6 @@
   notes_html: <p>Discusses objections to the convergent instrumental goals thesis, and gives a simple formal model.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2699
-  order:
-    corrigibility: 2
 - id: formalizing-two-problems-of-realistic-world-models
   title: Formalizing Two Problems of Realistic World-Models
   author: Nate Soares
@@ -1200,8 +1050,6 @@
   - Foundational Work
   date: '2023-06-14 14:29:06'
   wp_id: 2682
-  order:
-    foundational-work: 14
 - id: from-seed-ai-to-technological-singularity-via-recursively-self-improving-software
   title: From Seed AI to Technological Singularity via Recursively Self-Improving Software
   author: Roman V. Yampolskiy
@@ -1215,8 +1063,6 @@
   - Broad perspectives on HCAI
   date: '2023-06-14 14:29:06'
   wp_id: 2692
-  order:
-    broad-perspectives-on-hcai: 18
 - id: game-theory-i-coursera
   title: Game Theory I (Coursera)
   author: Jackson, Leyton-Brown, Shoham
@@ -1230,8 +1076,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:05'
   wp_id: 2640
-  order:
-    theoretical-background: 20
 - id: game-theory-ii-coursera
   title: Game Theory II (Coursera)
   author: Jackson, Leyton-Brown, Shoham
@@ -1245,8 +1089,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:08'
   wp_id: 2735
-  order:
-    theoretical-background: 21
 - id: game-theory-analysis-of-conflict
   title: 'Game Theory: Analysis of Conflict'
   author: Roger Myerson
@@ -1261,8 +1103,6 @@
   notes_html: <p>Well-written text motivating and expositing the theory of bargaining, communication, and cooperation in game theory, with rigorous decision-theoretic foundations and formal game representations.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2761
-  order:
-    theoretical-background: 3
 - id: generative-adversarial-imitation-learning
   title: Generative Adversarial Imitation Learning
   author: Jonathan Ho, Stefano Ermon
@@ -1277,8 +1117,6 @@
   notes_html: <p>Exciting new approach to IRL and learning from demonstrations, that is more robust to adversarial failures in IRL.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2599
-  order:
-    preference-inference: 3
 - id: graying-the-black-box-understanding-dqns
   title: 'Graying the Black Box: Understanding DQNs'
   author: Tom Zahavy, Nir Ben Zrihem, and Shie Mannor
@@ -1293,8 +1131,6 @@
   notes_html: <p>Use t-SNE to analyze agent learned through Q-Learning.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2629
-  order:
-    transparency: 5
 - id: guided-cost-learning-deep-inverse-optimal-control-via-policy-optimization
   title: 'Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization'
   author: Chelsea Finn, Sergey Levine, Pieter Abeel
@@ -1309,8 +1145,6 @@
   notes_html: <p>Recent and important paper on deep inverse reinforcement learning.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2631
-  order:
-    preference-inference: 5
 - id: handbook-of-model-checking-to-appear-soon
   title: Handbook of Model Checking (to appear soon)
   author: Clarke, Henzinger, Veith
@@ -1324,8 +1158,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:08'
   wp_id: 2753
-  order:
-    theoretical-background: 25
 - id: help-or-hinder-bayesian-models-of-social-goal-inference
   title: 'Help or Hinder: Bayesian Models of Social Goal Inference'
   author: Tomer D. Ullman, Chris L. Baker, Owen Macindoe, Owain Evans, Noah D. Goodman and Joshua B. Tenenbaum
@@ -1339,8 +1171,6 @@
   - Cognitive science
   date: '2023-06-14 14:29:07'
   wp_id: 2723
-  order:
-    cognitive-science: 6
 - id: how-bad-is-selfish-voting
   title: How Bad is Selfish Voting?
   author: Simina Branzei, Ioannis Caragiannis, Jamie Morgenstern, Ariel D. Procaccia
@@ -1354,8 +1184,6 @@
   - Moral Theory
   date: '2023-06-14 14:29:06'
   wp_id: 2679
-  order:
-    moral-theory: 4
 - id: how-to-explain-individual-classification-decisions
   title: How to explain individual classification decisions
   author: "D. Baehrens, T. Schroeter, S. Harmeling, M. Kawanabe, K. Hansen, and K.-R. M\x7Fuller"
@@ -1370,8 +1198,6 @@
   notes_html: <p>Explains individual classification decisions locally in terms of the gradient of the classifier.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2653
-  order:
-    transparency: 8
 - id: how-to-grow-a-mind-statistics-structure-and-abstraction
   title: 'How to Grow a Mind: Statistics, Structure, and Abstraction'
   author: Joshua B. Tenenbaum, Charles Kemp, Thomas L. Griffiths, Noah D. Goodman
@@ -1386,8 +1212,6 @@
   notes_html: <p>Reviews the Bayesian cognitive science approach to reverse-engineering human learning and reasoning.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2670
-  order:
-    cognitive-science: 5
 - id: how-we-re-predicting-ai-or-failing-to
   title: How We’re Predicting AI — or Failing To
   author: Stuart Armstrong and Kaj Sotala
@@ -1401,8 +1225,6 @@
   - Broad perspectives on HCAI
   date: '2023-06-14 14:29:04'
   wp_id: 2575
-  order:
-    broad-perspectives-on-hcai: 2
 - id: human-level-concept-learning-through-probabilistic-program-induction
   title: Human-level concept learning through probabilistic program induction
   author: Brenden M. Lake, Ruslan Salakhutdinov, Joshua B. Tenenbaum
@@ -1417,8 +1239,6 @@
   notes_html: <p>State-of-the-art example of hierarchical structured probabilistic models, probably the main alternative to deep neural nets.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2691
-  order:
-    prevailing-methods-in-ai-ml: 6
 - id: human-level-control-through-deep-reinforcement-learning
   title: Human-level control through deep reinforcement learning
   author: Mnih et al.
@@ -1432,8 +1252,6 @@
   - Prevailing Methods in AI/ML
   date: '2023-06-14 14:29:03'
   wp_id: 2571
-  order:
-    prevailing-methods-in-ai-ml: 2
 - id: imagenet-classification-with-deep-convolutional-neural-networks
   title: 'Imagenet classification with deep
 
@@ -1450,8 +1268,6 @@
   notes_html: <p>The seminal paper in deep learning.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2565
-  order:
-    prevailing-methods-in-ai-ml: 1
 - id: imitation-learning-with-a-value-based-prior
   title: Imitation Learning with a Value-Based Prior
   author: Umar Syed, Robert E. Schapire
@@ -1465,8 +1281,6 @@
   - Preference Inference
   date: '2023-06-14 14:29:07'
   wp_id: 2704
-  order:
-    preference-inference: 10
 - id: inceptionism-going-deeper-into-neural-networks
   title: 'Inceptionism: Going deeper into neural networks'
   author: Alexander Mordvintsev, Christopher Olah, and Mike Tyka
@@ -1481,8 +1295,6 @@
   notes_html: <p>Seminal result on transparency in neural networks — the origin of deep dream results.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2676
-  order:
-    transparency: 30
 - id: increasing-the-interpretability-of-recurrent-neural-networks-using-hidden-markov-models
   title: Increasing the Interpretability of Recurrent Neural Networks Using Hidden Markov Models
   author: 'Viktoriya Krakovna, Finale Doshi-Velez '
@@ -1497,8 +1309,6 @@
   notes_html: <p>Learning high-level Hidden Markov Models of the activations of RNNs.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2655
-  order:
-    transparency: 10
 - id: information-theory-inference-and-learning-algorithms-parts-i-iii
   title: Information Theory, Inference, and Learning Algorithms Parts I-III
   author: McKay
@@ -1512,8 +1322,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:05'
   wp_id: 2621
-  order:
-    theoretical-background: 4
 - id: interactively-shaping-agents-via-human-reinforcement-the-tamer-framework
   title: 'Interactively shaping agents via human reinforcement: The TAMER framework'
   author: Knox, W. Bradley, and Peter Stone
@@ -1528,8 +1336,6 @@
   notes_html: <p>Training a reinforcement learner using a reward signal supplied by a human overseer. At each point, the agent greedily chooses the action that is predicted to have the highest reward.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2607
-  order:
-    reward-engineering: 2
 - id: intriguing-properties-of-neural-networks
   title: Intriguing properties of neural networks
   author: Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, and Rob Fergus
@@ -1544,8 +1350,6 @@
   notes_html: <p>Shows that deep neural networks can give very different outputs for very similar inputs, and that semantic info is stored in linear combos of high-level units.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2567
-  order:
-    robustness: 2
 - id: introduction-to-ai
   title: Introduction to AI
   author: Pieter Abbeel, Dan Klein
@@ -1560,8 +1364,6 @@
   notes_html: <p>Informed, uninformed, and adversarial search; constraint satisfaction; expectimax; MDPs and RL; graphical models; decision diagrams; naive bayes, perceptrons, clustering; NLP; game-playing; robotics.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2563
-  order:
-    introduction-to-ai-ml: 13
 - id: introduction-to-artificial-intelligence
   title: Introduction to Artificial Intelligence
   author: Norvig and Thrun
@@ -1575,8 +1377,6 @@
   - Introduction to AI/ML
   date: '2023-06-14 14:29:07'
   wp_id: 2716
-  order:
-    introduction-to-ai-ml: 2
 - id: introduction-to-automata-theory-languages-and-computation-chapters-1-10
   title: Introduction to Automata Theory, Languages, and Computation, Chapters 1-10
   author: Ullman and Hopcroft
@@ -1590,8 +1390,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:07'
   wp_id: 2717
-  order:
-    theoretical-background: 12
 - id: introduction-to-probability
   title: Introduction to Probability
   author: Richard S. Sutton, Andrew G. Barto
@@ -1605,8 +1403,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:08'
   wp_id: 2754
-  order:
-    theoretical-background: 22
 - id: introduction-to-the-theory-of-computation-chapters-1-5-7-alternatively-to-ullman-and-hopcroft
   title: Introduction to the Theory of Computation, Chapters 1-5,7 (alternatively to Ullman and Hopcroft)
   author: Michael Sipser
@@ -1620,8 +1416,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:08'
   wp_id: 2736
-  order:
-    theoretical-background: 13
 - id: justification-narratives-for-individual-classifications
   title: Justification Narratives for Individual classifications
   author: Or Biran and Kathleen McKeown
@@ -1636,8 +1430,6 @@
   notes_html: <p>Generating natural language justifications to aid a non-expert in trusting a machine learning classifications.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2741
-  order:
-    transparency: 19
 - id: knows-what-it-knows-a-framework-for-self-aware-learning
   title: 'Knows what it knows: a framework for self-aware learning'
   author: Lihong Li, Michael L. Littman, Thomas J. Walsh
@@ -1652,8 +1444,6 @@
   notes_html: <p>Handling predictive uncertainty by maintaining a class of hypotheses consistent with observations, and opting out of predictions if there is conflict among remaining hypotheses.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2574
-  order:
-    robustness: 3
 - id: learning-language-games-through-interaction
   title: Learning Language Games Through Interaction
   author: Sida I. Wang, Percy Liang, Christopher D. Manning
@@ -1668,8 +1458,6 @@
   notes_html: <p>A framework for posing and solving language-learning goals for an AI, as a cooperative game with a human.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2635
-  order:
-    interactive-ai: 0
 - id: learning-the-preferences-of-bounded-agents
   title: Learning the Preferences of Bounded Agents
   author: Owain Evans, Andreas Stuhlmuller, Noah D. Goodman
@@ -1683,8 +1471,6 @@
   - Preference Inference
   date: '2023-06-14 14:29:07'
   wp_id: 2713
-  order:
-    preference-inference: 11
 - id: learning-the-preferences-of-ignorant-inconsistent-agents
   title: Learning the Preferences of Ignorant, Inconsistent Agents
   author: Owain Evans, Andreas Stuhlmuller, Noah D. Goodman
@@ -1698,8 +1484,6 @@
   - Preference Inference
   date: '2023-06-14 14:29:06'
   wp_id: 2683
-  order:
-    preference-inference: 8
 - id: learning-to-protect-communications-with-adversarial-neural-cryptography
   title: Learning to Protect Communications with Adversarial Neural Cryptography
   author: Martín Abadi, David G. Andersen (Google Brain)
@@ -1714,8 +1498,6 @@
   notes_html: <p>Demonstrates that a neural network trained with access to both ends of a communication channel and feedback from an adversary can learn to encrypt the channel against the adversary.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2765
-  order:
-    cybersecurity-and-ai: 5
 - id: learning-what-to-value
   title: Learning What to Value
   author: Daniel Dewey
@@ -1730,8 +1512,6 @@
   notes_html: <p>Introduces preference inference from an RL perspective, contrasting to AIXI.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2678
-  order:
-    preference-inference: 7
 - id: learning-with-catastrophes
   title: Learning with catastrophes
   author: Paul Christiano
@@ -1746,8 +1526,6 @@
   notes_html: <p>Presents an approach to training AI systems by to avoid catastrophic mistakes, possibly by adversarially generating potentially catastrophic situations.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2623
-  order:
-    robustness: 23
 - id: limitations-and-risks-of-machine-ethics
   title: Limitations and risks of machine ethics
   author: Miles Brundage
@@ -1762,8 +1540,6 @@
   notes_html: <p>Argues that finding a single solution to machine ethics would be difficult for moral-theoretic reasons and insufficient to ensure ethical machine behaviour.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2745
-  order:
-    moral-theory: 6
 - id: linear-matrix-inequalities-in-system-and-control-theory
   title: Linear Matrix Inequalities in System and Control Theory
   author: Stephen Boyd, Laurent El Ghaoui, E. Feron, V. Balakrishnan
@@ -1778,8 +1554,6 @@
   notes_html: <p>Overview of inverse optimal control methods for linear dynamical systems.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2645
-  order:
-    preference-inference: 0
 - id: logical-induction
   title: Logical Induction
   author: Scott Garrabrant, Tsvi Benson-Tilsen, AC, Nate Soares, and Jessica Taylor
@@ -1794,8 +1568,6 @@
   notes_html: <p>Presents an algorithm that uses Brouwer’s fixed point theorem to reason inductively about computations using bounded resources, and discusses a corresponding optimality notion.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2657
-  order:
-    foundational-work: 13
 - id: logical-induction-abridged
   title: Logical Induction (abridged)
   author: Scott Garrabrant, Tsvi Benson-Tilsen, Andrew Critch, Nate Soares, and Jessica Taylor
@@ -1810,8 +1582,6 @@
   notes_html: <p>Proposes a criterion for “good reasoning” using bounded computational resources, and shows that this criterion implies a wide variety of desirable properties.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2559
-  order:
-    foundational-work: 8
 - id: long-term-and-short-term-challenges-to-ensuring-the-safety-of-ai-systems
   title: Long-Term and Short-Term Challenges to Ensuring the Safety of AI Systems
   author: Jacob Steinhardt
@@ -1826,8 +1596,6 @@
   notes_html: <p>Overviews engineering challenges, potential risks, and research goals for safe AI.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2680
-  order:
-    broad-perspectives-on-hcai: 25
 - id: loudness-on-priors-over-preference-relations
   title: 'Loudness: on priors over preference relations'
   author: Benya Fallenstein and Nisan Stiennon
@@ -1842,8 +1610,6 @@
   notes_html: <p>Describing how having uncertainty over differently-scaled utility functions is equivalent to having uncertainty over same-scaled utility functions with a different distribution.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2674
-  order:
-    moral-theory: 7
 - id: machine-learning
   title: Machine Learning
   author: Prof. Tommi Jaakkola
@@ -1858,8 +1624,6 @@
   notes_html: <p>Perceptrons, SVMs, regularization, regression methods, bias and variance, active learning, model description length, feature selection, boosting, EM, spectral clustering, graphical models.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2561
-  order:
-    introduction-to-ai-ml: 0
 - id: machine-learning-2630
   title: Machine Learning
   author: Nando de Freitas
@@ -1873,8 +1637,6 @@
   - Introduction to AI/ML
   date: '2023-06-14 14:29:05'
   wp_id: 2630
-  order:
-    introduction-to-ai-ml: 16
 - id: machine-learning-a-probabilistic-perspective
   title: 'Machine Learning
 
@@ -1891,8 +1653,6 @@
   notes_html: <p>A modern textbook on machine learning.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2569
-  order:
-    introduction-to-ai-ml: 6
 - id: machine-learning-lecture-notes
   title: Machine Learning (lecture notes)
   author: Andrew Ng
@@ -1907,8 +1667,6 @@
   notes_html: <p>Course notes introducing various prevailing ML methods, including SVMs, the Perceptron algorithm, k-means clustering, Gaussian mixtures, the EM Algorithm, factor analysis, PCA, ICA, and RL.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2549
-  order:
-    theoretical-background: 0
 - id: machine-learning-online-course
   title: Machine Learning (online course)
   author: Andrew Ng
@@ -1923,8 +1681,6 @@
   notes_html: <p>Video lectures intoducing linear regression, Octave/MatLab, logistic regression, neural networks, SVMs, and surveying methods for recommender systems, anomaly detection, and “big data” applications.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2550
-  order:
-    theoretical-background: 19
 - id: making-machine-learning-models-interpretable
   title: Making machine learning models interpretable
   author: A Vellido, JD Martin-Guerrero, PJG Lisboa
@@ -1939,8 +1695,6 @@
   notes_html: <p>Gives short descriptions of various methods for explaining ML models to non-expert users; mainly interesting for its bibliography.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2545
-  order:
-    transparency: 1
 - id: mammalian-value-systems
   title: Mammalian Value Systems
   author: Gopal Sarma, Nick Hay
@@ -1955,8 +1709,6 @@
   notes_html: <p>Claims that human values can be decomposed into mammalian values, human cognition, human socio-cultural evolution.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2720
-  order:
-    preference-inference: 15
 - id: mastering-the-game-of-go-with-deep-neural-networks-and-tree-search
   title: Mastering the game of Go with deep neural networks and tree search
   author: Silver et al
@@ -1971,8 +1723,6 @@
   notes_html: <p>Describes DeepMind’s superhuman Go-playing AI. Ties together several techniques in reinforcement learning and supervised learning.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2595
-  order:
-    prevailing-methods-in-ai-ml: 3
 - id: mathematical-logic-a-course-with-exercises-part-i
   title: 'Mathematical Logic : A course with exercises — Part I'
   author: Cori and Lascar
@@ -1987,8 +1737,6 @@
   notes_html: <p>Covers propositional calculus, boolean algebras, predicate calculus, and major completeness theorems demonstrating the adequacy of various proof methods.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2759
-  order:
-    theoretical-background: 7
 - id: mathematical-logic-a-course-with-exercises-part-ii-chapters-5-and-6
   title: 'Mathematical Logic : A course with exercises — Part II, Chapters 5 and 6'
   author: Cori and Lascar
@@ -2003,8 +1751,6 @@
   notes_html: <p>Covers recursion theory, the formalization of arithmetic, and Godel’s theorems, illustrating how statements about algorithms can be expressed and proven in the language of arithmetic.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2760
-  order:
-    theoretical-background: 8
 - id: mathematics-of-machine-learning
   title: Mathematics of Machine Learning
   author: Philippe Rigollet
@@ -2018,8 +1764,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:05'
   wp_id: 2626
-  order:
-    theoretical-background: 1
 - id: maximizing-a-quantity-while-ignoring-effect-through-some-channel
   title: Maximizing a quantity while ignoring effect through some channel
   author: Jessica Taylor and Chris Olah
@@ -2034,8 +1778,6 @@
   notes_html: <p>Proposes an objective function that ignores effects through some channel by performing separate causal counterfactuals for each effect of an action.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2665
-  order:
-    corrigibility: 5
 - id: maximum-margin-planning
   title: Maximum Margin Planning
   author: Nathan D. Ratliff, J. Andrew Bagnell, Martin A. Zinkevich
@@ -2050,8 +1792,6 @@
   notes_html: <p>IRL with linear feature combinations. Gives an IRL approach that can use a black box MDP solver.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2718
-  order:
-    preference-inference: 12
 - id: model-based-utility-functions
   title: Model-based utility functions
   author: Bill Hibbard
@@ -2066,8 +1806,6 @@
   notes_html: <p>Early paper on how to get around wireheading</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2686
-  order:
-    reward-engineering: 6
 - id: moral-machines-teaching-robots-right-from-wrong
   title: 'Moral Machines: Teaching robots right from wrong'
   author: Wendell Wallach
@@ -2082,8 +1820,6 @@
   notes_html: <p>Overviews the engineering problem of translating human morality into machine-implementable format, which implicitly involves settling many philosophical debates about ethics.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2544
-  order:
-    moral-theory: 9
 - id: moral-trade
   title: Moral Trade
   author: Toby Ord
@@ -2098,8 +1834,6 @@
   notes_html: <p>Argues that moral agents with different morals will engage in trade to increase their moral impact, particularly when they disagree about what is moral.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2578
-  order:
-    moral-theory: 0
 - id: motivated-value-selection-for-artificial-agents
   title: Motivated Value Selection for Artificial Agents
   author: Stuart Armstrong
@@ -2114,8 +1848,6 @@
   notes_html: <p>Discusses case where agents might manipulate the process by which their values are selected.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2729
-  order:
-    reward-engineering: 10
 - id: mythos-of-interpretability
   title: Mythos of Interpretability
   author: Zachary Lipton
@@ -2129,8 +1861,6 @@
   - Transparency
   date: '2023-06-14 14:29:04'
   wp_id: 2594
-  order:
-    transparency: 4
 - id: neural-networks
   title: Neural Networks
   author: Hugo Larochelle
@@ -2144,8 +1874,6 @@
   - Prevailing Methods in AI/ML
   date: '2023-06-14 14:29:06'
   wp_id: 2672
-  order:
-    prevailing-methods-in-ai-ml: 0
 - id: neural-networks-and-deep-learning-chapters-1-6-more-entry-level
   title: Neural Networks and Deep Learning, Chapters 1-6 (more entry-level)
   author: Michael Nielsen
@@ -2159,8 +1887,6 @@
   - Introduction to AI/ML
   date: '2023-06-14 14:29:04'
   wp_id: 2588
-  order:
-    introduction-to-ai-ml: 8
 - id: nonparametric-general-reinforcement-learning
   title: Nonparametric General Reinforcement Learning
   author: Jan Leike
@@ -2175,8 +1901,6 @@
   notes_html: <p>Describes sufficient conditions for learnability of environments, types of agents and their optimality, the computability of those agents, and the Grain of Truth problem.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2693
-  order:
-    foundational-work: 7
 - id: not-so-innocent-reasoning-about-costs-competence-and-culpability-in-very-early-childhood
   title: 'Not so innocent: Reasoning about costs, competence, and culpability in very early childhood'
   author: Julian Jara-Ettinger, Joshua B. Tenenbaum, Laura E. Schulz
@@ -2190,8 +1914,6 @@
   - Cognitive science
   date: '2023-06-14 14:29:07'
   wp_id: 2733
-  order:
-    cognitive-science: 7
 - id: on-explainability-in-machine-learning
   title: On Explainability in Machine Learning
   author: David Bianco
@@ -2206,8 +1928,6 @@
   notes_html: <p>Argues that (perfect) explainability is probably impossible in ML.  Does not address much that partial explanations (like we get from fellow humans) are what most people want/expect anyway.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2755
-  order:
-    transparency: 31
 - id: online-learning-survey
   title: Online Learning Survey
   author: Shai Shalev-Schwartz
@@ -2222,8 +1942,6 @@
   notes_html: <p>Readable introduction to the theory of online learning, including regret, and how to use it to analyze online learning algorithms.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2608
-  order:
-    robustness: 6
 - id: ontological-crises-in-artificial-agents-value-systems
   title: Ontological crises in artificial agents’ value systems
   author: Peter de Blanc
@@ -2237,8 +1955,6 @@
   - Moral Theory
   date: '2023-06-14 14:29:06'
   wp_id: 2681
-  order:
-    moral-theory: 8
 - id: parametric-bounded-lob-s-theorem-and-robust-cooperation-of-bounded-agents
   title: Parametric Bounded Lob’s Theorem and Robust Cooperation of Bounded Agents
   author: Andrew Critch
@@ -2253,8 +1969,6 @@
   notes_html: <p>Proves a version of Lob’s theorem for bounded reasoners, and discusses relevance to cooperation in the Prisoner’s Dilemma and decision theory more broadly.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2577
-  order:
-    foundational-work: 9
 - id: pascal-s-mugging
   title: Pascal’s Mugging
   author: Nick Bostrom
@@ -2269,8 +1983,6 @@
   notes_html: <p>Analyzes a thought experiment where an extremely unlikely threat to produce even-more-extremely-large differences in utility might be leveraged to extort resources from an AI.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2614
-  order:
-    moral-theory: 2
 - id: pattern-recognition-and-machine-learning
   title: Pattern Recognition and Machine Learning
   author: Bishop
@@ -2284,8 +1996,6 @@
   - Introduction to AI/ML
   date: '2023-06-14 14:29:03'
   wp_id: 2570
-  order:
-    introduction-to-ai-ml: 7
 - id: policy-invariance-under-reward-transformations-theory-and-application-to-reward-shaping
   title: 'Policy invariance under reward transformations: Theory and application to reward shaping'
   author: Andrew Ng, Daishi Harada, Stuart Russell
@@ -2300,8 +2010,6 @@
   notes_html: <p>Investigates conditions under which modifications to the reward function of an MDP preserve the optimal policy.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2627
-  order:
-    reward-engineering: 3
 - id: power-to-the-people-the-role-of-humans-in-interactive-machine-learning
   title: 'Power to the People: The Role of Humans in Interactive Machine Learning'
   author: Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza
@@ -2316,8 +2024,6 @@
   notes_html: <p>Case studies demonstrating how interactivity results in a tight coupling between the system and the user, how existing systems fail to account for the user, and some directions for improvement.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2668
-  order:
-    interactive-ai: 1
 - id: practical-black-box-attacks-against-deep-learning-systems-using-adversarial-examples
   title: Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples
   author: Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, Z. Berkay Celik, Ananthram Swami
@@ -2332,8 +2038,6 @@
   notes_html: <p>Illustrates how deep learning systems can adversarially me made to have arbitrary desired outputs, by modifying their inputs in ways that are imperceptible to humans.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2560
-  order:
-    cybersecurity-and-ai: 2
 - id: principles-of-cyber-physical-systems-chapters-1-7-9
   title: Principles of Cyber-Physical Systems, Chapters 1-7,9
   author: Alur
@@ -2347,8 +2051,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:08'
   wp_id: 2750
-  order:
-    theoretical-background: 16
 - id: principles-of-explanatory-debugging-to-personalize-interactive-machine-learning
   title: Principles of Explanatory Debugging to Personalize Interactive Machine Learning
   author: Todd Kulesza, Margaret Burnett, Weng-Keen Wong, and Simone Stumpf
@@ -2363,8 +2065,6 @@
   notes_html: <p>Software allows end users to influence the predictions that machine learning systems make on their behalf.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2694
-  order:
-    transparency: 13
 - id: principles-of-model-checking-chapter-1-7-10
   title: Principles of Model Checking, Chapter 1-7,10
   author: Baier, Katoen, Larsen
@@ -2378,8 +2078,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:08'
   wp_id: 2751
-  order:
-    theoretical-background: 17
 - id: probabilistic-graphical-models-principles-and-techniques
   title: 'Probabilistic graphical models: principles and techniques'
   author: Daphne Koller and Nir Friedman
@@ -2394,8 +2092,6 @@
   notes_html: <p>Comprehensive book on graphical models, which represent probability distributions in a way that is both principled and potentially transparent.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2684
-  order:
-    introduction-to-ai-ml: 10
 - id: probabilistic-machine-learning-and-artificial-intelligence
   title: Probabilistic machine learning and artificial intelligence
   author: Zoubin Ghahramani
@@ -2410,8 +2106,6 @@
   notes_html: <p>Reviews the state of the art in Bayesian machine learning, including probabilistic programming, Bayesian optimization, data compression, and automatic model discovery.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2664
-  order:
-    introduction-to-ai-ml: 18
 - id: probabilistic-models-of-cognition
   title: Probabilistic Models of Cognition
   author: Noah D. Goodman and Joshua B. Tenenbaum
@@ -2426,8 +2120,6 @@
   notes_html: <p>Interactive web book that teaches the probabilistic approach to cognitive science, including concept learning, causal reasoning, social cognition, and language understanding.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2606
-  order:
-    cognitive-science: 2
 - id: probability-theory-and-examples-chapters-1-6
   title: 'Probability: Theory and Examples, Chapters 1-6'
   author: Durrett
@@ -2442,8 +2134,6 @@
   notes_html: <p>(for the more mathematically inclined reader)</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2752
-  order:
-    theoretical-background: 18
 - id: probing-the-improbable-methodological-challenges-for-risks-with-low-probabilities-and-high-stakes
   title: 'Probing the Improbable: Methodological Challenges for
 
@@ -2460,8 +2150,6 @@
   notes_html: <p>Illustrates how model uncertainty should dominate most expert calculations that involve small probabilities.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2649
-  order:
-    moral-theory: 3
 - id: proof-producing-reflection-for-hol
   title: Proof-producing reflection for HOL
   author: Benja Fallenstein and Ramana Kumar
@@ -2475,8 +2163,6 @@
   - Foundational Work
   date: '2023-06-14 14:29:08'
   wp_id: 2739
-  order:
-    foundational-work: 18
 - id: quantilizers-limited-optimization
   title: Quantilizers Limited Optimization
   author: Jessica Taylor
@@ -2490,8 +2176,6 @@
   - Robustness
   date: '2023-06-14 14:29:05'
   wp_id: 2644
-  order:
-    robustness: 9
 - id: reflective-oracles-a-foundation-for-game-theory-in-artificial-intelligence
   title: 'Reflective Oracles: A Foundation for Game Theory in Artificial Intelligence'
   author: Benja Fallenstein and Jessica Taylor and Paul Christiano
@@ -2506,8 +2190,6 @@
   notes_html: <p>Introduces a framework for treating agents and their environments as mathematical objects of the same type, allowing agents to contain models of one another, and converge to Nash equilibria.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2609
-  order:
-    foundational-work: 3
 - id: reflective-solomonoff-induction
   title: Reflective Solomonoff Induction
   author: Benja Fallenstein and Nate Soares and Jessica Taylor
@@ -2522,8 +2204,6 @@
   notes_html: <p>Uses reflective oracles to define versions of Solomonoff and AIXI which are contained in and have the same type as their environment, and which in particular reason about themselves.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2576
-  order:
-    foundational-work: 2
 - id: reinforcement-learning
   title: Reinforcement Learning
   author: Silver
@@ -2538,8 +2218,6 @@
   notes_html: <p>Lecture course on reinforcement learning taught by David Silver.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2548
-  order:
-    introduction-to-ai-ml: 12
 - id: reinforcement-learning-2557
   title: Reinforcement Learning
   author: Sutton and Barto
@@ -2554,8 +2232,6 @@
   notes_html: <p>Covers multi-arm bandits, finite MDPs, dynamic programming, Monte Carlo methods, TDL, bootstrapping, tabular methods, on-policy and off-policy methods, eligibility traces, and policy gradients.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2557
-  order:
-    introduction-to-ai-ml: 5
 - id: reinforcement-learning-and-the-reward-engineering-principle
   title: Reinforcement Learning and the Reward Engineering Principle
   author: Daniel Dewey
@@ -2570,8 +2246,6 @@
   notes_html: <p>Argues that a key problem in HCAI is reward engineering—designing reward functions for RL agents that will incentivize them to take actions that humans actually approve of.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2661
-  order:
-    reward-engineering: 4
 - id: representation-learning-a-review-and-new-perspectives
   title: 'Representation Learning: A Review and New Perspectives'
   author: Bengio, Courville, Vincent
@@ -2585,8 +2259,6 @@
   - Prevailing Methods in AI/ML
   date: '2023-06-14 14:29:05'
   wp_id: 2639
-  order:
-    prevailing-methods-in-ai-ml: 4
 - id: research-priorities-for-robust-and-beneficial-artificial-intelligence
   title: Research Priorities for Robust and Beneficial Artificial Intelligence
   author: Stuart Russell, Daniel Dewey, Max Tegmark
@@ -2601,8 +2273,6 @@
   notes_html: <p>Lays out high-level problems in HCAI, including problems in economic impacts of AI, legal and ethical implications of AI, and CS research for AI validation, verification, security, and control.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2587
-  order:
-    broad-perspectives-on-hcai: 4
 - id: reward-engineering
   title: Reward engineering
   author: Paul Christiano
@@ -2616,8 +2286,6 @@
   - Reward Engineering
   date: '2023-06-14 14:29:05'
   wp_id: 2616
-  order:
-    reward-engineering: 14
 - id: risks-and-mitigation-strategies-for-oracle-ai
   title: Risks and Mitigation Strategies for Oracle AI
   author: Stuart Armstrong
@@ -2632,8 +2300,6 @@
   notes_html: <p>Describing Oracle AI and methods of controlling it.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2698
-  order:
-    broad-perspectives-on-hcai: 11
 - id: robust-cooperation-in-the-prisoner-s-dilemma-program-equilibrium-via-provability-logic
   title: 'Robust Cooperation in the Prisoner’s Dilemma:
 
@@ -2650,8 +2316,6 @@
   notes_html: <p>Illustrates how agents formulated in term of provability logic can be designed to condition on each others’ behavior in one-shot-games to achieve cooperative equilibria.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2712
-  order:
-    foundational-work: 15
 - id: safe-exploration-in-markov-decision-processes
   title: Safe exploration in markov decision processes
   author: Teodor Mihai Moldovan, Pieter Abbeel
@@ -2666,8 +2330,6 @@
   notes_html: <p>My favorite paper on safe exploration — learns the dynamics of the MDP as it also learns to act safely.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2633
-  order:
-    robustness: 8
 - id: safely-interruptible-agents
   title: Safely Interruptible Agents
   author: Laurent Orseau, Stuart Armstrong
@@ -2682,8 +2344,6 @@
   notes_html: <p>A proposal for training a reinforcement learning agent that doesn’t learn to avoid interruptions to episodes, such as the human operator shutting it down.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2689
-  order:
-    corrigibility: 1
 - id: safely-interruptible-agents-2740
   title: Safely Interruptible Agents
   author: Laurent Orseau and Stuart Armstrong
@@ -2698,8 +2358,6 @@
   notes_html: <p>Explores a way to make sure a learning agent will not learn to prevent (or seek) being interrupted<br/>by a human operator.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2740
-  order:
-    robustness: 18
 - id: sequential-feature-explanations-for-anomaly-detection
   title: Sequential Feature Explanations for Anomaly Detection
   author: Md Amran Siddiqui, Alan Fern, Thomas G. Dietterich, Weng-Keen Wong
@@ -2714,8 +2372,6 @@
   notes_html: <p>Explores methods for explaining anomaly detections to an analyst (simulated as a random forest) by revealing a sequence of features and their values; could be made into a UI.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2656
-  order:
-    transparency: 23
 - id: situational-awareness-by-risk-conscious-skills
   title: Situational Awareness by Risk-Conscious Skills
   author: Daniel Mankowitz, Aviv Tamar, Shie Mannor
@@ -2729,8 +2385,6 @@
   - Robustness
   date: '2023-06-14 14:29:07'
   wp_id: 2732
-  order:
-    robustness: 16
 - id: space-time-embedded-intelligence
   title: Space-Time Embedded Intelligence
   author: Laurent Orseau and Mark Ring
@@ -2744,8 +2398,6 @@
   - Foundational Work
   date: '2023-06-14 14:29:05'
   wp_id: 2646
-  order:
-    foundational-work: 6
 - id: strategic-implications-of-openness-in-ai-development
   title: Strategic Implications of Openness in AI Development
   author: Nick Bostrom
@@ -2759,8 +2411,6 @@
   - Broad perspectives on HCAI
   date: '2023-06-14 14:29:06'
   wp_id: 2659
-  order:
-    broad-perspectives-on-hcai: 17
 - id: suffering-focused-ai-safety-why-fail-safe-measures-might-be-our-top-intervention
   title: 'Suffering-focused AI safety: Why “fail-safe” measures might be our top intervention'
   author: Lukas Gloor
@@ -2775,8 +2425,6 @@
   notes_html: <p>Discusses extreme downside risks of highly capable AI, such as dystopian futures.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2746
-  order:
-    broad-perspectives-on-hcai: 19
 - id: superintelligence-paths-dangers-strategies-chapters-1-10-12
   title: 'Superintelligence: Paths, Dangers, Strategies, Chapters 1-10,12'
   author: Nick Bostrom
@@ -2791,8 +2439,6 @@
   notes_html: <p>A New York Times Bestseller analyzing many arguments for and against the potential danger of highly advanced AI systems.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2552
-  order:
-    broad-perspectives-on-hcai: 27
 - id: synthesizing-the-preferred-inputs-for-neurons-in-neural-networks-via-deep-generator-networks
   title: 'Synthesizing the preferred inputs for neurons in neural networks via deep
 
@@ -2809,8 +2455,6 @@
   notes_html: <p>A technique for determining what single neurons in a deep net respond to.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2738
-  order:
-    transparency: 18
 - id: technical-and-social-approaches-to-ai-safety
   title: Technical and social approaches to AI safety
   author: Paul Christiano
@@ -2824,8 +2468,6 @@
   - Broad perspectives on HCAI
   date: '2023-06-14 14:29:04'
   wp_id: 2581
-  order:
-    broad-perspectives-on-hcai: 23
 - id: the-agi-containment-problem
   title: The AGI Containment Problem
   author: James Babcock, Janos Kramar, and Roman Yampolskiy
@@ -2839,8 +2481,6 @@
   - Broad perspectives on HCAI
   date: '2023-06-14 14:29:08'
   wp_id: 2749
-  order:
-    broad-perspectives-on-hcai: 14
 - id: the-agi-containment-problem-2767
   title: The AGI Containment Problem
   author: James Babcock, Janos Kramar, Roman Yampolskiy
@@ -2855,8 +2495,6 @@
   notes_html: <p>Argues that testing future AGI systems for safety may itself pose risks, given that under certain circumstances an AGI may be capable of intentionally deceiving the humans overseeing the test.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2767
-  order:
-    cybersecurity-and-ai: 0
 - id: the-basic-ai-drives
   title: The Basic AI Drives
   author: Steve Omohundro
@@ -2871,8 +2509,6 @@
   notes_html: <p>Informally argues that sufficiently advanced goal-oriented AI systems will pursue certain “drives” such as acquiring resources or increased intelligence that arise as subgoals of many end-goals.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2604
-  order:
-    broad-perspectives-on-hcai: 5
 - id: the-basic-ai-drives-section-4-ais-will-try-to-prevent-counterfeit-utility
   title: 'The Basic AI Drives, Section 4: AIs will try to prevent counterfeit utility'
   author: Omohundro
@@ -2887,8 +2523,6 @@
   notes_html: <p>Informally argues that advanced AIs should not wirehead, since they will have utility functions about the state of the world, and will recognise wireheading as not really useful for their goals.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2715
-  order:
-    reward-engineering: 9
 - id: the-evolved-radio-and-its-implications-for-modelling-the-evolution-of-novel-sensors
   title: The evolved radio and its implications for modelling the evolution of novel sensors
   author: Bird et al
@@ -2903,8 +2537,6 @@
   notes_html: <p>An example of evolutionarily-driven learning approaches leading to very unexpected results that aren’t what the designer hoped to produce.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2748
-  order:
-    broad-perspectives-on-hcai: 13
 - id: the-informed-oversight-problem
   title: The informed oversight problem
   author: Paul Christiano
@@ -2919,8 +2551,6 @@
   notes_html: <p>The open problem of reinforcing an approval-directed RL agent so that it learns to be robustly aligned at its capability level.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2620
-  order:
-    interactive-ai: 4
 - id: the-naive-utility-calculus-computational-principles-underlying-commonsense-psychology
   title: 'The Naive Utility Calculus: Computational Principles Underlying Commonsense Psychology'
   author: Julian Jara-Ettinger, Hyowon Gweon, Laura E. Schulz, Joshua B. Tenenbaum
@@ -2934,8 +2564,6 @@
   - Cognitive science
   date: '2023-06-14 14:29:05'
   wp_id: 2648
-  order:
-    cognitive-science: 3
 - id: the-off-switch-game
   title: The Off-Switch Game
   author: Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, and Stuart Russell
@@ -2950,8 +2578,6 @@
   notes_html: <p>Principled approach to corrigibility and the shutdown problem based on cooperative inverse reinforcement learning.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2584
-  order:
-    corrigibility: 3
 - id: the-quest-for-artificial-intelligence
   title: The quest for artificial intelligence
   author: Nils Nilsson
@@ -2966,8 +2592,6 @@
   notes_html: <p>A book-length history of the field of artificial intelligence, up until 2010 or so.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2703
-  order:
-    introduction-to-ai-ml: 11
 - id: the-righteous-mind-why-good-people-are-divided-by-politics-and-religion
   title: 'The Righteous Mind: Why Good People Are Divided by Politics and Religion'
   author: Jonathan Haidt
@@ -2982,8 +2606,6 @@
   notes_html: <p>Important and comprehensive survey of the flavors of human morality.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2598
-  order:
-    moral-theory: 10
 - id: the-singularity-a-philosophical-analysis
   title: 'The Singularity: A Philosophical Analysis'
   author: David Chalmers
@@ -2998,8 +2620,6 @@
   notes_html: <p>A philosophical discussion of the possibility of an intelligence explosion, how we could ensure good outcomes, and issues of personal identity.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2722
-  order:
-    broad-perspectives-on-hcai: 12
 - id: the-superintelligent-will-motivation-and-instrumental-rationality-in-advanced-intelligent-agents
   title: 'The Superintelligent Will: Motivation and Instrumental Rationality In Advanced Intelligent Agents'
   author: Nick Bostrom
@@ -3014,8 +2634,6 @@
   notes_html: <p>Argues that highly intelligent agents can have arbitrary end-goals (e.g. paperclip manufacturing), but are likely pursue certain common subgoals such as resource acquisition.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2583
-  order:
-    broad-perspectives-on-hcai: 3
 - id: the-unilateralist-s-curse-the-case-for-a-principle-of-conformity
   title: 'The Unilateralist’s Curse: The Case for a Principle of Conformity'
   author: Nick Bostrom, Anders Sandberg, Tom Douglas
@@ -3030,8 +2648,6 @@
   notes_html: <p>Illustrates how rational individuals with a common goal have some incentive to act in ways that reliably undermine the group’s interests, merely by trusting their own judgement.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2612
-  order:
-    moral-theory: 1
 - id: the-unreasonable-effectiveness-of-recurrent-neural-networks
   title: The Unreasonable Effectiveness of Recurrent Neural Networks
   author: Andrej Karpathy
@@ -3046,8 +2662,6 @@
   notes_html: <p>Good intro to RNNs, showcases amazing generation ability, nice visualization of what the units are doing.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2596
-  order:
-    transparency: 27
 - id: the-value-learning-problem
   title: The Value Learning Problem
   author: Nate Soares
@@ -3061,8 +2675,6 @@
   - Broad perspectives on HCAI
   date: '2023-06-14 14:29:03'
   wp_id: 2572
-  order:
-    broad-perspectives-on-hcai: 1
 - id: theory-and-applications-of-robust-optimization
   title: Theory and applications of robust optimization
   author: Dimitris Bertsimas, David B. Brown, and Constantine Caramanis
@@ -3077,8 +2689,6 @@
   notes_html: <p>Surveys computationally tractable optimization methods that are robust to perturbations in the parameters of the problem.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2706
-  order:
-    robustness: 11
 - id: thinking-inside-the-box-controlling-and-using-an-oracle-ai
   title: 'Thinking Inside the Box: Controlling and Using an Oracle AI'
   author: Stuart Armstrong, Anders Sandberg, Nick Bostrom
@@ -3093,8 +2703,6 @@
   notes_html: <p>Describes some challenges in the design of a boxed ‘Oracle AI’ system, that has strictly controlled input and merely answers questions.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2685
-  order:
-    broad-perspectives-on-hcai: 10
 - id: three-impacts-of-machine-intelligence
   title: Three impacts of machine intelligence
   author: Paul Christiano
@@ -3108,8 +2716,6 @@
   - Broad perspectives on HCAI
   date: '2023-06-14 14:29:05'
   wp_id: 2617
-  order:
-    broad-perspectives-on-hcai: 24
 - id: toward-idealized-decision-theory
   title: Toward Idealized Decision Theory
   author: Nate Soares and Benja Fallenstein
@@ -3124,8 +2730,6 @@
   notes_html: <p>Motivates the study of decision theory as necessary for aligning smarter-than-human artificial systems with human interests.</p>
   date: '2023-06-14 14:29:03'
   wp_id: 2568
-  order:
-    foundational-work: 1
 - id: towards-resolving-unidentifiability-in-inverse-reinforcement-learning
   title: Towards resolving unidentifiability in inverse reinforcement learning
   author: Kareem Amin, Satinder Singh
@@ -3140,8 +2744,6 @@
   notes_html: <p>Shows that unidentifiability of reward functions can be mitigated by active inverse reinforcement learning.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2589
-  order:
-    preference-inference: 14
 - id: towards-state-summarization-for-autonomous-robots
   title: Towards State Summarization for Autonomous Robots
   author: Daniel Brooks, Abraham Shultz, Munjal Desai, Philip Kovac, and Holly A. Yanco
@@ -3156,8 +2758,6 @@
   notes_html: <p>A system for explaining the behavior of a robot  to its human operator via a tree of ``reasons” with the action at the root of the tree.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2757
-  order:
-    transparency: 21
 - id: towards-verified-artificial-intelligence
   title: Towards Verified Artificial Intelligence
   author: Sanjit A. Seshia, Dorsa Sadigh, and S. Shankar Sastry
@@ -3171,8 +2771,6 @@
   - Broad perspectives on HCAI
   date: '2023-06-14 14:29:04'
   wp_id: 2611
-  order:
-    broad-perspectives-on-hcai: 15
 - id: towards-verified-artificial-intelligence-2667
   title: Towards Verified Artificial Intelligence
   author: Sanjit A. Seshia, Dorsa Sadigh, and S. Shankar Sastry
@@ -3187,8 +2785,6 @@
   notes_html: <p>Lays out challenges and principles in formally specifying and verifying the behavior of AI systems.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2667
-  order:
-    robustness: 22
 - id: transparency-and-socially-guided-machine-learning
   title: Transparency and Socially Guided Machine Learning
   author: Andrea L. Thomaz, Cynthia Breazeal
@@ -3203,8 +2799,6 @@
   notes_html: <p>To incorporate guidance from humans, we modify a Q-Learning algorithm, introducing a pre-action phase where a human can bias the learner’s ``attention”.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2700
-  order:
-    transparency: 15
 - id: transparency-in-safety-critical-systems
   title: Transparency in Safety-Critical Systems
   author: Luke Muehlhauser
@@ -3219,8 +2813,6 @@
   notes_html: <p>Overviews notions of transparency for AI and AGI systems, and argues for its value in establishing confidence that a system will behave as intended.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2619
-  order:
-    transparency: 28
 - id: transparency-reports-make-ai-decision-making-accountable
   title: Transparency reports make AI decision-making accountable
   author: CMU
@@ -3235,8 +2827,6 @@
   notes_html: <p>News article on the prospect of quantifying “how much” various inputs affect the output of an ML classifier.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2695
-  order:
-    transparency: 25
 - id: two-attempts-to-formalize-counterpossible-reasoning-in-deterministic-settings
   title: Two Attempts to Formalize Counterpossible Reasoning in Deterministic Settings
   author: Nate Soares and Benja Fallenstein
@@ -3250,8 +2840,6 @@
   - Foundational Work
   date: '2023-06-14 14:29:05'
   wp_id: 2618
-  order:
-    foundational-work: 5
 - id: two-big-challenges-in-machine-learning
   title: Two big challenges in machine learning
   author: Leon Bottou
@@ -3266,8 +2854,6 @@
   notes_html: <p>Gives some examples of reinforcement learners that find bad equilibria due to feedback loops.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2702
-  order:
-    reward-engineering: 7
 - id: udt-with-known-search-order
   title: UDT with known search order
   author: Tsvi Benson-Tilsen
@@ -3282,8 +2868,6 @@
   notes_html: <p>Agents that only use logical deduction to make decisions may need to “diagonalize against the universe” in order to perform well even in trivially simple environments.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2728
-  order:
-    foundational-work: 17
 - id: understanding-formal-methods-chapters-1-10
   title: Understanding Formal Methods, Chapters 1-10
   author: Monin
@@ -3297,8 +2881,6 @@
   - Theoretical Background
   date: '2023-06-14 14:29:08'
   wp_id: 2747
-  order:
-    theoretical-background: 15
 - id: universal-adversarial-perturbations
   title: Universal adversarial perturbations
   author: Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Omar Fawzi, Pascal Frossard
@@ -3313,8 +2895,6 @@
   notes_html: <p>Illustrates how a deep net image classifier can be made to misclassify a large fractions of images by adding a single, image-agnostic, imperceptible-to-humans noise vector to its inputs.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2763
-  order:
-    cybersecurity-and-ai: 3
 - id: universal-artificial-intelligence-chapters-2-5
   title: Universal Artificial Intelligence, Chapters 2-5
   author: Hutter
@@ -3328,8 +2908,6 @@
   - Foundational Work
   date: '2023-06-14 14:29:05'
   wp_id: 2643
-  order:
-    foundational-work: 0
 - id: unsupervised-risk-estimation-with-only-structural-assumptions
   title: 'Unsupervised Risk Estimation with only Structural
 
@@ -3346,8 +2924,6 @@
   notes_html: <p>Approach to distributional shift that tries to obtain reliable estimates of error while making limited assumptions.</p>
   date: '2023-06-14 14:29:08'
   wp_id: 2737
-  order:
-    robustness: 17
 - id: utility-indifference
   title: Utility Indifference
   author: Stuart Armstrong
@@ -3361,8 +2937,6 @@
   - Foundational Work
   date: '2023-06-14 14:29:05'
   wp_id: 2647
-  order:
-    foundational-work: 11
 - id: utility-indifference-2730
   title: Utility indifference
   author: Stuart Armstrong
@@ -3377,8 +2951,6 @@
   notes_html: <p>Describes an approach to averting instrumental incentives by “cancelling out” those incentives with artificially introduced terms in the utility function.</p>
   date: '2023-06-14 14:29:07'
   wp_id: 2730
-  order:
-    corrigibility: 4
 - id: variational-information-maximisation-for-intrinsically-motivated-reinforcement-learning
   title: Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning
   author: Shakir Mohammed and Danilo Rezende
@@ -3393,8 +2965,6 @@
   notes_html: <p>Mixes deep RL with intrinsic motivation — anyone trying to study reward hacking or reward design should study intrinsic motivation.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2675
-  order:
-    reward-engineering: 5
 - id: vingean-reflection-reliable-reasoning-for-self-improving-agents
   title: 'Vingean Reflection: Reliable Reasoning for Self-Improving Agents'
   author: Benja Fallenstein and Nate Soares
@@ -3408,8 +2978,6 @@
   - Foundational Work
   date: '2023-06-14 14:29:07'
   wp_id: 2714
-  order:
-    foundational-work: 16
 - id: visualizing-and-understanding-convolutional-networks
   title: Visualizing and Understanding Convolutional Networks
   author: Matthew D Zeiler, Rob Fergus
@@ -3424,8 +2992,6 @@
   notes_html: <p>A novel ConvNet visualization technique that gives insight into the function of intermediate feature layers and the operation of the classifier.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2593
-  order:
-    transparency: 3
 - id: visualizing-data-using-t-sne
   title: Visualizing Data Using t-SNE
   author: Laurens van der Maaten, Geoff Hinton
@@ -3440,8 +3006,6 @@
   notes_html: <p>Probably the most popular nonlinear dimensionality reduction technique.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2677
-  order:
-    transparency: 12
 - id: visualizing-dynamics-from-t-sne-to-semi-mdps
   title: 'Visualizing Dynamics: from t-SNE to SEMI-MDPs'
   author: Nir Ben Zrihem, Tom Zahavy, Shie Mannor
@@ -3456,8 +3020,6 @@
   notes_html: <p>An approach to visualizing the higher-level decision-making process of an RL agent by finding clusters of similar internal states of the agent’s policy.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2663
-  order:
-    transparency: 11
 - id: visualizing-representations-deep-learning-and-human-beings
   title: 'Visualizing Representations: Deep Learning and Human Beings'
   author: Chris Olah
@@ -3472,8 +3034,6 @@
   notes_html: <p>Blog about about transparency and user interface in deep neural networks.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2666
-  order:
-    transparency: 29
 - id: visualizing-what-convnets-learn
   title: Visualizing what ConvNets learn
   author: Andrej Karpathy
@@ -3488,8 +3048,6 @@
   notes_html: <p>Several approaches for understanding and visualizing Convolutional Networks have been developed in the literature.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2624
-  order:
-    transparency: 0
 - id: weight-uncertainty-in-neural-networks
   title: Weight uncertainty in neural networks
   author: Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra
@@ -3504,8 +3062,6 @@
   notes_html: <p>Uses weight distributions in neural nets to manage uncertainty in a quasi-Bayesian fashion.  Simple idea but very little work in this area.</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2600
-  order:
-    robustness: 4
 - id: when-is-a-linear-control-system-optimal
   title: When is a Linear Control System Optimal
   author: R.E. Kalman
@@ -3520,8 +3076,6 @@
   notes_html: <p>Seminal paper on inverse optimal control for linear dynamical systems.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2690
-  order:
-    preference-inference: 9
 - id: why-the-future-doesn-t-need-us
   title: Why the Future Doesn’t Need Us
   author: Bill Joy
@@ -3536,8 +3090,6 @@
   notes_html: <p>Prescient, gloomy, and a bit rambling article about humans’ role in the future, with genetics, robotics, and nanotech.</p>
   date: '2023-06-14 14:29:06'
   wp_id: 2673
-  order:
-    broad-perspectives-on-hcai: 21
 - id: you-say-you-want-transparency-and-interpretability
   title: You Say You Want Transparency and Interpretability?
   author: Rayid Ghani
@@ -3552,8 +3104,6 @@
   notes_html: <p>Discusses the challenge of producing machine learning systems that are transparent/interpretable but also not ``gameable” (in the sense of Goodhart’s law).</p>
   date: '2023-06-14 14:29:04'
   wp_id: 2592
-  order:
-    transparency: 26
 - id: why-should-i-trust-you-explaining-the-predictions-of-any-classifier
   title: '“Why Should I Trust You?”: Explaining the Predictions of Any Classifier.'
   author: Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin
@@ -3568,5 +3118,3 @@
   notes_html: <p>LIME is a novel explanation technique that explains the predictions of any classifier in an interpretable and faithful manner, by learning an interpretable model locally around the prediction.</p>
   date: '2023-06-14 14:29:05'
   wp_id: 2634
-  order:
-    transparency: 6

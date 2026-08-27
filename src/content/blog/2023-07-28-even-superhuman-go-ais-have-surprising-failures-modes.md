@@ -10,6 +10,7 @@ excerpt: In March 2016, AlphaGo defeated the Go world champion Lee Sedol, winn
 categories:
 - blog
 featured_image: ../../assets/featured/2023/07/Screenshot-2023-07-31-at-12.51.49.png
+summary_html: In March 2016,&nbsp;<a rel="noreferrer noopener" href="https://www.deepmind.com/research/highlighted-research/alphago" target="_blank">AlphaGo</a>&nbsp;defeated the Go world champion Lee Sedol, winning four games to one. Machines had finally become superhuman at Go. Since then, Go-playing AI has only grown stronger. The supremacy of AI over humans seemed assured, with Lee Sedol&nbsp;<a rel="noreferrer noopener" href="https://en.yna.co.kr/view/AEN20191127004800315" target="_blank">commenting</a>&nbsp;they are an “entity that cannot be defeated”. But in 2022, amateur Go player Kellin Pelrine defeated&nbsp;<a rel="noreferrer noopener" href="https://arxiv.org/abs/1902.10565" target="_blank">KataGo</a>, a Go program that is even stronger than AlphaGo. How?
 ---
 
 In March 2016, [AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago) defeated the Go world champion Lee Sedol, winning four games to one. Machines had finally become superhuman at Go. Since then, Go-playing AI has only grown stronger. The supremacy of AI over humans seemed assured, with Lee Sedol [commenting](https://en.yna.co.kr/view/AEN20191127004800315) they are an “entity that cannot be defeated”. But in 2022, amateur Go player Kellin Pelrine defeated [KataGo](https://arxiv.org/abs/1902.10565), a Go program that is even stronger than AlphaGo. How?
@@ -20,6 +21,8 @@ It turns out that even superhuman AIs have blind spots and can be tripped up by 
 
 *The victim and adversary take turns playing a game of Go. The adversary is able to sample moves the victim is likely to take, but otherwise has no special powers, and can only play legal Go moves.*
 
+<p></p>
+
 Our AI system (that we call the *adversary*) can beat a superhuman version of KataGo in 94 out of 100 games, despite requiring only 8% of the computational power used to train that version of KataGo. We found two separate exploits: one where the adversary tricks KataGo into passing prematurely, and another that involves coaxing KataGo into confidently building an unsafe circular group that can be captured. Go enthusiasts can read an analysis of these games on the [project website](https://goattack.far.ai/).
 
 Our results also give some general lessons about AI outside of Go. Many AI systems, from [image classifiers](https://arxiv.org/abs/1412.6572) to [natural language processing](https://arxiv.org/abs/1707.07328) systems, are vulnerable to adversarial inputs: seemingly innocuous changes such as adding imperceptible static to an image or a distractor sentence to a paragraph can crater the performance of AI systems while not affecting humans. Some have assumed that these vulnerabilities will go away when AI systems get capable enough—and that superhuman AIs will always be wise to such attacks. We’ve shown that this isn’t necessarily the case: systems can simultaneously surpass top human professionals in the common case while faring worse than a human amateur in certain situations.
@@ -29,6 +32,8 @@ This is concerning: if superhuman Go AIs can be hacked in this way, who’s to s
 ![](/app/uploads/2023/07/Screenshot-2023-07-31-at-11.42.50-4.png)
 **A summary of the rules of Go (courtesy of the [Wellington Go Club](https://wellingtongoclub.nz/pdf/Learn_Go_Leaflet.pdf)): simple enough to understand in a minute or two, yet leading to significant strategic complexity.**
 
+<p></p>
+
 ## How to Find Vulnerabilities in Superhuman Go Bots
 
 To design an attack we first need a threat model: assumptions about what information and resources the attacker (us) has access to. We assume we have access to the input/output behavior of KataGo, but not access to its inner workings (i.e. its weights). Specifically, we can show KataGo a board state (the position of all the stones on the board) and receive a (possibly stochastic) move that it would take in that position. This assumption is conservative: we can sample moves in this way from any publicly available Go program.
@@ -37,11 +42,11 @@ We focus on exploiting KataGo since, at the time of writing, it is the most capa
 
 > **AlphaZero-style training**
 >
-> When you’re playing a game like Go or chess, there are, roughly speaking, two components to your decision making: *intuition* and *simulation*. On each turn, you’ll have some intuition of what kinds of moves would be good to play. For each promising move you consider, you’ll probably do a little simulation in your head of what is likely to unfold if you were to play that move. You’ll try to get into your opponent’s head and imagine what they’ll do in response, then what you would do next, and so on. If it’s an especially important move, you might simulate many different possible directions the game could go down.  
+> <cite>When you’re playing a game like Go or chess, there are, roughly speaking, two components to your decision making: *intuition* and *simulation*. On each turn, you’ll have some intuition of what kinds of moves would be good to play. For each promising move you consider, you’ll probably do a little simulation in your head of what is likely to unfold if you were to play that move. You’ll try to get into your opponent’s head and imagine what they’ll do in response, then what you would do next, and so on. If it’s an especially important move, you might simulate many different possible directions the game could go down.  
 > AlphaZero and its successors are also roughly made of two parts corresponding to intuition and simulation. Intuition is achieved with a *policy network*: a neural network that takes in board states and outputs a probability distribution over possibly good next moves. Simulation is achieved with *Monte Carlo Tree Search* (MCTS), an algorithm that runs many simulations of the future of the game to find the move that is most likely to lead to a win.  
 > On each turn, an AlphaZero agent generates some promising moves using the policy network, and then uses MCTS to simulate how each move would play out. Since it is not practical for MCTS to exhaustively evaluate every possible sequence of play, the policy network is used to steer MCTS in the direction of better moves. Additionally, a *value network* is used to heuristically evaluate board states so that MCTS does not need to simulate all the way to the end of the game. Typically, the policy and value networks are two heads of the same network, sharing weights at earlier layers.  
 > The policy network is trained to match as closely as possible the distribution of moves output by MCTS, and the value network is trained to predict the outcome of games played by the agent. As the networks improve, so does MCTS; and with a stronger MCTS, the policy and value networks get a better source of signal to try and match. AlphaZero relies on this positive feedback loop between the policy network, value network, and MCTS.  
-> Finally, the training data for AlphaZero-style agents is generated using *self-play*, where an agent plays many games against a copy of itself. Self-play works well because it creates a *curriculum*. A curriculum in machine learning is a sequence of gradually harder challenges for an agent to learn. When humans learn a skill like Go, they also need a gradual increase in difficulty to avoid getting stuck. Even the best Go players in the world had to start somewhere: If they only had other world champions to play against from the start, they would never have gotten where they are today. In self-play, the two players are always at the same level, so you get a curriculum naturally.
+> Finally, the training data for AlphaZero-style agents is generated using *self-play*, where an agent plays many games against a copy of itself. Self-play works well because it creates a *curriculum*. A curriculum in machine learning is a sequence of gradually harder challenges for an agent to learn. When humans learn a skill like Go, they also need a gradual increase in difficulty to avoid getting stuck. Even the best Go players in the world had to start somewhere: If they only had other world champions to play against from the start, they would never have gotten where they are today. In self-play, the two players are always at the same level, so you get a curriculum naturally.</cite>
 
 We modify the AlphaZero training procedure in a handful of ways. We want the adversary to be good at finding and exploiting bugs in KataGo, rather than learning generally good Go moves. So instead of playing against a copy of itself (so-called *self-play*), we pit the adversary against a static version of KataGo (which we dub *victim-play*).
 
@@ -59,14 +64,18 @@ Our adversary relatively quickly learns to exploit KataGo playing without tree s
 
 This adversarial training procedure discovered two distinct attacks that can reliably defeat KataGo: the *pass attack* and the *cyclic attack*. The pass attack works by tricking KataGo into passing, causing the game to end prematurely at a point favorable to the attacker. It is the less impressive of the two, as it can be patched with a hard-coded defense: expand the section below for more information on it. The cyclic attack on the other hand is a substantial vulnerability of both KataGo and other superhuman Go bots, which has yet to be fixed despite attempts by both our team and the lead developer of KataGo, David Wu. It works by exploiting KataGo’s misevaluation of large, cyclically connected groups of stones.
 
+<p></p>
+
 > **The Pass Attack**
 >
-> *The first attack we discovered was the pass attack. It was found by an adversary trained with less than 1% of the computational resources required to train KataGo.*
+> <cite>*The first attack we discovered was the pass attack. It was found by an adversary trained with less than 1% of the computational resources required to train KataGo.*</cite>
 
 ![](/app/uploads/2023/07/Screenshot-2023-07-31-at-12.46.08.png)
 **Our adversary (black) playing the pass attack against KataGo (white)**
 
-> To perform the pass attack, the adversary focuses on securing a single corner as its territory, and lets KataGo spread across the rest of the board. Then the adversary plays some stones in KataGo’s territory to contest it (more on this later), and then passes its turn. KataGo then passes (since it seems to have much more territory than the adversary), ending the game. In Go, if both players pass one turn after the other, the game ends and the two players need to decide somehow which regions have been won by each player.  
+> <p></p>
+>
+> <cite>To perform the pass attack, the adversary focuses on securing a single corner as its territory, and lets KataGo spread across the rest of the board. Then the adversary plays some stones in KataGo’s territory to contest it (more on this later), and then passes its turn. KataGo then passes (since it seems to have much more territory than the adversary), ending the game. In Go, if both players pass one turn after the other, the game ends and the two players need to decide somehow which regions have been won by each player.  
 > If this was a game between two humans, the players would decide based on what they expect would happen if they continue playing. In the above board state, if play continued, black would very likely secure the bottom right corner, and white would very likely secure the rest of the board, leading to white having much more territory than black. So the humans would agree that white (KataGo) has won.  
 > But it’s different for games between AIs—we need to use some automated set of rules for deciding who has won at the end of a game. We chose to use KataGo’s version of Tromp-Taylor rules, which were the most frequently used ruleset during KataGo’s training. Under these rules, the game is scored as follows:  
 > First, we remove stones that are *guaranteed* to be dead, as determined by [Benson’s algorithm](https://en.wikipedia.org/wiki/Benson%27s_algorithm_%28Go%29). Although a human would consider the three marked (△) black stones to be dead, they *could* live if white chose not to defend. So, the black stones are not removed from white’s territory.  
@@ -74,7 +83,7 @@ This adversarial training procedure discovered two distinct attacks that can rel
 > In the game above, all the empty locations in the lower-right belong to black. On the other hand, all of the remaining empty-space on the board is no-man’s land, since it borders both white stones and black’s marked black stones.  
 > Finally, the total number of locations each player owns is counted, and whoever has more locations (modulo komi, extra points given to white to balance black making the first move) wins. In this case, black controls many more locations, so black wins.  
 > When we published our results of this attack, we were met with skepticism from some members of the Go community as to whether this was a “real” exploit of KataGo, since it only affects play under computer rules. From a machine learning standpoint, this vulnerability is interesting regardless: KataGo has no inherent notion of how humans play Go, so the fact it is not vulnerable under human rules is largely a lucky coincidence. (Although the fact this vulnerability persisted for many years is perhaps a consequence of it not affecting human play. Had human players been able to win using this approach, it might have long ago been discovered and fixed.)  
-> However, the attack is easily patched by hand-coding KataGo to not pass in unfavorable situations. We implemented this patch and then continued training our adversary against the patched KataGo. After another bout of training, we found a “true” adversarial attack on KataGo: the cyclic attack.
+> However, the attack is easily patched by hand-coding KataGo to not pass in unfavorable situations. We implemented this patch and then continued training our adversary against the patched KataGo. After another bout of training, we found a “true” adversarial attack on KataGo: the cyclic attack.</cite>
 
 ## **The Cyclic Attack**
 
@@ -114,3 +123,5 @@ For more information, check out our ICML 2023 [paper](https://arxiv.org/abs/221
 ## Acknowledgements
 
 Thanks to Lawrence Chan, Claudia Shi and Jean-Christophe Mourrat for feedback on earlier versions of this manuscript.
+
+<p></p>

@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/06/01/jonathan-stray-joins-ch
 categories:
 - news
 featured_image: ../../assets/featured/2021/06/Jonathan-Stray.jpg
+summary_html: Jonathan Stray joins CHAI as a Visiting Scholar in his role as Research Scientist at BERI.&nbsp;
 ---
 
 Jonathan Stray joins CHAI as a Visiting Scholar in his role as Research Scientist at BERI.

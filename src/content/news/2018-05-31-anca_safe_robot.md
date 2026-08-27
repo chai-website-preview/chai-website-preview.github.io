@@ -8,6 +8,7 @@ wp_id: 223
 original_url: https://humancompatible.ai/news/2018/05/31/anca_safe_robot/
 categories:
 - news
+summary_html: 'The paper published in arXiv and supported by the National Science Foundation deals with human-computer interaction and having robots be able to navigate around moving people properly. The abstract reads:'
 ---
 
 The paper published in arXiv and supported by the National Science Foundation deals with human-computer interaction and having robots be able to navigate around moving people properly. The abstract reads:

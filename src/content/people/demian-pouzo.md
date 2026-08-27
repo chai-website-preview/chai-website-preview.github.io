@@ -9,7 +9,11 @@ original_url: https://humancompatible.ai/people/demian-pouzo/
 role: Associate Professor of Economics at UC Berkeley
 associations:
 - Affiliates
+sort_slug: demian-pouzo
 menu_order: 0
+classic_bio: false
+bio_html: |-
+  <p>Demian Pouzo is an associated professor in the Department of Economics at UC Berkeley. Demian joined the faculty at Berkeley in 2009 as an assistant professor after receiving his PhD in Economics from NYU. He also holds an MA and BA in Economics from Universidad Torcuato Di Tella (Argentina). Pouzo’s research interests include econometrics as well as other fields such as economic theory and macroeconomics.</p>
 photo: ../../assets/people/demian-pouzo.jpg
 hide_photo_on_page: false
 ---

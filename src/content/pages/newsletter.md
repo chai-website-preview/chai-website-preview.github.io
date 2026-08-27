@@ -53,3 +53,5 @@ Subscribe to the CHAI Newsletter [here](/#subscribe-to-our-mailing-list). Please
 [CHAI Newsletter 2018](https://drive.google.com/file/d/11wx4NIdiM-ue9blBoJCJMqUqpehJDc_K/view?usp=sharing)
 
 [CHAI Newsletter 2017](https://drive.google.com/file/d/1GSpRS-No3ODE2XRQBkYCDf7KZ9zSOnbb/view?usp=sharing)
+
+<p></p>

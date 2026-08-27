@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/09/29/chai-researchers-cognit
 categories:
 - news
 featured_image: ../../assets/featured/2020/09/cognitive-science-journal.png
+summary_html: PhD student Vael Gates and Professors Anca Dragan and Tom Griffiths published <a href="https://vaelgates.com/papers/Gates2020.pdf">“How to Be Helpful to Multiple People at Once”</a> in the journal Cognitive Science. The authors consider the problem of assisting multiple recipients with very different preferences, with one aim of constraining the space of desirable behavior in assistive artificial intelligence systems.
 ---
 
 PhD student Vael Gates and Professors Anca Dragan and Tom Griffiths published [“How to Be Helpful to Multiple People at Once”](https://vaelgates.com/papers/Gates2020.pdf) in the journal Cognitive Science. The authors consider the problem of assisting multiple recipients with very different preferences, with one aim of constraining the space of desirable behavior in assistive artificial intelligence systems.

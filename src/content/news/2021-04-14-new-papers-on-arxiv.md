@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/04/14/new-papers-on-arxiv/
 categories:
 - news
 featured_image: ../../assets/featured/2021/04/Webp.net-resizeimage-1.png
+summary_html: Two new papers co-authored by CHAI members appear on arXiv.
 ---
 
 Two new papers co-authored by CHAI members appear on arXiv.

@@ -1,5 +1,5 @@
 ---
-title: Juliana Schroeder Publishes “Trusting in Machines - How Mode of Interaction Affects Willingness to Share Personal Information with Machines”
+title: Juliana Schroeder Publishes “Trusting in Machines – How Mode of Interaction Affects Willingness to Share Personal Information with Machines”
 slug: schroeder_trusting_machines
 date: '2018-01-06 12:00:00'
 status: publish
@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/01/06/schroeder_trusting_mach
 categories:
 - news
 featured_image: ../../assets/featured/2018/01/trustmachine.jpg
+summary_html: 'CHAI affiliate Juliana Schroeder along with Matthew Schroeder presented this paper at the Hawaii International Conference on System Sciences, Big Island, HI. We would like to congratulate her on the paper being nominated for the best paper award! The abstract reads:'
 ---
 
 CHAI affiliate Juliana Schroeder along with Matthew Schroeder presented this paper at the Hawaii International Conference on System Sciences, Big Island, HI. We would like to congratulate her on the paper being nominated for the best paper award! The abstract reads:

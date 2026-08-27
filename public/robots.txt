@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://humancompatible.ai/sitemap-index.xml

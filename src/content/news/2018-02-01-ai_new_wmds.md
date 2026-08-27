@@ -1,5 +1,5 @@
 ---
-title: Stuart Russell - "Autonomous Weapons The New Weapons of Mass Destruction?"
+title: Stuart Russell – “Autonomous Weapons The New Weapons of Mass Destruction?”
 slug: ai_new_wmds
 date: '2018-02-01 08:16:09'
 status: publish

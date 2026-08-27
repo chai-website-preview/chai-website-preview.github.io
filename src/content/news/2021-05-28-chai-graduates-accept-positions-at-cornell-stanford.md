@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/05/28/chai-graduates-accept-p
 categories:
 - news
 featured_image: ../../assets/featured/2021/06/image_1_31.png
+summary_html: Congratulations to this year’s CHAI graduates, Thomas Krendl Gilbert and Vael Gates.
 ---
 
 Congratulations to this year’s CHAI graduates, Thomas Krendl Gilbert and Vael Gates.

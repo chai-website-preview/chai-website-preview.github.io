@@ -10,6 +10,7 @@ excerpt: The paper introduces a novel approach to building competence-aware syst
 categories:
 - news
 featured_image: ../../assets/featured/2020/10/cropped-chai_logo.png
+summary_html: CHAI Justin Svegliato published a paper on competence-aware systems on the Artificial Intelligence Journal (AIJ). The paper introduces a novel approach to building competence-aware systems (CAS) that reason about their own competence in the form of multiple levels of autonomy. A CAS learns its own competence by interacting with a human authority and then optimizing the level of autonomy that it employs in any given situation.
 ---
 
 CHAI Justin Svegliato published a paper on competence-aware systems on the Artificial Intelligence Journal (AIJ). The paper introduces a novel approach to building competence-aware systems (CAS) that reason about their own competence in the form of multiple levels of autonomy. A CAS learns its own competence by interacting with a human authority and then optimizing the level of autonomy that it employs in any given situation.

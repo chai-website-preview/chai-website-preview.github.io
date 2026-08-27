@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/06/13/two-new-axrp-episodes/
 categories:
 - news
 featured_image: ../../assets/featured/2021/02/68572739-1.png
+summary_html: CHAI PhD student Daniel Filan’s podcast AXRP published two new episodes.
 ---
 
 CHAI PhD student Daniel Filan’s podcast AXRP published two new episodes.

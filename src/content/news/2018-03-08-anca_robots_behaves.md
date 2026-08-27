@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/03/08/anca_robots_behaves/
 categories:
 - news
 featured_image: ../../assets/featured/2018/03/behave.jpg
+summary_html: 'Anca Dragan and Andrea Bajcsy from UC Berkeley, along with two other researchers from Rice University, published a paper arXiv called “Learning from Physical Human Corrections, One Feature at a Time” The abstract reads:'
 ---
 
 Anca Dragan and Andrea Bajcsy from UC Berkeley, along with two other researchers from Rice University, published a paper arXiv called “Learning from Physical Human Corrections, One Feature at a Time” The abstract reads:

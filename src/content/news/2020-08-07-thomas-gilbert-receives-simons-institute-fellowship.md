@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/08/07/thomas-gilbert-receives
 categories:
 - news
 featured_image: ../../assets/featured/2020/08/simons-institute.png
+summary_html: Thomas Krendl Gilbert has been awarded the Simons Institute Law and Society Fellowship for its upcoming research program on Theory of Reinforcement Learning (Fall 2020).
 ---
 
 Thomas Krendl Gilbert has been awarded the Simons Institute Law and Society Fellowship for its upcoming research program on Theory of Reinforcement Learning (Fall 2020).

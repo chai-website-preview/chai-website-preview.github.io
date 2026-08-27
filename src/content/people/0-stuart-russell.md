@@ -16,7 +16,13 @@ role: |-
   Director of Kavli Center for Ethics, Science, and the Public
 associations:
 - Faculty
+sort_slug: 0-stuart-russell
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Stuart Russell received his B.A. with first-class honours in physics from Oxford University in 1982 and his Ph.D. in computer science from Stanford in 1986. He then joined the faculty of the University of California at Berkeley, where he is a Professor (and formerly Chair) of <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences</a> and holder of the Smith-Zadeh Chair in Engineering. He is a Fellow of the American Association for Artificial Intelligence, the <a href="https://www.acm.org/">Association for Computing Machinery</a>, and the <a href="https://www.aaas.org/">American Association for the Advancement of Science</a>. His book <a href="http://aima.cs.berkeley.edu/">Artificial Intelligence: A Modern Approach</a> (with Peter Norvig) is the standard text in AI; it has been translated into 13 languages and is used in over 1300 universities in 118 countries. His research covers a wide range of topics in artificial intelligence including machine learning, probabilistic reasoning, knowledge representation, planning, real-time decision making, multitarget tracking, computer vision, computational physiology, and philosophical foundations. His current concerns include the threat of autonomous weapons and the long-term future of artificial intelligence and its relation to humanity. In 2022, he was selected to become the inaugural director of the newly created Kavli Center for Ethics, Science, and the Public.
+
+  You can read more about Prof. Russell’s work and accomplishments at his <a href="https://people.eecs.berkeley.edu/~russell/">website</a>.
 photo: ../../assets/people/0-stuart-russell.jpg
 hide_photo_on_page: false
 ---

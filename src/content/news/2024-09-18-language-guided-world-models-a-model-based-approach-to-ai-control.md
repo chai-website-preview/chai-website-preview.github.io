@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2024/09/18/language-guided-world-m
 categories:
 - news
 featured_image: ../../assets/featured/2024/09/acl-logo.png
+summary_html: Khanh Nguyen, CHAI Postdoctoral Fellow, published a paper at the Fourth International Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (ACL 2024).
 ---
 
 Khanh Nguyen, CHAI Postdoctoral Fellow, published a paper at the Fourth International Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (ACL 2024).

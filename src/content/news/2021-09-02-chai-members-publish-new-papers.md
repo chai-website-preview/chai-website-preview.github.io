@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/09/02/chai-members-publish-ne
 categories:
 - news
 featured_image: ../../assets/featured/2021/09/EDkiJisW4AAEEMk.jpg
+summary_html: CHAI members recently published the following papers in journals and conference venues.
 ---
 
 CHAI members recently published the following papers in journals and conference venues.

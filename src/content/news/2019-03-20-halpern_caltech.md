@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/03/20/halpern_caltech/
 categories:
 - news
 featured_image: ../../assets/featured/2019/03/halpern.jpg
+summary_html: Joe Halpern has been accepted as a Moore Distinguished Scholar at Cal Tech’s Division of the Humanities and Social Sciences. You can read more <a href="http://www.hss.caltech.edu/documents/2443/CALT_HSS_New_Faces_2018-2019_-_single_page_view.pdf">here</a>.
 ---
 
 Joe Halpern has been accepted as a Moore Distinguished Scholar at Cal Tech’s Division of the Humanities and Social Sciences. You can read more [here](http://www.hss.caltech.edu/documents/2443/CALT_HSS_New_Faces_2018-2019_-_single_page_view.pdf).

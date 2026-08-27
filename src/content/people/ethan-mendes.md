@@ -9,7 +9,11 @@ original_url: https://humancompatible.ai/people/ethan-mendes/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: ethan-mendes
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Ethan recently graduated with a computer science degree from Georgia Tech. His research interests involve understanding the capabilities and dangers of LLMs and utilizing LLMs in the creation of beneficial human-in-the-loop systems. At CHAI, Ethan is working with Sam and Micah on cross-model adversarial example transfer to measure the ethical and moral understanding of LLMs.
 photo: ../../assets/people/ethan-mendes.jpeg
 hide_photo_on_page: false
 ---

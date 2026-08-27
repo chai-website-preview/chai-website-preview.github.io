@@ -11,7 +11,11 @@ old_slugs:
 role: Intern
 associations:
 - Interns
+sort_slug: '5396'
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Dillon Sandhu is a PhD student at Duke University and an intern with CHAI. He works on reinforcement learning and representation learning. At CHAI, he is working on benchmarking LLM Agents’ abilities to yield control to avoid failure.
 photo: ../../assets/people/dillon-sandhu.jpg
 hide_photo_on_page: false
 ---

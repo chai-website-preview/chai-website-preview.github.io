@@ -10,6 +10,7 @@ excerpt: Berkeley this upcoming fall semester. Erik, Shreyas, and Johannes will 
 categories:
 - news
 featured_image: ../../assets/featured/2022/01/CHAI-360x230-1.png
+summary_html: Jakub Grudzien, Erik Jenner, Shreyas Kapur, and Johannes Treutlein will be starting their PhDs at UC Berkeley this upcoming fall semester.
 ---
 
 Jakub Grudzien, Erik Jenner, Shreyas Kapur, and Johannes Treutlein will be starting their PhDs at UC Berkeley this upcoming fall semester.

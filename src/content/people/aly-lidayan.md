@@ -11,7 +11,11 @@ old_slugs:
 role: PhD Student, Fall 2020 - Present
 associations:
 - Graduate Students
+sort_slug: aly-lidayan
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Alyssa Li Dayan is a Computer Science PhD student at UC Berkeley. She received her BS in mathematics with computer science from Massachusetts Institute of Technology in 2018. During undergrad she did research in systems neuroscience and computational cognitive science, before spending a couple years in industry working on prediction and simulation for autonomous vehicles. You can visit their personal website <a href="https://alyd.github.io/">here</a>.
 photo: ../../assets/people/aly-lidayan.png
 hide_photo_on_page: false
 ---

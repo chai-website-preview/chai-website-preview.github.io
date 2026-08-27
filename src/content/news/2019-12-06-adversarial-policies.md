@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/12/06/adversarial-policies/
 categories:
 - news
 featured_image: ../../assets/featured/2019/12/Dec19.png
+summary_html: 'Adam Gleave, Michael Dennis, Neel Kant, Cody Wild, Sergey Levine, and Stuart Russell had a new paper, <a href="https://arxiv.org/abs/1905.10615">“Adversarial Policies: Attacking Deep Reinforcement Learning”</a>, accepted by the International Conference on Learning Representations (ICLR).'
 ---
 
 Adam Gleave, Michael Dennis, Neel Kant, Cody Wild, Sergey Levine, and Stuart Russell had a new paper, [“Adversarial Policies: Attacking Deep Reinforcement Learning”](https://arxiv.org/abs/1905.10615), accepted by the International Conference on Learning Representations (ICLR).

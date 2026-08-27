@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/06/12/reward_design_talk/
 categories:
 - news
 featured_image: ../../assets/featured/2019/06/hcri.png
+summary_html: Michael Littman, a professor at Brown University, recently gave a talk at CHAI on Reward Design for Cooperation. Professor Littman also runs the <a href="http://hcri.brown.edu/">Humanity-Centered Robotics Initiative</a> with Bertram Malle and Peter Haas.
 ---
 
 Michael Littman, a professor at Brown University, recently gave a talk at CHAI on Reward Design for Cooperation. Professor Littman also runs the [Humanity-Centered Robotics Initiative](http://hcri.brown.edu/) with Bertram Malle and Peter Haas.

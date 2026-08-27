@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/05/05/how-to-be-helpful-to-mu
 categories:
 - news
 featured_image: ../../assets/featured/2020/05/May20.png
+summary_html: PhD student Vael Gates and Professors Anca Dragan and Tom Griffiths published <a href="https://vaelgates.com/papers/Gates2020.pdf">“How to Be Helpful to Multiple People at Once”</a> in the journal Cognitive Science.
 ---
 
 PhD student Vael Gates and Professors Anca Dragan and Tom Griffiths published [“How to Be Helpful to Multiple People at Once”](https://vaelgates.com/papers/Gates2020.pdf) in the journal Cognitive Science.

@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/03/01/chai-research-on-self-t
 categories:
 - news
 featured_image: ../../assets/featured/2021/03/Screen-Shot-2021-03-04-at-10.02.55-AM.jpg
+summary_html: A new article in Science,<a href="https://www.sciencemag.org/news/2021/01/who-needs-teacher-artificial-intelligence-designs-lesson-plans-itself"> Who needs a teacher? Artificial intelligence designs lesson plans for itself</a>, features two recent papers from members of CHAI.
 ---
 
 A new article in Science, [Who needs a teacher? Artificial intelligence designs lesson plans for itself](https://www.sciencemag.org/news/2021/01/who-needs-teacher-artificial-intelligence-designs-lesson-plans-itself), features two recent papers from members of CHAI.

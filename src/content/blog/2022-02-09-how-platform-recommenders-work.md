@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/blog/2022/02/09/how-platform-recommende
 excerpt: A recommender system (or simply ‘recommender’) is an algorithm that takes a large set of items and determines which of those to display to a user—think the Facebook News Feed, the Twitter timeline, Google News, or the YouTube homepage. Recommenders are necessary tools to help navigate the sheer volume of content produced each day, but their scale and rapid development can cause unintended consequences. Facebook’s algorithms have been blamed for radicalizing users, TikTok’s for inundating teens with eating-disorder videos, and Twitter’s for political bias.
 categories:
 - blog
+summary_html: by <a rel="noreferrer noopener" href="https://lukethorburn.com/" target="_blank">Luke Thorburn</a>,&nbsp;<a rel="noreferrer noopener" href="https://twitter.com/acookiecrumbles" target="_blank">Priyanjana Bengani</a>,&nbsp;and <a rel="noreferrer noopener" href="https://twitter.com/jonathanstray" target="_blank">Jonathan Stray</a>
 ---
 
 by [Luke Thorburn](https://lukethorburn.com/), [Priyanjana Bengani](https://twitter.com/acookiecrumbles), and [Jonathan Stray](https://twitter.com/jonathanstray)

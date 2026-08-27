@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/12/07/wellman_ethicaltrading/
 categories:
 - news
 featured_image: ../../assets/featured/2018/12/stocks.jpg
+summary_html: Professor Michael Wellman has given a series of talks on the ethics of autonomous trading agents.
 ---
 
 Professor Michael Wellman has given a series of talks on the ethics of autonomous trading agents.

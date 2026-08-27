@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/02/05/tom-gilbert-publishes-s
 categories:
 - news
 featured_image: ../../assets/featured/2021/02/0AesxsZC_400x400.jpg
+summary_html: 'Tom Krendl Gilbert published the white paper <a rel="noreferrer noopener" href="https://simons.berkeley.edu/news/mapping-political-economy-reinforcement-learning-systems-case-autonomous-vehicles" target="_blank">Mapping the Political Economy of Reinforcement Learning Systems: The Case of Autonomous Vehicles</a> on the <a rel="noreferrer noopener" href="https://simons.berkeley.edu/" target="_blank">Simons Institute website.</a>'
 ---
 
 Tom Krendl Gilbert published the white paper [Mapping the Political Economy of Reinforcement Learning Systems: The Case of Autonomous Vehicles](https://simons.berkeley.edu/news/mapping-political-economy-reinforcement-learning-systems-case-autonomous-vehicles) on the [Simons Institute website.](https://simons.berkeley.edu/)

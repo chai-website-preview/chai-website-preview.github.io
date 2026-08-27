@@ -183,6 +183,9 @@ class Converter(MarkdownConverter):
     def convert_cite(self, el, text, parent_tags):
         return self._keep(el, text)
 
+    def convert_table(self, el, text, parent_tags):
+        return "\n\n" + str(el) + "\n\n"
+
     def convert_p(self, el, text, parent_tags):
         if not text.strip() and not el.find(True):
             return "\n\n<p></p>\n\n"   # WordPress renders empty paragraphs (and their margin); keep them
@@ -369,7 +372,7 @@ def main(xml_path, out):
                     record("inline-upload", url, f"public/app/uploads/{rel}", label,
                            "NOT in media library - verify on server")
             elif url.startswith("/assets/"):
-                record("theme-asset", url, "public/app/theme" + url[len("/assets"):], label,
+                record("theme-asset", url, "public" + url, label,
                        "copy from theme directory")
         for url in set(re.findall(r'<img[^>]+src="(https?://[^"]+)"', raw)):
             if "humancompatible.ai" not in url:
@@ -379,7 +382,6 @@ def main(xml_path, out):
     def rewrite_urls(md, raw):
         md = UPLOADS_RE.sub(lambda m: "/app/uploads/" + upload_rel(m.group(0)), md)
         md = re.sub(r"https?://(?:www\.)?humancompatible\.ai(?=/|\)|\"|\s|$)", "", md)
-        md = md.replace('src="/assets/', 'src="/app/theme/')
         for url in set(re.findall(r'<img[^>]+src="(https?://[^"]+)"', raw)):
             if "humancompatible.ai" not in url:
                 md = md.replace(url, f"/app/uploads/external/{external_name(url)}")
@@ -1011,7 +1013,7 @@ add the Astro toolchain on top (`npm create astro@latest -- --template minimal` 
     src/assets/featured/YYYY/MM/                 featured   } go through Astro's <Image> pipeline
     public/app/uploads/                          inline images + PDFs, served verbatim at the same URLs WP used
     public/app/uploads/external/                 rehosted hotlinked images
-    public/app/theme/                            copy the old theme's assets/images/ here (logos, spotlight photos)
+    public/assets/images/                        copy the old theme's assets/images/ here (logos, spotlight photos)
     media/manifest.csv + download_media.py       run once while WordPress is still live
     archive/                                     drafts, private/pending posts, authors with emails. GITIGNORED.
 

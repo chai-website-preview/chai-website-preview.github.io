@@ -8,6 +8,15 @@ wp_id: 262
 original_url: https://humancompatible.ai/news/2017/03/06/ai_with_people/
 categories:
 - news
+summary_html: 'AI systems need to help humans and humanity. I believe that for them to do that
+
+  well, we need a new definition of AI — one that takes humans and humanity into
+
+  account explicitly. That’s why I’m excited to share that I’m leading the
+
+  upcoming AI4ALL education program at UC Berkeley, BAIR Camp, where high school
+
+  students will explore human-centered — or humanistic — AI.'
 ---
 
 AI systems need to help humans and humanity. I believe that for them to do that

@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/08/04/tom-gilbert-article-to-
 categories:
 - news
 featured_image: ../../assets/featured/2021/08/1-s2.0-S0004370221001065-gr001.jpg
+summary_html: Thomas Krendl Gilbert coauthored the article <a rel="noreferrer noopener" href="https://www.sciencedirect.com/science/article/pii/S0004370221001065" target="_blank">Hard Choices in Artificial Intelligence</a>, which will appear in the journal Artificial Intelligence.
 ---
 
 Thomas Krendl Gilbert coauthored the article [Hard Choices in Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0004370221001065), which will appear in the journal Artificial Intelligence.

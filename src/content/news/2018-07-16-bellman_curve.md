@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/07/16/bellman_curve/
 categories:
 - news
 featured_image: ../../assets/featured/2018/07/rl.png
+summary_html: 'CHAI PI Stuart Russell and co-PI Anca Dragan, with a number of other authors from Berkeley’s School of Electrical Engineering and Computer Science, published “An Efficient, Generalized Bellman Update For Cooperative Inverse Reinforcement Learning” in the Proceedings of the 35th International Conference on Machine Learning in Stockholm, Sweden back in July 2018. The paper’s abstract states that:'
 ---
 
 CHAI PI Stuart Russell and co-PI Anca Dragan, with a number of other authors from Berkeley’s School of Electrical Engineering and Computer Science, published “An Efficient, Generalized Bellman Update For Cooperative Inverse Reinforcement Learning” in the Proceedings of the 35th International Conference on Machine Learning in Stockholm, Sweden back in July 2018. The paper’s abstract states that:

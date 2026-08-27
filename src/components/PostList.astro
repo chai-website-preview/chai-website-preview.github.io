@@ -17,7 +17,7 @@ const pageUrl = (n: number) => (n <= 1 ? `/${section}/` : `/${section}/page/${n}
         <header>
           <h2 id={section}>
             {heading}
-            {rss && <a href={rss}><img src="/app/themes/chai/dist/images/RSS_3d934d36.png" height="40px" width="40px" align="right" alt="RSS feed" /></a>}
+            {rss && <a href={rss}><img src="/app/themes/chai/dist/images/RSS_3d934d36.png" height="40px" width="40px" alt="RSS feed" {...{ align: "right" }} /></a>}
           </h2>
         </header>
         {posts.map((post) => (

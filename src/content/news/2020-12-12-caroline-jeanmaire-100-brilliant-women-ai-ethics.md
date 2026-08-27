@@ -11,6 +11,7 @@ old_slugs:
 categories:
 - news
 featured_image: ../../assets/featured/2020/12/100-e1609180963402.jpg
+summary_html: Caroline Jeanmaire, Director of Strategic Research and Partnerships at CHAI, has been recognized as one of <a href="https://100brilliantwomeninaiethics.com/the-list/of-2021/" target="_blank" rel="noreferrer noopener">100 Brilliant Women in AI Ethics in 2021</a>.
 ---
 
 Caroline Jeanmaire, Director of Strategic Research and Partnerships at CHAI, has been recognized as one of [100 Brilliant Women in AI Ethics in 2021](https://100brilliantwomeninaiethics.com/the-list/of-2021/).

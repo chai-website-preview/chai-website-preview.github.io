@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/08/07/stuart-russell-named-of
 categories:
 - news
 featured_image: ../../assets/featured/2021/08/obe_image-e1628721929389.jpg
+summary_html: Stuart Russell was named Officer of the Most Excellent Order of the British Empire by HM Queen Elizabeth “for services to artificial intelligence research.”
 ---
 
 Stuart Russell was named Officer of the Most Excellent Order of the British Empire by HM Queen Elizabeth “for services to artificial intelligence research.”

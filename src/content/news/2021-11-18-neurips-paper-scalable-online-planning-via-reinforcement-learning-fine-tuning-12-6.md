@@ -10,6 +10,7 @@ excerpt: CHAI’s Arnaud Fickinger and Stuart Russell co-authored the paper with
 categories:
 - news
 featured_image: ../../assets/featured/2021/11/neurIPS.jpeg
+summary_html: CHAI’s Arnaud Fickinger and Stuart Russell co-authored the <a href="https://arxiv.org/pdf/2109.15316.pdf">paper</a> with Noam Brown, Brandon Amos, and Hengyuan Hu. They replace tabular search (MCTS, SPARTA, etc.) with neural network fine-tuning via deep reinforcement learning and obtain state-of-the-art results in the cooperative game Hanabi. Read the abstract here:&nbsp;
 ---
 
 CHAI’s Arnaud Fickinger and Stuart Russell co-authored the [paper](https://arxiv.org/pdf/2109.15316.pdf) with Noam Brown, Brandon Amos, and Hengyuan Hu. They replace tabular search (MCTS, SPARTA, etc.) with neural network fine-tuning via deep reinforcement learning and obtain state-of-the-art results in the cooperative game Hanabi. Read the abstract here:

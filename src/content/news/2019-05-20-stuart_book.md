@@ -1,5 +1,5 @@
 ---
-title: Stuart Russell's New Book Now Available on Amazon for Pre-Order
+title: Stuart Russell’s New Book Now Available on Amazon for Pre-Order
 slug: stuart_book
 date: '2019-05-20 12:00:00'
 status: publish
@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/05/20/stuart_book/
 categories:
 - news
 featured_image: ../../assets/featured/2019/05/human_compatible.jpg
+summary_html: 'Stuart Russell’s new book, <i>Human Compatible: Artificial Intelligence and the Problem of Control</i> is now available on <a href="https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/ref=sr_1_2?keywords=stuart+Russell&amp;qid=1558389355&amp;s=gateway&amp;sr=8-2">Amazon for pre-order</a>. The book is expected to be released October 8th, 2019. The book will explore some of the issues that CHAI researches, such as value-alignment and the risks of autonomous weapons. A description of the book can be found below:'
 ---
 
 Stuart Russell’s new book, *Human Compatible: Artificial Intelligence and the Problem of Control* is now available on [Amazon for pre-order](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/ref=sr_1_2?keywords=stuart+Russell&qid=1558389355&s=gateway&sr=8-2). The book is expected to be released October 8th, 2019. The book will explore some of the issues that CHAI researches, such as value-alignment and the risks of autonomous weapons. A description of the book can be found below:

@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2024/11/12/representative-social-c
 categories:
 - news
 featured_image: ../../assets/featured/2023/10/chai-logo_a729cbef.png
+summary_html: Tianyi Qiu, CHAI Intern, wrote this paper which was accepted by NeurIPS 2024 Pluralistic Alignment Workshop. <a href="https://arxiv.org/pdf/2410.23953" data-type="link" data-id="https://arxiv.org/pdf/2410.23953">Here</a> is the link to the paper.
 ---
 
 Tianyi Qiu, CHAI Intern, wrote this paper which was accepted by NeurIPS 2024 Pluralistic Alignment Workshop. [Here](https://arxiv.org/pdf/2410.23953) is the link to the paper.
@@ -17,3 +18,5 @@ Social choice theory is the study of preference aggregation across a population,
 issue pairs based on which social choice decisions are made. We show that many of the deepest questions in representative social choice can be naturally formulated as statistical  
 learning problems, and prove the generalization properties of social choice mechanisms using the theory of machine learning. We further formulate axioms for representative social  
 choice, and prove Arrow-like impossibility theorems with new combinatorial tools of analysis. Our framework introduces the representative approach to social choice, opening up research directions at the intersection of social choice, learning theory, and AI alignment
+
+<p></p>

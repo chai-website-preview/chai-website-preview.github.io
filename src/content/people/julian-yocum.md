@@ -9,7 +9,11 @@ original_url: https://humancompatible.ai/people/julian-yocum/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: julian-yocum
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Julian is a Masters student in Artificial Intelligence at the Massachusetts Institute of Technology and an organizer on the MIT AI Alignment team. His research is in multi-agent contracting and negotiation with agentic LLMs (such as Auto-GPT) in open world settings like Minecraft. His work is supervised by Justin Svegliato and Dylan Hadfield-Menell.
 photo: ../../assets/people/julian-yocum.png
 hide_photo_on_page: false
 ---

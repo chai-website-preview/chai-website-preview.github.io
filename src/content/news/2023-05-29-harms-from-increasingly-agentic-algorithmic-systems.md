@@ -10,6 +10,7 @@ excerpt: CHAI Micah Carroll and former CHAI interns Dmitrii Krasheninnikov, Laur
 categories:
 - news
 featured_image: ../../assets/featured/2020/10/cropped-chai_logo.png
+summary_html: CHAI Micah Carroll and former CHAI interns Dmitrii Krasheninnikov, Lauro Langosco, and Yawen Duan published a paper titled <a href="https://arxiv.org/abs/2302.10329">Harms from Increasingly Agentic Algorithmic Systems</a> for FAccT 2023.
 ---
 
 CHAI Micah Carroll and former CHAI interns Dmitrii Krasheninnikov, Lauro Langosco, and Yawen Duan published a paper titled [Harms from Increasingly Agentic Algorithmic Systems](https://arxiv.org/abs/2302.10329) for FAccT 2023.

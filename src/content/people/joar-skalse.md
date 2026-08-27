@@ -11,11 +11,17 @@ old_slugs:
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: joar-skalse
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Joar is a first-year PhD student at Oxford University, funded by the Future of Humanity Institute. He previously completed the BA and MCompPhil in Computer Science and Philosophy at Oxford, which he graduated from as top of the year.
+
+  Joar's research is on machine learning, and how to make AI systems safe and reliable, but his broader interests include everything from cognitive science to formal epistemology. In the past he has done research in areas such as philosophical decision theory, constrained reinforcement learning, computational learning theory, inductive logic programming, and active learning. At CHAI, he is working with Adam Gleave to understand the advantages and disadvantages of different reward learning methodologies from a theoretical perspective.
 photo: ../../assets/people/joar-skalse.jpg
 hide_photo_on_page: false
 ---
 
 Joar is a first-year PhD student at Oxford University, funded by the Future of Humanity Institute. He previously completed the BA and MCompPhil in Computer Science and Philosophy at Oxford, which he graduated from as top of the year.
 
-Joar's research is on machine learning, and how to make AI systems safe and reliable, but his broader interests include everything from cognitive science to formal epistemology. In the past he has done research in areas such as philosophical decision theory, constrained reinforcement learning, computational learning theory, inductive logic programming, and active learning. At CHAI, he is working with Adam Gleave to understand the advantages and disadvantages of different reward learning methodologies from a theoretical perspective.
+Joar’s research is on machine learning, and how to make AI systems safe and reliable, but his broader interests include everything from cognitive science to formal epistemology. In the past he has done research in areas such as philosophical decision theory, constrained reinforcement learning, computational learning theory, inductive logic programming, and active learning. At CHAI, he is working with Adam Gleave to understand the advantages and disadvantages of different reward learning methodologies from a theoretical perspective.

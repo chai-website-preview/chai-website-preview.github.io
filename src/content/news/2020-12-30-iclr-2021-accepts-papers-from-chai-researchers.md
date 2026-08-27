@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/12/30/iclr-2021-accepts-paper
 categories:
 - news
 featured_image: ../../assets/featured/2019/04/iclr.png
+summary_html: '<a rel="noreferrer noopener" href="https://iclr.cc/" target="_blank">ICLR</a> 2021 accepted the following papers from CHAI researchers:'
 ---
 
 [ICLR](https://iclr.cc/) 2021 accepted the following papers from CHAI researchers:

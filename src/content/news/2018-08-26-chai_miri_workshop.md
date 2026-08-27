@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/08/26/chai_miri_workshop/
 categories:
 - news
 featured_image: ../../assets/featured/2018/08/miri.png
+summary_html: This weekend workshop brought together research interns from MIRI and UC Berkeley’s Center for Human-Compatible AI (CHAI) for the second workshop on approaches to AI alignments to discuss conceptual foundations and open problems in AI safety research.
 ---
 
 This weekend workshop brought together research interns from MIRI and UC Berkeley’s Center for Human-Compatible AI (CHAI) for the second workshop on approaches to AI alignments to discuss conceptual foundations and open problems in AI safety research.

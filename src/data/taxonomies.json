@@ -275,8 +275,7 @@
       "slug": "background",
       "name": "Background",
       "parent": null,
-      "description": null,
-      "order": 0
+      "description": null
     },
     {
       "id": 84,
@@ -285,8 +284,7 @@
       "parent": "background",
       "description": "There are many problems that need solving to ensure that future, highly advanced AI systems will be safe to use, \nincluding mathematical, engineering, and social challenges.   We must sometimes take a bird's-eye view on these problems,\nfor example, to notice that technical safety research will not be useful on its own unless the institutions that build AI have the\nresources and incentives to use that research.  This category recommends reading that we think can help develop such a perspective.",
       "toc_description": "Overviews of challenges and approaches to HCAI.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 5
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 83,
@@ -295,8 +293,7 @@
       "parent": "background",
       "description": "Understanding the nature of adversarial behavior in a digital environment is important to modeling how powerful AI systems might attack or\ndefend existing systems, as well as how status quo cyber infrastructure might leave future AI systems vulnerable to attack and manipulation.  \nA cybersecurity perspective is helpful to understanding these dynamics.",
       "toc_description": "Valuable perspectives on adversarial digital behavior.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 4
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 62,
@@ -305,16 +302,14 @@
       "parent": "background",
       "description": "This category surveys pedagogically basic material for understanding today's prevailing methods in AI and machine learning.  Some of the methods here \nare no longer the state of the art, and are included to aid in understanding more advanced current methods.",
       "toc_description": "Pedagogically helpful AI background.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 2
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 65,
       "slug": "open-technical-problems",
       "name": "Open Technical Problems",
       "parent": null,
-      "description": null,
-      "order": 6
+      "description": null
     },
     {
       "id": 69,
@@ -323,8 +318,7 @@
       "parent": "open-technical-problems",
       "description": "If we ask a robot to \"keep the living room clean\", we probably don't want the robot locking everyone out of the house to \nprevent them from making a mess there (even though that would be a highly effective strategy for the objective, as stated). \nThere seem to be an extremely large number of such implicit common sense rules, which we humans instinctively know or learn from each other, \nbut which are currently difficult for us to codify explicitly in mathematical terms to be implemented by a machine.  \nIt may therefore be necessary to specify our preferences to AI systems implicitly, via a procedure whereby a machine \nwill <i>infer</i> our preferences from reasoning and training data.  This category highlights research that we think may be helpful in developing methods \nfor that sort of preference inference.",
       "toc_description": "Building AI systems that learn what humans want.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 10
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 63,
@@ -333,8 +327,7 @@
       "parent": "background",
       "description": "Many currently known methods from machine learning and other disciplines already illustrate surprising results that should \ninform what we think is possible for future AI systems.  Thus, while we do not yet know for certain what\narchitecture future AI systems will use, it is still important for researchers working on HCAI to have a solid understanding\nof the current state of the art in AI methods.  This category lists background reading that we hope will be beneficial for that purpose.",
       "toc_description": "Some important state-of-the-art methods to know about.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 3
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 70,
@@ -343,8 +336,7 @@
       "parent": "open-technical-problems",
       "description": "As reinforcement-learning based AI systems become more general and autonomous, the design of reward mechanisms that elicit desired behaviours becomes\nboth more important and more difficult.  For example, if a very intelligent cleaning robot is programmed to maximize a reward signal that measures how clean \nits house is, it could discover that the best strategy to maximize its reward signal would be to use a computer to reprogram its vision sensors to always\ndisplay an image of an extremely clean house (a phenomenon sometimes called \"reward hacking\").  Faced with this and related challenges, \nhow can we design mechanisms that generate\nrewards for reinforcement learners that will continue to elicit desired behaviors as reinforcement learners become increasingly clever?   \nHuman oversight provides some reassurance that reward mechanisms will not malfunction, but will be difficult to scale as systems operate faster \nand perhaps more creatively than human judgment can monitor.  Can we replace expensive human feedback with cheaper proxies, \npotentially using machine learning to generate rewards?",
       "toc_description": "Designing objectives for AIs that are sure to result in desirable behavior.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 11
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 71,
@@ -353,16 +345,14 @@
       "parent": "open-technical-problems",
       "description": "AI systems are already being given significant autonomous decision-making power in high-stakes situations, sometimes with little or no immediate human supervision. It is important that such systems be robust to noisy or shifting environments, misspecified goals, and faulty implementations, so that such perturbations don't cause the system to take actions with catastrophic consequences, such as crashing a car or the stock market. This category lists research that might help with designing AI systems to be more robust in these ways, that might also help with more advanced systems in the longer term.",
       "toc_description": "Building systems that perform well in novel environments.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 12
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 73,
       "slug": "social-science-perspectives",
       "name": "Social Science Perspectives",
       "parent": null,
-      "description": null,
-      "order": 14
+      "description": null
     },
     {
       "id": 61,
@@ -371,8 +361,7 @@
       "parent": "background",
       "description": "Certain basic mathematical and statistical principles have contributed greatly to the development of today's prevailing methods in AI.  This category surveys areas of\nknowledge such as probability theory, logic, theoretical CS, game theory, and economics that are likely to be helpful in understanding existing \nAI research, and advancing HCAI research more specifically.",
       "toc_description": "Prerequisites from fields like probability theory, logic, theoretical CS, and game theory.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 1
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 72,
@@ -381,8 +370,7 @@
       "parent": "open-technical-problems",
       "description": "If an AI system used in medical diagnosis makes a recommendation that a human doctor finds counterintuitive, it is desirable\nif the AI can explain the recommendation in a way that helps the doctor evaluate whether the recommendation will work.  Even if the \nAI has an impeccable track record, if its decisions are explainable or otherwise transparent to a human, this \nmay help the doctor to avoid rare but serious errors, especially if the AI is well-calibrated as to when the doctor's judgment should override it.  \nTransparency may also be helpful to engineers developing a system,\nto improve their intuition for what principles (if any) can be ascribed to its decision-making.  This gives us\na second way to evaluate a system's performance, other than waiting to observe the results it obtains.  Transparency may therefore be extremely important\nin situations where a system will make decisions that could affect the entire world, and where waiting to see the results might not be a \npractical way to ensure safety.  This category lists research that we think may be useful in designing more transparent AI systems.",
       "toc_description": "Enabling human understanding of AI systems.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 13
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 74,
@@ -391,8 +379,7 @@
       "parent": "social-science-perspectives",
       "description": "Some approaches to human-compatible AI involve systems that explicitly model humans' beliefs and preferences. This category lists psychology and cognitive science research that is aimed at developing models of human beliefs and preferences, models of how humans infer beliefs and preferences, and relevant computational modeling background.",
       "toc_description": "Models of human psychology relevant to HCAI.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 15
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 66,
@@ -401,8 +388,7 @@
       "parent": "open-technical-problems",
       "description": "Consider a cleaning robot whose only objective is to clean your house, and which is intelligent enough to realize that if you turn it off then \nit won't be able to clean your house anymore.  Such a robot has some incentive to resist being shut down or reprogrammed for another task, since \nthat would interfere with its cleaning objective.  Loosely speaking, we say that an AI system is <i>incorrigible</i> to the extent that it resists being shut down or\nreprogrammed by its users or creators, and <i>corrigible</i> to the extent that it allows such interventions on its operation.  For example, a corrigible cleaning \nrobot might update its objective function from \"clean the house\" to \"shut down\" upon observing that a human user is about to deactivate it.  For an AI\nsystem operating highly autonomously in ways that can have large world-scale impacts, corrigibility is even more important; this HCAI\nresearch category is about developing methods to ensure highly robust and desirable forms of corrigibility.  Corrigibility may be a special case of preference\ninference.",
       "toc_description": "Designing AI systems that do not resist being redesigned or switched off.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 7
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 67,
@@ -411,8 +397,7 @@
       "parent": "open-technical-problems",
       "description": "Reasoning about highly capable systems before they exist requires certain theoretical assumptions or models from which to deduce their behavior and/or how \nto align them with our interests.  Theoretical results can also reduce our dependency on trial-and-error methodologies for determining safety, which could be \nimportant when testing systems is difficult or expensive to do safely.  Whereas existing theoretical foundations such as probability theory and game theory have \nbeen helpful in developing current approaches to AI, it is possible that additional foundations could be helpful in advancing HCAI research specifically. \nThis category is for theoretical research aimed at expanding those foundations, as judged by their expected usefulness for HCAI.",
       "toc_description": "Developing the theoretical underpinnings of AI in ways that enable HCAI research.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 8
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 68,
@@ -421,8 +406,7 @@
       "parent": "open-technical-problems",
       "description": "Incorporating more human oversight and involvement \"in the loop\" with an AI system creates unique opportunities for ensuring the alignment of an AI \nsystem with human interests.  This category surveys approaches to achieving interactivity between humans and machines, and how it might apply to developing \nhuman compatible AI.  Such approaches often require some degree of both transparency and reward engineering for the system, and as such \ncould also be viewed under those headings.",
       "toc_description": "Productively incorporating human oversight with AI operations.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 9
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     },
     {
       "id": 75,
@@ -431,8 +415,7 @@
       "parent": "social-science-perspectives",
       "description": "Codifying a precise notion of \"good behavior\" for an AI system to follow will require (implicitly or explicitly) selecting a particular\nnotion of \"good behavior\" to codify, and there may be widespread disagreement as to what that notion should be.  Many moral questions \nmay arise, including some which were previously considered to be merely theoretical.  This category is meant to draw attention \nto such issues, so that AI researchers and engineers can have them in mind as important test cases when developing their systems.",
       "toc_description": "Moral issues that HCAI systems and their developers might encounter.",
-      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books",
-      "order": 16
+      "media": "Course Materials,Textbooks,Videos,Published articles,Unpublished articles,News and magazine articles,Blog posts,Books"
     }
   ],
   "nav_menu": [

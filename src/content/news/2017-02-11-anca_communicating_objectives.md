@@ -8,6 +8,7 @@ wp_id: 264
 original_url: https://humancompatible.ai/news/2017/02/11/anca_communicating_objectives/
 categories:
 - news
+summary_html: 'CHAI’s Anca Dragan worked with faculty from the Teams Up with the UC Berkeley Mechanical Engineering Department to work on having automated vehicles consider other drivers when deciding what to optimize for. The abstract of “Courteous Autonomous Cars” reads:'
 ---
 
 CHAI’s Anca Dragan worked with faculty from the Teams Up with the UC Berkeley Mechanical Engineering Department to work on having automated vehicles consider other drivers when deciding what to optimize for. The abstract of “Courteous Autonomous Cars” reads:

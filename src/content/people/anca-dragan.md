@@ -11,7 +11,13 @@ role: |-
   Founder, InterACT Lab
 associations:
 - Faculty
+sort_slug: anca-dragan
 menu_order: 0
+classic_bio: false
+bio_html: |-
+  <p>Anca Dragan got her B.Sc. in Computer Science from <a href="https://www.jacobs-university.de/">Jacobs University Bremen</a> in Germany, after which she went to <a href="https://www.cmu.edu/">Carnegie Mellon</a> for her Ph.D. in Robotics. She is now an Assistant Professor in the <a href="https://eecs.berkeley.edu/">EECS Department</a> at UC Berkeley. Her goal is to enable robots to work with, around, and in support of people. She runs the <a href="http://interact.berkeley.edu/">InterACT Lab</a>, which focuses on algorithms for human-robot interaction—algorithms that move beyond the robot’s function in isolation, and generate robot behavior that also accounts for interaction and coordination with end-users. She also helped found and serves on the steering committee for the <a href="http://bair.berkeley.edu/">Berkeley AI Research (BAIR) Lab</a>.</p>
+
+  <p>You can read more about Prof. Dragan’s work and accomplishments at her <a href="https://people.eecs.berkeley.edu/~anca/">website</a>.</p>
 photo: ../../assets/people/anca-dragan.jpg
 hide_photo_on_page: false
 ---

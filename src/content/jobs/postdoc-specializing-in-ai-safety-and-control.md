@@ -20,29 +20,20 @@ CHAI Research Fellows will work with CHAI faculty members Stuart Russell, Pieter
 
 Given the broad and open-ended mandate of the Center to develop provably beneficial AI systems, the post holder will have considerable freedom to pursue novel research projects in areas such as reasoning, decision making, learning, multi-agent systems, and philosophical foundations using the tools of probability theory, game theory, control theory, etc. Topics of particular current interest include  
 
-  
-- Theoretical foundations of intelligent agent architecture
-  
-- Expressive formal languages for probability models, including probabilistic programming
-  
-- Decision making over long time scales
-  
-- Cumulative lifelong learning
-  
-- Human-in-the-loop planning and reinforcement learning
-  
-- Human-robot interaction
-  
-- The structure and properties of human preferences
-  
-- Foundations for acting on behalf of multiple humans
-  
-- Robust cooperation in heterogeneous multiagent systems
-  
-- Mechanism design for human-machine systems
-  
 
-  
+- Theoretical foundations of intelligent agent architecture
+- Expressive formal languages for probability models, including probabilistic programming
+- Decision making over long time scales
+- Cumulative lifelong learning
+- Human-in-the-loop planning and reinforcement learning
+- Human-robot interaction
+- The structure and properties of human preferences
+- Foundations for acting on behalf of multiple humans
+- Robust cooperation in heterogeneous multiagent systems
+- Mechanism design for human-machine systems
+
+
+
 Depending on their interests, Fellows may also lead research collaborations with other CHAI researchers and Berkeley PhD students, advise more junior student researchers, and teach courses relevant to their research. Candidates for the Fellowship are assessed based on their academic and research achievements, as well as on personal merit and leadership qualities.
 
 **Qualifications**

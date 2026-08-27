@@ -8,6 +8,7 @@ wp_id: 234
 original_url: https://humancompatible.ai/news/2018/02/26/anca_expressing_incapability/
 categories:
 - news
+summary_html: 'Anca Dragan and Sandy Huang, along with an additional researcher from Cornell, presented this paper at the 2018 ACM/IEEE International Conference on Human-Robot Interaction in Chicago, IL. The abstract reads:'
 ---
 
 Anca Dragan and Sandy Huang, along with an additional researcher from Cornell, presented this paper at the 2018 ACM/IEEE International Conference on Human-Robot Interaction in Chicago, IL. The abstract reads:

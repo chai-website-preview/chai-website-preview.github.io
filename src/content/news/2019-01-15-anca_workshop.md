@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/01/15/anca_workshop/
 categories:
 - news
 featured_image: ../../assets/featured/2019/01/anca_ai4all.jpeg
+summary_html: Over 150 experts from all areas attended CHAI PI <a href="https://nips.cc/Conferences/2018/Schedule?showEvent=10935">Anca Dragan’s workshop</a> to discuss the challenges involved with machine learning and transportation, such as coordination between both between vehicles and between vehicles and humans, object tracking, and more.
 ---
 
 Over 150 experts from all areas attended CHAI PI [Anca Dragan’s workshop](https://nips.cc/Conferences/2018/Schedule?showEvent=10935) to discuss the challenges involved with machine learning and transportation, such as coordination between both between vehicles and between vehicles and humans, object tracking, and more.

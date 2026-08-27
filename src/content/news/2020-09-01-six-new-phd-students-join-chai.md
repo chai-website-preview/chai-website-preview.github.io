@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/09/01/six-new-phd-students-jo
 categories:
 - news
 featured_image: ../../assets/featured/2020/09/uc-berkeley-logo-seal.jpg
+summary_html: "Six new PhD students advised by CHAI Principal Investigators. We are thrilled to have these new PhD students join us! \nThe incoming students are Yuxi Liu, Micah Carroll, Cassidy Laidlaw, Alex Gunning, Alyssa Dayan, and Jessy Lin."
 ---
 
 Six new PhD students advised by CHAI Principal Investigators. We are thrilled to have these new PhD students join us!

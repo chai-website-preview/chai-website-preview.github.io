@@ -10,17 +10,18 @@ excerpt: As Artificial Intelligence rapidly advances, so do the opportunities an
 categories:
 - news
 featured_image: ../../assets/featured/2023/10/ai-logo-1.png
+summary_html: As Artificial Intelligence rapidly advances, so do the opportunities and the risks. The UK is hosting the first global <a href="https://www.aisafetysummit.gov.uk/" data-type="URL" data-id="https://www.aisafetysummit.gov.uk/">AI Sa</a><a rel="noreferrer noopener" href="https://www.aisafetysummit.gov.uk/" data-type="URL" data-id="https://www.aisafetysummit.gov.uk/" target="_blank">fety Summit</a>, bringing together leading AI nations, technology companies, researchers, and civil society groups to turbocharge action on the safe and responsible development of frontier AI around the world. It will take place on the 1 and 2 November 2023 at Bletchley Park, Buckinghamshire.
 ---
 
 [![](/app/uploads/2023/10/AI-safety-summit-UK.png)](https://www.aisafetysummit.gov.uk/)
 
----
+—
 
 As Artificial Intelligence rapidly advances, so do the opportunities and the risks. The UK is hosting the first global [AI Sa](https://www.aisafetysummit.gov.uk/)[fety Summit](https://www.aisafetysummit.gov.uk/), bringing together leading AI nations, technology companies, researchers, and civil society groups to turbocharge action on the safe and responsible development of frontier AI around the world. It will take place on the 1 and 2 November 2023 at Bletchley Park, Buckinghamshire.
 
 This AI Safety Summit will bring together key countries, as well as leading technology organizations, academia and civil society to inform rapid national and international action at the frontier of AI development. Top experts in the AI field will be attending this upcoming summit, including Stuart Russell, a Berkeley professor of electrical engineering and computer sciences and a founder of CHAI.
 
----
+—
 
 ## SUMMIT OBJECTIVES:
 
@@ -34,7 +35,7 @@ This AI Safety Summit will bring together key countries, as well as leading tech
 
 **5.** Showcase how ensuring the safe development of AI will enable AI to be used for good globally.
 
----
+—
 
 [**AI SAFETY SUMMIT** **POLICY UPDATES**](https://www.aisafetysummit.gov.uk/policy-updates/)
 

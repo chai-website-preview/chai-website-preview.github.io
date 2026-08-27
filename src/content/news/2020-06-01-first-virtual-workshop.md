@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2020/06/01/first-virtual-workshop/
 categories:
 - news
 featured_image: ../../assets/featured/2020/06/June.png
+summary_html: CHAI held its first virtual workshop last month.
 ---
 
 CHAI held its first virtual workshop last month.

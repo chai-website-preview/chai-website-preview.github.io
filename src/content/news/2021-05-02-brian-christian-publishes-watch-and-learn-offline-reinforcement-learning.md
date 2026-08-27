@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/05/02/brian-christian-publish
 categories:
 - news
 featured_image: ../../assets/featured/2021/02/0AesxsZC_400x400.jpg
+summary_html: 'CHAI affiliate Brian Christian published the article <a href="https://simons.berkeley.edu/news/watch-and-learn">Watch and Learn: Offline Reinforcement Learning</a> on the Simons Institute website.'
 ---
 
 CHAI affiliate Brian Christian published the article [Watch and Learn: Offline Reinforcement Learning](https://simons.berkeley.edu/news/watch-and-learn) on the Simons Institute website.

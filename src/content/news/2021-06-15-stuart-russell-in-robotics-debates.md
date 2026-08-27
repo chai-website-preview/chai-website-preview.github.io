@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/06/15/stuart-russell-in-robot
 categories:
 - news
 featured_image: ../../assets/featured/2021/07/debates.png
+summary_html: Stuart Russell participated in Debates on the Future of Robotics Research, a virtual workshop at ICRA 2021.
 ---
 
 Stuart Russell participated in Debates on the Future of Robotics Research, a virtual workshop at ICRA 2021.

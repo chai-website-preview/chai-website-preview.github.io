@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/02/09/stuart-russell-on-the-m
 categories:
 - news
 featured_image: ../../assets/featured/2021/02/Webp.net-resizeimage-1.png
+summary_html: Stuart Russell debated Melanie Mitchell, Professor at the Santa Fe Institute, in the latest episode of The Munk Debates, a debate series on major policy issues.
 ---
 
 Stuart Russell debated Melanie Mitchell, Professor at the Santa Fe Institute, in the latest episode of The Munk Debates, a debate series on major policy issues.

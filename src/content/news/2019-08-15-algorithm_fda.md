@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2019/08/15/algorithm_fda/
 categories:
 - news
 featured_image: ../../assets/featured/2019/08/wired.jpg
+summary_html: CHAI’s Executive Director Mark Nitzberg, along with Olaf Groth, <a href="https://www.wired.com/story/ai-algorithms-need-drug-trials/">published an article in WIRED Magazine</a> that advocates for the creation of an “FDA for algorithms.”
 ---
 
 CHAI’s Executive Director Mark Nitzberg, along with Olaf Groth, [published an article in WIRED Magazine](https://www.wired.com/story/ai-algorithms-need-drug-trials/) that advocates for the creation of an “FDA for algorithms.”

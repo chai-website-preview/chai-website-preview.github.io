@@ -10,6 +10,7 @@ excerpt: Ahead of the highly anticipated AI Safety Summit, leading AI scientists
 categories:
 - news
 featured_image: ../../assets/featured/2023/10/DALLE-AI-newspost-logo.png
+summary_html: DITCHLEY PARK, UNITED KINGDOM – Ahead of the highly anticipated AI Safety Summit, leading AI scientists from the US, the PRC, the UK and other countries agreed on the importance of global cooperation and jointly called for research and policies to prevent unacceptable risks from advanced AI.
 ---
 
 DITCHLEY PARK, UNITED KINGDOM – Ahead of the highly anticipated AI Safety Summit, leading AI scientists from the US, the PRC, the UK and other countries agreed on the importance of global cooperation and jointly called for research and policies to prevent unacceptable risks from advanced AI.
@@ -18,7 +19,7 @@ Prominent scientists gathered from the USA, the PRC, the UK, Europe, and Canada 
 
 The expert attendees warned governments and AI developers that “*coordinated global action on AI safety research and governance is critical to prevent uncontrolled frontier AI development from posing unacceptable risks to humanity.*” Attendees produced a joint statement with specific technical and policy recommendations, which is attached below. Prof. Zhang remarked that it is “crucial for governments and AI corporations to invest heavily in frontier AI safety research and engineering”, while Prof. Yao stressed the importance that we “work together as a global community to ensure the safe progress of AI.” Prof. Bengio called upon AI developers to “demonstrate the safety of their approach before training and deploying” AI systems, while Prof. Russell concurred that “if they cannot do that, they cannot build or deploy their systems. Full stop.”
 
----
+—
 
 #### ABOUT THE INTERNATIONAL DIALOGUES ON AI SAFETY
 
@@ -46,7 +47,7 @@ The expert attendees warned governments and AI developers that “*coordinated g
 *Fynn Heide*  
 idais@far.ai
 
----
+—
 
 ### ENGLISH STATEMENT
 
@@ -62,7 +63,7 @@ idais@far.ai
 >
 > *Reaching adequate safety levels for advanced AI will also require immense research progress. Advanced AI systems must be demonstrably aligned with their designer’s intent, as well as appropriate norms and values. They must also be robust against both malicious actors and rare failure modes. Sufficient human control needs to be ensured for these systems. Concerted effort by the global research community in both AI and other disciplines is essential; we need a global network of dedicated AI safety research and governance institutions. We call on leading AI developers to make a minimum spending commitment of one third of their AI R&D on AI safety and for government agencies to fund academic and non-profit AI safety and governance research in at least the same proportion.*
 
----
+—
 
 ### CHINESE STATEMENT
 
@@ -78,26 +79,6 @@ idais@far.ai
 >
 > 让前沿人工智能做到充分安全，仍需要重大的研究进展。前沿人工智能系统必须明确地与其设计者的意图、社会规范与价值观相对齐。它们还需在恶意攻击及罕见的故障模式下保持鲁棒。我们必须确保这些系统有充分的人类控制。全球研究社区在人工智能及其他学科上的协作与努力，是至关重要的：我们需要一个致力于人工智能安全研究和治理机构的全球网络。我们呼吁领先的人工智能开发者承诺至少将三分之一的人工智能研发经费用于人工智能安全研究，同时呼吁政府机构至少以同等比例资助学术与非营利性的人工智能安全与治理研究。
 
----
+—
 
-| SIGNATORIES |
-| --- |
-| ***Yoshua Bengio*** Scientific Director and Founder, Montreal Institute for Learning Algorithms Professor, Department of CS and Operations Research, Université de Montréal  Turing Award Recipient |
-| ***Stuart Russell*** Professor of EECS, UC Berkeley Founder and Head, Center for Human-Compatible Artificial Intelligence Director, Kavli Center for Ethics, Science, and the Public |
-| ***Andrew Yao*** Dean of Institute for Interdisciplinary Information Sciences, Tsinghua University Distinguished Professor-At-Large, The Chinese University of Hong Kong Professor of Center for Advanced Study, Tsinghua University Turing Award Recipient |
-| ***Ya-Qin Zhang*** Chair Professor of AI Science at Tsinghua University Dean of Institute for AI Industry Research of Tsinghua University (AIR) Former President of Baidu |
-| ***Ed Felten*** Robert E. Kahn Professor of Computer Science and Public Affairs, Princeton University Founding Director, Center for Information Technology Policy, Princeton University |
-| ***Roger Grosse*** Associate Professor of Computer Science at the University of Toronto Founding Member, Vector Institute |
-| ***Gillian Hadfield*** Schwartz Reisman Chair in Technology and Society at the University of Toronto Faculty of Law Director of the Schwartz Reisman Institute for Technology and Society AI2050 Senior Fellow |
-| ***Dylan Hadfield-Menell*** Bonnie and Marty (1964) Tenenbaum Career Development Assistant Professor of EECS , MIT Lead, Algorithmic Alignment Group Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT |
-| ***Yang-Hui He*** London Institute, Fellow |
-| ***Sana Khareghani*** Professor of Practice in AI, King's College London  AI Policy Lead, Responsible AI UK Former Head of UK Government Office for Artificial Intelligence |
-| ***Karine Perset*** |
-| ***Elizabeth Seger*** Research Scholar, Centre for the Governance of AI |
-| ***Dawn Song*** Professor of EECS, UC Berkeley Founder, Oasis Labs |
-| ***Max Tegmark*** Professor, MIT Center for Brains, Minds & Machines President and Co-founder, Future of Life Institute |
-| ***Yi Zeng*** Professor and Director of Brain-inspired Cognitive Intelligence Lab, Institute of Automation, Chinese Academy of Sciences Founding Director of Center for Long-term AI |
-| ***HongJiang Zhang*** Chairman, Beijing Academy of AI |
-| ***Xin Chen*** PhD student, ETH Zurich |
-| ***Adam Gleave*** Founder and CEO, FAR AI |
-| ***Fynn Heide*** Research Scholar, Centre for the Governance of AI |
+<table><thead><tr><th class="has-text-align-center" data-align="center">SIGNATORIES</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><em><strong>Yoshua Bengio</strong></em><br/>Scientific Director and Founder, Montreal Institute for Learning Algorithms<br/>Professor, Department of CS and Operations Research, Université de Montréal <br/>Turing Award Recipient</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Stuart Russell</strong></em><br/>Professor of EECS, UC Berkeley<br/>Founder and Head, Center for Human-Compatible Artificial Intelligence<br/>Director, Kavli Center for Ethics, Science, and the Public</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Andrew Yao</strong></em><br/>Dean of Institute for Interdisciplinary Information Sciences, Tsinghua University<br/>Distinguished Professor-At-Large, The Chinese University of Hong Kong<br/>Professor of Center for Advanced Study, Tsinghua University<br/>Turing Award Recipient</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Ya-Qin Zhang</strong></em><br/>Chair Professor of AI Science at Tsinghua University<br/>Dean of Institute for AI Industry Research of Tsinghua University (AIR)<br/>Former President of Baidu</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Ed Felten</strong></em><br/>Robert E. Kahn Professor of Computer Science and Public Affairs, Princeton University<br/>Founding Director, Center for Information Technology Policy, Princeton University</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Roger Grosse</strong></em><br/>Associate Professor of Computer Science at the University of Toronto<br/>Founding Member, Vector Institute</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Gillian Hadfield</strong></em><br/>Schwartz Reisman Chair in Technology and Society at the University of Toronto Faculty of Law<br/>Director of the Schwartz Reisman Institute for Technology and Society<br/>AI2050 Senior Fellow</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Dylan Hadfield-Menell</strong></em><br/>Bonnie and Marty (1964) Tenenbaum Career Development Assistant Professor of EECS , MIT<br/>Lead, Algorithmic Alignment Group Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Yang-Hui He</strong></em><br/>London Institute, Fellow</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Sana Khareghani</strong></em><br/>Professor of Practice in AI, King’s College London <br/>AI Policy Lead, Responsible AI UK<br/>Former Head of UK Government Office for Artificial Intelligence</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Karine Perset</strong></em></td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Elizabeth Seger</strong></em><br/>Research Scholar, Centre for the Governance of AI</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Dawn Song</strong></em><br/>Professor of EECS, UC Berkeley<br/>Founder, Oasis Labs</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Max Tegmark</strong></em><br/>Professor, MIT Center for Brains, Minds &amp; Machines<br/>President and Co-founder, Future of Life Institute</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Yi Zeng</strong></em><br/>Professor and Director of Brain-inspired Cognitive Intelligence Lab, Institute of Automation, Chinese Academy of Sciences<br/>Founding Director of Center for Long-term AI</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>HongJiang Zhang</strong></em><br/>Chairman, Beijing Academy of AI</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Xin Chen</strong></em><br/>PhD student, ETH Zurich</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Adam Gleave</strong></em><br/>Founder and CEO, FAR AI</td></tr><tr><td class="has-text-align-center" data-align="center"><em><strong>Fynn Heide</strong></em><br/>Research Scholar, Centre for the Governance of AI</td></tr></tbody></table>

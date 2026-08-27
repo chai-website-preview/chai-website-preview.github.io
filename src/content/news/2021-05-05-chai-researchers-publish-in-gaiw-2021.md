@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/05/05/chai-researchers-publis
 categories:
 - news
 featured_image: ../../assets/featured/2021/05/GAIW-2021.png
+summary_html: CHAI researchers Scott Emmons, Andrew Critch, and Stuart Russell published <a href="https://preflib.github.io/gaiw2021/papers/GAIW_2021_paper_32.pdf">Symmetry, Equilibria, and Robustness in Common-Payoff Games</a> in the <a href="https://preflib.github.io/gaiw2021/">Games and Incentives Workshop (GAIW) 2021</a>.
 ---
 
 CHAI researchers Scott Emmons, Andrew Critch, and Stuart Russell published [Symmetry, Equilibria, and Robustness in Common-Payoff Games](https://preflib.github.io/gaiw2021/papers/GAIW_2021_paper_32.pdf) in the [Games and Incentives Workshop (GAIW) 2021](https://preflib.github.io/gaiw2021/).

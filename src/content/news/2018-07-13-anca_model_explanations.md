@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2018/07/13/anca_model_explanations
 categories:
 - news
 featured_image: ../../assets/featured/2018/07/mathmodel.jpg
+summary_html: 'Two researchers from CHAI, Anca Dragan and Smitha Milli, published this paper together in arXiv along with a few other researchers from Berkeley. The abstract reads:'
 ---
 
 Two researchers from CHAI, Anca Dragan and Smitha Milli, published this paper together in arXiv along with a few other researchers from Berkeley. The abstract reads:

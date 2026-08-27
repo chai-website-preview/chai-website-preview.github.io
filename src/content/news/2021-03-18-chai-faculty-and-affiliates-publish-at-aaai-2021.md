@@ -9,6 +9,7 @@ original_url: https://humancompatible.ai/news/2021/03/18/chai-faculty-and-affili
 categories:
 - news
 featured_image: ../../assets/featured/2021/03/1519893608292.png
+summary_html: 'CHAI faculty and affiliates presented the following papers at <a rel="noreferrer noopener" href="https://aaai.org/Conferences/AAAI-21/" target="_blank">AAAI 2021</a>:'
 ---
 
 CHAI faculty and affiliates presented the following papers at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/):

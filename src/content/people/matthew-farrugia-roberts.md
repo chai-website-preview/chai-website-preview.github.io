@@ -9,7 +9,11 @@ original_url: https://humancompatible.ai/people/matthew-farrugia-roberts/
 role: Former Intern
 associations:
 - Former Interns
+sort_slug: matthew-farrugia-roberts
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Matthew is an aspiring academic researcher with an emerging research interest in the theory, capabilities, limitations, and beneficence of intelligent systems. He has completed coursework mainly in mathematics, computer science, and artificial intelligence at the University of Melbourne and ETH Zürich. Matthew is completing a minor thesis on understanding the remarkable generalization ability of deep learning systems using tools from pure mathematics and theoretical computer science. As an intern at CHAI in 2021, Matthew will work with Adam Gleave and Joar Skalse to investigate the theoretical foundations of the learning of reward functions.
 photo: ../../assets/people/matthew-farrugia-roberts.jpeg
 hide_photo_on_page: false
 ---

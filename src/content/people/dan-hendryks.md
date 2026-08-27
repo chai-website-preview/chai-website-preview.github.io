@@ -12,7 +12,15 @@ role: |-
   PhD Student, Computer Science (2018-2022)
 associations:
 - Alumni
+sort_slug: dan-hendryks
 menu_order: 0
+classic_bio: true
+bio_html: |-
+  Dan Hendrycks is Director at the <a href="https://safe.ai/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://safe.ai&amp;source=gmail&amp;ust=1661349393920000&amp;usg=AOvVaw2igXZ9jbNNZfrZlpGkHk1P">Center for AI Safety</a>.
+
+  His research aims to disentangle and concretize the components necessary for safe AI. This leads him to work on quantifying and improving the performance of models in unforeseen out-of-distribution scenarios. He also works on measuring a model’s alignment with human values. Dan received his BS from the University of Chicago.
+
+  You can find out more about his research at <a href="https://people.eecs.berkeley.edu/~hendrycks/">his website</a>.
 photo: ../../assets/people/dan-hendryks.jpg
 hide_photo_on_page: false
 ---

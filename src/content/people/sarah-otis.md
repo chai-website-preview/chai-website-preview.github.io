@@ -9,7 +9,9 @@ original_url: https://humancompatible.ai/people/sarah-otis/
 role: Assistant Director of CHAI
 associations:
 - Staff
+sort_slug: sarah-otis
 menu_order: 0
+classic_bio: true
 photo: ../../assets/people/sarah-otis.png
 hide_photo_on_page: false
 ---
