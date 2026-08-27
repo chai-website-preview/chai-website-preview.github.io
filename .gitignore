@@ -3,3 +3,8 @@ node_modules/
 .astro/
 archive/
 .DS_Store
+
+# SSH deploy keys — never commit these
+deploy_key
+deploy_key.pub
+*.pem
